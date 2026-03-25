@@ -13,79 +13,111 @@
           "cutPieces": "2 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - cut",
-              "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare two fabric piece measuring 18 cm x 19cm. Draw the pattern pieces on paper according to the required size and quantity",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Sew",
-              "content": "Do not sew the entire edge closed. Leave a 5 cm opening for turning the piece right side out\nPlace the two coaster piece together, right sides facing. Pin aruound the adges to secure. Sew around the edge, leaving a 5 cm opening for turning and stuffing",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn right side out",
-              "content": "Keep the 5 cm opening unstitched for turning\nTurn the coaster to the right side through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Topstitch",
-              "content": "Leave a 3 cm opening unstitched. Use matching thread\nTopstitch along the marked lines on the front side of the coaster. Leave a 3 cm opening for inserting stuffing",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Stuff",
-              "content": "Use less filling to prevent the coaster from becoming uneven or bulky\nInsert polyester filling through the opening",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Topstitch",
-              "content": "Use matching thread for a clean finish\nTopstitch the front opening closed\n",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Stuff",
-              "content": "Insert polyester filling through the outer opening",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Hand sew",
-              "content": "Use a ladder stitch (invisible stitch) forr a neat finish\nHand suttch the front opening close using a hidden stitch",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
-          ],
+    {
+        "number": 1,
+        "title": "Cut - cut",
+        "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare two fabric piece measuring 18 cm x 19cm. Draw the pattern pieces on paper according to the required size and quantity",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%201.jpg"
+        ]
+    },
+    {
+        "number": 2,
+        "title": "Sew",
+        "content": "Do not sew the entire edge closed. Leave a 5 cm opening for turning the piece right side out\nPlace the two coaster piece together, right sides facing. Pin aruound the adges to secure. Sew around the edge, leaving a 5 cm opening for turning and stuffing",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%202-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%202-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%202-3.jpg"
+        ]
+    },
+    {
+        "number": 3,
+        "title": "Turn right side out",
+        "content": "Keep the 5 cm opening unstitched for turning\nTurn the coaster to the right side through the opening",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%203-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%203-2.jpg"
+        ]
+    },
+    {
+        "number": 4,
+        "title": "Topstitch",
+        "content": "Leave a 3 cm opening unstitched. Use matching thread\nTopstitch along the marked lines on the front side of the coaster. Leave a 3 cm opening for inserting stuffing",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%204-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%204-2.jpg"
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Stuff",
+        "content": "Use less filling to prevent the coaster from becoming uneven or bulky\nInsert polyester filling through the opening",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%205-2.jpg"
+        ]
+    },
+    {
+        "number": 6,
+        "title": "Topstitch",
+        "content": "Use matching thread for a clean finish\nTopstitch the front opening closed",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%206%20-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%206-2.jpg"
+        ]
+    },
+    {
+        "number": 7,
+        "title": "Stuff",
+        "content": "Insert polyester filling through the outer opening",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%207-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%207-2.jpg"
+        ]
+    },
+    {
+        "number": 8,
+        "title": "Hand sew",
+        "content": "Use a ladder stitch (invisible stitch) forr a neat finish\nHand suttch the front opening close using a hidden stitch",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%208-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20puffed%20coaster/Cute%20puffed%20coaster%208-2.jpg"
+        ]
+    }
+],
           "notions": "Filling material (polyester fiberfill or foam),\nHand sewing needle, Thread",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.2 m\n115 cm (45\") wide fabric: 0.2 m",
@@ -222,70 +254,96 @@
           "cutPieces": "2 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Draw the pouch shape on 10 cm x 29.5 cm fabric. Seam allowance of 1 cm is already included. Cut 2 piece\nPreapare the front and back panels of the small pouch",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Stitch around",
-              "content": "Place piece right sides facing. Stitch around with 1 cm seam allowance, leaving a 4 cm opening for turning\nJoin the front and back pouch piece to forrm tha basic pouch shape",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn press",
-              "content": "Turn through the 4 cm opening. Fold the seam allowance at the opening inward and press to fix the shape\nTurn the pouch to the right side and secure the opening neatly",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Fold line",
-              "content": "Fold along the marked turning line to define the pouch body\nShape the pouch along the marked fold line",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Edge topstitch",
-              "content": "On the right side, topstitch 0.6 cm from the edge along bothe side seams and the uper edge\nSecure the side seams and top dege with decorative stitching",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Fold flap",
-              "content": "Fold the top dege along the marked fold line to forrm the falp cover\nCreate the pouch flap",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach snap",
-              "content": "Mark the snap position carefully before attaching. Make sure both sides align properly\nInstall the snap button closure",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
-            }
-          ],
+    {
+        "number": 1,
+        "title": "Cut - Prepare",
+        "content": "Draw the pouch shape on 10 cm x 29.5 cm fabric. Seam allowance of 1 cm is already included. Cut 2 piece\nPreapare the front and back panels of the small pouch",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%201.jpg"
+        ]
+    },
+    {
+        "number": 2,
+        "title": "Stitch around",
+        "content": "Place piece right sides facing. Stitch around with 1 cm seam allowance, leaving a 4 cm opening for turning\nJoin the front and back pouch piece to forrm tha basic pouch shape",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%202-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%202-2.jpg"
+        ]
+    },
+    {
+        "number": 3,
+        "title": "Turn press",
+        "content": "Turn through the 4 cm opening. Fold the seam allowance at the opening inward and press to fix the shape\nTurn the pouch to the right side and secure the opening neatly",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%203-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%203-2.jpg"
+        ]
+    },
+    {
+        "number": 4,
+        "title": "Fold line",
+        "content": "Fold along the marked turning line to define the pouch body\nShape the pouch along the marked fold line",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%204-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%204-2.jpg"
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Edge topstitch",
+        "content": "On the right side, topstitch 0.6 cm from the edge along bothe side seams and the uper edge\nSecure the side seams and top dege with decorative stitching",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%205-2.jpg"
+        ]
+    },
+    {
+        "number": 6,
+        "title": "Fold flap",
+        "content": "Fold the top dege along the marked fold line to forrm the falp cover\nCreate the pouch flap",
+        "tip": {
+            "type": "common_mistake",
+            "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%206-2.jpg"
+        ]
+    },
+    {
+        "number": 7,
+        "title": "Attach snap",
+        "content": "Mark the snap position carefully before attaching. Make sure both sides align properly\nInstall the snap button closure",
+        "tip": {
+            "type": "common_mistake",
+            "text": "Always pin at key points to prevent fabric shifting during stitching."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Everyday%20fabric%20pouch/Everyday%20fabric%20pouch%207.jpg"
+        ]
+    }
+],
           "notions": "snapbutton",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\nWidth 150 cm: 0.4 m\nWidth 115 cm: 0.4 m",
@@ -621,187 +679,261 @@
           "cutPieces": "7 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Cut pieces",
-              "content": "Draw the sleeve shape on 30 cm x 10 cm fabric (top and bottom width measure from your cup ) Seam allowance 1 cm included\nCut cup sleeve outer and lining (x2)",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut - Cut strips",
-              "content": "Seam allowance 1 cm included\nCut bow top strips (22 cm x 6 cm, x2)",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Cut - Cut pieces",
-              "content": "Draw bow shape and cut. Seam allowance 1 cm included\nCut bow bottom piece (13 cm x 5 cm , x2)",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Cut - Cut strips",
-              "content": "Seam allowance 1 cm included\nCut bow center loop (5 cm x 5 cm , x1)\n",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Measure cut",
-              "content": "Measure top and bottom circumference and sleeve height directly on the cup. Cut fabric to size\nMeasure cup and cut fabric accordingly",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Stitch sides",
-              "content": "With wrong sides facing stitch outer sleeve side seam. Repeat same for lining\nSew side seams of outer fabric",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Join top",
-              "content": "Turn outer right side out. Place lining inside. Stitch around top edge\nJoin outer and lining at top edge",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Turn out",
-              "content": "Pull fabric through to reveal finished top edge\nTurn sleeve to right side",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Topstitch edge",
-              "content": "Stitch 0.3 cm from top edge for clean finish\nTopstitch top dege 0.3 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Fold hem",
-              "content": "Fold both outer and lining bottom edges to wrong side and press\nFold bottom edges inward 1 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press seams as you go to set stitches and improve overall garment quality."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Topstitch hem",
-              "content": "Stitch 0.3 cm from bottom folded edge\nTopstitch bottom edge 0.3 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Stitch bow",
-              "content": "Place two layers right sides facing. Stitch around lave 4 cm opening\nSew bow top piece together",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Turn out",
-              "content": "Pull through opening and shape corners gently\nTurn bow right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Close gap",
-              "content": "Stitch the 4 cm opening closed neatly\nClose turning opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 15,
-              "title": "Hand sew",
-              "content": "Use hand needle to close and secure side seam neatly\nHand stitch side seam",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 16,
-              "title": "Stitch bow",
-              "content": "Repaet same stitching steps as bow top (leave opening , turn , close)\nSew bow bottom piece sam as bow top",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 17,
-              "title": "Stitch loop",
-              "content": "Fold strip wrong sides facing and stitch long edge\nSew bow center loop",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 18,
-              "title": "Turn press",
-              "content": "Turn to right side and press flat\nTurn loop right side out and press\n",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 19,
-              "title": "Hand shape",
-              "content": "Pinch bow center hand stitch to secure shape. Wrap loop around center and hand stitch loop ends together\nShape and secure bow",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 20,
-              "title": "Hand attach",
-              "content": "Hand stitch finisied bow securely onto cup sleeve front\nAttach bow to cup sleeve",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
-          ],
+    {
+        "number": 1,
+        "title": "Cut - Cut pieces",
+        "content": "Draw the sleeve shape on 30 cm x 10 cm fabric (top and bottom width measure from your cup ) Seam allowance 1 cm included\nCut cup sleeve outer and lining (x2)",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%201.jpg"
+        ]
+    },
+    {
+        "number": 2,
+        "title": "Cut - Cut strips",
+        "content": "Seam allowance 1 cm included\nCut bow top strips (22 cm x 6 cm, x2)",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%202.jpg"
+        ]
+    },
+    {
+        "number": 3,
+        "title": "Cut - Cut pieces",
+        "content": "Draw bow shape and cut. Seam allowance 1 cm included\nCut bow bottom piece (13 cm x 5 cm , x2)",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%203.jpg"
+        ]
+    },
+    {
+        "number": 4,
+        "title": "Cut - Cut strips",
+        "content": "Seam allowance 1 cm included\nCut bow center loop (5 cm x 5 cm , x1)",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%204.jpg"
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Measure cut",
+        "content": "Measure top and bottom circumference and sleeve height directly on the cup. Cut fabric to size\nMeasure cup and cut fabric accordingly",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%205-2.jpg"
+        ]
+    },
+    {
+        "number": 6,
+        "title": "Stitch sides",
+        "content": "With wrong sides facing stitch outer sleeve side seam. Repeat same for lining\nSew side seams of outer fabric",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%206-2.jpg"
+        ]
+    },
+    {
+        "number": 7,
+        "title": "Join top",
+        "content": "Turn outer right side out. Place lining inside. Stitch around top edge\nJoin outer and lining at top edge",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%207-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%207-2.jpg"
+        ]
+    },
+    {
+        "number": 8,
+        "title": "Turn out",
+        "content": "Pull fabric through to reveal finished top edge\nTurn sleeve to right side",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%208-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%208-2.jpg"
+        ]
+    },
+    {
+        "number": 9,
+        "title": "Topstitch edge",
+        "content": "Stitch 0.3 cm from top edge for clean finish\nTopstitch top dege 0.3 cm",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%209-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%209-2.jpg"
+        ]
+    },
+    {
+        "number": 10,
+        "title": "Fold hem",
+        "content": "Fold both outer and lining bottom edges to wrong side and press\nFold bottom edges inward 1 cm",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Press seams as you go to set stitches and improve overall garment quality."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2010-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2010-2.jpg"
+        ]
+    },
+    {
+        "number": 11,
+        "title": "Topstitch hem",
+        "content": "Stitch 0.3 cm from bottom folded edge\nTopstitch bottom edge 0.3 cm",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2011-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2011-2.jpg"
+        ]
+    },
+    {
+        "number": 12,
+        "title": "Stitch bow",
+        "content": "Place two layers right sides facing. Stitch around lave 4 cm opening\nSew bow top piece together",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2012-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2012-2.jpg"
+        ]
+    },
+    {
+        "number": 13,
+        "title": "Turn out",
+        "content": "Pull through opening and shape corners gently\nTurn bow right side out",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2013-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2013-2.jpg"
+        ]
+    },
+    {
+        "number": 14,
+        "title": "Close gap",
+        "content": "Stitch the 4 cm opening closed neatly\nClose turning opening",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2014-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2014-2.jpg"
+        ]
+    },
+    {
+        "number": 15,
+        "title": "Hand sew",
+        "content": "Use hand needle to close and secure side seam neatly\nHand stitch side seam",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2015-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2015-2.jpg"
+        ]
+    },
+    {
+        "number": 16,
+        "title": "Stitch bow",
+        "content": "Repaet same stitching steps as bow top (leave opening , turn , close)\nSew bow bottom piece sam as bow top",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2016.jpg"
+        ]
+    },
+    {
+        "number": 17,
+        "title": "Stitch loop",
+        "content": "Fold strip wrong sides facing and stitch long edge\nSew bow center loop",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2017-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2017-2.jpg"
+        ]
+    },
+    {
+        "number": 18,
+        "title": "Turn press",
+        "content": "Turn to right side and press flat\nTurn loop right side out and press",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2018-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2018-2.jpg"
+        ]
+    },
+    {
+        "number": 19,
+        "title": "Hand shape",
+        "content": "Pinch bow center hand stitch to secure shape. Wrap loop around center and hand stitch loop ends together\nShape and secure bow",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2019-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2019-2.jpg"
+        ]
+    },
+    {
+        "number": 20,
+        "title": "Hand attach",
+        "content": "Hand stitch finisied bow securely onto cup sleeve front\nAttach bow to cup sleeve",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Cute%20bow%20mug%20cozy/Cute%20bow%20mug%20cozy%2020.jpg"
+        ]
+    }
+],
           "notions": "",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\nWidth 150 cm: 0.5 m\nWidth 115 cm: 0.5 m",
@@ -1036,7 +1168,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+              "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%201.jpg",
+      ]
             },
             {
               "number": 2,
@@ -1045,7 +1180,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+              "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%202.jpg",
+      ]
             },
             {
               "number": 3,
@@ -1054,7 +1192,12 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                            "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%203-1.jpg",
+         "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%203-2.jpg",
+          "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%203-3.jpg",
+      ]
             },
             {
               "number": 4,
@@ -1063,7 +1206,10 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                                          "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%204.jpg",
+      ]
             },
             {
               "number": 5,
@@ -1072,7 +1218,12 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                                                        "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%205-1.jpg",
+         "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%205-2.jpg",
+          "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%205-3.jpg",
+      ]
             },
             {
               "number": 6,
@@ -1081,7 +1232,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                                                                      "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%206-1.jpg",
+         "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%206-2.jpg",
+      ]
             },
             {
               "number": 7,
@@ -1090,7 +1245,10 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                                                                                    "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%207.jpg",
+      ]
             },
             {
               "number": 8,
@@ -1099,7 +1257,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+                                                                                                  "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%208.jpg",
+      ]
             },
             {
               "number": 9,
@@ -1108,7 +1269,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                                                                                                                "images": [
+        "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%209-1.jpg",
+         "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%209-2.jpg",
+          "https://may.sewie.cloud/Step/Beginner/Apple%20plush%20toy/Apple%20plush%20toy%209-3.jpg",
+      ]
             }
           ],
           "notions": "Filling material (polyester fiberfill or foam),\nHand sewing needle, Thread",
@@ -1129,79 +1295,108 @@
           "cutPieces": "1 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Make a 1 cm seam allowance along the fabric edge\nPrepare 1 fabric piece measuring 17 cm x 76 cm. Draw the pattern piece according to the required size and quantity",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Fold",
-              "content": "Clearly mark the 2.5 cm opening area forr turning\nFold the drastring ba in half along the center line, right sides facing. Mark a 2.5 cm opening line on both sides of the center fold",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew",
-              "content": "Leave the opening unstitched\nSew along both sides following the red dased lines. Do not sew across the oping area",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Trim",
-              "content": "You may skip trimming if using very thin fabric\nTrim all four corners to reduce bulk forr a smoother turn",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Turn right side out",
-              "content": "Use the opening for turing the bag right side out\nTurn the bag to the right side through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Insert",
-              "content": "Make sure the bag layers are fully nested inside each other\nPush one side of the bag through the opening and insert it into the inside of the other side",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Topstitch",
-              "content": "Keep the stitching lines parallel and even\nTopstitch 2.5 cm from both side edges to from the drawstring channels",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Thread drawstring",
-              "content": "Make sure both drawstring slide smoothly\nThread the drawstring through the bag opeing in both directions. Knot the ends to finish",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            }
-          ],
+    {
+        "number": 1,
+        "title": "Cut - Prepare",
+        "content": "Make a 1 cm seam allowance along the fabric edge\nPrepare 1 fabric piece measuring 17 cm x 76 cm. Draw the pattern piece according to the required size and quantity",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%201.jpg"
+        ]
+    },
+    {
+        "number": 2,
+        "title": "Fold",
+        "content": "Clearly mark the 2.5 cm opening area forr turning\nFold the drastring ba in half along the center line, right sides facing. Mark a 2.5 cm opening line on both sides of the center fold",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%202-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%202-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%202-3.jpg"
+        ]
+    },
+    {
+        "number": 3,
+        "title": "Sew",
+        "content": "Leave the opening unstitched\nSew along both sides following the red dased lines. Do not sew across the oping area",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%203-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%203-2.jpg"
+        ]
+    },
+    {
+        "number": 4,
+        "title": "Trim",
+        "content": "You may skip trimming if using very thin fabric\nTrim all four corners to reduce bulk forr a smoother turn",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%204.jpg"
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Turn right side out",
+        "content": "Use the opening for turing the bag right side out\nTurn the bag to the right side through the opening",
+        "tip": {
+            "type": "warning",
+            "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%205-2.jpg"
+        ]
+    },
+    {
+        "number": 6,
+        "title": "Insert",
+        "content": "Make sure the bag layers are fully nested inside each other\nPush one side of the bag through the opening and insert it into the inside of the other side",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%206-2.jpg"
+        ]
+    },
+    {
+        "number": 7,
+        "title": "Topstitch",
+        "content": "Keep the stitching lines parallel and even\nTopstitch 2.5 cm from both side edges to from the drawstring channels",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%207.jpg"
+        ]
+    },
+    {
+        "number": 8,
+        "title": "Thread drawstring",
+        "content": "Make sure both drawstring slide smoothly\nThread the drawstring through the bag opeing in both directions. Knot the ends to finish",
+        "tip": {
+            "type": "pro_tip",
+            "text": "Work carefully and check alignment to achieve a clean and accurate result."
+        },
+        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Drawstring%20bag/Drawstring%20bag%208.jpg"
+        ]
+    }
+],
           "notions": "Drawstring cord",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.2 m\n115 cm (45\") wide fabric: 0.2 m",
@@ -1363,7 +1558,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                    "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%201.jpg"
+        ]
             },
             {
               "number": 2,
@@ -1372,7 +1570,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },        "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%202-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%202-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%202-3.jpg"
+        ]
             },
             {
               "number": 3,
@@ -1381,7 +1583,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%203-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%203-2.jpg"
+        ]
             },
             {
               "number": 4,
@@ -1390,7 +1596,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%204-1.jpg"
+        ]
             },
             {
               "number": 5,
@@ -1399,7 +1608,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+          "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%205-2.jpg"
+        ]
             },
             {
               "number": 6,
@@ -1408,7 +1621,11 @@
               "tip": {
                 "type": "common_mistake",
                 "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Baby%20bib/Baby%20bib%206-2.jpg"
+        ]
             }
           ],
           "notions": "Button",
@@ -2217,7 +2434,21 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%201.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2010.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2012.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-3.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015%20-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015-2.jpg"
+              ]
             },
             {
               "number": 2,
@@ -2226,7 +2457,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%202.jpg",
+              ]
             },
             {
               "number": 3,
@@ -2235,7 +2469,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%203.jpg",
+              ]
             },
             {
               "number": 4,
@@ -2244,7 +2481,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%204.jpg",
+              ]
             },
             {
               "number": 5,
@@ -2253,7 +2493,13 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-3.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205.jpg",
+              ]
             },
             {
               "number": 6,
@@ -2262,7 +2508,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-3.jpg",
+              ]
             },
             {
               "number": 7,
@@ -2271,7 +2522,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-2.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-3.jpg",
+              ]
             },
             {
               "number": 8,
@@ -2280,7 +2536,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+               "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-2.jpg",
+              ]
             },
             {
               "number": 9,
@@ -2289,7 +2549,11 @@
               "tip": {
                 "type": "common_mistake",
                 "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
+              },
+              "images": [
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-1.jpg",
+                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-2.jpg",
+              ]
             },
             {
               "number": 10,
@@ -2371,7 +2635,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%201.jpg"
+        ]
             },
             {
               "number": 2,
@@ -2380,7 +2647,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                    "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%202.jpg"
+        ]
             },
             {
               "number": 3,
@@ -2389,7 +2659,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%203-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%203-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%203-3.jpg"
+        ]
             },
             {
               "number": 4,
@@ -2398,7 +2673,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%204-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%204-2.jpg"
+        ]
             },
             {
               "number": 5,
@@ -2407,7 +2686,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%205-2.jpg"
+        ]
             },
             {
               "number": 6,
@@ -2416,7 +2699,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Press seams as you go to set stitches and improve overall garment quality."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%206-2.jpg"
+        ]
             },
             {
               "number": 7,
@@ -2425,7 +2712,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                  "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%207-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%207-2.jpg"
+        ]
             },
             {
               "number": 8,
@@ -2434,7 +2725,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                  "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%208-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%208-2.jpg"
+        ]
             },
             {
               "number": 9,
@@ -2443,7 +2738,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%209-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%209-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%209-3.jpg"
+        ]
             },
             {
               "number": 10,
@@ -2452,7 +2752,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                    "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2010-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2010-2.jpg"
+        ]
             },
             {
               "number": 11,
@@ -2461,7 +2765,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                  "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2011.jpg"
+        ]
             },
             {
               "number": 12,
@@ -2470,7 +2777,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2012-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2012-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2012-3.jpg"
+        ]
             },
             {
               "number": 13,
@@ -2479,7 +2791,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+                   "images": [
+            "https://may.sewie.cloud/Step/Beginner/Bow%20strap%20camisole%20top/Bow%20strap%20camisole%20top%2013.jpg"
+        ]
             }
           ],
           "notions": "",
@@ -2643,7 +2958,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%201.jpg"
+        ]
             },
             {
               "number": 2,
@@ -2652,7 +2970,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%202.jpg"
+        ]
             },
             {
               "number": 3,
@@ -2661,7 +2982,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%203.jpg"
+        ]
             },
             {
               "number": 4,
@@ -2670,7 +2994,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%204-.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%204-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%204-2.jpg"
+        ]
             },
             {
               "number": 5,
@@ -2679,7 +3008,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%205-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%205-2.jpg"
+        ]
             },
             {
               "number": 6,
@@ -2688,7 +3021,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                    "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%206-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%206-2.jpg"
+        ]
             },
             {
               "number": 7,
@@ -2697,7 +3034,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                  "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%207-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%207-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%207-3.jpg"
+        ]
             },
             {
               "number": 8,
@@ -2706,7 +3048,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%208-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%208-2.jpg"
+        ]
             },
             {
               "number": 9,
@@ -2715,7 +3061,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%209-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%209-2.jpg"
+        ]
             },
             {
               "number": 10,
@@ -2724,7 +3074,11 @@
               "tip": {
                 "type": "warning",
                 "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2010-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2010-2.jpg"
+        ]
             },
             {
               "number": 11,
@@ -2733,7 +3087,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                     "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2011-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2011-2.jpg"
+        ]
             },
             {
               "number": 12,
@@ -2742,7 +3100,12 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2012-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2012-2.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2012-3.jpg"
+        ]
             },
             {
               "number": 13,
@@ -2751,7 +3114,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2013-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2013-2.jpg"
+        ]
             },
             {
               "number": 14,
@@ -2760,7 +3127,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
+              },
+                      "images": [
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2014-1.jpg",
+            "https://may.sewie.cloud/Step/Beginner/Classic%20beret%20hat/Classic%20beret%20hat%2014-2.jpg"
+        ]
             }
           ],
           "notions": "Button",
