@@ -2112,10 +2112,10 @@
               ]
             }
           ],
-          "notions": "",
+          "notions": "Zipper",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.25 m\n115 cm (45\") wide fabric: 0.25 m",
-          "liningFabric": "",
+          "liningFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.25 m\n115 cm (45\") wide fabric: 0.25 m",
           "pdf": "https://may.sewie.cloud/PDF/Beginner/Zipper%20coin%20pouch.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Beginner/Zipper%20coin%20pouch.png",
           "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Zipper%20coin%20pouch.jpg"
@@ -4638,7 +4638,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Dresses/Polka%20Dot%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Dresses/Polka%20Dot%20Dress.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Polka%20Dot%20Dress.jpg"
         },
         {
           "name": "Bow Neck Dress",
@@ -6331,10 +6331,10 @@
           "name": "Vintage-Inspired Day Dress",
           "level": "Beginner",
           "time": "4–6 hrs",
-          "finishedSize": "",
+          "finishedSize": "Adult size 4 - 24",
           "materialNeeded": "Cotton, Viscose",
           "techniques": "Dress construction",
-          "cutPieces": "",
+          "cutPieces": "14 pieces",
           "keyTechniques": "Dress construction",
           "steps": [],
           "notions": "",
@@ -6343,7 +6343,7 @@
           "liningFabric": "",
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Dresses/Vintage-Inspired%20Day%20Dress.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Vintage-Insprired%20Day%20Dress.jpg"
         },
         {
           "name": "Frilled Halterneck Dress",
@@ -7970,10 +7970,10 @@
           "name": "Ruffle Sleeve Top",
           "level": "Intermediate ",
           "time": "3–4 hrs",
-          "finishedSize": "",
+          "finishedSize": "Adult size 4-24",
           "materialNeeded": "Lightweight Cotton, Viscose",
           "techniques": "Ruffles, garment seams",
-          "cutPieces": "",
+          "cutPieces": "6 pieces",
           "keyTechniques": "Ruffles\ngarment seams",
           "steps": [],
           "notions": "",
@@ -7982,7 +7982,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Tops/Ruffle%20Sleeve%20Top.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Ruffle%20Sleeve%20Top.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Ruffle%20Sleeve%20Top.jpg"
         },
         {
           "name": "Sleeveless Shell Top",
@@ -8024,10 +8024,10 @@
           "name": "Soft Drape Blouse",
           "level": "Beginner ",
           "time": "4–5 hrs",
-          "finishedSize": "",
+          "finishedSize": "Adult size 4-24",
           "materialNeeded": "Lightweight Cotton, Chiffon",
           "techniques": "Blouse construction",
-          "cutPieces": "",
+          "cutPieces": "7 pieces",
           "keyTechniques": "Blouse construction",
           "steps": [],
           "notions": "",
@@ -8036,7 +8036,7 @@
           "liningFabric": "",
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Soft%20Drape%20Blouse.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Soft%20Drape%20Blouse.jpg"
         },
         {
           "name": "Underbust Corset Belt",
@@ -8078,10 +8078,10 @@
           "name": "Draped Tunic",
           "level": "Beginner ",
           "time": "2–3 hrs",
-          "finishedSize": "",
+          "finishedSize": "Adult size 4-24",
           "materialNeeded": "Viscose, Knit Fabric",
           "techniques": "Viscose, Knit Fabric",
-          "cutPieces": "",
+          "cutPieces": "6 pieces",
           "keyTechniques": "Drape handling",
           "steps": [],
           "notions": "",
@@ -8090,7 +8090,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Tops/Draped%20Tunic.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Draped%20Tunic.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Drap%20Tunic.jpg"
         },
         {
           "name": "Button-Back Blouse",
