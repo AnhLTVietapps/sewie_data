@@ -136,105 +136,148 @@
           "cutPieces": "1 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare two fabric piece measuring 12 cm x 80 cm. Draw the pattern pieces on paper according to the required size and quantity. Add a 1 cm seam allowance",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare two fabric piece measuring 12 cm x 80 cm. Draw the pattern pieces on paper according to the required size and quantity. Add a 1 cm seam allowance",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Cut - Prepare",
+                  "content": "Prepare one elastic strap measuring 18 cm",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Sew",
+                  "content": "Make sure the edges are aligned evenly before sewing\nPlace the two short ends of the hair scrunchie piece together, right sides facing. Match and sew along the marked matching line (1-1)",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%203-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%203-3.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Fold",
+                  "content": "Follow the folding direcrtion shown in the pattern\nFold the upper layer of the sewn scrunchie piece according to the diagram",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%204-2.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Fold",
+                  "content": "Only sew the outer two fabric layers. Do not sew the inner folded layers\nFold the lower layer of the sewn scrunchie piece according to the diagram",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Keep the seam straight and even\nSew along the outer edge of the scrunchie, matching the marked matching line (1-1)",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Sew",
+                  "content": "Pull the inner layer out while sewing. Do not sew the entire circle closed. Leave a 5 cm opening\nWhile sewing around the outer edge, gently pull the inner layer out by hand as you go. Continue sewing around the circle. Leave a 5 cm opening unstitched",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%207-2.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Turn right side out",
+                  "content": "Turn the scrunchie to the right side through the opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%208-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%208-3.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Insert Elastic",
+                  "content": "Make sure the elastic is not twisted inside the scrunchie\nInsert the elastic through the opening. Join both ends of the elastic and secure them with stitching or a knot",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%209-2.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Gather",
+                  "content": "Distribute the gather evenly \nAdjust the elastic so the fabric gathers naturally into soft folds",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%2010.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Topstitch",
+                  "content": "Sew slowly for a clean finish\nTopstitch the opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Scrunchie/Scrunchie%2011-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Cut - Prepare",
-              "content": "Prepare one elastic strap measuring 18 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew",
-              "content": "Make sure the edges are aligned evenly before sewing\nPlace the two short ends of the hair scrunchie piece together, right sides facing. Match and sew along the marked matching line (1-1)",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Fold",
-              "content": "Follow the folding direcrtion shown in the pattern\nFold the upper layer of the sewn scrunchie piece according to the diagram",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Fold",
-              "content": "Only sew the outer two fabric layers. Do not sew the inner folded layers\nFold the lower layer of the sewn scrunchie piece according to the diagram",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Keep the seam straight and even\nSew along the outer edge of the scrunchie, matching the marked matching line (1-1)",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew",
-              "content": "Pull the inner layer out while sewing. Do not sew the entire circle closed. Leave a 5 cm opening\nWhile sewing around the outer edge, gently pull the inner layer out by hand as you go. Continue sewing around the circle. Leave a 5 cm opening unstitched",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Turn right side out",
-              "content": "Turn the scrunchie to the right side through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Insert Elastic",
-              "content": "Make sure the elastic is not twisted inside the scrunchie\nInsert the elastic through the opening. Join both ends of the elastic and secure them with stitching or a knot",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Gather",
-              "content": "Distribute the gather evenly \nAdjust the elastic so the fabric gathers naturally into soft folds",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Topstitch",
-              "content": "Sew slowly for a clean finish\nTopstitch the opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
           ],
           "notions": "Elastic band",
           "bodyMeasurement": "",
@@ -362,150 +405,217 @@
           "cutPieces": "10 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Outer fabric- front & back",
-              "content": "Add 1 cm seam allowance around each piece. Cut 2 mirroed piece from each of the two fabrics\nOn 25 cm x 13.5 cm fabric piece, trace the heart - shaped pattern. Use 2 different fabric color to form the outer froant and back panels",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 1,
+                  "title": "Outer fabric- front & back",
+                  "content": "Add 1 cm seam allowance around each piece. Cut 2 mirroed piece from each of the two fabrics\nOn 25 cm x 13.5 cm fabric piece, trace the heart - shaped pattern. Use 2 different fabric color to form the outer froant and back panels",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Lining fabric- front & back",
+                  "content": "Add 1 cm seam allowance around each piece. Cut 2 pieces\nOn 25 cm x 27 cm piece of fabric , trace the heart - shaped pattern to creat the lining panels, then cut out the shapes",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Handles",
+                  "content": "1 cm seam allowance is already included. Cut 4 pieces total\nFrom 2 different fabrics cut 2 strips measuring 22 cm x 8 cm from each fabric to make the handles",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%203.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Sew",
+                  "content": "Match the curves carefully before sewing\nSew the left and right outer fabric heart piece together",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%204-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%204-3.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Sew",
+                  "content": "Match notches precisely for symmetry\nAlign the top and bottom outer fabric pieces and sew them together following the notches",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%205-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%205-3.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Turn",
+                  "content": "Gently shape the heart curves\nTurn the outer fabric piece right side out",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Sew",
+                  "content": "Keep lining order consistent\nAlign the top and bottom lining piece and sew them together follwwing the notches",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%207-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%207-3.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Sew",
+                  "content": "Keep edges aligned evenly\nSew the left and right handle piece together",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%208-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%208-3.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Sew",
+                  "content": "Do not twist the handle before sewing\nFold the sewn handle along the center line and sew the side seam",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%209-2.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Turn",
+                  "content": "Use a blunt tool to shape edges\nTurn the handle right side out through the unsewwn bottom opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2010-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2010-2.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Sew",
+                  "content": "Keep handle spacing even on both sides\nSew both handles onto the outer fabric at the marked positions",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2011-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2011-3.jpg"
+                  ]
+              },
+              {
+                  "number": 12,
+                  "title": "Place",
+                  "content": "Right sides should face each other\nPlace the outer fabric piece inside the lining piece",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2012-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2012-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2012-3.jpg"
+                  ]
+              },
+              {
+                  "number": 13,
+                  "title": "Sew",
+                  "content": "Leace a 5 cm turning gap\nSew around the bag opening, leaving a 5 cm opening for turning",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2013-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2013-2.jpg"
+                  ]
+              },
+              {
+                  "number": 14,
+                  "title": "Turn",
+                  "content": "Turn gently to avoid tearing seams\nTurn the bag right side out through the opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2014-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2014-2.jpg"
+                  ]
+              },
+              {
+                  "number": 15,
+                  "title": "Sew",
+                  "content": "Stitch close to the edge forr a neat finish\nSew the opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2015-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2015-2.jpg"
+                  ]
+              },
+              {
+                  "number": 16,
+                  "title": "Topstitch",
+                  "content": "Keep stitching parallel to the edge\nTopstitch around the bag opening to finish",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2016-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Heart%20tote%20bag/Heart%20tote%20bag%2016%20-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Lining fabric- front & back",
-              "content": "Add 1 cm seam allowance around each piece. Cut 2 pieces\nOn 25 cm x 27 cm piece of fabric , trace the heart - shaped pattern to creat the lining panels, then cut out the shapes",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Handles",
-              "content": "1 cm seam allowance is already included. Cut 4 pieces total\nFrom 2 different fabrics cut 2 strips measuring 22 cm x 8 cm from each fabric to make the handles",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew",
-              "content": "Match the curves carefully before sewing\nSew the left and right outer fabric heart piece together",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Sew",
-              "content": "Match notches precisely for symmetry\nAlign the top and bottom outer fabric pieces and sew them together following the notches",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Turn",
-              "content": "Gently shape the heart curves\nTurn the outer fabric piece right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew",
-              "content": "Keep lining order consistent\nAlign the top and bottom lining piece and sew them together follwwing the notches",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Sew",
-              "content": "Keep edges aligned evenly\nSew the left and right handle piece together",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Sew",
-              "content": "Do not twist the handle before sewing\nFold the sewn handle along the center line and sew the side seam",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Turn",
-              "content": "Use a blunt tool to shape edges\nTurn the handle right side out through the unsewwn bottom opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Sew",
-              "content": "Keep handle spacing even on both sides\nSew both handles onto the outer fabric at the marked positions",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Place",
-              "content": "Right sides should face each other\nPlace the outer fabric piece inside the lining piece",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Sew",
-              "content": "Leace a 5 cm turning gap\nSew around the bag opening, leaving a 5 cm opening for turning",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Turn",
-              "content": "Turn gently to avoid tearing seams\nTurn the bag right side out through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 15,
-              "title": "Sew",
-              "content": "Stitch close to the edge forr a neat finish\nSew the opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 16,
-              "title": "Topstitch",
-              "content": "Keep stitching parallel to the edge\nTopstitch around the bag opening to finish",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
           ],
           "notions": "",
           "bodyMeasurement": "",
@@ -952,105 +1062,144 @@
           "cutPieces": "2 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - cut",
-              "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare 2 fabric piece measurering 36 cm x 28 cm. Draw the pattern piece on paper according to the required size and quantity",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 1,
+                  "title": "Cut - cut",
+                  "content": "Mark a 1 cm seam allowance along the fabric edge\nPrepare 2 fabric piece measurering 36 cm x 28 cm. Draw the pattern piece on paper according to the required size and quantity",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Sew",
+                  "content": "Make sure the edges are aligned evenly before sewing\nPlace the two tissue pouch piece together, right sides facing. Pin around the edges to secure. Sew along the edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%202-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%202-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%202-3.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Turn right side out",
+                  "content": "Turn the piece to the right side",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%203.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Topstitch",
+                  "content": "Keep the stitch line straight and even\nTopstitch 0.6 cm from side edges",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%204-2.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Fold",
+                  "content": "Make sure the fabric overlaps neatly at the center\nMark the center point. Fold both sides toward the center. Overlap the top and bottom edges by 0.5 cm so the fabric layers cross over",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Optional",
+                  "content": "Secure the loop firmly so it can support the weight of the pouch\nAttach a hanging loop at the center point",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Sew",
+                  "content": "Keep the seam allowance consistent on both sides\nSew along both side edges 1 cm from the edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%207-2.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Fold",
+                  "content": "Make sure all corner lines are the same length\nPinch each of the four corners. Draw a 6 cm straight line across each corner. Sew along the draw line",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%208.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Topstitch",
+                  "content": "Sew slowly to keep the stitch straight\nTopsitch along the draw lines on all four corners",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%209.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Trim",
+                  "content": "Do not cut too close to the stitching line\nTrim off the excess fabric from all four corners",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%2010.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Turn right side out",
+                  "content": "Turn the pouch to the other side  to finish",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Tissue%20holder/Tissue%20holder%2011.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Sew",
-              "content": "Make sure the edges are aligned evenly before sewing\nPlace the two tissue pouch piece together, right sides facing. Pin around the edges to secure. Sew along the edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn right side out",
-              "content": "Turn the piece to the right side",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Topstitch",
-              "content": "Keep the stitch line straight and even\nTopstitch 0.6 cm from side edges",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Fold",
-              "content": "Make sure the fabric overlaps neatly at the center\nMark the center point. Fold both sides toward the center. Overlap the top and bottom edges by 0.5 cm so the fabric layers cross over",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Optional",
-              "content": "Secure the loop firmly so it can support the weight of the pouch\nAttach a hanging loop at the center point",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew",
-              "content": "Keep the seam allowance consistent on both sides\nSew along both side edges 1 cm from the edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Fold",
-              "content": "Make sure all corner lines are the same length\nPinch each of the four corners. Draw a 6 cm straight line across each corner. Sew along the draw line",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Topstitch",
-              "content": "Sew slowly to keep the stitch straight\nTopsitch along the draw lines on all four corners",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Trim",
-              "content": "Do not cut too close to the stitching line\nTrim off the excess fabric from all four corners\n",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Turn right side out",
-              "content": "Turn the pouch to the other side  to finish",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            }
           ],
           "notions": "",
           "bodyMeasurement": "",
@@ -1070,78 +1219,104 @@
           "cutPieces": "4 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Draw the heart shape on 10 cm x 10 cm fabric . Seam allownace of 1 cm is already included\nCreat the front and back layers of the small heart decoration",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Draw the heart shape on 10 cm x 10 cm fabric . Seam allownace of 1 cm is already included\nCreat the front and back layers of the small heart decoration",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Prepare",
+                  "content": "Place right sides facing. Sew around with 1 cm seam allowance. Leave a 4 cm opening for turning\nJoin the 2 large heart piece together to form the base structure while leaving space to turn right side out",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Sew",
+                  "content": "Geantly push out curves using a blunt tool. Do not use sharp objects to avoid tearing fabric\nBring the right side of the fabric outward to reveal the heart shape",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%203-2.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Turn through opening",
+                  "content": "Fold seam allowance inward evenly before stitching closed with 1 cm seam allwance\nSecure the turning opening and complete the heart shape neatly",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%204.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Stitch opening closed",
+                  "content": "Place right sides facing sew around with 1 cm seam allowance leave turning opening turn right side out then close opening\nConstruct the small heart using the same method as the large heart",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Stitch, turn, close",
+                  "content": "Position the small heart centeed on the large heart. Topstirch 0.6 cm from the edge of the small heart\nSecure the small heart decoration neatly onto the large heart base",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%206.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Topstitch small heart onto large heart",
+                  "content": "Position the small heart centered on the large heart. Topstitch 0.6 cm from the edge of the small heart\nSecure the small heart decoration neatly onto the large heart base",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%207.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Topstitch around outer edge",
+                  "content": "Topsitch 0.6 cm from the outer edge all around the large heart\nStrengthen the edges and give the large heart a clean, decorative finissh",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Patchwork%20love%20coaster/Patchwork%20love%20coaster%208-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Prepare",
-              "content": "Place right sides facing. Sew around with 1 cm seam allowance. Leave a 4 cm opening for turning\nJoin the 2 large heart piece together to form the base structure while leaving space to turn right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew",
-              "content": "Geantly push out curves using a blunt tool. Do not use sharp objects to avoid tearing fabric\nBring the right side of the fabric outward to reveal the heart shape",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Turn through opening",
-              "content": "Fold seam allowance inward evenly before stitching closed with 1 cm seam allwance\nSecure the turning opening and complete the heart shape neatly",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Stitch opening closed",
-              "content": "Place right sides facing sew around with 1 cm seam allowance leave turning opening turn right side out then close opening\nConstruct the small heart using the same method as the large heart",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Stitch, turn, close",
-              "content": "Position the small heart centeed on the large heart. Topstirch 0.6 cm from the edge of the small heart\nSecure the small heart decoration neatly onto the large heart base",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Topstitch small heart onto large heart",
-              "content": "Position the small heart centered on the large heart. Topstitch 0.6 cm from the edge of the small heart\nSecure the small heart decoration neatly onto the large heart base",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Topstitch around outer edge",
-              "content": "Topsitch 0.6 cm from the outer edge all around the large heart\nStrengthen the edges and give the large heart a clean, decorative finissh",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            }
           ],
           "notions": "",
           "bodyMeasurement": "",
@@ -1646,106 +1821,150 @@
           "cutPieces": "4 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Mirror cut - prepare",
-              "content": "Make sure both outer piece are symmertrical\nCut 2 outer fabric piece following the pattern. Mirror- cut the piece. Mark a 1 cm seam allowance along the fabric edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 1,
+                  "title": "Mirror cut - prepare",
+                  "content": "Make sure both outer piece are symmertrical\nCut 2 outer fabric piece following the pattern. Mirror- cut the piece. Mark a 1 cm seam allowance along the fabric edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Mirror cut - prepare",
+                  "content": "Make sure both outer piece are symmertrical\nCut 2 lining fabric piece following the pattern. Mirror- cut the piece. Mark a 1 cm seam allowance along the fabric edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Sew",
+                  "content": "Make sure both seam lines are stitched neatly\nPlace the two outer fabric pieces together right sides facing. Pin to secure. Sew along the marked seams (1-1 and 2-2). Repeat for second set",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%203-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%203-3.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Sew",
+                  "content": "Make sure both seam lines are stitched neatly\nPlace the two lining fabric pieces together right sides facing. Pin to secure. Sew along the marked seams (1-1 and 2-2). Repeat for second set",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%204-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%204-3.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Turn right side out",
+                  "content": "Make sure all edges are aligned evenly\nPlace the outer fabric and lining together right sides facing",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Always pin at key points to prevent fabric shifting during stitching."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Keep the stitching line smooth and even\nSew around the center opening to join the outer fabric and lining",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Turn right side out",
+                  "content": "Turn the piece to the right side",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%207-2.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Fold",
+                  "content": "Make sure both layers are flat and evenly aligned\nFold the outer fabric and lining together aligning the edgeds",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Always pin at key points to prevent fabric shifting during stitching."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%208-2.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Sew",
+                  "content": "Do not sew the handle opening. Leave it open for turning\nSew along the dashed lines to attach the bag body and lining. Leave the handle opening unstitced for turning the piece right side out",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%209-2.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Turn right side out",
+                  "content": "Turn the piece to the right side through the handle opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%2010-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%2010-2.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Topstitch",
+                  "content": "Sew slowly for a clean finish\nTopstitch the handle opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Wristlet%20pouch/Wristlet%20pouch%2011-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Mirror cut - prepare",
-              "content": "Make sure both outer piece are symmertrical\nCut 2 lining fabric piece following the pattern. Mirror- cut the piece. Mark a 1 cm seam allowance along the fabric edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew",
-              "content": "Make sure both seam lines are stitched neatly\nPlace the two outer fabric pieces together right sides facing. Pin to secure. Sew along the marked seams (1-1 and 2-2). Repeat for second set",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew",
-              "content": "Make sure both seam lines are stitched neatly\nPlace the two lining fabric pieces together right sides facing. Pin to secure. Sew along the marked seams (1-1 and 2-2). Repeat for second set",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Turn right side out",
-              "content": "Make sure all edges are aligned evenly\nPlace the outer fabric and lining together right sides facing",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Keep the stitching line smooth and even\nSew around the center opening to join the outer fabric and lining",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Turn right side out",
-              "content": "Turn the piece to the right side",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Fold",
-              "content": "Make sure both layers are flat and evenly aligned\nFold the outer fabric and lining together aligning the edgeds",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Sew",
-              "content": "Do not sew the handle opening. Leave it open for turning\nSew along the dashed lines to attach the bag body and lining. Leave the handle opening unstitced for turning the piece right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Turn right side out",
-              "content": "Turn the piece to the right side through the handle opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Topstitch",
-              "content": "Sew slowly for a clean finish\nTopstitch the handle opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
-          ],
+          ]
           "notions": "",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.4 m\n115 cm (45\") wide fabric: 0.4 m",
@@ -1764,97 +1983,134 @@
           "cutPieces": "2 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Prepare 1 outer fabric piece measuring 15 cm x 25 cm. Add a 1 cm seam allowance",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Prepare 1 outer fabric piece measuring 15 cm x 25 cm. Add a 1 cm seam allowance",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Cut - Prepare",
+                  "content": "Prepare 1 lining fabric piece measuring 15 cm x 26 cm. Add a 1 cm seam allowance",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Sew",
+                  "content": "Place the zipper face down, with the zipper tape facing the right side of the outer fabric\nPlace the zipper between the outer fabric and lining, aligning the top edges. Sew along the top edge to attach the zipper",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%203-2.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Turn right side out",
+                  "content": "Turn the piece to the right side",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%204-2.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Fold",
+                  "content": "Make sure both layers lie flat and even\nFold the outer fabric and lining back into position along the zipper",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Keep the zipper straight and aligned while sewing\nSew the other side of the zipper to the outer fabric and lining",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Arrange",
+                  "content": "Smooth out any wrinkles before the next step\nLay the outer fabric and lining flat",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%207.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Sew",
+                  "content": "Do not sew the entire side closed. Leave a 4 cm opening\nSew both side edges. Leave a 4 cm opening on one side for turning",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%208-2.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Turn right side out",
+                  "content": "Turn the wallet to the right side through the opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%209-2.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Topstitch",
+                  "content": "Sew slowly for a clean finish\nTopstitch the opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%2010-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Zipper%20coin%20pouch/Zipper%20coin%20pouch%2010-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Cut - Prepare",
-              "content": "Prepare 1 lining fabric piece measuring 15 cm x 26 cm. Add a 1 cm seam allowance",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew",
-              "content": "Place the zipper face down, with the zipper tape facing the right side of the outer fabric\nPlace the zipper between the outer fabric and lining, aligning the top edges. Sew along the top edge to attach the zipper",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Turn right side out",
-              "content": "Turn the piece to the right side",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Fold",
-              "content": "Make sure both layers lie flat and even\nFold the outer fabric and lining back into position along the zipper",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Keep the zipper straight and aligned while sewing\nSew the other side of the zipper to the outer fabric and lining",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Arrange",
-              "content": "Smooth out any wrinkles before the next step\nLay the outer fabric and lining flat",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Sew",
-              "content": "Do not sew the entire side closed. Leave a 4 cm opening\nSew both side edges. Leave a 4 cm opening on one side for turning",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Turn right side out",
-              "content": "Turn the wallet to the right side through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Topstitch",
-              "content": "Sew slowly for a clean finish\nTopstitch the opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
-          ],
+          ]
           "notions": "",
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.25 m\n115 cm (45\") wide fabric: 0.25 m",
@@ -2200,69 +2456,96 @@
           "cutPieces": "1 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Mark a 1 cm seam allowance along the fabric edge\nPreapare one fabric piece measuring 26 cm x 90 cm. Draw the pattern piece on paper according to the required size and quantity. Add a 1 cm seam allowance along the edges",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Mark a 1 cm seam allowance along the fabric edge\nPreapare one fabric piece measuring 26 cm x 90 cm. Draw the pattern piece on paper according to the required size and quantity. Add a 1 cm seam allowance along the edges",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Sew",
+                  "content": "Do not sew the top edge closed. Leave it open for turning and stuffing\nSew along both side edges and the bottom edge of the scarf, matching the marked matching line (1-1). Leave the top edge unstitched",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%202-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%202-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%202-3.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Turn right side out",
+                  "content": "Turn the scarf to the right side through the top opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%203-2.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Stuff",
+                  "content": "Do not overfill. Too much stuffing will distort the shape\nInsert stuffing into the scarf through the top opening",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%204.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Sew",
+                  "content": "Make sure the opening is fully closed\nSew the top opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Fold",
+                  "content": "Measure carefully to keep the fold even\nFold the top edge of the scarf dowmward at 13 cm",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%206-2.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Hand sew",
+                  "content": "Use small, neat stitches forr a clean look\nHand stitch the folded top edge onto the scarf to secure it in place",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fabric%20scarf/Fabric%20scarf%207-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Sew",
-              "content": "Do not sew the top edge closed. Leave it open for turning and stuffing\nSew along both side edges and the bottom edge of the scarf, matching the marked matching line (1-1). Leave the top edge unstitched",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn right side out",
-              "content": "Turn the scarf to the right side through the top opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Stuff",
-              "content": "Do not overfill. Too much stuffing will distort the shape\nInsert stuffing into the scarf through the top opening",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Sew",
-              "content": "Make sure the opening is fully closed\nSew the top opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Fold",
-              "content": "Measure carefully to keep the fold even\nFold the top edge of the scarf dowmward at 13 cm",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Hand sew",
-              "content": "Use small, neat stitches forr a clean look\nHand stitch the folded top edge onto the scarf to secure it in place",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
           ],
           "notions": "Filling material (polyester fiberfill or foam)",
           "bodyMeasurement": "",
@@ -2427,188 +2710,200 @@
           "cutPieces": "5 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Mirror cut - prepare",
-              "content": "Make sure both mirrored pieces are symmetrical\nCut 2 mirrored pieces following the pattern. Extend each piece outway by 1 cm to add seam allowance",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 1,
+                  "title": "Mirror cut - prepare",
+                  "content": "Make sure both mirrored pieces are symmetrical\nCut 2 mirrored pieces following the pattern. Extend each piece outway by 1 cm to add seam allowance",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%201.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%201.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2010.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2012.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-3.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015%20-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015-2.jpg"
-              ]
-            },
-            {
-              "number": 2,
-              "title": "Cut - Prepare",
-              "content": "Extend each piece outward by 1 cm to add seam allowance\nDraw the pattern pieces on paper according to the required size and quantity",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 2,
+                  "title": "Cut - Prepare",
+                  "content": "Extend each piece outward by 1 cm to add seam allowance\nDraw the pattern pieces on paper according to the required size and quantity",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%202.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%202.jpg",
-              ]
-            },
-            {
-              "number": 3,
-              "title": "Cut - Prepare",
-              "content": "Extend each piece outward by 1 cm to add seam allowance\nDraw the pattern pieces on paper according to the required size and quantity",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
+              {
+                  "number": 3,
+                  "title": "Cut - Prepare",
+                  "content": "Extend each piece outward by 1 cm to add seam allowance\nDraw the pattern pieces on paper according to the required size and quantity",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%203.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%203.jpg",
-              ]
-            },
-            {
-              "number": 4,
-              "title": "Cut - Prepare",
-              "content": "Cut one elastics strap measuring 4 cm x 76 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 4,
+                  "title": "Cut - Prepare",
+                  "content": "Cut one elastics strap measuring 4 cm x 76 cm",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%204.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%204.jpg",
-              ]
-            },
-            {
-              "number": 5,
-              "title": "Sew",
-              "content": "Keep the seam allowance even on both sides\nPlace the outer fabric pieces together, right sides facing. Sew both side seams",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+              {
+                  "number": 5,
+                  "title": "Sew",
+                  "content": "Keep the seam allowance even on both sides\nPlace the outer fabric pieces together, right sides facing. Sew both side seams",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-3.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205-3.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%205.jpg",
-              ]
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Match the seam lengthes with the outer fabric\nPlace the lining pieces together, right sides facing. Sew botrh side seams",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Match the seam lengthes with the outer fabric\nPlace the lining pieces together, right sides facing. Sew botrh side seams",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-3.jpg"
+                  ]
               },
-                "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%206-3.jpg",
-              ]
-            },
-            {
-              "number": 7,
-              "title": "Sew",
-              "content": "Align the short edges carefully before sewing\nSew both side seams of the waistband",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+              {
+                  "number": 7,
+                  "title": "Sew",
+                  "content": "Align the short edges carefully before sewing\nSew both side seams of the waistband",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-3.jpg"
+                  ]
               },
-                "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-2.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%207-3.jpg",
-              ]
-            },
-            {
-              "number": 8,
-              "title": "Sew",
-              "content": "Stitch back and forth seveval times for extra strength\nSew both ends of the elastic together",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+              {
+                  "number": 8,
+                  "title": "Sew",
+                  "content": "Stitch back and forth seveval times for extra strength\nSew both ends of the elastic together",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-2.jpg"
+                  ]
               },
-               "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%208-2.jpg",
-              ]
-            },
-            {
-              "number": 9,
-              "title": "Fold",
-              "content": "Make sure the elastic is centered inside the waistband\nFold the waistband in half along the center line. Insert the elastic between the folded layers",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+              {
+                  "number": 9,
+                  "title": "Fold",
+                  "content": "Make sure the elastic is centered inside the waistband\nFold the waistband in half along the center line. Insert the elastic between the folded layers",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-2.jpg"
+                  ]
               },
-              "images": [
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-1.jpg",
-                  "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%209-2.jpg",
-              ]
-            },
-            {
-              "number": 10,
-              "title": "Topstitch",
-              "content": "Stitch through all layers to prevent the elastic from twisting\nTopstitch at the elastic join and the back center seam of the waistband to secure",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+              {
+                  "number": 10,
+                  "title": "Topstitch",
+                  "content": "Stitch through all layers to prevent the elastic from twisting\nTopstitch at the elastic join and the back center seam of the waistband to secure",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2010.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Sew",
+                  "content": "Do not sew through the elastic while closing the waistband\nSew all around the waistband opening to close it. (You may also stitch a line at the center to further secure the elastic",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2011-2.jpg"
+                  ]
+              },
+              {
+                  "number": 12,
+                  "title": "Mark",
+                  "content": "Use the mark as a guide when joining the skirt seams\nMark the halfway point to align the side of the skirt",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Always pin at key points to prevent fabric shifting during stitching."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2012.jpg"
+                  ]
+              },
+              {
+                  "number": 13,
+                  "title": "Sew",
+                  "content": "Make sure outer fabric and lining are right sides facing\nPlace the outer fabric and lining together, right sides facing. Insert the finished waistband between them. Align side seams. Sew all around",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2013-3.jpg"
+                  ]
+              },
+              {
+                  "number": 14,
+                  "title": "Turn right side out",
+                  "content": "Turn the skirt to right side",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2014-2.jpg"
+                  ]
+              },
+              {
+                  "number": 15,
+                  "title": "Topstitch",
+                  "content": "Press the hem before stitching forr a clean finish\nFold the hem inward. Topstitch a 2 cm hem along the bottom edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015%20-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/A-line%20skirt/A-line%20skirt%2015-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 11,
-              "title": "Sew",
-              "content": "Do not sew through the elastic while closing the waistband\nSew all around the waistband opening to close it. (You may also stitch a line at the center to further secure the elastic",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Mark",
-              "content": "Use the mark as a guide when joining the skirt seams\nMark the halfway point to align the side of the skirt",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Sew",
-              "content": "Make sure outer fabric and lining are right sides facing\nPlace the outer fabric and lining together, right sides facing. Insert the finished waistband between them. Align side seams. Sew all around",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Turn right side out",
-              "content": "Turn the skirt to right side",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 15,
-              "title": "Topstitch",
-              "content": "Press the hem before stitching forr a clean finish\nFold the hem inward. Topstitch a 2 cm hem along the bottom edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
           ],
           "notions": "Elastic band",
           "bodyMeasurement": "",
@@ -2815,123 +3110,175 @@
           "cutPieces": "5 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Seam allowance is already included. Cut 2 mirrored pieces\nOn a 27 cm x 43 cm piece of fabric, cut out a booth- shaped piece following the pattern outline to form the outer front and back panels",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Seam allowance is already included. Cut 2 mirrored pieces\nOn a 27 cm x 43 cm piece of fabric, cut out a booth- shaped piece following the pattern outline to form the outer front and back panels",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Cut - Prepare",
+                  "content": "Seam allowance is already included. Cut 2 mirrored pieces\nUse the outer fabric piece from the previous step as a template and cut 2 mirrored lining pieces to match the shape",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Cut - Prepare",
+                  "content": "Seam allowance is already included. Cut 1 piece\nCut one fabric measuring 10 cm x 6 cm to make the hanging loop",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%203.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Sew",
+                  "content": "Keep edges evenly algned while sewing\nAlign the outer fabric pieces right sides together and sew around the entire edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%204-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%204-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%204-3.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Turn",
+                  "content": "Gently push out curved edges\nTurn the sewn outer fabric piece right side out",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Keep the fold straight and edges aligned\nFold the hanging loop along the center line and sew the side seam",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%206-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%206-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%206-3.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Turn",
+                  "content": "Use a blunt tool to shape the corners\nTurn the hanging loop right side out",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%207-2.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Sew",
+                  "content": "Positin the loop exactly 6 cm frm the edge before sewing\nAlign the lining pieces place the hanging loop between them 6 cm from the edge, and sew around the entire edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%208-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%208-3.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Insert",
+                  "content": "Make sure right side are facing each other\nPlace the sewn outer fabric piece inside the lining piece",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%209-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%209-2.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%209-3.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Sew",
+                  "content": "Leave a 5 cm turning gap\nAlign the top edges and sew around, leaveing a 5 cm opening unsewn for tủning",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2010-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2010-2.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "Turn",
+                  "content": "Turn gently to avoid tearing the seam\nTurn the piece right side out through the opening",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2011-2.jpg"
+                  ]
+              },
+              {
+                  "number": 12,
+                  "title": "Sew",
+                  "content": "Stitch ckose to the edge for a neat finish\nSew the opening closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2012.jpg"
+                  ]
+              },
+              {
+                  "number": 13,
+                  "title": "Fold",
+                  "content": "Measure 6 cm evenly all around\nFold the top edge outward 6 cm from the opening to creat the cuff",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2013-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Holiday%20stocking%20set/Holiday%20stocking%20set%2013-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Cut - Prepare",
-              "content": "Seam allowance is already included. Cut 2 mirrored pieces\nUse the outer fabric piece from the previous step as a template and cut 2 mirrored lining pieces to match the shape",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Cut - Prepare",
-              "content": "Seam allowance is already included. Cut 1 piece\nCut one fabric measuring 10 cm x 6 cm to make the hanging loop",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew",
-              "content": "Keep edges evenly algned while sewing\nAlign the outer fabric pieces right sides together and sew around the entire edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Turn",
-              "content": "Gently push out curved edges\nTurn the sewn outer fabric piece right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Keep the fold straight and edges aligned\nFold the hanging loop along the center line and sew the side seam",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Turn",
-              "content": "Use a blunt tool to shape the corners\nTurn the hanging loop right side out",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Sew",
-              "content": "Positin the loop exactly 6 cm frm the edge before sewing\nAlign the lining pieces place the hanging loop between them 6 cm from the edge, and sew around the entire edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Insert",
-              "content": "Make sure right side are facing each other\nPlace the sewn outer fabric piece inside the lining piece",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Sew",
-              "content": "Leave a 5 cm turning gap\nAlign the top edges and sew around, leaveing a 5 cm opening unsewn for tủning",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Turn",
-              "content": "Turn gently to avoid tearing the seam\nTurn the piece right side out through the opening",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Sew",
-              "content": "Stitch ckose to the edge for a neat finish\nSew the opening closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Fold",
-              "content": "Measure 6 cm evenly all around\nFold the top edge outward 6 cm from the opening to creat the cuff",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            }
           ],
           "notions": "",
           "bodyMeasurement": "",
@@ -3279,105 +3626,144 @@
           "cutPieces": "1 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Fold",
-              "content": "Align edges neatly before folding\nPrepare a piece of fabric measuring 16 cm x 38 cm and fold it in half along the center line",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
+              {
+                  "number": 1,
+                  "title": "Fold",
+                  "content": "Align edges neatly before folding\nPrepare a piece of fabric measuring 16 cm x 38 cm and fold it in half along the center line",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Always pin at key points to prevent fabric shifting during stitching."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%201-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%201-2.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Draw guideline",
+                  "content": "Use a fabric marker or chalk for clear lines\nDraw guideline marking on the folder fabric according to the pattern data",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%202.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Draw guideline",
+                  "content": "Prepare a round paper template with a 7 cm diameter, then trace five circles in sequence on the fabric spacing each circle 0.3 cm apart",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%203-2.jpg"
+                  ]
+              },
+              {
+                  "number": 4,
+                  "title": "Draw guideline",
+                  "content": "Add 0.5 cm seam allowance outside each circle",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%204.jpg"
+                  ]
+              },
+              {
+                  "number": 5,
+                  "title": "Cut",
+                  "content": "Cut smoothly to keep the curves clean\nCut along the drawn seam allowance lines to separate the shape",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%205-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%205-2.jpg"
+                  ]
+              },
+              {
+                  "number": 6,
+                  "title": "Sew",
+                  "content": "Keep the seam straight and even\nSew along the top openong to closed it",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%206.jpg"
+                  ]
+              },
+              {
+                  "number": 7,
+                  "title": "Trim & turn",
+                  "content": "Clip only into seam allowance\nTurn the piece right side out through the side seam opening. Clip small notches at the overlapping circle points",
+                  "tip": {
+                      "type": "warning",
+                      "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%207-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%207-2.jpg"
+                  ]
+              },
+              {
+                  "number": 8,
+                  "title": "Stuff",
+                  "content": "Do not overstuff\nFill the piece with polyester fiberfill",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%208-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%208-2.jpg"
+                  ]
+              },
+              {
+                  "number": 9,
+                  "title": "Thread",
+                  "content": "Use a safety pin to guide the eslastic\nInsert elastic throgh the side seam opening",
+                  "tip": {
+                      "type": "common_mistake",
+                      "text": "Always pin at key points to prevent fabric shifting during stitching."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%209.jpg"
+                  ]
+              },
+              {
+                  "number": 10,
+                  "title": "Knot",
+                  "content": "Test the tension before fixing\nTie or stitch two ends of the elastic together to secure it",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%2010.jpg"
+                  ]
+              },
+              {
+                  "number": 11,
+                  "title": "hand sew",
+                  "content": "Stitch invisibly for a neat finish\nHand sew the two remaining openings closed",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%2011-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Flower%20scrunchie/Flower%20scrunchie%2011-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Draw guideline",
-              "content": "Use a fabric marker or chalk for clear lines\nDraw guideline marking on the folder fabric according to the pattern data",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Ensure folds are even and aligned to avoid distortion in the final shape."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Draw guideline",
-              "content": "Prepare a round paper template with a 7 cm diameter, then trace five circles in sequence on the fabric spacing each circle 0.3 cm apart",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Draw guideline",
-              "content": "Add 0.5 cm seam allowance outside each circle",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Cut",
-              "content": "Cut smoothly to keep the curves clean\nCut along the drawn seam allowance lines to separate the shape",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Sew",
-              "content": "Keep the seam straight and even\nSew along the top openong to closed it",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Trim & turn",
-              "content": "Clip only into seam allowance\nTurn the piece right side out through the side seam opening. Clip small notches at the overlapping circle points",
-              "tip": {
-                "type": "warning",
-                "text": "Turn gently and support seams to prevent stress or tearing, especially around corners."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Stuff",
-              "content": "Do not overstuff\nFill the piece with polyester fiberfill",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Thread",
-              "content": "Use a safety pin to guide the eslastic\nInsert elastic throgh the side seam opening",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Always pin at key points to prevent fabric shifting during stitching."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Knot",
-              "content": "Test the tension before fixing\nTie or stitch two ends of the elastic together to secure it",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 11,
-              "title": "hand sew",
-              "content": "Stitch invisibly for a neat finish\nHand sew the two remaining openings closed",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            }
           ],
           "notions": "Elastic, Polyfill, Round cardboard",
           "bodyMeasurement": "",
@@ -3397,33 +3783,44 @@
           "cutPieces": "2 pieces",
           "keyTechniques": "",
           "steps": [
-            {
-              "number": 1,
-              "title": "Cut - Prepare",
-              "content": "Seam allowance is already included. Cut 2 pieces\nCut two square fabric pieces measuring 10 cm x 10 cm",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+              {
+                  "number": 1,
+                  "title": "Cut - Prepare",
+                  "content": "Seam allowance is already included. Cut 2 pieces\nCut two square fabric pieces measuring 10 cm x 10 cm",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Use sharp fabric scissors and mark accurately to ensure clean, precise cuts."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fringed%20square%20mat/Fringed%20square%20mat%201.jpg"
+                  ]
+              },
+              {
+                  "number": 2,
+                  "title": "Sew",
+                  "content": "Keep stitch spacing even around all sides\nPlace the two coaster pieces wrong sides together and hand sew around the edge, stitching 0.5 cm from the edge",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fringed%20square%20mat/Fringed%20square%20mat%202-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fringed%20square%20mat/Fringed%20square%20mat%202-2.jpg"
+                  ]
+              },
+              {
+                  "number": 3,
+                  "title": "Fringe",
+                  "content": "Pull threads gently to avoid tearing the fabric\nPull out the horizontal threads along all four edges to create a fringe effect",
+                  "tip": {
+                      "type": "pro_tip",
+                      "text": "Work carefully and check alignment to achieve a clean and accurate result."
+                  },
+                  "images": [
+                      "https://may.sewie.cloud/Step/Beginner/Fringed%20square%20mat/Fringed%20square%20mat%203-1.jpg",
+                      "https://may.sewie.cloud/Step/Beginner/Fringed%20square%20mat/Fringed%20square%20mat%203-2.jpg"
+                  ]
               }
-            },
-            {
-              "number": 2,
-              "title": "Sew",
-              "content": "Keep stitch spacing even around all sides\nPlace the two coaster pieces wrong sides together and hand sew around the edge, stitching 0.5 cm from the edge",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Fringe",
-              "content": "Pull threads gently to avoid tearing the fabric\nPull out the horizontal threads along all four edges to create a fringe effect",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            }
           ],
           "notions": "",
           "bodyMeasurement": "",
