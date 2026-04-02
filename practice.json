@@ -1970,7 +1970,7 @@
           "bodyMeasurement": "",
           "mainFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.4 m\n115 cm (45\") wide fabric: 0.4 m",
           "liningFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.4 m\n115 cm (45\") wide fabric: 0.4 m",
-          "pdf": "",
+          "pdf": "https://may.sewie.cloud/PDF/Beginner/Baby%20bib.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Beginner/Wristlet%20pouch.png",
           "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Wristlet%20pouch.jpg"
         },
@@ -4638,7 +4638,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Dresses/Polka%20Dot%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Dresses/Polka%20Dot%20Dress.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Polka%20Dot%20Dress.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Polka%20Dot%20Dress.jpeg"
         },
         {
           "name": "Bow Neck Dress",
@@ -6341,9 +6341,9 @@
           "bodyMeasurement": "",
           "mainFabric": "",
           "liningFabric": "",
-          "pdf": "",
+          "pdf": "https://may.sewie.cloud/PDF/Dresses/Dolman%20Sleeve%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Dresses/Vintage-Inspired%20Day%20Dress.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Vintage-Insprired%20Day%20Dress.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Vintage-Inspired%20Day%20Dress.PNG"
         },
         {
           "name": "Frilled Halterneck Dress",
@@ -7969,7 +7969,7 @@
         {
           "name": "Ruffle Sleeve Top",
           "level": "Intermediate ",
-          "time": "3–4 hrs",
+          "time": "2.5 hrs",
           "finishedSize": "Adult size 4-24",
           "materialNeeded": "Lightweight Cotton, Viscose",
           "techniques": "Ruffles, garment seams",
@@ -7977,12 +7977,12 @@
           "keyTechniques": "Ruffles\ngarment seams",
           "steps": [],
           "notions": "",
-          "bodyMeasurement": "",
+          "bodyMeasurement": "Bust : 33\"\nWaist : 26\"\nHip : 35\"",
           "mainFabric": "",
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Tops/Ruffle%20Sleeve%20Top.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Ruffle%20Sleeve%20Top.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Ruffle%20Sleeve%20Top.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Ruffle%20Sleeve%20Top.jpeg"
         },
         {
           "name": "Sleeveless Shell Top",
@@ -8031,12 +8031,12 @@
           "keyTechniques": "Blouse construction",
           "steps": [],
           "notions": "",
-          "bodyMeasurement": "",
+          "bodyMeasurement": "Bust : 33\"\nWaist : 26\"\nHip : 35\"",
           "mainFabric": "",
           "liningFabric": "",
-          "pdf": "",
+          "pdf": "https://may.sewie.cloud/PDF/Tops/Soft%20Drape%20Blouse.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Soft%20Drape%20Blouse.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Soft%20Drape%20Blouse.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Soft%20Drape%20Blouse.jpeg"
         },
         {
           "name": "Underbust Corset Belt",
@@ -8090,7 +8090,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Tops/Draped%20Tunic.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Tops/Draped%20Tunic.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Drap%20Tunic.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Draped%20Tunic.jpeg"
         },
         {
           "name": "Button-Back Blouse",
@@ -11321,7 +11321,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Bags/Nightingale%20Quilted%20Zipper%20Case.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Bags/Nightingale%20Quilted%20Zipper%20Case.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Nightingale%20Quilted%20Zipper%20Case.jpeg"
         },
         {
           "name": "Christmas Tree Drawstring Bag",
@@ -11483,7 +11483,7 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Bags/Canvas%20Shopper%20Tote%20Bag.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Bags/Canvas%20Shopper%20Tote%20Bag.png",
-          "patternCutList": ""
+          "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Canvas%20Shopper%20Tote%20Bag.jpeg"
         },
         {
           "name": "Ruffled Crescent Bag",
