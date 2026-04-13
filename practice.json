@@ -11345,7 +11345,7 @@
             {
               "number": 22,
               "title": "Close Neck and Prepare Foot",
-              "content": "",
+              "content": "Repeat for the other foot.",
               "tip": {
                 "type": "pro_tip",
                 "text": "Work carefully and check alignment to achieve a clean and accurate result."
@@ -11560,7 +11560,7 @@
               }
             },
             {
-              "number": 22,
+              "number": 13,
               "title": "Repeat for the other foot.",
               "content": "",
               "tip": {
@@ -11622,17 +11622,7 @@
           "techniques": "Quilting, durability sewing",
           "cutPieces": "",
           "keyTechniques": "Quilting\ndurability sewing",
-          "steps": [
-            {
-              "number": 2,
-              "title": "3/12",
-              "content": "",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
-            }
-          ],
+          "steps": [],
           "notions": "",
           "bodyMeasurement": "",
           "mainFabric": "",
@@ -13547,6 +13537,15 @@
               }
             },
             {
+              "number": 40,
+              "title": "Add bib and straps",
+              "content": "Place the bib at the centre front of the dungarees and topstitch in place as you hem the top of the trousers.",
+              "tip": {
+                "type": "",
+                "text": ""
+              }
+            },
+            {
               "number": 41,
               "title": "Add pockets",
               "content": "Cut two pocket rectangles and fold in half right sides together. Sew around the edges leaving a small gap on one edge for turning. Turn out, then turn in the raw edges and press.",
@@ -14005,15 +14004,6 @@
                 "type": "pro_tip",
                 "text": "Maintain a consistent seam allowance and guide fabric evenly for a clean, professional finish."
               }
-            },
-            {
-              "number": 44,
-              "title": "Download and print the templates.",
-              "content": "",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work carefully and check alignment to achieve a clean and accurate result."
-              }
             }
           ],
           "notions": "",
@@ -14066,18 +14056,7 @@
           "techniques": "",
           "cutPieces": "5 pieces",
           "keyTechniques": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Final press",
-              "content": "Use appropriate heat for fabric.\nCheck all seams before final pressing.\nPress the entire garment to smooth and finish.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press seams as you go using appropriate heat to set stitches and improve final garment structure."
-              },
-              "images": []
-            }
-          ],
+          "steps": [],
           "notions": "",
           "bodyMeasurement": "Bust: 33\"\nWaist: 26\"\nHip : 35\"",
           "mainFabric": "",
@@ -14416,6 +14395,16 @@
                 "https://may.sewie.cloud/Step/Phase2/Dresses/Bias%20Cut%20Slip%20Dress/Bias%20Cut%20Slip%20Dress%2025-1.jpg",
                 "https://may.sewie.cloud/Step/Phase2/Dresses/Bias%20Cut%20Slip%20Dress/Bias%20Cut%20Slip%20Dress%2025-2.jpg"
               ]
+            },
+            {
+              "number": 26,
+              "title": "Final press",
+              "content": "Use appropriate heat for fabric.\nCheck all seams before final pressing.\nPress the entire garment to smooth and finish.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press seams as you go using appropriate heat to set stitches and improve final garment structure."
+              },
+              "images": []
             }
           ],
           "notions": "",
