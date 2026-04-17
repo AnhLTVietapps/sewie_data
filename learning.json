@@ -224,6 +224,485 @@
           "image": "https://may.sewie.cloud/Learning/Shank%20button%202%201.jpg"
         }
       ]
+    },
+    {
+      "name": "Hemming",
+      "items": [
+        {
+          "no": 1,
+          "title": "Double Fold Hem",
+          "description": "Double Fold Hem is a method of folding the fabric edge twice: first, fold the raw edge inward by about 0.5–1 cm; second, fold it again by a larger amount (1–2 cm) to enclose the raw edge completely inside, then sew a line close to the inner fold or along the outer edge to create a clean and sturdy hem.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Double%20Fold%20Hem.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Double%20Fold%20Hem.png"
+        },
+        {
+          "no": 2,
+          "title": "Single Fold Hem",
+          "description": "Fold the raw edge once and sew straight; raw edge is visible inside unless finished with zigzag or serger.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Single%20Fold%20Hem.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Single%20Fold%20Hem.png"
+        },
+        {
+          "no": 3,
+          "title": "Blind Hem - Hand",
+          "description": "Fold fabric back, catch only a few threads of main fabric with a tiny stitch, then move diagonally; nearly invisible from the right side.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Hand.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Hand.png"
+        },
+        {
+          "no": 4,
+          "title": "Blind Hem - Machine",
+          "description": "Use a blind hem foot and zigzag-like stitch; fabric is folded with a crease, the machine takes a tiny bite of the fold, creating an almost invisible hem from the front.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Machine.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Machine.png"
+        },
+        {
+          "no": 5,
+          "title": "Rolled Hem",
+          "description": "Fabric edge is rolled tightly and sewn continuously (often with a rolled hem foot), creating a very narrow, smooth, rounded edge.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Rolled%20Hem.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Rolled%20Hem.png"
+        },
+        {
+          "no": 6,
+          "title": "Narrow Hem",
+          "description": "Very small double fold, sewn close to the inner edge; used on lightweight fabrics like chiffon or handkerchiefs.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Narrow%20Hem.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Narrow%20Hem.png"
+        },
+        {
+          "no": 7,
+          "title": "Curved Hem",
+          "description": "For rounded edges, use a narrow double fold, clip seam allowance at curves, press carefully, and sew slowly to avoid puckers.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Curved%20Hem.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Curved%20Hem.png"
+        },
+        {
+          "no": 8,
+          "title": "Hemming Pants",
+          "description": "Measure desired length, cut excess, fold twice (single or double), press, sew with straight stitch or blind hem; for jeans, keep the original worn edge by folding and topstitching with heavy thread.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Pants.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Pants.png"
+        },
+        {
+          "no": 9,
+          "title": "Hemming Skirts",
+          "description": "Depends on shape: straight skirts - double fold; flared/circle - narrow or rolled hem; use blind stitch or machine hem, pressing after each fold.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Skirts.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Skirts.png"
+        },
+        {
+          "no": 10,
+          "title": "Hemming Sleeves",
+          "description": "Usually narrow double fold or rolled hem (for thin fabrics), press carefully around the curve, sew with straight or blind stitch, keep even width all around.",
+          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Sleeves.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Sleeves.png"
+        }
+      ]
+    },
+    {
+      "name": "Zippers",
+      "items": [
+        {
+          "no": 1,
+          "title": "Centered Zipper",
+          "description": "The stitching runs straight down the middle, with fabric evenly covering both sides of the zipper. Sew from bottom to top using a standard zipper foot, then stitch a bar tack at the bottom.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Centered%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Centered%20Zipper.png"
+        },
+        {
+          "no": 2,
+          "title": "Invisible Zipper",
+          "description": "The zipper is hidden inside the seam, with only the teeth visible. Use an invisible zipper foot, open the zipper, place it face down on the right side of the fabric, and sew close to the teeth. When finished, the zipper is completely concealed.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Invisible%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Invisible%20Zipper.png"
+        },
+        {
+          "no": 3,
+          "title": "Lapped Zipper",
+          "description": "One side of the fabric overlaps the zipper (lapped), while the other side lies underneath. Topstitch close to the folded edge on the upper side, creating a clean finish, commonly used for skirts with waistbands.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Lapped%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Lapped%20Zipper.png"
+        },
+        {
+          "no": 4,
+          "title": "Exposed Zipper",
+          "description": "The zipper is fully exposed on the outside, often used as a design feature. Baste the seam first, press it open, place the zipper face up on the right side of the fabric, and stitch close to both sides of the teeth.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Exposed%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Exposed%20Zipper.png"
+        },
+        {
+          "no": 5,
+          "title": "Sewing Zipper with Lining",
+          "description": "Sew the zipper to the main fabric first, then attach the lining over it to cover the back of the zipper. Alternatively, sandwich the zipper between the main fabric and lining (bag method).",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Sewing%20Zipper%20with%20Lining.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Sewing%20Zipper%20with%20Lining.png"
+        },
+        {
+          "no": 6,
+          "title": "Fixing a Broken Zipper",
+          "description": "If teeth separate, gently squeeze the top of the slider with pliers. If the slider falls off, reattach it from the top. If teeth are broken, replacement is needed. If fabric is stuck, gently pull back or rub with soap.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Fixing%20a%20Broken%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Fixing%20a%20Broken%20Zipper.png"
+        },
+        {
+          "no": 7,
+          "title": "Shortening a Zipper",
+          "description": "Mark the new length, sew a bar tack across the teeth at that point (by machine or hand), then cut off the excess zipper below the tack. Reattach the top stop or leave the original top stop in place.",
+          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Shortening%20a%20Zipper.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Zippers/Shortening%20a%20Zipper.png"
+        }
+      ]
+    },
+    {
+      "name": "Waistbands",
+      "items": [
+        {
+          "no": 1,
+          "title": "Elastic Waistband",
+          "description": "Cut a fabric piece twice the width of the elastic, sew into a tube, insert the elastic, sew the elastic ends together, then stitch the elastic in place (or sew channels). No zipper needed.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Elastic%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Elastic%20Waistband.png"
+        },
+        {
+          "no": 2,
+          "title": "Drawstring Waistband",
+          "description": "Sew an attached or separate waistband, leaving two small openings at the front (or sides). Thread a drawstring through one opening, go around the waistband, and exit through the other opening. Can combine with elastic.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Drawstring%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Drawstring%20Waistband.png"
+        },
+        {
+          "no": 3,
+          "title": "Basic Waistband",
+          "description": "A separate waistband, usually with interfacing. Fold lengthwise, place right side onto the garment, sew along the seam, turn right side out, press, and topstitch close to the bottom edge.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Basic%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Basic%20Waistband.png"
+        },
+        {
+          "no": 4,
+          "title": "Contour Waistband",
+          "description": "A curved waistband, higher at the back and lower at the front. Cut in a curved shape with interfacing, sewn like a basic waistband but requires pressing curves to fit the body closely.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Contour%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Contour%20Waistband.png"
+        },
+        {
+          "no": 5,
+          "title": "Gathered Waistband",
+          "description": "The garment body is wider than the waistband. Sew two long basting stitches (or use elastic thread), pull the threads to create even gathers. Then attach the waistband (usually elastic or basic) onto the gathered section.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Gathered%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Gathered%20Waistband.png"
+        },
+        {
+          "no": 6,
+          "title": "Adding Elastic to Existing Clothes",
+          "description": "Make two small slits on the inside of the waistband (at the sides). Thread elastic through one slit, go around the waistband, and exit the other slit. Sew the elastic ends together, then close the slits. Alternatively, remove the old waistband and sew a new elastic waistband.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.png"
+        },
+        {
+          "no": 7,
+          "title": "Fix Loose Waistband",
+          "description": "For elastic waistband: make a small slit, cut a section of elastic shorter, sew the ends back together, close the slit. For rigid waistband: add darts at the sides or back, or sew small elastic pieces inside the side seams.",
+          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Fix%20Loose%20Waistband.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Fix%20Loose%20Waistband.png"
+        }
+      ]
+    },
+    {
+      "name": "Pockets",
+      "items": [
+        {
+          "no": 1,
+          "title": "Patch Pocket",
+          "description": "Cut a fabric piece in pocket shape, fold the edges inward 0.5-1 cm, press, then topstitch it onto the main fabric. Corners can be reinforced or decorative stitching added.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Patch%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Patch%20Pocket.png"
+        },
+        {
+          "no": 2,
+          "title": "Inseam Pocket",
+          "description": "Use two pocket lining pieces, sandwich them between the right sides of front and back panels, sew along the side seam. When finished, the pocket is completely inside, with only the opening visible at the side seam.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Inseam%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Inseam%20Pocket.png"
+        },
+        {
+          "no": 3,
+          "title": "Side Seam Pocket",
+          "description": "Similar to inseam pocket but the opening is topstitched with a curve or straight line, commonly seen in dress pants or skirts. Part of the pocket may be visible, finished with a facing or binding.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Side%20Seam%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Side%20Seam%20Pocket.png"
+        },
+        {
+          "no": 4,
+          "title": "Welt Pocket",
+          "description": "A slit pocket with a narrow welt covering the opening. Cut a slit on the main fabric, sew the welt and pocket lining, turn right side out, and bar tack the ends. Looks neat, often on blazers or dress pants.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Welt%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Welt%20Pocket.png"
+        },
+        {
+          "no": 5,
+          "title": "Zipper Pocket",
+          "description": "Cut a slit on the fabric, sew a zipper onto the wrong side, then attach the pocket bag underneath. Finish with binding or facing to cover the zipper edges. Keeps items secure, often used on sportswear or backpacks.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Zipper%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Zipper%20Pocket.png"
+        },
+        {
+          "no": 6,
+          "title": "Cargo Pocket",
+          "description": "A large patch pocket, often with a flap, with pleats at the bottom or sides to create volume (box shape). Topstitched onto pants or jackets, commonly seen on cargo pants or hunting jackets.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Cargo%20Pocket.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Cargo%20Pocket.png"
+        },
+        {
+          "no": 7,
+          "title": "Add Pocket to Existing Clothes",
+          "description": "Choose matching or contrasting fabric, cut a patch pocket, fold edges, press. Pin onto the desired location, topstitch close to the edge. Optionally add a zipper or flap. Avoid sewing over existing seams to prevent bulk.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Add%20Pocket%20to%20Existing%20Clothes.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Add%20Pocket%20to%20Existing%20Clothes.png"
+        },
+        {
+          "no": 8,
+          "title": "Reinforce Pocket Corners",
+          "description": "When sewing patch pockets or slit pocket openings, stitch a triangle tack or bar tack at each corner. Alternatively, use dense zigzag stitching or attach rivets to prevent the corners from tearing.",
+          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Reinforce%20Pocket%20Corners.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Pockets/Reinforce%20Pocket%20Corners.png"
+        }
+      ]
+    },
+    {
+      "name": "Sleeves",
+      "items": [
+         {
+           "no": 1,
+           "title": "Set-in Sleeve",
+           "description": "A sleeve sewn separately and set into a closed armhole. The sleeve cap is slightly eased to fit the armhole. Attach around the armhole, then sew the underarm seam. Creates a structured, tailored fit.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Set-in%20Sleeve.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Set-in%20Sleeve.png"
+         },
+         {
+           "no": 2,
+           "title": "Flat Sleeve Attachment",
+           "description": "Attach the sleeve to the flat (unsewn) armhole first, right sides together. Then sew the side seam and underarm seam in one continuous line. Easier than set-in sleeves, commonly used for casual garments.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Flat%20Sleeve%20Attachment.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Flat%20Sleeve%20Attachment.png"
+         },
+         {
+           "no": 3,
+           "title": "Gathered Sleeve",
+           "description": "The sleeve cap is wider than the armhole and gathered to fit. Sew basting stitches, pull to create gathers, then set into the armhole. Adds soft volume at the shoulder.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Gathered%20Sleeve.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Gathered%20Sleeve.png"
+         },
+         {
+           "no": 4,
+           "title": "Puff Sleeve",
+           "description": "A sleeve with fullness at the cap, cuff, or both. Gather or pleat the fabric, then attach to the armhole and finish with a cuff or elastic. Creates a rounded, voluminous shape.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Puff%20Sleeve.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Puff%20Sleeve.png"
+         },
+         {
+           "no": 5,
+           "title": "Sewing Sleeve Cuff",
+           "description": "Attach a cuff to finish the sleeve edge. Sew the cuff to the sleeve, fold it over to enclose the seam, then topstitch. Interfacing is often used for structure. Buttons or closures can be added.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Sewing%20Sleeve%20Cuff.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Sewing%20Sleeve%20Cuff.png"
+         },
+         {
+           "no": 6,
+           "title": "Short Sleeve Hem",
+           "description": "Finish the sleeve edge with a narrow or double fold hem. Fold, press, and stitch close to the edge. Use a rolled hem for lightweight or flared sleeves.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Short%20Sleeve%20Hem.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Short%20Sleeve%20Hem.png"
+         },
+         {
+           "no": 7,
+           "title": "Adjust Sleeve Length",
+           "description": "Mark the desired length, add seam allowance, and trim excess fabric. Finish with a hem or reattach the cuff. For sleeves with plackets, shorten both the placket and cuff proportionally.",
+           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Adjust%20Sleeve%20Length.mp4",
+           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Adjust%20Sleeve%20Length.png"
+         }
+       ]
+    },
+    {
+      "name": "Necklines",
+      "items": [
+        {
+          "no": 1,
+          "title": "Round Neckline",
+          "description": "A curved neckline that follows the base of the neck. Cut along a smooth curve and finish with bias binding or a facing. Simple and versatile, suitable for many garment styles.",
+          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Round%20Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Necklines/Round%20Neckline.png"
+        },
+        {
+          "no": 2,
+          "title": "V-Neckline",
+          "description": "A neckline with a sharp V-shaped point at the center. Mark the point precisely, sew to the tip, clip into the corner, then turn and press carefully to create a clean, sharp finish.",
+          "video": "https://may.sewie.cloud/Learning_videos/Necklines/V-Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Necklines/V-Neckline.png"
+        },
+        {
+          "no": 3,
+          "title": "Square Neckline",
+          "description": "A neckline with straight edges and right-angle corners. Clip into each corner before turning to reduce bulk, then press carefully to maintain crisp, clean edges.",
+          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Square%20Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Necklines/Square%20Neckline.png"
+        },
+        {
+          "no": 4,
+          "title": "Bias Binding Neckline",
+          "description": "Finish the neckline using bias-cut fabric (cut at 45°) for flexibility. Sew the binding to the edge, fold to the inside, and stitch in place. Creates a clean finish that adapts well to curves.",
+          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Bias%20Binding%20Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Necklines/Bias%20Binding%20Neckline.png"
+        },
+        {
+          "no": 5,
+          "title": "Facing Neckline",
+          "description": "Use a shaped facing piece to finish the neckline from the inside. Sew right sides together, clip curves, turn inward, and press. Provides a clean, structured finish, ideal for heavier fabrics.",
+          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Facing%20Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Necklines/Facing%20Neckline.png"
+        }
+      ]
+    },
+    {
+      "name": "Collars",
+      "items": [
+        {
+          "no": 1,
+          "title": "Basic Shirt Collar",
+          "description": "A structured collar made of a collar stand and collar fall. Sew the collar pieces right sides together, turn and press. Attach the collar to the stand, then sew the stand to the neckline, enclosing the collar. Creates a clean, structured look for shirts.",
+          "video": "https://may.sewie.cloud/Learning_videos/Collars/Basic%20Shirt%20Collar.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Collars/Basic%20Shirt%20Collar.png"
+        },
+        {
+          "no": 2,
+          "title": "Peter Pan Collar",
+          "description": "A flat, rounded collar that lies smoothly against the garment with no stand. Sew the collar pieces together, turn and press, then attach to the neckline using a facing or binding. Common in feminine or children's designs.",
+          "video": "https://may.sewie.cloud/Learning_videos/Collars/Peter%20Pan%20Collar.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Collars/Peter%20Pan%20Collar.png"
+        },
+        {
+          "no": 3,
+          "title": "Mandarin Collar",
+          "description": "A short standing collar without a fold-over section. Cut a slightly curved band with interfacing, fold lengthwise, and attach to the neckline. Often finished with buttons at the front for a clean, minimal look.",
+          "video": "https://may.sewie.cloud/Learning_videos/Collars/Mandarin%20Collar.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Collars/Mandarin%20Collar.png"
+        },
+        {
+          "no": 4,
+          "title": "Attaching Collar to Garment",
+          "description": "Pin or baste the collar to the neckline, right sides together. Attach a facing or collar band to enclose the seam. Clip curves, press well, and ease the fabric evenly to prevent twisting or puckering.",
+          "video": "https://may.sewie.cloud/Learning_videos/Collars/Attaching%20Collar%20to%20Garment.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Collars/Attaching%20Collar%20to%20Garment.png"
+        },
+        {
+          "no": 5,
+          "title": "Fixing Uneven Neckline",
+          "description": "Uneven necklines are often caused by stretching or inaccurate cutting. Remove the stitching, press the fabric flat, and re-mark the neckline evenly. Reattach the collar using pins, sew slowly, and avoid stretching. Use stay tape if the fabric has distorted.",
+          "video": "https://may.sewie.cloud/Learning_videos/Collars/Fixing%20Uneven%20Neckline.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Collars/Fixing%20Uneven%20Neckline.png"
+        }
+      ]
+    },
+    {
+      "name": "Closures",
+      "items": [
+        {
+          "no": 1,
+          "title": "Hook and Eye",
+          "description": "A small fastening made of a hook and a loop (eye). Sew the hook to one side and the eye to the opposite side, aligning them carefully. Commonly used at waistbands, skirts, or collars where extra security is needed. Stitch firmly over the base to prevent loosening.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Hook%20and%20Eye.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Hook%20and%20Eye.png"
+        },
+        {
+          "no": 2,
+          "title": "Snap Button",
+          "description": "A press-fastener with two parts (ball and socket) that snap together. Attach using snap pliers or by sewing. For sew-on snaps, stitch around the holes securely. For metal snaps, insert prongs through the fabric and press firmly. Common in shirts, kidswear, and bags.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Snap%20Button.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Snap%20Button.png"
+        },
+        {
+          "no": 3,
+          "title": "Velcro Closure",
+          "description": "A hook-and-loop fastener with two sides: rough (hook) and soft (loop). Cut to size and sew onto fabric using a rectangle or cross-stitch pattern. Reinforce corners with bar tacks to prevent peeling. Keep away from raw edges to reduce lint buildup.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Velcro%20Closure.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Velcro%20Closure.png"
+        },
+        {
+          "no": 4,
+          "title": "Button Loop",
+          "description": "A small loop made from fabric or cord that fits over a button. Create using bias fabric or elastic cord, sew into a loop, then attach to the garment edge. Often used on delicate garments or back closures. Ensure the loop is snug for a secure fit.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Button%20Loop.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Button%20Loop.png"
+        },
+        {
+          "no": 5,
+          "title": "Toggle Closure",
+          "description": "A closure made of a toggle (bar) and a loop. Attach the toggle with a cord or fabric strip, and sew a loop on the opposite side. To fasten, pass the toggle through the loop. Common on coats and outerwear.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Toggle%20Closure.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Toggle%20Closure.png"
+        },
+        {
+          "no": 6,
+          "title": "Sewing Clasps",
+          "description": "Metal fasteners such as purse clasps or lobster clasps. Sew the base plate onto fabric using tight whipstitches, reinforcing multiple times. Use strong or nylon thread for durability. Ensure the base is well secured to handle tension.",
+          "video": "https://may.sewie.cloud/Learning_videos/Closures/Sewing%20Clasps.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Closures/Sewing%20Clasps.png"
+        }
+      ]
+    },
+    {
+      "name": "Fabric Shaping",
+      "items": [
+        {
+          "no": 1,
+          "title": "Gathering Fabric",
+          "description": "Sew 2–3 rows of long basting stitches within the seam allowance. Leave long thread tails. Pull the bobbin threads to gather the fabric evenly. Distribute the gathers, then attach to another fabric piece (e.g., a waistband). Leave 0.5–1 cm seam allowance.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Gathering%20Fabric.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Gathering%20Fabric.png"
+        },
+        {
+          "no": 2,
+          "title": "Pleats - Box, Knife",
+          "description": "Knife pleat: all folds face the same direction. Box pleat: folds face each other, forming an “H” shape. Mark pleat positions, fold accurately, and press firmly before stitching. Secure pleats by stitching across the top edge (within seam allowance) or stitch down partially/full length depending on design.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.png"
+        },
+        {
+          "no": 3,
+          "title": "Sewing Darts",
+          "description": "Fold fabric along the dart line, right sides together. Sew from the wide end toward the tip, tapering gradually and sewing off the edge at the tip. Do not backstitch at the tip; instead, tie the threads. Press toward center or down.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Sewing%20Darts.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Sewing%20Darts.png"
+        },
+        {
+          "no": 4,
+          "title": "Ruffles",
+          "description": "Cut a strip 1.5–3× longer than the area. Sew gathering stitches, pull to create gathers, and distribute evenly. Attach to the main fabric. Avoid pressing flat to maintain volume. Use a ruffler foot or two rows of gathering stitches.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Ruffles.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Ruffles.png"
+        },
+        {
+          "no": 5,
+          "title": "Tucks",
+          "description": "Small, even folds stitched down their entire length, used for decoration or light elastic effect. Fold fabric vertically or horizontally, press firmly, sew a line parallel to the folded edge about 0.3-0.5 cm away. No gathering, just folding and stitching.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Tucks.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Tucks.png"
+        },
+        {
+          "no": 6,
+          "title": "Shirring - Elastic Thread",
+          "description": "Wind elastic thread onto the bobbin by hand (without stretching). Sew parallel rows 0.5–1.5 cm apart (usually on the wrong side). After sewing, apply steam or heat to shrink the elastic, creating even gathers.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.png"
+        },
+        {
+          "no": 7,
+          "title": "Adding Volume",
+          "description": "Increase fullness by adding extra fabric using pleats, gathers, or inserts (e.g., godets). Cutting on the bias also creates natural drape. For sleeves, increase sleeve cap height. For skirts, add width at the hem and control fullness at the waistband.",
+          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Adding%20Volume.mp4",
+          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Adding%20Volume.png"
+        }
+      ]
     }
   ]
 }
