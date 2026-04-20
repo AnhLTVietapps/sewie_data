@@ -1,0 +1,82 @@
+{
+  "symbols": [
+    {
+      "id": "adjustment_lines",
+      "title": "Adjustment Lines",
+      "description": "Lines indicating where to shorten or lengthen pattern pieces.",
+      "image": "https://may.sewie.cloud/Symbols/Adjustment%20lines.png"
+    },
+    {
+      "id": "buttonholes_buttons",
+      "title": "Buttonholes and Buttons",
+      "description": "Marks showing placement of buttons and buttonholes on garments.",
+      "image": "https://may.sewie.cloud/Symbols/Buttonholes%20and%20Buttons.png"
+    },
+    {
+      "id": "cf_cb",
+      "title": "Centre Front / Centre Back",
+      "description": "Dashed or dotted lines indicating the center front or back. Used to align pattern pieces correctly.",
+      "image": "https://may.sewie.cloud/Symbols/CF-CB.png"
+    },
+    {
+      "id": "cutting_line",
+      "title": "Cutting Line",
+      "description": "Lines showing where to cut the fabric, often marked with a scissors icon.",
+      "image": "https://may.sewie.cloud/Symbols/Cutting%20line.png"
+    },
+    {
+      "id": "dart_lines",
+      "title": "Dart Lines",
+      "description": "Lines and arrows indicating how to fold and stitch darts correctly.",
+      "image": "https://may.sewie.cloud/Symbols/Dart%20lines.png"
+    },
+    {
+      "id": "darts",
+      "title": "Darts",
+      "description": "Triangular shapes indicating where to stitch to create garment shaping.",
+      "image": "https://may.sewie.cloud/Symbols/Darts.png"
+    },
+    {
+      "id": "foldlines",
+      "title": "Foldlines",
+      "description": "Indicates the edge should be placed on the fabric fold. No seam allowance is added.",
+      "image": "https://may.sewie.cloud/Symbols/Foldlines.png"
+    },
+    {
+      "id": "grainlines",
+      "title": "Grainlines",
+      "description": "Arrows showing how to align pattern pieces parallel to the fabric selvedge.",
+      "image": "https://may.sewie.cloud/Symbols/Grainlines.png"
+    },
+    {
+      "id": "notches",
+      "title": "Notches",
+      "description": "Small marks on pattern edges used to match pieces accurately. Cut outward or snip inward slightly (about 3mm).",
+      "image": "https://may.sewie.cloud/Symbols/Notches.png"
+    },
+    {
+      "id": "shapes",
+      "title": "Shapes / Symbols",
+      "description": "Dots, circles, and crosses marking key sewing points like alignment or stitch start/end.",
+      "image": "https://may.sewie.cloud/Symbols/Shapes.png"
+    },
+    {
+      "id": "size_lines",
+      "title": "Size Lines",
+      "description": "Most patterns include multiple size lines. Use the designer’s size chart to choose your correct size, then cut along the corresponding line.",
+      "image": "https://may.sewie.cloud/Symbols/Size%20Lines.png"
+    },
+    {
+      "id": "stitching_lines",
+      "title": "Stitching Lines",
+      "description": "Dashed lines showing where stitching or topstitching should be applied.",
+      "image": "https://may.sewie.cloud/Symbols/Stitching%20lines.png"
+    },
+    {
+      "id": "zipper_mark",
+      "title": "Zipper Mark",
+      "description": "Indicates where a zipper should be inserted.",
+      "image": "https://may.sewie.cloud/Symbols/Zipper%20mark.png"
+    }
+  ]
+}
