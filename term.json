@@ -1,0 +1,88 @@
+{
+  "terms": [
+    {
+      "title": "Appliqué",
+      "description": "A decorative technique where pieces of fabric are sewn onto another fabric to create patterns or designs"
+    },
+    {
+      "title": "Back Stitch",
+      "description": "A strong hand stitch where each stitch goes slightly backward, creating a solid, continuous line often used for seams"
+    },
+    {
+      "title": "Back Tack",
+      "description": "Sewing backward for a few stitches to lock the thread and prevent seams from coming undone"
+    },
+    {
+      "title": "Bias Binding",
+      "description": "Strips of fabric cut diagonally, used to neatly finish edges and curves"
+    },
+    {
+      "title": "Bobbin",
+      "description": "A small spool under the needle plate that holds the lower thread in a sewing machine"
+    },
+    {
+      "title": "Grain",
+      "description": "The direction of threads in fabric, including lengthwise and crosswise lines"
+    },
+    {
+      "title": "Interfacing",
+      "description": "An extra layer of fabric added inside to give shape and support to garments"
+    },
+    {
+      "title": "Presser Foot",
+      "description": "The part of the sewing machine that holds the fabric in place while stitching"
+    },
+    {
+      "title": "Raw Edge",
+      "description": "The unfinished edge of fabric that can fray if not sewn or finished"
+    },
+    {
+      "title": "Reverse Stitch",
+      "description": "A machine function that sews backward to secure stitches at the beginning or end"
+    },
+    {
+      "title": "Right Side",
+      "description": "The outer, visible side of the fabric when the project is finished"
+    },
+    {
+      "title": "Seam Allowance",
+      "description": "The extra fabric between the stitching line and the edge, used to join pieces together"
+    },
+    {
+      "title": "Self-Lined Fabric",
+      "description": "Using the same fabric on both the inside and outside of a garment"
+    },
+    {
+      "title": "Selvedge",
+      "description": "The finished edge of fabric that doesn’t fray and runs along its length"
+    },
+    {
+      "title": "Stay Stitch",
+      "description": "A line of stitching sewn close to the edge to keep fabric from stretching out of shape"
+    },
+    {
+      "title": "Tacking Stitch",
+      "description": "Temporary hand stitches used to hold fabric pieces in place before final sewing"
+    },
+    {
+      "title": "Top Stitch",
+      "description": "A visible line of stitching on the outside of a garment, often used for decoration or strength"
+    },
+    {
+      "title": "Warp",
+      "description": "The threads that run lengthwise in fabric and stay fixed on the loom"
+    },
+    {
+      "title": "Weft",
+      "description": "The threads woven across the fabric, going over and under the warp threads"
+    },
+    {
+      "title": "Wrong Side",
+      "description": "The inside or hidden side of the fabric"
+    },
+    {
+      "title": "Zig-Zag Stitch",
+      "description": "A stitch that moves side to side, used to prevent fraying or add decoration"
+    }
+  ]
+}
