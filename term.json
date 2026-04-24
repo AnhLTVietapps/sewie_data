@@ -451,6 +451,86 @@
         {
             "title": "Grain Distortion",
             "description": "When fabric grain becomes misaligned due to handling or cutting"
+        },
+        {
+            "title": "Stitch",
+            "description": "A single loop of thread that forms a line of sewing, used to join, decorate, or finish fabric"
+        },
+        {
+            "title": "Running Stitch",
+            "description": "A simple hand stitch that goes in and out of fabric in a straight line, often used for basting or gathering"
+        },
+        {
+            "title": "Binding",
+            "description": "A method of finishing edges by enclosing them with a strip of fabric for a clean and durable finish"
+        },
+        {
+            "title": "Cord",
+            "description": "A thick twisted thread or string used for decoration or reinforcement in sewing projects"
+        },
+        {
+            "title": "Darning",
+            "description": "A technique used to repair holes or worn areas in fabric by weaving stitches over the damaged area"
+        },
+        {
+            "title": "Embroidery",
+            "description": "Decorative stitching used to create patterns or designs on fabric using thread"
+        },
+        {
+            "title": "Eyelet",
+            "description": "A small reinforced hole in fabric, often used for laces or decorative purposes"
+        },
+        {
+            "title": "Fusible Interfacing",
+            "description": "A type of interfacing with adhesive that bonds to fabric when heat is applied, adding structure and support"
+        },
+        {
+            "title": "Jersey",
+            "description": "A soft, stretchy knit fabric commonly used for T-shirts and casual garments"
+        },
+        {
+            "title": "Needlework",
+            "description": "Any form of sewing, embroidery, or decorative stitching done using a needle"
+        },
+        {
+            "title": "Overlay",
+            "description": "A layer of fabric placed over another fabric, often used for decorative or sheer effects"
+        },
+        {
+            "title": "Pad Stitching",
+            "description": "A hand sewing technique used to shape and support areas like collars and lapels"
+        },
+        {
+            "title": "Piecing",
+            "description": "Joining smaller pieces of fabric together to create a larger design, commonly used in quilting"
+        },
+        {
+            "title": "Pocket",
+            "description": "A small fabric pouch attached to or inserted into a garment to hold items"
+        },
+        {
+            "title": "Ruching",
+            "description": "A decorative technique where fabric is gathered to create a textured, pleated effect"
+        },
+        {
+            "title": "Thread",
+            "description": "A thin strand used in sewing to join fabric pieces together"
+        },
+        {
+            "title": "Thimble",
+            "description": "A small protective cap worn on the finger to push a needle safely while sewing"
+        },
+        {
+            "title": "Trim",
+            "description": "Decorative elements such as ribbons, lace, or edging added to enhance a garment"
+        },
+        {
+            "title": "Twill Tape",
+            "description": "A flat woven tape used to reinforce seams or stabilize edges"
+        },
+        {
+            "title": "Yarn",
+            "description": "A continuous strand of fibers used for sewing, knitting, or weaving"
         }
     ]
 }
