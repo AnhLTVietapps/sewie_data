@@ -1619,7 +1619,7 @@
             "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Strawberry%20ornament.jpg"
           },
           {
-            "name": "Scrunchie",
+            "name": "Cute Scrunchie",
             "level": "Beginner",
             "time": "15 min",
             "finishedSize": "12 x 12 cm",
@@ -1777,7 +1777,8 @@
             "liningFabric": "",
             "pdf": "https://may.sewie.cloud/PDF/Beginner/Scrunchie.pdf",
             "preview": "https://may.sewie.cloud/Avatar/Beginner/Scrunchie.png",
-            "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Scrunchie.jpg"
+            "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Scrunchie.jpg",
+            "video":"https://may.sewie.cloud/Practice_Video/Cute%20Scrunchie.mp4"
           },
           {
             "name": "Lip Balm Keychain Holder",
@@ -6020,10 +6021,11 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Beginner/Cute%20puffed%20coaster.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Beginner/Cute%20puffed%20coaster.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Cute%20puffed%20coaster.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Cute%20puffed%20coaster.jpg",
+          "video":"https://may.sewie.cloud/Practice_Video/Cute%20Puffed%20Coaster.mp4"
         },
         {
-          "name": "Scrunchie",
+          "name": "Cute Scrunchie",
           "level": "Beginner",
           "time": "15 min",
           "finishedSize": "12 x 12 cm",
@@ -6181,10 +6183,11 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Beginner/Scrunchie.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Beginner/Scrunchie.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Scrunchie.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Scrunchie.jpg",
+          "video":"https://may.sewie.cloud/Practice_Video/Cute%20Scrunchie.mp4"
         },
         {
-          "name": "Everyday fabric pouch",
+          "name": "Small Fabric Pouch",
           "level": "Beginner",
           "time": "0.5h",
           "finishedSize": "11 x 8 cm",
@@ -6289,7 +6292,8 @@
           "liningFabric": "",
           "pdf": "https://may.sewie.cloud/PDF/Beginner/Everyday%20fabric%20pouch.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Beginner/Everyday%20fabric%20pouch.png",
-          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Everyday%20fabric%20pouch.jpg"
+          "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Everyday%20fabric%20pouch.jpg",
+          "video":"https://may.sewie.cloud/Practice_Video/Small%20Fabric%20Pouch.mp4"
         },
         {
           "name": "Heart tote bag",
