@@ -1163,7 +1163,7 @@
                     "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Book%20Sleeve.jpg"
                 },
                 {
-                    "name": "Mini Fabric Basket",
+                    "name": "Cute Bowl Cozy",
                     "level": "Beginner",
                     "time": "30 min",
                     "finishedSize": "16CM*16CM",
@@ -1312,10 +1312,10 @@
                     "pdf": "https://may.sewie.cloud/PDF/Phase2/Bowl%20Cozy.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Phase2/Bowl%20Cozy.png",
                     "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Bowl%20Cozy.jpg",
-                    "video":"https://may.sewie.cloud/Practice_Video/Mini%20Fabric%20Basket.mp4"
+                    "video":"https://may.sewie.cloud/Practice_Video/Cute%20Bowl%20Cozy.mp4"
                 },
                 {
-                    "name": "Lip Balm Keychain Holder",
+                    "name": "Lipstick Keychain Holder",
                     "level": "Beginner",
                     "time": "0.5 hr",
                     "finishedSize": "4CM*8CM",
@@ -1499,7 +1499,8 @@
                     "liningFabric": "",
                     "pdf": "https://may.sewie.cloud/PDF/Phase2/Lip%20Balm%20Keychain%20Holder.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Phase2/Lip%20Balm%20Keychain%20Holder.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Lip%20Balm%20Keychain%20Holder.jpg"
+                    "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Lip%20Balm%20Keychain%20Holder.jpg",
+                    "video":"https://may.sewie.cloud/Practice_Video/Lipstick%20Keychain%20Holder.mp4"
                 },
                 {
                     "name": "Funny Frog Plush",
@@ -2234,8 +2235,8 @@
                     "name": "Cute puffed coaster",
                     "level": "Beginner",
                     "time": "15 min",
-                    "finishedSize": "18 x 18 (or customized)",
-                    "materialNeeded": "",
+                    "finishedSize": "4 x 4 (or customized)",
+                    "materialNeeded": "2 pieces of fabric (at least 12x12 cm), Cardboard templates (10x10 cm & 5x5 cm), Ruler, Stuffing, Scissors, Tailor's chalk, Needle & Thread, Sewing machine",
                     "techniques": "",
                     "cutPieces": "2 pieces",
                     "keyTechniques": "",
@@ -3949,7 +3950,7 @@
                     "video":"https://may.sewie.cloud/Practice_Video/Bow.mp4"
                 },
                 {
-                    "name": "Baby bib",
+                    "name": "Cute Baby Bib",
                     "level": "Beginner",
                     "time": "30 min",
                     "finishedSize": "22 x 26 cm",
@@ -4042,10 +4043,11 @@
                     "liningFabric": "",
                     "pdf": "https://may.sewie.cloud/PDF/Beginner/Baby%20bib.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Beginner/Baby%20bib.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Baby%20bib.jpg"
+                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Baby%20bib.jpg",
+                    "video":"https://may.sewie.cloud/Practice_Video/Cute%20Baby%20Bib.mp4"
                 },
                 {
-                    "name": "Wristlet pouch",
+                    "name": "Wristlet Pouch",
                     "level": "Beginner",
                     "time": "60 min",
                     "finishedSize": "27 x 38 cm (or customized)",
@@ -4204,10 +4206,11 @@
                     "liningFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.4 m\n115 cm (45\") wide fabric: 0.4 m",
                     "pdf": "https://may.sewie.cloud/PDF/Beginner/Baby%20bib.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Beginner/Wristlet%20pouch.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Wristlet%20pouch.jpg"
+                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Wristlet%20pouch.jpg",
+                    "video":"https://may.sewie.cloud/Practice_Video/Wristlet%20Pouch.mp4"
                 },
                 {
-                    "name": "Zipper coin pouch",
+                    "name": "Lipper Coin Pouch",
                     "level": "Beginner",
                     "time": "30 min",
                     "finishedSize": "15 x 12 cm",
@@ -4350,7 +4353,8 @@
                     "liningFabric": "Woven or upcycled fabric\n150 cm (59\") wide fabric: 0.25 m\n115 cm (45\") wide fabric: 0.25 m",
                     "pdf": "https://may.sewie.cloud/PDF/Beginner/Zipper%20coin%20pouch.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Beginner/Zipper%20coin%20pouch.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Zipper%20coin%20pouch.jpg"
+                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Zipper%20coin%20pouch.jpg",
+                    "video":"https://may.sewie.cloud/Practice_Video/Lipper%20Coin%20Pouch.mp4"
                 },
                 {
                     "name": "Super easy cushion",
@@ -5850,7 +5854,7 @@
                     "patternCutList": "https://may.sewie.cloud/Pattern%20Cutlist/Strawberry%20garden%20mug%20mats.jpg"
                 },
                 {
-                    "name": "Flower scrunchie",
+                    "name": "Flower Scrunchie",
                     "level": "Beginner",
                     "time": "0.5 hr",
                     "finishedSize": "14 cm x 14 cm",
@@ -6004,10 +6008,10 @@
                     "liningFabric": "",
                     "pdf": "https://may.sewie.cloud/PDF/Beginner/Flower%20scrunchie.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Beginner/Flower%20scrunchie.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Flower%20scrunchie.jpg"
+                    "video":"https://may.sewie.cloud/Practice_Video/Flower%20Scrunchie.mp4"
                 },
                 {
-                    "name": "Fringed square mat",
+                    "name": "Finged Square Mat",
                     "level": "Beginner",
                     "time": "0.5 hr",
                     "finishedSize": "10 cm x 10 cm",
@@ -6061,7 +6065,8 @@
                     "liningFabric": "",
                     "pdf": "https://may.sewie.cloud/PDF/Beginner/Fringed%20square%20mat.pdf",
                     "preview": "https://may.sewie.cloud/Avatar/Beginner/Fringed%20square%20mat.png",
-                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Fringed%20square%20mat.jpg"
+                    "patternCutList": "https://may.sewie.cloud/Pattern Cutlist/Fringed%20square%20mat.jpg",
+                    "video":"https://may.sewie.cloud/Practice_Video/Finged%20Square%20Mat.mp4"
                 }
             ]
         },
