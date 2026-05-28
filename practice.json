@@ -2988,92 +2988,128 @@
                     "cutPieces": "1 piece",
                     "keyTechniques": "",
                     "steps":
-                        [
-                            {
-                                "number": 1,
-                                "title": "Bowl Cover Outer Fabric",
-                                "content":
-                                    "Use the provided pattern layout and keep the grainline consistent.\nCut pattern piece #1 (bowl cover outer fabric) x2 according to the pattern, with 1.5 cm (5/8\") seam allowance included."
-                            },
-                            {
-                                "number": 2,
-                                "title": "Cut Bowl Cover Outer Fabric",
-                                "content":
-                                    "Seam allowance 1.5 cm (5/8\") is included.\nCut pattern piece #1 x2 for the bowl cover outer fabric, following the pattern."
-                            },
-                            {
-                                "number": 3,
-                                "title": "Accessory: Cut Elastic Strip",
-                                "content":
-                                    "Elastic width is 1 cm; length depends on the measured bowl diameter.\nPrepare the elastic accessory for pattern piece #1; cut 1 piece to the measured length based on the bowl diameter"
-                            },
-                            {
-                                "number": 4,
-                                "title": "Cut Elastic Strip",
-                                "content":
-                                    "Length should be determined by the measured bowl diameter.\nCut pattern piece #1 x1 for the elastic strip, with width 1 cm (3/8\")."
-                            },
-                            {
-                                "number": 5,
-                                "title": "Mark Placement Line",
-                                "content":
-                                    "Mark the 1/4 points clearly for even distribution.\nUse the bowl diameter to calculate the finished size before marking.\nMark the elastic placement line 3 cm from the edge, based on the bowl diameter."
-                            },
-                            {
-                                "number": 6,
-                                "title": "Mark Placement Line",
-                                "content":
-                                    "Mark the bowl diameter reference and the elastic placement line 3 cm from the edge on pattern piece #1.\nFirst, measure the diameter of your bowl.\nIf the bowl diameter is 20 cm, the fabric size should be:\n20 cm + 6 cm + 3 cm = 29 cm\nIf the bowl diameter is 25 cm, the fabric size should be:\n25 cm + 6 cm + 3 cm = 34 cm"
-                            },
-                            {
-                                "number": 7,
-                                "title": "Finish Raw Edge\n.",
-                                "content":
-                                    "Keep the edge smooth to avoid stretching\nwhile finishing.\nFinish the raw edge neatly before marking and assembly.\nOverlock the raw edge of the bowl cover piece #1, or finish the edge with decorative lace if no overlock machine is available"
-                            },
-                            {
-                                "number": 8,
-                                "title": "Finish Raw Edge",
-                                "content":
-                                    "If using lace, cover the seam allowance completely.\nKeep the edge finish even and neat.\nFinish the raw edge with an overlock stitch or a decorative lace finish if no overlocker is available."
-                            },
-                            {
-                                "number": 9,
-                                "title": "Mark Quarter Points",
-                                "content":
-                                    "Transfer all marks clearly before assembly.\nUse a fabric pen or chalk for accurate alignment marks.\nMark the 1/4 points on both the bowl cover circle and the elastic."
-                            },
-                            {
-                                "number": 10,
-                                "title": "Mark Quarter Points",
-                                "content":
-                                    "Fold the piece into quarters to locate matching points quickly.\nMark all 1/4 points clearly with a fabric pen.\nMark the quarter points on the circle and elastic for accurate alignment."
-                            },
-                            {
-                                "number": 11,
-                                "title": "Attach Elastic",
-                                "content":
-                                    "Stitch in several passes to reinforce the elastic\nattachment.\nBackstitch at the start and end for strength.\nSecure the elastic ends with stitching, then sew it onto the marked circle line matching the 1/4 points."
-                            },
-                            {
-                                "number": 12,
-                                "title": "Attach Elastic",
-                                "content":
-                                    "Distribute the elastic evenly between the quarter marks to prevent twisting.\nBackstitch at the start and end for extra durability.\nStitch both ends of the elastic to secure it, then sew the elastic onto the marked circle line, matching the 1/4 points."
-                            },
-                            {
-                                "number": 13,
-                                "title": "Turn Out And Press",
-                                "content":
-                                    "Use a pressing cloth to avoid shine on the fabric.\nShape the edge neatly during pressing.\nTurn the bowl cover right side out and press it flat to finish."
-                            },
-                            {
-                                "number": 14,
-                                "title": "Turn And Press",
-                                "content":
-                                    "Use a pressing cloth if the fabric is delicate.\nCheck that the elastic is evenly secured all around before pressing.\nTurn the bowl cover right side out and press it into shape to finish."
-                            }
-                        ],
+                    [
+                      {
+                        "number": 1,
+                        "title": "Bowl Cover Outer Fabric",
+                        "content": "Use the provided pattern layout and keep the grainline consistent.\nCut pattern piece #1 (bowl cover outer fabric) x2 according to the pattern, with 1.5 cm (5/8\") seam allowance included.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%201.png"
+                        ]
+                      },
+                      {
+                        "number": 2,
+                        "title": "Cut Bowl Cover Outer Fabric",
+                        "content": "Seam allowance 1.5 cm (5/8\") is included.\nCut pattern piece #1 x2 for the bowl cover outer fabric, following the pattern.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%202.png"
+                        ]
+                      },
+                      {
+                        "number": 3,
+                        "title": "Accessory: Cut Elastic Strip",
+                        "content": "Elastic width is 1 cm; length depends on the measured bowl diameter.\nPrepare the elastic accessory for pattern piece #1; cut 1 piece to the measured length based on the bowl diameter",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%203.png"
+                        ]
+                      },
+                      {
+                        "number": 4,
+                        "title": "Cut Elastic Strip",
+                        "content": "Length should be determined by the measured bowl diameter.\nCut pattern piece #1 x1 for the elastic strip, with width 1 cm (3/8\").",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%204.png"
+                        ]
+                      },
+                      {
+                        "number": 5,
+                        "title": "Mark Placement Line",
+                        "content": "Mark the 1/4 points clearly for even distribution.\nUse the bowl diameter to calculate the finished size before marking.\nMark the elastic placement line 3 cm from the edge, based on the bowl diameter.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%205-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%205-2.png"
+                        ]
+                      },
+                      {
+                        "number": 6,
+                        "title": "Mark Placement Line",
+                        "content": "Mark the bowl diameter reference and the elastic placement line 3 cm from the edge on pattern piece #1.\nFirst, measure the diameter of your bowl.\nIf the bowl diameter is 20 cm, the fabric size should be:\n20 cm + 6 cm + 3 cm = 29 cm\nIf the bowl diameter is 25 cm, the fabric size should be:\n25 cm + 6 cm + 3 cm = 34 cm",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%206-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%206-2.png"
+                        ]
+                      },
+                      {
+                        "number": 7,
+                        "title": "Finish Raw Edge",
+                        "content": "Keep the edge smooth to avoid stretching\nwhile finishing.\nFinish the raw edge neatly before marking and assembly.\nOverlock the raw edge of the bowl cover piece #1, or finish the edge with decorative lace if no overlock machine is available",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%207-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%207-2.png"
+                        ]
+                      },
+                      {
+                        "number": 8,
+                        "title": "Finish Raw Edge",
+                        "content": "If using lace, cover the seam allowance completely.\nKeep the edge finish even and neat.\nFinish the raw edge with an overlock stitch or a decorative lace finish if no overlocker is available.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%208-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%208-2.png"
+                        ]
+                      },
+                      {
+                        "number": 9,
+                        "title": "Mark Quarter Points",
+                        "content": "Transfer all marks clearly before assembly.\nUse a fabric pen or chalk for accurate alignment marks.\nMark the 1/4 points on both the bowl cover circle and the elastic.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%209.png"
+                        ]
+                      },
+                      {
+                        "number": 10,
+                        "title": "Mark Quarter Points",
+                        "content": "Fold the piece into quarters to locate matching points quickly.\nMark all 1/4 points clearly with a fabric pen.\nMark the quarter points on the circle and elastic for accurate alignment.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2010.png"
+                        ]
+                      },
+                      {
+                        "number": 11,
+                        "title": "Attach Elastic",
+                        "content": "Stitch in several passes to reinforce the elastic\nattachment.\nBackstitch at the start and end for strength.\nSecure the elastic ends with stitching, then sew it onto the marked circle line matching the 1/4 points.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2011-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2011-2.png"
+                        ]
+                      },
+                      {
+                        "number": 12,
+                        "title": "Attach Elastic",
+                        "content": "Distribute the elastic evenly between the quarter marks to prevent twisting.\nBackstitch at the start and end for extra durability.\nStitch both ends of the elastic to secure it, then sew the elastic onto the marked circle line, matching the 1/4 points.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2012-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2012-2.png"
+                        ]
+                      },
+                      {
+                        "number": 13,
+                        "title": "Turn Out And Press",
+                        "content": "Use a pressing cloth to avoid shine on the fabric.\nShape the edge neatly during pressing.\nTurn the bowl cover right side out and press it flat to finish.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2013-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2013-2.png"
+                        ]
+                      },
+                      {
+                        "number": 14,
+                        "title": "Turn And Press",
+                        "content": "Use a pressing cloth if the fabric is delicate.\nCheck that the elastic is evenly secured all around before pressing.\nTurn the bowl cover right side out and press it into shape to finish.",
+                        "images": [
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2014-1.png",
+                          "https://may.sewie.cloud/Step/Phase3/Beginner/Bowl%20cover/Bowl%20cover%2014-2.png"
+                        ]
+                      }
+                    ],
                     "notions": "",
                     "bodyMeasurement": "",
                     "mainFabric": "",
