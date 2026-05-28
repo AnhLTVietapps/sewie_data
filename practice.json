@@ -30225,85 +30225,121 @@
                         "cutPieces": "36 pieces",
                         "keyTechniques": "",
                         "steps":
-                            [
-                                {
-                                    "number": 1,
-                                    "title": "Upper/Lower Panel",
-                                    "content":
-                                        "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #1 (upper/lower panel) x24 according to the pattern."
-                                },
-                                {
-                                    "number": 2,
-                                    "title": "Side Panel",
-                                    "content":
-                                        "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #2 (side panel) x12 according to the pattern."
-                                },
-                                {
-                                    "number": 3,
-                                    "title": "Seam Upper/Lower Panels",
-                                    "content":
-                                        "Pin or clip key points first to keep the\nseam accurate.\nMatch the pieces as shown before sewing.\nSew the upper/lower panels into a ring in order."
-                                },
-                                {
-                                    "number": 4,
-                                    "title": "Seam Lower Panels",
-                                    "content":
-                                        "Pin or clip key points first to keep the seam accurate.\nKeep the seam line consistent with Step1.\nSew the lower panels using the same method as Step1."
-                                },
-                                {
-                                    "number": 5,
-                                    "title": "Seam Side Panels",
-                                    "content":
-                                        "Pin or clip key points first to keep the seam accurate.\nArrange the pieces as shown before sewing.\nJoin the side panels into a long strip, leaving the last two pieces unsewn."
-                                },
-                                {
-                                    "number": 6,
-                                    "title": "Seam Last Two Pieces",
-                                    "content":
-                                        "Pin or clip key points first to keep the seam accurate.\nDo not close the opening.\nSew the last two pieces, leaving a 6 cm (2 3/8\") opening in the center."
-                                },
-                                {
-                                    "number": 7,
-                                    "title": "Seam Side Seam",
-                                    "content":
-                                        "Pin or clip key points first to keep the seam accurate.\nSew the side seam."
-                                },
-                                {
-                                    "number": 8,
-                                    "title": "Turn Right Side Out",
-                                    "content":
-                                        "Use the opening to turn the work to the right side.\nTurn the piece right side out."
-                                },
-                                {
-                                    "number": 9,
-                                    "title": "Seam Panels To Side Panel",
-                                    "content":
-                                        "Pin or clip key points first to keep the seam accurate.\nAlign the seam lines carefully before stitching.\nSew the upper/lower panels to the side panel."
-                                },
-                                {
-                                    "number": 10,
-                                    "title": "Attach Binding Tape",
-                                    "content":
-                                        "Keep the binding even for a clean finish.\nEncase the seam allowance neatly with the binding tape.\nFold the finished binding tape along the center and stitch the join to cover the seam allowance."
-                                },
-                                {
-                                    "number": 11,
-                                    "title": "Insert Stuffing",
-                                    "content":
-                                        "Use small amounts of stuffing at a time for better control.\nFill evenly to achieve a smooth shape.\nInsert stuffing through the opening."
-                                },
-                                {
-                                    "number": 12,
-                                    "title": "Close Opening",
-                                    "content":
-                                        "Use an invisible closing stitch for a clean finish.\nHide the stitching neatly when closing the opening.\nClose the opening."
-                                },
-                                {
-                                    "number": 13,
-                                    "title": "Finish",
-                                    "content": "Finish and neaten the product."
-                                }
-                            ],
+                        [
+                          {
+                            "number": 1,
+                            "title": "Upper/Lower Panel",
+                            "content": "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #1 (upper/lower panel) x24 according to the pattern.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%201.png"
+                            ]
+                          },
+                          {
+                            "number": 2,
+                            "title": "Side Panel",
+                            "content": "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #2 (side panel) x12 according to the pattern.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%202.png"
+                            ]
+                          },
+                          {
+                            "number": 3,
+                            "title": "Seam Upper/Lower Panels",
+                            "content": "Pin or clip key points first to keep the\nseam accurate.\nMatch the pieces as shown before sewing.\nSew the upper/lower panels into a ring in order.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%203-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%203-2.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%203-3.png"
+                            ]
+                          },
+                          {
+                            "number": 4,
+                            "title": "Seam Lower Panels",
+                            "content": "Pin or clip key points first to keep the seam accurate.\nKeep the seam line consistent with Step1.\nSew the lower panels using the same method as Step1.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%204.png"
+                            ]
+                          },
+                          {
+                            "number": 5,
+                            "title": "Seam Side Panels",
+                            "content": "Pin or clip key points first to keep the seam accurate.\nArrange the pieces as shown before sewing.\nJoin the side panels into a long strip, leaving the last two pieces unsewn.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%205-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%205-2.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%205-3.png"
+                            ]
+                          },
+                          {
+                            "number": 6,
+                            "title": "Seam Last Two Pieces",
+                            "content": "Pin or clip key points first to keep the seam accurate.\nDo not close the opening.\nSew the last two pieces, leaving a 6 cm (2 3/8\") opening in the center.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%206-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%206-2.png"
+                            ]
+                          },
+                          {
+                            "number": 7,
+                            "title": "Seam Side Seam",
+                            "content": "Pin or clip key points first to keep the seam accurate.\nSew the side seam.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%207-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%207-2.png"
+                            ]
+                          },
+                          {
+                            "number": 8,
+                            "title": "Turn Right Side Out",
+                            "content": "Use the opening to turn the work to the right side.\nTurn the piece right side out.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%208.png"
+                            ]
+                          },
+                          {
+                            "number": 9,
+                            "title": "Seam Panels To Side Panel",
+                            "content": "Pin or clip key points first to keep the seam accurate.\nAlign the seam lines carefully before stitching.\nSew the upper/lower panels to the side panel.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%209-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%209-2.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%209-3.png"
+                            ]
+                          },
+                          {
+                            "number": 10,
+                            "title": "Attach Binding Tape",
+                            "content": "Keep the binding even for a clean finish.\nEncase the seam allowance neatly with the binding tape.\nFold the finished binding tape along the center and stitch the join to cover the seam allowance.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%2010-1.png",
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%2010-2.png"
+                            ]
+                          },
+                          {
+                            "number": 11,
+                            "title": "Insert Stuffing",
+                            "content": "Use small amounts of stuffing at a time for better control.\nFill evenly to achieve a smooth shape.\nInsert stuffing through the opening.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%2011.png"
+                            ]
+                          },
+                          {
+                            "number": 12,
+                            "title": "Close Opening",
+                            "content": "Use an invisible closing stitch for a clean finish.\nHide the stitching neatly when closing the opening.\nClose the opening.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%2012.png"
+                            ]
+                          },
+                          {
+                            "number": 13,
+                            "title": "Finish",
+                            "content": "Finish and neaten the product.",
+                            "images": [
+                              "https://may.sewie.cloud/Step/Phase3/Home%20Decor/Patchwork%20Round%20Floor%20Pouf/Patchwork%20Round%20Floor%20Pouf%2013.png"
+                            ]
+                          }
+                        ],
                         "notions": "Binding Tape\nFullfiling Cotton",
                         "bodyMeasurement": "",
                         "mainFabric": "Canvas Fabric",
