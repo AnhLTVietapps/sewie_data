@@ -33595,78 +33595,110 @@
                     "keyTechniques": "",
                     "steps": [
                         {
-                            "number": 1,
-                            "title": "Cut Waistband",
-                            "content":
-                                "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #1 (waistband) x2 according to the pattern"
+                          "number": 1,
+                          "title": "Cut Waistband",
+                          "content": "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #1 (waistband) x2 according to the pattern",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%201.png"
+                          ]
                         },
                         {
-                            "number": 2,
-                            "title": "Cut Tie Strap",
-                            "content":
-                                "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #2 (tie strap) x2 according to the pattern"
+                          "number": 2,
+                          "title": "Cut Tie Strap",
+                          "content": "Seam allowance 1 cm (3/8\") included.\nCut pattern piece #2 (tie strap) x2 according to the pattern",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%202.png"
+                          ]
                         },
                         {
-                            "number": 3,
-                            "title": "Fold And Press",
-                            "content":
-                                "Align the edges accurately before pressing.\nFold the tie strap at the 1/4 position and press to set the fold"
+                          "number": 3,
+                          "title": "Fold And Press",
+                          "content": "Align the edges accurately before pressing.\nFold the tie strap at the 1/4 position and press to set the fold",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%203-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%203-2.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%203-3.png"
+                          ]
                         },
                         {
-                            "number": 4,
-                            "title": "Fold And Press",
-                            "content":
-                                "Keep the layers even along the full length.\nFold the tie strap at the 1/2 position and press to set the fold"
+                          "number": 4,
+                          "title": "Fold And Press",
+                          "content": "Keep the layers even along the full length.\nFold the tie strap at the 1/2 position and press to set the fold",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%204-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%204-2.png"
+                          ]
                         },
                         {
-                            "number": 5,
-                            "title": "Topstitch",
-                            "content":
-                                "Use the presser foot as a guide for consistent topstitching.\nKeep the stitch line straight and even.\nTopstitch 0.2 cm (1/16\") from the edge to secure the tie strap"
+                          "number": 5,
+                          "title": "Topstitch",
+                          "content": "Use the presser foot as a guide for consistent topstitching.\nKeep the stitch line straight and even.\nTopstitch 0.2 cm (1/16\") from the edge to secure the tie strap",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%205-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%205-2.png"
+                          ]
                         },
                         {
-                            "number": 6,
-                            "title": "Repeat Tie Strap Construction",
-                            "content":
-                                "Repeat the previous steps exactly for the second piece.\nMake the second tie strap using the same method"
+                          "number": 6,
+                          "title": "Repeat Tie Strap Construction",
+                          "content": "Repeat the previous steps exactly for the second piece.\nMake the second tie strap using the same method",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%206.png"
+                          ]
                         },
                         {
-                            "number": 7,
-                            "title": "Attach Tie Straps To Waistband",
-                            "content":
-                                "Pin the attachment points first to prevent shifting.\nMatch the strap positions carefully before stitching.\nSew the two tie straps to both ends of the waistband"
+                          "number": 7,
+                          "title": "Attach Tie Straps To Waistband",
+                          "content": "Pin the attachment points first to prevent shifting.\nMatch the strap positions carefully before stitching.\nSew the two tie straps to both ends of the waistband",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%207-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%207-2.png"
+                          ]
                         },
                         {
-                            "number": 8,
-                            "title": "Sew Waistband Edges",
-                            "content":
-                                "Backstitch at both ends of the opening for strength.\nDo not stitch across the turning opening.\nWith wrong sides together, sew the waistband top and bottom edges, leaving a 5 cm (2\") opening for turning"
+                          "number": 8,
+                          "title": "Sew Waistband Edges",
+                          "content": "Backstitch at both ends of the opening for strength.\nDo not stitch across the turning opening.\nWith wrong sides together, sew the waistband top and bottom edges, leaving a 5 cm (2\") opening for turning",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%208-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%208-2.png"
+                          ]
                         },
                         {
-                            "number": 9,
-                            "title": "Turn Right Side Out",
-                            "content":
-                                "Shape the corners carefully to avoid distortion.\nUse a blunt tool to push out the corners cleanly.\nTurn the waistband right side out through the opening"
+                          "number": 9,
+                          "title": "Turn Right Side Out",
+                          "content": "Shape the corners carefully to avoid distortion.\nUse a blunt tool to push out the corners cleanly.\nTurn the waistband right side out through the opening",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%209.png"
+                          ]
                         },
                         {
-                            "number": 10,
-                            "title": "Fold Opening Seam Allowance Inward",
-                            "content":
-                                "Keep the folded edge even before pressing.\nTurn in the seam allowance at the opening by 1cm (3/8\"') and press to close the edge"
+                          "number": 10,
+                          "title": "Fold Opening Seam Allowance Inward",
+                          "content": "Keep the folded edge even before pressing.\nTurn in the seam allowance at the opening by 1cm (3/8''') and press to close the edge",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%2010-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%2010-2.png"
+                          ]
                         },
                         {
-                            "number": 11,
-                            "title": "Topstitch Waistband Edge",
-                            "content":
-                                "Maintain a consistent edge guide for a neat finish.\nSew smoothly around corners and keep the distance even.\nTopstitch around the right side of the waistband, 0.3 cm (1/8\") from the edge."
+                          "number": 11,
+                          "title": "Topstitch Waistband Edge",
+                          "content": "Maintain a consistent edge guide for a neat finish.\nSew smoothly around corners and keep the distance even.\nTopstitch around the right side of the waistband, 0.3 cm (1/8\") from the edge.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%2011-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%2011-2.png"
+                          ]
                         },
                         {
-                            "number": 12,
-                            "title": "Final Press",
-                            "content":
-                                "Check that the opening is fully closed and the edges are flat.\nPress and finish the waistband assembly."
+                          "number": 12,
+                          "title": "Final Press",
+                          "content": "Check that the opening is fully closed and the edges are flat.\nPress and finish the waistband assembly.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Accessories/Charcoal%20Drawstring%20Waist/Charcoal%20Drawstring%20Waist%2012.png"
+                          ]
                         }
-                    ],
+                      ],
                     "notions": "",
                     "bodyMeasurement": "",
                     "mainFabric": "Cotton, woven fabric",
