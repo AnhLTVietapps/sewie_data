@@ -982,48 +982,67 @@
                     "keyTechniques": "",
                     "steps": [
                         {
-                            "number": 1,
-                            "title": "Pattern Cut",
-                            "content":
-                                "Seam allowance of 1.5 cm (5/8\") is included.\nCut 2 storage pouch pieces using pattern piece 1."
+                          "number": 1,
+                          "title": "Pattern Cut",
+                          "content": "Seam allowance of 1.5 cm (5/8\") is included.\nCut 2 storage pouch pieces using pattern piece 1.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%201.png"
+                          ]
                         },
                         {
-                            "number": 2,
-                            "title": "Seam Sew",
-                            "content":
-                                "Secure firmly.\nPosition elastic accurately.\nSew elastic onto the pouch following pattern markings."
+                          "number": 2,
+                          "title": "Seam Sew",
+                          "content": "Secure firmly.\nPosition elastic accurately.\nSew elastic onto the pouch following pattern markings.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%202-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%202-2.png"
+                          ]
                         },
                         {
-                            "number": 3,
-                            "title": "Seam Sew",
-                            "content":
-                                "Mark opening clearly.\nDo not sew the opening area.\nSew two pouch pieces together (wrong sides), leaving a 4 cm (1 5/8\"') opening."
+                          "number": 3,
+                          "title": "Seam Sew",
+                          "content": "Mark opening clearly.\nDo not sew the opening area.\nSew two pouch pieces together (wrong sides), leaving a 4 cm (1 5/8\") opening.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%203-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%203-2.png"
+                          ]
                         },
                         {
-                            "number": 4,
-                            "title": "Turn Out",
-                            "content":
-                                "Use a blunt tool.\nShape edges neatly.\nTurn the pouch right side out through the opening."
+                          "number": 4,
+                          "title": "Turn Out",
+                          "content": "Use a blunt tool.\nShape edges neatly.\nTurn the pouch right side out through the opening.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%204-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%204-2.png"
+                          ]
                         },
                         {
-                            "number": 5,
-                            "title": "Fold & Press",
-                            "content":
-                                "Keep fold clean.\nAlign edges evenly.\nFold seam allowance at opening inward and press."
+                          "number": 5,
+                          "title": "Fold & Press",
+                          "content": "Keep fold clean.\nAlign edges evenly.\nFold seam allowance at opening inward and press.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%205-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%205-2.png"
+                          ]
                         },
                         {
-                            "number": 6,
-                            "title": "Topstitch",
-                            "content":
-                                "Use edge guide.\nKeep stitching even and neat.\nTopstitch around the edge 0.3 cm (1/8\") from edge."
+                          "number": 6,
+                          "title": "Topstitch",
+                          "content": "Use edge guide.\nKeep stitching even and neat.\nTopstitch around the edge 0.3 cm (1/8\") from edge.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%206-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%206-2.png"
+                          ]
                         },
                         {
-                            "number": 7,
-                            "title": "Final Press",
-                            "content":
-                                "Shape edges evenly.\nEnsure clean finish.\nFinal pressing to smooth and shape the pouch."
+                          "number": 7,
+                          "title": "Final Press",
+                          "content": "Shape edges evenly.\nEnsure clean finish.\nFinal pressing to smooth and shape the pouch.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Cable%20Organizer%20Strap/Cable%20Organizer%20Strap%207.png"
+                          ]
                         }
-                    ],
+                      ],
                     "notions": "",
                     "bodyMeasurement": "",
                     "mainFabric": "",
