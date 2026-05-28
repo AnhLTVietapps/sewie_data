@@ -879,84 +879,122 @@
                     "keyTechniques": "",
                     "steps": [
                         {
-                            "number": 1,
-                            "title": "Pattern Cut",
-                            "content":
-                                "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 lower tie piece using pattern piece 1."
+                          "number": 1,
+                          "title": "Pattern Cut",
+                          "content": "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 lower tie piece using pattern piece 1.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%201.png"
+                          ]
                         },
                         {
-                            "number": 2,
-                            "title": "Pattern Cut",
-                            "content":
-                                "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 upper tie piece using pattern piece 2."
+                          "number": 2,
+                          "title": "Pattern Cut",
+                          "content": "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 upper tie piece using pattern piece 2.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%202.png"
+                          ]
                         },
                         {
-                            "number": 3,
-                            "title": "Pattern Cut",
-                            "content":
-                                "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 lower lining piece using pattern piece 3."
+                          "number": 3,
+                          "title": "Pattern Cut",
+                          "content": "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 lower lining piece using pattern piece 3.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%203.png"
+                          ]
                         },
                         {
-                            "number": 4,
-                            "title": "Pattern Cut",
-                            "content":
-                                "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 upper lining piece using pattern piece 4."
+                          "number": 4,
+                          "title": "Pattern Cut",
+                          "content": "Seam allowance of 1.5 cm (5/8\") is included.\nCut 1 upper lining piece using pattern piece 4.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%204.png"
+                          ]
                         },
                         {
-                            "number": 5,
-                            "title": "Seam Sew",
-                            "content":
-                                "Keep seam straight.\nAlign edges accurately.\nSew lower lining and lower tie piece together (wrong sides aligned)."
+                          "number": 5,
+                          "title": "Seam Sew",
+                          "content": "Keep seam straight.\nAlign edges accurately.\nSew lower lining and lower tie piece together (wrong sides aligned).",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%205-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%205-2.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%205-3.png"
+                          ]
                         },
                         {
-                            "number": 6,
-                            "title": "Turn Out",
-                            "content":
-                                "Use a blunt tool.\nShape edges neatly.\nTurn the sewn lower section right side out."
+                          "number": 6,
+                          "title": "Turn Out",
+                          "content": "Use a blunt tool.\nShape edges neatly.\nTurn the sewn lower section right side out.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%206-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%206-2.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%206-3.png"
+                          ]
                         },
                         {
-                            "number": 7,
-                            "title": "Seam Sew",
-                            "content":
-                                "Ensure symmetry.\nKeep edges aligned.\nSew upper lining and upper tie piece together (wrong sides aligned)."
+                          "number": 7,
+                          "title": "Seam Sew",
+                          "content": "Ensure symmetry.\nKeep edges aligned.\nSew upper lining and upper tie piece together (wrong sides aligned).",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%207-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%207-2.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%207-3.png"
+                          ]
                         },
                         {
-                            "number": 8,
-                            "title": "Turn & Press",
-                            "content":
-                                "Keep edges crisp.\nSmooth edges well.\nTurn upper section right side out and press flat."
+                          "number": 8,
+                          "title": "Turn & Press",
+                          "content": "Keep edges crisp.\nSmooth edges well.\nTurn upper section right side out and press flat.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%208-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%208-2.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%208-3.png"
+                          ]
                         },
                         {
-                            "number": 9,
-                            "title": "Join Sew",
-                            "content":
-                                "Align center points.\nMatch seam lines carefully.\nJoin upper and lower tie sections together."
+                          "number": 9,
+                          "title": "Join Sew",
+                          "content": "Align center points.\nMatch seam lines carefully.\nJoin upper and lower tie sections together.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%209-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%209-2.png"
+                          ]
                         },
                         {
-                            "number": 10,
-                            "title": "Seam Sew",
-                            "content":
-                                "Backstitch ends.\nKeep seam consistent.\nSew side seams on the wrong side."
+                          "number": 10,
+                          "title": "Seam Sew",
+                          "content": "Backstitch ends.\nKeep seam consistent.\nSew side seams on the wrong side.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2010-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2010-2.png"
+                          ]
                         },
                         {
-                            "number": 11,
-                            "title": "Turn Out",
-                            "content":
-                                "Push corners gently.\nShape corners and edges.\nTurn the tie right side out."
+                          "number": 11,
+                          "title": "Turn Out",
+                          "content": "Push corners gently.\nShape corners and edges.\nTurn the tie right side out.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2011-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2011-2.png"
+                          ]
                         },
                         {
-                            "number": 12,
-                            "title": "Position & Press",
-                            "content":
-                                "Align evenly.\nKeep seam centered.\nMove seam allowance to center line and press according to stitching lines."
+                          "number": 12,
+                          "title": "Position & Press",
+                          "content": "Align evenly.\nKeep seam centered.\nMove seam allowance to center line and press according to stitching lines.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2012-1.png",
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2012-2.png"
+                          ]
                         },
                         {
-                            "number": 13,
-                            "title": "Final Press",
-                            "content":
-                                "Shape evenly.\nEnsure neat finish.\nFinal pressing to smooth and shape the finished tie."
+                          "number": 13,
+                          "title": "Final Press",
+                          "content": "Shape evenly.\nEnsure neat finish.\nFinal pressing to smooth and shape the finished tie.",
+                          "images": [
+                            "https://may.sewie.cloud/Step/Phase3/Beginner/Classic%20Men_s%20Tie/Classic%20Men_s%20Tie%2013.png"
+                          ]
                         }
-                    ],
+                      ],
                     "notions": "",
                     "bodyMeasurement": "",
                     "mainFabric": "",
