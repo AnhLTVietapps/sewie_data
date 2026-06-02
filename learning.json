@@ -1,708 +1,1280 @@
-{
-  "groups": [
     {
-      "name": "Stitch",
-      "items": [
-        {
-          "no": 1,
-          "title": "Basting stitch",
-          "description": "A basting stitch is a temporary stitch to hold layers of fabric together and it will later be removed.\nUsing a thread color that contrasts with your fabric will make the basting thread more visible for easy removal.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Basting%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Basting%20Stitch%201.jpg"
-        },
-        {
-          "no": 2,
-          "title": "Running stitch",
-          "description": "The straight or running stitch is the basic stitch in hand-sewing and embroidery, on which all other forms of sewing are based. The stitch is worked by passing the needle in and out of the fabric at a regular distance.\nSew a line of running stitches by inserting the needle and thread through both layers of fabric a short distance from your starting point. Bring the needle and thread up to the top of the layers the same distance as the first stitch and keep repeating until you reach the end.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Running%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Running%20Stitch%201.jpg"
-        },
-        {
-          "no": 3,
-          "title": "Back stitch",
-          "description": "A backstitch is a basic hand stitch that creates a line of stitches without a break between them, so it looks like a continuous straight line of thread, it is also one of the most durable stitches that doesn’t come undone easily.\nThe stitch is made by bringing thread behind the previous stitch and then coming out of the fabric in front of the previous stitch.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Back%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Back%20Stitch%201.jpg"
-        },
-        {
-          "no": 4,
-          "title": "Chain stitch",
-          "description": "Chain stitch is a sewing and embroidery technique in which a series of looped stitches form a chain-like pattern.\nBecause of its continuous looped nature, the stitch easily comes apart so it is more suitable for decorative purposes than functional purposes like holding two or more fabric layers together.\nBring knotted needle to front of fabric. Pull thread through. Insert needle into fabric a tiny distance below where thread came out previously. Bring needle out from fabric to create a loop. Bring the needle to front a stitch length away from the starting point. Pull thread through to form first loop of the chain.\nContinue forming loops in the same way.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Chain%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Chain%20Stitch%201.jpg"
-        },
-        {
-          "no": 5,
-          "title": "Ladder stitch",
-          "description": "To sew a ladder stitch, start by threading a needle with matching thread and tying a small knot at the end. Begin by inserting the needle into one edge and sew a stitch then insert the needle into the other edge and sew a stitch with the same length, Continue alternating stitches between the two edges, making sure they are spaced evenly. Once you've reached the end, secure the thread with two or three knots and hide the thread tail inside the project.\nThe ladder stitch is also called the slip stitch or the invisible stitch or the blind stitch.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Ladder%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Ladder%20Stitch%201.jpg"
-        },
-        {
-          "no": 6,
-          "title": "Blanket stitch",
-          "description": "A blanket stitch is a simple and decorative stitch often used for finishing edges of fabric or creating a neat hem.\n\n1. Thread the needle and tie a small knot at the end.\n\n2. Make a loop with the first stitch and pass needle under the loop over fabric edge as shown in the tutorial, I like to do this twice for a neat first stitch.\n\n3. To sew the first stitch, insert the needle a stitch length away from the start point and slightly below the edge of the fabric, keeping the needle pointing up (towards fabric edge). Loop thread behind the needle and pull the needle through (up). This is your first blanket stitch.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Blanket%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Blanket%20Stitch%201.jpg"
-        },
-        {
-          "no": 7,
-          "title": "Overlock stitch",
-          "description": "The overlock stitch is a variation of the blanket stitch. It’s both decorative and secure, making it perfect for finishing the edges of blankets, garments, and home textiles.\n\nIn this tutorial, I'll share my unique method for starting the stitch, which creates a perfect triangle as the first stitch. Let’s call it the \n\nTo sew an overlock stitch by hand, use double thread. The stitches are formed by passing the needle between the threads and pulling the thread to tighten the loop, creating a triangle shape.\n\nRepeat the steps until the edging is finished.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Overlock%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Overlock%20Stitch%201.jpg"
-        },
-        {
-          "no": 8,
-          "title": "Catch stitch",
-          "description": "A catch stitch is a common hand sewing technique used for hemming, which creates a zigzag pattern on the underside of the fabric. It is strong and flexible, making it suitable for both non stretch and stretch fabrics, and is nearly invisible on the outside of the garment.\n\nBefore sewing the catch stitch, finish the raw fabric edges, then fold and press the hem at the seam allowance. Use a matching thread to sew the catch stitch.\n\nA catch stitch can also be called a flat catch stitch. This technique involves taking a small amount of fabric from each side of the seam or hem, creating a zigzag pattern that lies flat against the fabric, resulting in a clean, professional finish.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Catch%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Catch%20Stitch%201.jpg"
-        },
-        {
-          "no": 9,
-          "title": "Blind hem stitch",
-          "description": "A blind hem stitch is used to create a hem that is not visible once finished, It's quick and simple and it joins two pieces of fabric with practically invisible seams.\n\nUse a matching thread and a single thread for lightweight fabrics and double thread for medium weight fabrics.\n\nFold the hem twice, insert the needle into the folded edge and hide the knot.\nTake 1 or 2 thread from the wrong side and pull the needle through. Insert the needle into the folded edge and sew a small stitch.\n\nRepeat until you reach the end of the hem. Tie the thread into the loop of the last stitch and hide the thread tail and trim the excess thread.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Blind%20hem%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Blind%20Hem%20Stitch%201.jpg"
-        },
-        {
-          "no": 10,
-          "title": "Buttonhole Stitch",
-          "description": "Draw a rectangle 2 mm × the length of the button  (this is the inner rectangle).\n\nNext, draw a second rectangle so that each side is 2 mm away from the sides of the first rectangle (this will be the outer rectangle). \n\nUse a running stitch and sew along the edges of the outer rectangle to create a border for the buttonhole.\n\nThen, fill the gap between the inner rectangle and the outer rectangle as shown in the videos.\n\nAfterward, use a seam ripper to carefully open the buttonhole.",
-          "video": "https://media.sewie.cloud/Tab 1/Stitch/Buttonhole%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Buttonhole%20Stitch%201.jpg"
-        },
-        {
-          "no": 11,
-          "title": "Start a stitch",
-          "description": "This is my go-to method for starting a stitch: \nUntwist the thread, tie a single knot at the end, and pass the needle through the loop formed by the double thread at the back (wrong side) before pulling it tight.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Start%20a%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/Start%20a%20stitch%201.jpg"
-        },
-        {
-          "no": 12,
-          "title": "End a stitch",
-          "description": "Complete your final stitch and bring the needle to the WRONG SIDE of the fabric.\nOn the wrong side, pass the needle through the last stitch you made to create a small loop, and then pass the needle through the loop to form the first knot. Pull it tight to secure it.\nCreate a second knot by forming another small loop and passing the needle through it, then pulling it tight.\nOnce you're sure the knots are secure, trim any excess thread.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/End%20a%20stitch.mp4",
-          "image": "https://may.sewie.cloud/Learning/End%20a%20stitch%201.jpg"
-        },
-        {
-          "no": 13,
-          "title": "Hide the thread end #1",
-          "description": "How to hide the thread end after knotting and before cutting it off - Method #1\nDepending on your project, you can choose this method, method #2 , or simply clip the thread after tying a knot at the end of the stitch.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Hide%20the%20thread%20end%20%231.mp4",
-          "image": "https://may.sewie.cloud/Learning/Hide%20the%20thread%20end%203.jpg"
-        },
-        {
-          "no": 14,
-          "title": "Hide the thread end #2",
-          "description": "How to hide the thread end after knotting and before cutting it off  - Method #2\n\nInsert the needle close to the knot, between the fabric layers away from the knot. Make sure the thread does not catch the outside of the fabric. Bring the needle up, away from the knot, and gently pull the thread to create a small gathering. Then, trim off the excess thread.\n\nThis technique effectively hides the thread ends, creating a clean, professional finish. \n\nDepending on your project, you can choose this method, Method #1, or simply clip the thread after tying a knot at the end of the stitch.",
-          "video": "https://media.sewie.cloud/Tab%201/Stitch/Hide%20the%20thread%20end%20%232.mp4",
-          "image": "https://may.sewie.cloud/Learning/Hide%20the%20thread%20end%202%201.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Seam",
-      "items": [
-        {
-          "no": 1,
-          "title": "Open plain seam",
-          "description": "Sew the fabric pieces right sides together, finish the raw edges of the seam allowances separately, and press the seam open.\nThis technique is ideal for garments, quilting, and projects where a clean, flat seam is needed for a professional finish.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Open%20plain%20seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/Open%20plain%20seam%201.jpg"
-        },
-        {
-          "no": 2,
-          "title": "Closed plain seam",
-          "description": "Sew the fabric pieces right sides together, finish the raw edges of the seam allowances together, and press the seam to one side.\n\nYou can use this technique for garments like shirts, dresses, and pants to achieve a professional finish.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Closed%20plain%20seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/Closed%20plain%20seam%201.jpg"
-        },
-        {
-          "no": 3,
-          "title": "Edgestitch seam",
-          "description": "An edgestitch seam is a topstitch sewn close to the edge of the fabric, typically 1.5 to 3 mm away. It’s both decorative and functional, as it flattens seams and reinforces the edges.\n\nTo sew an edgestitch seam, use an edge stitching foot or the inside edge of the standard presser foot as a guide. With the right side of the fabric facing up, sew close to the seam, ensuring you catch the seam allowance on the wrong side.\n\nEdgestitching is commonly used on garments to provide a clean finish. It’s also ideal for securing seam allowances in place, or for decorative accents in home décor items like pillowcases or tablecloths.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Edgestitch%20seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/Edgestitch%20seam%201.jpg"
-        },
-        {
-          "no": 4,
-          "title": "Topstitch seam",
-          "description": "A topstitch seam is a decorative or functional stitching line sewn on the right side of a garment, parallel to a seam.\nIt is often used to reinforce seams, add definition, or create a finished look.\nTopstitching is usually sewn about 6mm (or 1/4 inch) away from the seam line. You can also use the outer edge of your standard presser foot as a guide.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Topstitch%20seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/topstitch%20seam%201.jpg"
-        },
-        {
-          "no": 5,
-          "title": "Welt Seam",
-          "description": "A welt seam is a strong, flat seam often used for medium to heavy-weight fabrics. It resembles a flat-felled seam but is less bulky, making it ideal for jeans, denim, and other garments that require durability.\n\nTo sew a welt seam:\nPlace the fabric right sides together and sew the seam, finish the raw edges together using a serger or zigzag stitch, press the seam allowances to one side, with the right side facing up, sew an edgestitch close to the seam, then add a topstitch.\n\nTip: You can trim one seam allowance to reduce bulk if needed.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Welt%20Seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/Welt%20seam%201.jpg"
-        },
-        {
-          "no": 6,
-          "title": "French seam",
-          "description": "Sew the pieces wrong sides together with a 4–5 mm seam allowance (You can also sew with a wider seam allowance and then trim it to 4–5 mm). Press the seam allowance to one side.\nFold the fabric along the seam so right sides are together, and press again.\nSew a second seam with a 7–8 mm seam allowance, enclosing the raw edge inside.\n\nA French seam is a sewing technique often used for lightweight or sheer fabrics. It creates a clean, durable, and neat finish by enclosing the raw edges within the seam, resulting in a smooth, professional look on both sides of the garment.",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/French%20seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/French%20seam%201.jpg"
-        },
-        {
-          "no": 7,
-          "title": "Flat Felled Seam",
-          "description": "Place the pieces right sides together. One seam allowance is 1 cm, and the other is 2 cm.\nFold the wider seam allowance over the narrower one and sew a row of stitches close to the raw edge. Then Fold the entire seam allowance to one side so the raw edge is hidden inside.\nAfter pressing, sew an edgestitch and a topstitch from the right side, making sure to catch the folded seam allowance underneath.\nPress and done!\n\nA flat felled seam is a super strong, and professional looking seam inside and out, often used in jeans and shirts. It’s durable and leaves no raw edges, perfect for garments that need strength and a neat finish!",
-          "video": "https://media.sewie.cloud/Tab%201/Seam/Flat%20Felled%20Seam.mp4",
-          "image": "https://may.sewie.cloud/Learning/Flat%20Felled%20Seam%201.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Sew a button",
-      "items": [
-        {
-          "no": 1,
-          "title": "Two-hole button #1",
-          "description": "Thread the cut ends or the looped end into the eye of the needle, making sure the folded end is at the bottom.\n\nInsert the needle from the wrong side to the right side of the fabric, passing it through one hole of the button—but don’t pull it all the way through. Leave a small loop on the wrong side.\n\nNow, bring the needle from the right side to the wrong side through the second hole of the button. Pass the needle and thread through the loop on the wrong side, then pull to tighten it.\n\nThis method helps you avoid knots on the back of your project.\n\nTo complete sewing the two-hole button, watch the next parts in this series:\n#2 two-hole button, how to sew \n#3 two-hole button, how to finish ",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%231.mp4",
-          "image": "https://may.sewie.cloud/Learning/Two-hole%20button%201%201.jpg"
-        },
-        {
-          "no": 2,
-          "title": "Two-hole button #2",
-          "description": "This is part two, don't forget to watch part one #1 how to start sewing a two-hole button on my account.\n\nAfter starting, use a thick needle and place it between the first stitch and the button to create a small space between the button and the fabric. This space is essential — it helps the button sit perfectly when it’s closed into the buttonhole.\nSew three times using a double-threaded needle, and we’re ready to finish it.\n\nWatch the next part to learn how to finish:\n#3 two-hole button, how to finish",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%232.mp4",
-          "image": "https://may.sewie.cloud/Learning/Two-hole%20button%202%201.jpg"
-        },
-        {
-          "no": 3,
-          "title": "Two-hole button #3",
-          "description": "This is part three, don't forget to watch part one #1 how to start sewing a two-hole button, and part two #2 how to sew a two-hole button on my account.\n\nAfter sewing the button in place, finish it on the wrong side of the garment: Pass the needle through a stitch to make a loop, then pass the needle through the loop and pull to tighten. Repeat one more time to make the knots secure. Then, pass the needle between the fabric layers, push the fabric down along the thread with your fingers, and cut it short. Straighten the fabric — the small thread tail will be hidden inside, invisible.\n\nNow it’s time to remove the thick needle… and done! You just sewed the most perfect button!",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%233.mp4",
-          "image": "https://may.sewie.cloud/Learning/Two-hole%20button%203%201.jpg"
-        },
-        {
-          "no": 4,
-          "title": "3 Tips to Sew a Button",
-          "description": "3 Tips to Sew a Button with a Clean Finish on Both Sides:\n1. Start without a knot — you can watch the “Start Without a Knot” tutorial on my account.\n2. Keep an eye on where you insert the needle.\n3. Hide the thread end after knotting it off.",
-          "video": "https://media.sewie.cloud/Tab 1/Button/3%20Tips%20to%20Sew%20a%20Button.mp4",
-          "image": "https://may.sewie.cloud/Learning/3%20Tips%20to%20Sew%20a%20Button%201.jpg"
-        },
-        {
-          "no": 5,
-          "title": "Four-hole button #1",
-          "description": "How to sew a button #1 how to start sewing a four-hole button \nTo complete sewing the four-hole button, watch the next parts in this series:\n#2 four-hole button, how to sew \n#3 four-hole button, how to finish ",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%231.mp4",
-          "image": "https://may.sewie.cloud/Learning/Four-hole%20Button%201%201.jpg"
-        },
-        {
-          "no": 6,
-          "title": "Four-hole button #2",
-          "description": "How to sew a button #2 how to sew a four-hole button \nTo complete sewing the four-hole button, watch the next part in this series:\n#3 four-hole button, how to finish",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%232.mp4",
-          "image": "https://may.sewie.cloud/Learning/Four-hole%20Button%202%201.jpg"
-        },
-        {
-          "no": 7,
-          "title": "Four-hole button #3",
-          "description": "How to sew a button #3 how to finish sewing a four-hole button \nDon’t forget to watch Parts One and Two to sew a four-hole button. Love you",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%233.mp4",
-          "image": "https://may.sewie.cloud/Learning/Four-hole%20Button%203%201.jpg"
-        },
-        {
-          "no": 8,
-          "title": "Shank button #1",
-          "description": "How to sew a shank button: button sewing techniques you need to know.\nPlease don't forget to watch Part 2 to finish sewing a shank button ",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Shank%20button%20%231.mp4",
-          "image": "https://may.sewie.cloud/Learning/Shank%20button%201%201.jpg"
-        },
-        {
-          "no": 9,
-          "title": "Shank button #2",
-          "description": "How to sew a shank button: button sewing techniques you need to know.\nWatch Part 1 to see how to start sewing a shank button",
-          "video": "https://media.sewie.cloud/Tab 1/Button/Shank%20button%20%232.mp4",
-          "image": "https://may.sewie.cloud/Learning/Shank%20button%202%201.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Hemming",
-      "items": [
-        {
-          "no": 1,
-          "title": "Double Fold Hem",
-          "description": "Double Fold Hem is a method of folding the fabric edge twice: first, fold the raw edge inward by about 0.5–1 cm; second, fold it again by a larger amount (1–2 cm) to enclose the raw edge completely inside, then sew a line close to the inner fold or along the outer edge to create a clean and sturdy hem.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Double%20Fold%20Hem.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Double%20Fold%20Hem.png"
-        },
-        {
-          "no": 2,
-          "title": "Single Fold Hem",
-          "description": "Fold the raw edge once and sew straight; raw edge is visible inside unless finished with zigzag or serger.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Single%20Fold%20Hem.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Single%20Fold%20Hem.png"
-        },
-        {
-          "no": 3,
-          "title": "Blind Hem - Hand",
-          "description": "Fold fabric back, catch only a few threads of main fabric with a tiny stitch, then move diagonally; nearly invisible from the right side.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Hand.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Hand.png"
-        },
-        {
-          "no": 4,
-          "title": "Blind Hem - Machine",
-          "description": "Use a blind hem foot and zigzag-like stitch; fabric is folded with a crease, the machine takes a tiny bite of the fold, creating an almost invisible hem from the front.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Machine.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Machine.png"
-        },
-        {
-          "no": 5,
-          "title": "Rolled Hem",
-          "description": "Fabric edge is rolled tightly and sewn continuously (often with a rolled hem foot), creating a very narrow, smooth, rounded edge.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Rolled%20Hem.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Rolled%20Hem.png"
-        },
-        {
-          "no": 6,
-          "title": "Narrow Hem",
-          "description": "Very small double fold, sewn close to the inner edge; used on lightweight fabrics like chiffon or handkerchiefs.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Narrow%20Hem.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Narrow%20Hem.png"
-        },
-        {
-          "no": 7,
-          "title": "Curved Hem",
-          "description": "For rounded edges, use a narrow double fold, clip seam allowance at curves, press carefully, and sew slowly to avoid puckers.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Curved%20Hem.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Curved%20Hem.png"
-        },
-        {
-          "no": 8,
-          "title": "Hemming Pants",
-          "description": "Measure desired length, cut excess, fold twice (single or double), press, sew with straight stitch or blind hem; for jeans, keep the original worn edge by folding and topstitching with heavy thread.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Pants.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Pants.png"
-        },
-        {
-          "no": 9,
-          "title": "Hemming Skirts",
-          "description": "Depends on shape: straight skirts - double fold; flared/circle - narrow or rolled hem; use blind stitch or machine hem, pressing after each fold.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Skirts.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Skirts.png"
-        },
-        {
-          "no": 10,
-          "title": "Hemming Sleeves",
-          "description": "Usually narrow double fold or rolled hem (for thin fabrics), press carefully around the curve, sew with straight or blind stitch, keep even width all around.",
-          "video": "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Sleeves.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Sleeves.png"
-        }
-      ]
-    },
-    {
-      "name": "Zippers",
-      "items": [
-        {
-          "no": 1,
-          "title": "Centered Zipper",
-          "description": "The stitching runs straight down the middle, with fabric evenly covering both sides of the zipper. Sew from bottom to top using a standard zipper foot, then stitch a bar tack at the bottom.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Centered%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Centered%20Zipper.png"
-        },
-        {
-          "no": 2,
-          "title": "Invisible Zipper",
-          "description": "The zipper is hidden inside the seam, with only the teeth visible. Use an invisible zipper foot, open the zipper, place it face down on the right side of the fabric, and sew close to the teeth. When finished, the zipper is completely concealed.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Invisible%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Invisible%20Zipper.png"
-        },
-        {
-          "no": 3,
-          "title": "Lapped Zipper",
-          "description": "One side of the fabric overlaps the zipper (lapped), while the other side lies underneath. Topstitch close to the folded edge on the upper side, creating a clean finish, commonly used for skirts with waistbands.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Lapped%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Lapped%20Zipper.png"
-        },
-        {
-          "no": 4,
-          "title": "Exposed Zipper",
-          "description": "The zipper is fully exposed on the outside, often used as a design feature. Baste the seam first, press it open, place the zipper face up on the right side of the fabric, and stitch close to both sides of the teeth.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Exposed%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Exposed%20Zipper.png"
-        },
-        {
-          "no": 5,
-          "title": "Sewing Zipper with Lining",
-          "description": "Sew the zipper to the main fabric first, then attach the lining over it to cover the back of the zipper. Alternatively, sandwich the zipper between the main fabric and lining (bag method).",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Sewing%20Zipper%20with%20Lining.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Sewing%20Zipper%20with%20Lining.png"
-        },
-        {
-          "no": 6,
-          "title": "Fixing a Broken Zipper",
-          "description": "If teeth separate, gently squeeze the top of the slider with pliers. If the slider falls off, reattach it from the top. If teeth are broken, replacement is needed. If fabric is stuck, gently pull back or rub with soap.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Fixing%20a%20Broken%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Fixing%20a%20Broken%20Zipper.png"
-        },
-        {
-          "no": 7,
-          "title": "Shortening a Zipper",
-          "description": "Mark the new length, sew a bar tack across the teeth at that point (by machine or hand), then cut off the excess zipper below the tack. Reattach the top stop or leave the original top stop in place.",
-          "video": "https://may.sewie.cloud/Learning_videos/Zippers/Shortening%20a%20Zipper.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Zippers/Shortening%20a%20Zipper.png"
-        }
-      ]
-    },
-    {
-      "name": "Waistbands",
-      "items": [
-        {
-          "no": 1,
-          "title": "Elastic Waistband",
-          "description": "Cut a fabric piece twice the width of the elastic, sew into a tube, insert the elastic, sew the elastic ends together, then stitch the elastic in place (or sew channels). No zipper needed.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Elastic%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Elastic%20Waistband.png"
-        },
-        {
-          "no": 2,
-          "title": "Drawstring Waistband",
-          "description": "Sew an attached or separate waistband, leaving two small openings at the front (or sides). Thread a drawstring through one opening, go around the waistband, and exit through the other opening. Can combine with elastic.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Drawstring%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Drawstring%20Waistband.png"
-        },
-        {
-          "no": 3,
-          "title": "Basic Waistband",
-          "description": "A separate waistband, usually with interfacing. Fold lengthwise, place right side onto the garment, sew along the seam, turn right side out, press, and topstitch close to the bottom edge.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Basic%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Basic%20Waistband.png"
-        },
-        {
-          "no": 4,
-          "title": "Contour Waistband",
-          "description": "A curved waistband, higher at the back and lower at the front. Cut in a curved shape with interfacing, sewn like a basic waistband but requires pressing curves to fit the body closely.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Contour%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Contour%20Waistband.png"
-        },
-        {
-          "no": 5,
-          "title": "Gathered Waistband",
-          "description": "The garment body is wider than the waistband. Sew two long basting stitches (or use elastic thread), pull the threads to create even gathers. Then attach the waistband (usually elastic or basic) onto the gathered section.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Gathered%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Gathered%20Waistband.png"
-        },
-        {
-          "no": 6,
-          "title": "Adding Elastic to Existing Clothes",
-          "description": "Make two small slits on the inside of the waistband (at the sides). Thread elastic through one slit, go around the waistband, and exit the other slit. Sew the elastic ends together, then close the slits. Alternatively, remove the old waistband and sew a new elastic waistband.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.png"
-        },
-        {
-          "no": 7,
-          "title": "Fix Loose Waistband",
-          "description": "For elastic waistband: make a small slit, cut a section of elastic shorter, sew the ends back together, close the slit. For rigid waistband: add darts at the sides or back, or sew small elastic pieces inside the side seams.",
-          "video": "https://may.sewie.cloud/Learning_videos/Waistbands/Fix%20Loose%20Waistband.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Waistbands/Fix%20Loose%20Waistband.png"
-        }
-      ]
-    },
-    {
-      "name": "Pockets",
-      "items": [
-        {
-          "no": 1,
-          "title": "Patch Pocket",
-          "description": "Cut a fabric piece in pocket shape, fold the edges inward 0.5-1 cm, press, then topstitch it onto the main fabric. Corners can be reinforced or decorative stitching added.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Patch%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Patch%20Pocket.png"
-        },
-        {
-          "no": 2,
-          "title": "Inseam Pocket",
-          "description": "Use two pocket lining pieces, sandwich them between the right sides of front and back panels, sew along the side seam. When finished, the pocket is completely inside, with only the opening visible at the side seam.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Inseam%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Inseam%20Pocket.png"
-        },
-        {
-          "no": 3,
-          "title": "Side Seam Pocket",
-          "description": "Similar to inseam pocket but the opening is topstitched with a curve or straight line, commonly seen in dress pants or skirts. Part of the pocket may be visible, finished with a facing or binding.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Side%20Seam%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Side%20Seam%20Pocket.png"
-        },
-        {
-          "no": 4,
-          "title": "Welt Pocket",
-          "description": "A slit pocket with a narrow welt covering the opening. Cut a slit on the main fabric, sew the welt and pocket lining, turn right side out, and bar tack the ends. Looks neat, often on blazers or dress pants.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Welt%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Welt%20Pocket.png"
-        },
-        {
-          "no": 5,
-          "title": "Zipper Pocket",
-          "description": "Cut a slit on the fabric, sew a zipper onto the wrong side, then attach the pocket bag underneath. Finish with binding or facing to cover the zipper edges. Keeps items secure, often used on sportswear or backpacks.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Zipper%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Zipper%20Pocket.png"
-        },
-        {
-          "no": 6,
-          "title": "Cargo Pocket",
-          "description": "A large patch pocket, often with a flap, with pleats at the bottom or sides to create volume (box shape). Topstitched onto pants or jackets, commonly seen on cargo pants or hunting jackets.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Cargo%20Pocket.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Cargo%20Pocket.png"
-        },
-        {
-          "no": 7,
-          "title": "Add Pocket to Existing Clothes",
-          "description": "Choose matching or contrasting fabric, cut a patch pocket, fold edges, press. Pin onto the desired location, topstitch close to the edge. Optionally add a zipper or flap. Avoid sewing over existing seams to prevent bulk.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Add%20Pocket%20to%20Existing%20Clothes.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Add%20Pocket%20to%20Existing%20Clothes.png"
-        },
-        {
-          "no": 8,
-          "title": "Reinforce Pocket Corners",
-          "description": "When sewing patch pockets or slit pocket openings, stitch a triangle tack or bar tack at each corner. Alternatively, use dense zigzag stitching or attach rivets to prevent the corners from tearing.",
-          "video": "https://may.sewie.cloud/Learning_videos/Pockets/Reinforce%20Pocket%20Corners.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Pockets/Reinforce%20Pocket%20Corners.png"
-        }
-      ]
-    },
-    {
-      "name": "Sleeves",
-      "items": [
-         {
-           "no": 1,
-           "title": "Set-in Sleeve",
-           "description": "A sleeve sewn separately and set into a closed armhole. The sleeve cap is slightly eased to fit the armhole. Attach around the armhole, then sew the underarm seam. Creates a structured, tailored fit.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Set-in%20Sleeve.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Set-in%20Sleeve.png"
-         },
-         {
-           "no": 2,
-           "title": "Flat Sleeve Attachment",
-           "description": "Attach the sleeve to the flat (unsewn) armhole first, right sides together. Then sew the side seam and underarm seam in one continuous line. Easier than set-in sleeves, commonly used for casual garments.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Flat%20Sleeve%20Attachment.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Flat%20Sleeve%20Attachment.png"
-         },
-         {
-           "no": 3,
-           "title": "Gathered Sleeve",
-           "description": "The sleeve cap is wider than the armhole and gathered to fit. Sew basting stitches, pull to create gathers, then set into the armhole. Adds soft volume at the shoulder.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Gathered%20Sleeve.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Gathered%20Sleeve.png"
-         },
-         {
-           "no": 4,
-           "title": "Puff Sleeve",
-           "description": "A sleeve with fullness at the cap, cuff, or both. Gather or pleat the fabric, then attach to the armhole and finish with a cuff or elastic. Creates a rounded, voluminous shape.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Puff%20Sleeve.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Puff%20Sleeve.png"
-         },
-         {
-           "no": 5,
-           "title": "Sewing Sleeve Cuff",
-           "description": "Attach a cuff to finish the sleeve edge. Sew the cuff to the sleeve, fold it over to enclose the seam, then topstitch. Interfacing is often used for structure. Buttons or closures can be added.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Sewing%20Sleeve%20Cuff.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Sewing%20Sleeve%20Cuff.png"
-         },
-         {
-           "no": 6,
-           "title": "Short Sleeve Hem",
-           "description": "Finish the sleeve edge with a narrow or double fold hem. Fold, press, and stitch close to the edge. Use a rolled hem for lightweight or flared sleeves.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Short%20Sleeve%20Hem.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Short%20Sleeve%20Hem.png"
-         },
-         {
-           "no": 7,
-           "title": "Adjust Sleeve Length",
-           "description": "Mark the desired length, add seam allowance, and trim excess fabric. Finish with a hem or reattach the cuff. For sleeves with plackets, shorten both the placket and cuff proportionally.",
-           "video": "https://may.sewie.cloud/Learning_videos/Sleeves/Adjust%20Sleeve%20Length.mp4",
-           "image": "https://may.sewie.cloud/Learning_image/Sleeves/Adjust%20Sleeve%20Length.png"
-         }
-       ]
-    },
-    {
-      "name": "Necklines",
-      "items": [
-        {
-          "no": 1,
-          "title": "Round Neckline",
-          "description": "A curved neckline that follows the base of the neck. Cut along a smooth curve and finish with bias binding or a facing. Simple and versatile, suitable for many garment styles.",
-          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Round%20Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Necklines/Round%20Neckline.png"
-        },
-        {
-          "no": 2,
-          "title": "V-Neckline",
-          "description": "A neckline with a sharp V-shaped point at the center. Mark the point precisely, sew to the tip, clip into the corner, then turn and press carefully to create a clean, sharp finish.",
-          "video": "https://may.sewie.cloud/Learning_videos/Necklines/V-Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Necklines/V-Neckline.png"
-        },
-        {
-          "no": 3,
-          "title": "Square Neckline",
-          "description": "A neckline with straight edges and right-angle corners. Clip into each corner before turning to reduce bulk, then press carefully to maintain crisp, clean edges.",
-          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Square%20Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Necklines/Square%20Neckline.png"
-        },
-        {
-          "no": 4,
-          "title": "Bias Binding Neckline",
-          "description": "Finish the neckline using bias-cut fabric (cut at 45°) for flexibility. Sew the binding to the edge, fold to the inside, and stitch in place. Creates a clean finish that adapts well to curves.",
-          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Bias%20Binding%20Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Necklines/Bias%20Binding%20Neckline.png"
-        },
-        {
-          "no": 5,
-          "title": "Facing Neckline",
-          "description": "Use a shaped facing piece to finish the neckline from the inside. Sew right sides together, clip curves, turn inward, and press. Provides a clean, structured finish, ideal for heavier fabrics.",
-          "video": "https://may.sewie.cloud/Learning_videos/Necklines/Facing%20Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Necklines/Facing%20Neckline.png"
-        }
-      ]
-    },
-    {
-      "name": "Collars",
-      "items": [
-        {
-          "no": 1,
-          "title": "Basic Shirt Collar",
-          "description": "A structured collar made of a collar stand and collar fall. Sew the collar pieces right sides together, turn and press. Attach the collar to the stand, then sew the stand to the neckline, enclosing the collar. Creates a clean, structured look for shirts.",
-          "video": "https://may.sewie.cloud/Learning_videos/Collars/Basic%20Shirt%20Collar.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Collars/Basic%20Shirt%20Collar.png"
-        },
-        {
-          "no": 2,
-          "title": "Peter Pan Collar",
-          "description": "A flat, rounded collar that lies smoothly against the garment with no stand. Sew the collar pieces together, turn and press, then attach to the neckline using a facing or binding. Common in feminine or children's designs.",
-          "video": "https://may.sewie.cloud/Learning_videos/Collars/Peter%20Pan%20Collar.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Collars/Peter%20Pan%20Collar.png"
-        },
-        {
-          "no": 3,
-          "title": "Mandarin Collar",
-          "description": "A short standing collar without a fold-over section. Cut a slightly curved band with interfacing, fold lengthwise, and attach to the neckline. Often finished with buttons at the front for a clean, minimal look.",
-          "video": "https://may.sewie.cloud/Learning_videos/Collars/Mandarin%20Collar.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Collars/Mandarin%20Collar.png"
-        },
-        {
-          "no": 4,
-          "title": "Attaching Collar to Garment",
-          "description": "Pin or baste the collar to the neckline, right sides together. Attach a facing or collar band to enclose the seam. Clip curves, press well, and ease the fabric evenly to prevent twisting or puckering.",
-          "video": "https://may.sewie.cloud/Learning_videos/Collars/Attaching%20Collar%20to%20Garment.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Collars/Attaching%20Collar%20to%20Garment.png"
-        },
-        {
-          "no": 5,
-          "title": "Fixing Uneven Neckline",
-          "description": "Uneven necklines are often caused by stretching or inaccurate cutting. Remove the stitching, press the fabric flat, and re-mark the neckline evenly. Reattach the collar using pins, sew slowly, and avoid stretching. Use stay tape if the fabric has distorted.",
-          "video": "https://may.sewie.cloud/Learning_videos/Collars/Fixing%20Uneven%20Neckline.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Collars/Fixing%20Uneven%20Neckline.png"
-        }
-      ]
-    },
-    {
-      "name": "Closures",
-      "items": [
-        {
-          "no": 1,
-          "title": "Hook and Eye",
-          "description": "A small fastening made of a hook and a loop (eye). Sew the hook to one side and the eye to the opposite side, aligning them carefully. Commonly used at waistbands, skirts, or collars where extra security is needed. Stitch firmly over the base to prevent loosening.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Hook%20and%20Eye.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Hook%20and%20Eye.png"
-        },
-        {
-          "no": 2,
-          "title": "Snap Button",
-          "description": "A press-fastener with two parts (ball and socket) that snap together. Attach using snap pliers or by sewing. For sew-on snaps, stitch around the holes securely. For metal snaps, insert prongs through the fabric and press firmly. Common in shirts, kidswear, and bags.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Snap%20Button.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Snap%20Button.png"
-        },
-        {
-          "no": 3,
-          "title": "Velcro Closure",
-          "description": "A hook-and-loop fastener with two sides: rough (hook) and soft (loop). Cut to size and sew onto fabric using a rectangle or cross-stitch pattern. Reinforce corners with bar tacks to prevent peeling. Keep away from raw edges to reduce lint buildup.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Velcro%20Closure.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Velcro%20Closure.png"
-        },
-        {
-          "no": 4,
-          "title": "Button Loop",
-          "description": "A small loop made from fabric or cord that fits over a button. Create using bias fabric or elastic cord, sew into a loop, then attach to the garment edge. Often used on delicate garments or back closures. Ensure the loop is snug for a secure fit.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Button%20Loop.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Button%20Loop.png"
-        },
-        {
-          "no": 5,
-          "title": "Toggle Closure",
-          "description": "A closure made of a toggle (bar) and a loop. Attach the toggle with a cord or fabric strip, and sew a loop on the opposite side. To fasten, pass the toggle through the loop. Common on coats and outerwear.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Toggle%20Closure.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Toggle%20Closure.png"
-        },
-        {
-          "no": 6,
-          "title": "Sewing Clasps",
-          "description": "Metal fasteners such as purse clasps or lobster clasps. Sew the base plate onto fabric using tight whipstitches, reinforcing multiple times. Use strong or nylon thread for durability. Ensure the base is well secured to handle tension.",
-          "video": "https://may.sewie.cloud/Learning_videos/Closures/Sewing%20Clasps.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Closures/Sewing%20Clasps.png"
-        }
-      ]
-    },
-    {
-      "name": "Fabric Shaping",
-      "items": [
-        {
-          "no": 1,
-          "title": "Gathering Fabric",
-          "description": "Sew 2–3 rows of long basting stitches within the seam allowance. Leave long thread tails. Pull the bobbin threads to gather the fabric evenly. Distribute the gathers, then attach to another fabric piece (e.g., a waistband). Leave 0.5–1 cm seam allowance.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Gathering%20Fabric.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Gathering%20Fabric.png"
-        },
-        {
-          "no": 2,
-          "title": "Pleats - Box, Knife",
-          "description": "Knife pleat: all folds face the same direction. Box pleat: folds face each other, forming an “H” shape. Mark pleat positions, fold accurately, and press firmly before stitching. Secure pleats by stitching across the top edge (within seam allowance) or stitch down partially/full length depending on design.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.png"
-        },
-        {
-          "no": 3,
-          "title": "Sewing Darts",
-          "description": "Fold fabric along the dart line, right sides together. Sew from the wide end toward the tip, tapering gradually and sewing off the edge at the tip. Do not backstitch at the tip; instead, tie the threads. Press toward center or down.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Sewing%20Darts.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Sewing%20Darts.png"
-        },
-        {
-          "no": 4,
-          "title": "Ruffles",
-          "description": "Cut a strip 1.5–3× longer than the area. Sew gathering stitches, pull to create gathers, and distribute evenly. Attach to the main fabric. Avoid pressing flat to maintain volume. Use a ruffler foot or two rows of gathering stitches.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Ruffles.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Ruffles.png"
-        },
-        {
-          "no": 5,
-          "title": "Tucks",
-          "description": "Small, even folds stitched down their entire length, used for decoration or light elastic effect. Fold fabric vertically or horizontally, press firmly, sew a line parallel to the folded edge about 0.3-0.5 cm away. No gathering, just folding and stitching.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Tucks.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Tucks.png"
-        },
-        {
-          "no": 6,
-          "title": "Shirring - Elastic Thread",
-          "description": "Wind elastic thread onto the bobbin by hand (without stretching). Sew parallel rows 0.5–1.5 cm apart (usually on the wrong side). After sewing, apply steam or heat to shrink the elastic, creating even gathers.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.png"
-        },
-        {
-          "no": 7,
-          "title": "Adding Volume",
-          "description": "Increase fullness by adding extra fabric using pleats, gathers, or inserts (e.g., godets). Cutting on the bias also creates natural drape. For sleeves, increase sleeve cap height. For skirts, add width at the hem and control fullness at the waistband.",
-          "video": "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Adding%20Volume.mp4",
-          "image": "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Adding%20Volume.png"
-        }
-      ]
+        "groups":
+            [
+                {
+                    "name": "Stitch",
+                    "items":
+                        [
+                            {
+                                "no": 1,
+                                "title": "Basting stitch",
+                                "description":
+                                    "A basting stitch is a temporary stitch to hold layers of fabric together and it will later be removed.\nUsing a thread color that contrasts with your fabric will make the basting thread more visible for easy removal.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Basting%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Basting%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 2,
+                                "title": "Running stitch",
+                                "description":
+                                    "The straight or running stitch is the basic stitch in hand-sewing and embroidery, on which all other forms of sewing are based. The stitch is worked by passing the needle in and out of the fabric at a regular distance.\nSew a line of running stitches by inserting the needle and thread through both layers of fabric a short distance from your starting point. Bring the needle and thread up to the top of the layers the same distance as the first stitch and keep repeating until you reach the end.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/01%20-%20How_to_do_a_Running_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/01%20-%20How_to_do_a_Running_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 3,
+                                "title": "Back stitch",
+                                "description":
+                                    "A backstitch is a basic hand stitch that creates a line of stitches without a break between them, so it looks like a continuous straight line of thread, it is also one of the most durable stitches that doesn’t come undone easily.\nThe stitch is made by bringing thread behind the previous stitch and then coming out of the fabric in front of the previous stitch.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/02%20-%20How_to_Back_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/02%20-%20How_to_Back_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 4,
+                                "title": "Chain stitch",
+                                "description":
+                                    "Chain stitch is a sewing and embroidery technique in which a series of looped stitches form a chain-like pattern.\nBecause of its continuous looped nature, the stitch easily comes apart so it is more suitable for decorative purposes than functional purposes like holding two or more fabric layers together.\nBring knotted needle to front of fabric. Pull thread through. Insert needle into fabric a tiny distance below where thread came out previously. Bring needle out from fabric to create a loop. Bring the needle to front a stitch length away from the starting point. Pull thread through to form first loop of the chain.\nContinue forming loops in the same way.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/05%20-%20How_to_do_a_Chain_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/05%20-%20How_to_do_a_Chain_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 5,
+                                "title": "Ladder stitch",
+                                "description":
+                                    "To sew a ladder stitch, start by threading a needle with matching thread and tying a small knot at the end. Begin by inserting the needle into one edge and sew a stitch then insert the needle into the other edge and sew a stitch with the same length, Continue alternating stitches between the two edges, making sure they are spaced evenly. Once you've reached the end, secure the thread with two or three knots and hide the thread tail inside the project.\nThe ladder stitch is also called the slip stitch or the invisible stitch or the blind stitch.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Ladder%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Ladder%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 6,
+                                "title": "Blanket stitch",
+                                "description":
+                                    "A blanket stitch is a simple and decorative stitch often used for finishing edges of fabric or creating a neat hem.\n\n1. Thread the needle and tie a small knot at the end.\n\n2. Make a loop with the first stitch and pass needle under the loop over fabric edge as shown in the tutorial, I like to do this twice for a neat first stitch.\n\n3. To sew the first stitch, insert the needle a stitch length away from the start point and slightly below the edge of the fabric, keeping the needle pointing up (towards fabric edge). Loop thread behind the needle and pull the needle through (up). This is your first blanket stitch.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/09%20-%20How_to_do_a_Blanket_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/09%20-%20How_to_do_a_Blanket_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 7,
+                                "title": "Overlock stitch",
+                                "description":
+                                    "The overlock stitch is a variation of the blanket stitch. It’s both decorative and secure, making it perfect for finishing the edges of blankets, garments, and home textiles.\n\nIn this tutorial, I'll share my unique method for starting the stitch, which creates a perfect triangle as the first stitch. Let’s call it the \n\nTo sew an overlock stitch by hand, use double thread. The stitches are formed by passing the needle between the threads and pulling the thread to tighten the loop, creating a triangle shape.\n\nRepeat the steps until the edging is finished.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Overlock%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Overlock%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 8,
+                                "title": "Catch stitch",
+                                "description":
+                                    "A catch stitch is a common hand sewing technique used for hemming, which creates a zigzag pattern on the underside of the fabric. It is strong and flexible, making it suitable for both non stretch and stretch fabrics, and is nearly invisible on the outside of the garment.\n\nBefore sewing the catch stitch, finish the raw fabric edges, then fold and press the hem at the seam allowance. Use a matching thread to sew the catch stitch.\n\nA catch stitch can also be called a flat catch stitch. This technique involves taking a small amount of fabric from each side of the seam or hem, creating a zigzag pattern that lies flat against the fabric, resulting in a clean, professional finish.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Catch%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Catch%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 9,
+                                "title": "Blind hem stitch",
+                                "description":
+                                    "A blind hem stitch is used to create a hem that is not visible once finished, It's quick and simple and it joins two pieces of fabric with practically invisible seams.\n\nUse a matching thread and a single thread for lightweight fabrics and double thread for medium weight fabrics.\n\nFold the hem twice, insert the needle into the folded edge and hide the knot.\nTake 1 or 2 thread from the wrong side and pull the needle through. Insert the needle into the folded edge and sew a small stitch.\n\nRepeat until you reach the end of the hem. Tie the thread into the loop of the last stitch and hide the thread tail and trim the excess thread.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Blind%20hem%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Blind%20Hem%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 10,
+                                "title": "Buttonhole Stitch",
+                                "description":
+                                    "Draw a rectangle 2 mm × the length of the button  (this is the inner rectangle).\n\nNext, draw a second rectangle so that each side is 2 mm away from the sides of the first rectangle (this will be the outer rectangle). \n\nUse a running stitch and sew along the edges of the outer rectangle to create a border for the buttonhole.\n\nThen, fill the gap between the inner rectangle and the outer rectangle as shown in the videos.\n\nAfterward, use a seam ripper to carefully open the buttonhole.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Stitch/Buttonhole%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Buttonhole%20Stitch%201.jpg"
+                            },
+                            {
+                                "no": 11,
+                                "title": "Start a stitch",
+                                "description":
+                                    "This is my go-to method for starting a stitch: \nUntwist the thread, tie a single knot at the end, and pass the needle through the loop formed by the double thread at the back (wrong side) before pulling it tight.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Start%20a%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Start%20a%20stitch%201.jpg"
+                            },
+                            {
+                                "no": 12,
+                                "title": "End a stitch",
+                                "description":
+                                    "Complete your final stitch and bring the needle to the WRONG SIDE of the fabric.\nOn the wrong side, pass the needle through the last stitch you made to create a small loop, and then pass the needle through the loop to form the first knot. Pull it tight to secure it.\nCreate a second knot by forming another small loop and passing the needle through it, then pulling it tight.\nOnce you're sure the knots are secure, trim any excess thread.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/End%20a%20stitch.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/End%20a%20stitch%201.jpg"
+                            },
+                            {
+                                "no": 13,
+                                "title": "Hide the thread end #1",
+                                "description":
+                                    "How to hide the thread end after knotting and before cutting it off - Method #1\nDepending on your project, you can choose this method, method #2 , or simply clip the thread after tying a knot at the end of the stitch.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Hide%20the%20thread%20end%20%231.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Hide%20the%20thread%20end%203.jpg"
+                            },
+                            {
+                                "no": 14,
+                                "title": "Hide the thread end #2",
+                                "description":
+                                    "How to hide the thread end after knotting and before cutting it off  - Method #2\n\nInsert the needle close to the knot, between the fabric layers away from the knot. Make sure the thread does not catch the outside of the fabric. Bring the needle up, away from the knot, and gently pull the thread to create a small gathering. Then, trim off the excess thread.\n\nThis technique effectively hides the thread ends, creating a clean, professional finish. \n\nDepending on your project, you can choose this method, Method #1, or simply clip the thread after tying a knot at the end of the stitch.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Stitch/Hide%20the%20thread%20end%20%232.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Hide%20the%20thread%20end%202%201.jpg"
+                            },
+                            {
+                                "no": 15,
+                                "title": "Split stitch",
+                                "description":
+                                    "The split stitch is a basic hand embroidery technique where the needle comes up through the center of the previous stitch, literally splitting its thread in half. This creates a continuous, braided-looking line with no gaps between stitches. Unlike the back stitch, which leaves small spaces, the split stitch forms a solid, slightly textured line that works especially well for curves, outlines, and lettering. It is often done with stranded cotton thread (such as 2 or 3 strands out of 6) so the needle can easily pass through the middle. The result is a flexible, durable stitch that lies flat and looks like a tiny rope or chain on the fabric.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/03%20-%20How_to_do_a_Split_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/03%20-%20How_to_do_a_Split_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 16,
+                                "title": "Stem stitch",
+                                "description":
+                                    "The stem stitch is a classic hand embroidery stitch commonly used for outlining curves, vines, flower stems, and lettering. It creates a smooth, twisted rope-like line that resembles a continuous spiral, giving the design an elegant and polished appearance. To work the stem stitch, the needle is brought up slightly beside the previous stitch, always keeping the working thread on the same side (either below or above the needle consistently). This consistent placement creates the characteristic twisted effect. Unlike the split stitch, which pierces through the thread, the stem stitch travels alongside it, resulting in a cleaner, more flowing line. It works well with most thread types, from cotton floss to wool or pearl cotton, and is especially suitable for curved lines because of its flexibility and smooth finish.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/04%20-%20How_to_Stem_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/04%20-%20How_to_Stem_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 17,
+                                "title": "Straight stitch",
+                                "description":
+                                    "Straight Stitch is a fundamental sewing stitch that consists of a series of straight, evenly spaced stitches formed by the sewing machine needle moving forward through the fabric. It is the most commonly used stitch in sewing and serves as the foundation for constructing garments, home décor items, and various fabric crafts. Straight stitches are primarily used to join fabric pieces together, create seams, and add decorative topstitching. Due to its simplicity, versatility, and strength on woven fabrics, the straight stitch is considered an essential technique for both beginner and advanced sewists.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/06%20-%20How_to_do_a_Straight_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/06%20-%20How_to_do_a_Straight_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 18,
+                                "title": "French knot",
+                                "description":
+                                    "French Knot is a decorative embroidery stitch used to create small, raised knots on the surface of fabric. The stitch is formed by wrapping the embroidery thread around the needle one or more times before inserting it back into the fabric close to the starting point, creating a textured knot. French knots are commonly used to add detail, dimension, and visual interest to embroidery designs, often representing flower centers, eyes, berries, or other small decorative elements. Valued for their versatility and three-dimensional appearance, French knots are a popular technique in both traditional and modern embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/07%20-%20How_to_do_a_French_Knot/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/07%20-%20How_to_do_a_French_Knot/thumb.webp"
+                            },
+                            {
+                                "no": 19,
+                                "title": "Lazy Daisy stitch",
+                                "description":
+                                    "Lazy Daisy Stitch is a decorative embroidery stitch used to create petal-shaped loops on fabric. It is a variation of the chain stitch, formed by making a loop of thread and securing it with a small anchoring stitch at the tip. This simple yet versatile stitch is most commonly used to embroider flowers, leaves, and other nature-inspired motifs, making it a popular choice in decorative needlework. The Lazy Daisy Stitch adds texture, dimension, and a delicate handcrafted appearance to embroidery projects, making it suitable for both beginners and experienced embroiderers.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/08%20-%20How_to_do_a_Lazy_Daisy_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/08%20-%20How_to_do_a_Lazy_Daisy_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 20,
+                                "title": "Woven wheel stitch",
+                                "description":
+                                    "Woven Wheel Stitch is a decorative embroidery stitch that creates a raised, circular design resembling a rose or flower. It is formed by first stitching several straight spokes radiating from a central point and then weaving the embroidery thread over and under these spokes in a continuous spiral pattern. As the weaving progresses, the spokes become completely covered, creating a textured, three-dimensional effect. Woven Wheel Stitch is widely used in floral embroidery designs to add depth, dimension, and visual interest, making it a popular technique in both traditional and contemporary embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/10%20-%20How_to_do_a_Woven_Wheel_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/10%20-%20How_to_do_a_Woven_Wheel_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 21,
+                                "title":
+                                    "Embroider leaves with the fishbone stitch",
+                                "description":
+                                    "Fishbone Stitch is an embroidery stitch commonly used to create realistic leaves with a textured, natural appearance. The stitch is worked by alternating diagonal stitches from each side of a central vein, overlapping slightly in the middle to form a distinctive fishbone-like pattern. This technique fills the shape of the leaf while simultaneously creating a visible center line, giving the design depth and dimension. Because of its neat structure and lifelike effect, Fishbone Stitch is widely used in floral and botanical embroidery projects to represent leaves, petals, and other organic shapes.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/11%20-%20Embroider_Leaves_with_the_Fishbone_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/11%20-%20Embroider_Leaves_with_the_Fishbone_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 22,
+                                "title": "Satin stitch",
+                                "description":
+                                    "Satin Stitch is a filling embroidery stitch used to cover shapes with smooth, closely spaced parallel stitches. The stitches are worked side by side across a design area, creating a solid surface with a soft, satin-like appearance. Satin Stitch is commonly used to fill petals, leaves, letters, and other decorative motifs, providing rich color coverage and a polished finish. Known for its elegant and refined look, this stitch is one of the most popular embroidery techniques for adding detail, texture, and visual impact to both traditional and modern embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/12%20-%20How_to_do_a_Satin_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/12%20-%20How_to_do_a_Satin_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 23,
+                                "title": "Long and short stitch",
+                                "description":
+                                    "Long and Short Stitch is an embroidery filling technique used to create smooth color blending and realistic shading within a design. It is formed by alternating long and short stitches along the edge of a shape and then layering additional rows of stitches to gradually build coverage and transition between colors. This method produces a soft, natural appearance, making it ideal for embroidering flowers, leaves, animals, portraits, and other detailed motifs. Valued for its ability to create depth, dimension, and subtle gradients, Long and Short Stitch is a fundamental technique in needle painting and advanced embroidery.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/13%20-%20How_to_Long_and_Short_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/13%20-%20How_to_Long_and_Short_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 24,
+                                "title": "Bullion knot",
+                                "description":
+                                    "Bullion Knot is a decorative embroidery stitch that creates a raised, coiled shape on the surface of fabric. It is formed by wrapping the embroidery thread multiple times around the needle and then pulling the needle through the wraps to create a smooth, elongated knot. Depending on its length and arrangement, a Bullion Knot can be used to represent flower petals, roses, leaves, insects, or other textured elements in embroidery designs. Known for its dimensional appearance and versatility, this stitch is widely used to add depth, detail, and decorative interest to both traditional and contemporary embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/14%20-%20How_to_do_a_Bullion_Knot/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/14%20-%20How_to_do_a_Bullion_Knot/thumb.webp"
+                            },
+                            {
+                                "no": 25,
+                                "title": "Small leaf stitch",
+                                "description":
+                                    "Small Leaf Stitch is a decorative embroidery technique used to create small, leaf-shaped motifs with a neat and natural appearance. It is typically worked by combining a series of closely placed stitches that form a pointed oval shape resembling a leaf. This stitch is commonly used in floral and botanical embroidery designs to add delicate details, texture, and dimension. Due to its simple construction and versatile application, the Small Leaf Stitch is suitable for both beginner and experienced embroiderers, helping to create realistic foliage and enhance the overall beauty of embroidered patterns.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/15%20-%20Small_Leaf_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/15%20-%20Small_Leaf_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 26,
+                                "title": "Threaded running stitch",
+                                "description":
+                                    "Threaded Running Stitch is a decorative embroidery stitch created by weaving a second thread through a line of basic running stitches without piercing the fabric again. This technique enhances the appearance of the traditional running stitch by adding color, texture, and dimension to the design. The woven thread can be threaded through the stitches in various patterns, creating decorative effects ranging from simple waves to intricate braided looks. Because of its versatility and attractive finish, Threaded Running Stitch is commonly used for borders, outlines, and ornamental details in both traditional and modern embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/16%20-%20How_to_do_a_Threaded_Running_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/16%20-%20How_to_do_a_Threaded_Running_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 27,
+                                "title": "Whipped back stitch",
+                                "description":
+                                    "Whipped Back Stitch is a decorative embroidery technique created by weaving a second thread through a line of completed back stitches without passing the needle through the fabric. The additional thread is wrapped around each back stitch in a continuous motion, producing a smooth, rope-like effect with added texture and dimension. This stitch is commonly used for outlines, borders, lettering, and decorative accents, as it creates a bold and polished appearance. Combining the strength of the back stitch with an ornamental finish, Whipped Back Stitch is a popular choice in both traditional and contemporary embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/17%20-%20How_to_do_a_Whipped_Back_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/17%20-%20How_to_do_a_Whipped_Back_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 28,
+                                "title": "Double threaded back stitch",
+                                "description":
+                                    "Double Threaded Back Stitch is a decorative embroidery stitch created by weaving two additional threads through a foundation line of back stitches without re-entering the fabric. The extra threads are threaded through the stitches in a specific pattern, producing a thicker, more textured, and visually striking line than a standard back stitch. This technique is often used to create decorative borders, outlines, and ornamental details in embroidery designs. Valued for its dimensional appearance and versatility, Double Threaded Back Stitch combines the durability of the back stitch with an elegant decorative effect, making it suitable for both traditional and modern embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/18%20-%20How_to_do_a_Double_Threaded_Back_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/18%20-%20How_to_do_a_Double_Threaded_Back_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 29,
+                                "title": "Couching stitch",
+                                "description":
+                                    "Couching Stitch is an embroidery technique used to secure a thicker thread, yarn, ribbon, or cord onto the surface of fabric with small holding stitches. Instead of passing the decorative thread through the fabric, it is laid on top of the material and anchored in place with a separate sewing thread. This method is particularly useful for attaching threads that are too thick, delicate, or decorative to be stitched directly through the fabric. Couching Stitch is widely used to create bold outlines, intricate patterns, lettering, and textured designs, adding dimension and visual interest to both traditional and contemporary embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/19%20-%20How_to_do_the_Couching_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/19%20-%20How_to_do_the_Couching_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 30,
+                                "title": "Fly stitch",
+                                "description":
+                                    "Fly Stitch is a decorative embroidery stitch that forms a V-shaped or Y-shaped pattern on the surface of fabric. It is created by making a loop of thread and securing it with a small anchoring stitch, resulting in a delicate, open design. Fly Stitch is commonly used to represent leaves, grass, feathers, branches, and other natural elements in embroidery projects. It can be worked individually or in rows to create decorative borders and textured fillings. Valued for its versatility and elegant appearance, Fly Stitch is a popular technique in both traditional and modern embroidery.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/20%20-%20How_to_do_the_Fly_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/20%20-%20How_to_do_the_Fly_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 31,
+                                "title": "Seed stitch",
+                                "description":
+                                    "Seed Stitch is a simple embroidery filling technique made up of many small, randomly scattered straight stitches that resemble tiny seeds spread across the fabric. The stitches are worked in different directions and lengths to create a light, textured effect that adds depth and visual interest to a design. Seed Stitch is commonly used for shading, filling backgrounds, creating texture, or representing natural elements such as grass, soil, and foliage. Because of its versatility and easy execution, it is a popular embroidery technique for both beginners and experienced stitchers.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/21%20-%20How_to_do_the_Seed_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/21%20-%20How_to_do_the_Seed_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 32,
+                                "title": "Danish knot",
+                                "description":
+                                    "Danish Knot is a decorative embroidery stitch used to create small, textured knots with a slightly raised and compact appearance. It is formed by wrapping the thread around the needle in a specific manner before securing it to the fabric, producing a neat and dimensional knot. Danish Knots are often used to add texture, detail, and visual interest to embroidery designs, particularly in floral patterns, borders, and decorative fillings. Similar to other knot stitches but with a distinct structure, the Danish Knot is valued for its ability to create richly textured surfaces and intricate embellishments in both traditional and contemporary embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/22%20-%20How_to_do_a_Danish_Knot/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/22%20-%20How_to_do_a_Danish_Knot/thumb.webp"
+                            },
+                            {
+                                "no": 33,
+                                "title": "Embroider a rose with bullion knots",
+                                "description":
+                                    "Embroidering a Rose with Bullion Knots is an embroidery technique that uses a series of bullion knots arranged in layers to create a realistic, three-dimensional rose design. Each bullion knot forms an individual petal, and the petals are stitched around a central point to build the shape of the flower. The coiled structure of the bullion knots gives the rose a textured and lifelike appearance, closely resembling the natural folds of rose petals. This technique is widely used in decorative embroidery to add depth, elegance, and intricate floral details to both traditional and contemporary needlework projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/23%20-%20How_to_Embroider_a_Rose_with_Bullion_Knots/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/23%20-%20How_to_Embroider_a_Rose_with_Bullion_Knots/thumb.webp"
+                            },
+                            {
+                                "no": 34,
+                                "title": "Looped blanket stitch flower",
+                                "description":
+                                    "Looped Blanket Stitch Flower is a decorative embroidery technique that uses a series of looped blanket stitches arranged in a circular pattern to create a flower-shaped design. Each stitch forms a loop that resembles an individual petal, and the petals radiate outward from a central point to create a balanced floral motif. This technique adds texture, dimension, and a delicate handcrafted appearance to embroidery projects. Commonly used in floral and decorative needlework, the Looped Blanket Stitch Flower is valued for its versatility, visual appeal, and ability to create attractive embellishments with a simple stitching method.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/24%20-%20How_to_make_a_Looped_Blanket_Stitch_Flower/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/24%20-%20How_to_make_a_Looped_Blanket_Stitch_Flower/thumb.webp"
+                            },
+                            {
+                                "no": 35,
+                                "title": "Buttonhole Wheel",
+                                "description":
+                                    "Buttonhole Wheel is a decorative embroidery stitch that creates a circular, flower-like design using a series of buttonhole stitches worked around a central point. The stitches are evenly arranged in a radial pattern, forming loops that resemble petals and create a textured, dimensional effect. This stitch is commonly used to embroider flowers, decorative motifs, and ornamental accents in both traditional and contemporary embroidery projects. Valued for its elegant appearance and versatility, the Buttonhole Wheel adds depth, texture, and visual interest to embroidered designs while showcasing the beauty of looped stitch techniques.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/25%20-%20How_to_make_a_Buttonhole_Wheel/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/25%20-%20How_to_make_a_Buttonhole_Wheel/thumb.webp"
+                            },
+                            {
+                                "no": 36,
+                                "title": "Turkey stitch",
+                                "description":
+                                    "Turkey Stitch is a decorative embroidery technique used to create loops or tufts of thread that produce a soft, raised, and textured surface. The stitch is formed by wrapping the thread in a way that creates loops standing above the fabric, which can be left intact or cut to create a fluffy, pile-like effect. Turkey Stitch is commonly used to represent hair, fur, grass, moss, animal textures, and other three-dimensional elements in embroidery designs. Known for its ability to add volume and realism, this stitch is widely used in stumpwork, textured embroidery, and decorative needlework projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/26%20-%20How_to_do_the_Turkey_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/26%20-%20How_to_do_the_Turkey_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 37,
+                                "title": "Feather stitch",
+                                "description":
+                                    "Feather Stitch is a decorative embroidery stitch characterized by a series of open, looped stitches that alternate from side to side along a central line, creating a pattern that resembles the structure of a feather. This versatile stitch is commonly used for borders, vines, branches, stems, and decorative outlines in embroidery designs. Its open and airy appearance adds movement, texture, and visual interest to fabric surfaces. Easy to adapt in size and spacing, Feather Stitch is a popular technique in both traditional and contemporary embroidery for creating elegant and organic decorative effects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/27%20-%20How_to_do_the_Feather_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/27%20-%20How_to_do_the_Feather_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 38,
+                                "title": "Feather stitch",
+                                "description":
+                                    "Feather Stitch is a decorative embroidery stitch characterized by a series of open, looped stitches that alternate from side to side along a central line, creating a pattern that resembles the structure of a feather. This versatile stitch is commonly used for borders, vines, branches, stems, and decorative outlines in embroidery designs. Its open and airy appearance adds movement, texture, and visual interest to fabric surfaces. Easy to adapt in size and spacing, Feather Stitch is a popular technique in both traditional and contemporary embroidery for creating elegant and organic decorative effects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/27%20-%20How_to_do_the_Feather_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/27%20-%20How_to_do_the_Feather_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 39,
+                                "title": "Herringbone stitch",
+                                "description":
+                                    "Herringbone Stitch is a decorative embroidery stitch formed by a series of crossed diagonal stitches that create a distinctive pattern resembling the bones of a herring fish. The stitch is worked between two parallel lines, with the threads crossing in the center to produce an open, textured design. Herringbone Stitch is commonly used for borders, decorative seams, filling areas, and embellishing garments or household textiles. Its versatility allows it to be worked in various widths and styles, making it a popular choice for adding texture, dimension, and visual interest to both traditional and modern embroidery projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/28%20-%20How_to_do_the_Herringbone_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/28%20-%20How_to_do_the_Herringbone_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 40,
+                                "title": "Colonial knot",
+                                "description":
+                                    "Colonial Knot is a decorative embroidery stitch used to create small, raised knots on the surface of fabric. It is formed by wrapping the thread around the needle in a distinctive figure-eight motion before pulling the needle through the fabric, resulting in a firm and evenly shaped knot. Similar in appearance to the French Knot but often considered more secure and consistent, the Colonial Knot is commonly used for flower centers, eyes, berries, and textured filling effects. Valued for its neat appearance and durability, this stitch is widely used in both traditional and contemporary embroidery projects to add dimension and decorative detail.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/29%20-%20How_to_Make_a_Colonial_Knot/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/29%20-%20How_to_Make_a_Colonial_Knot/thumb.webp"
+                            },
+                            {
+                                "no": 41,
+                                "title": "Embroider a heart",
+                                "description":
+                                    "Embroidering a Heart is a decorative embroidery technique used to create a heart-shaped motif that symbolizes love, affection, and care. The design can be formed using a variety of embroidery stitches, such as back stitch, satin stitch, chain stitch, or outline stitch, depending on the desired appearance and texture. Heart motifs are commonly used in decorative needlework, personalized gifts, home décor, and embellishments on clothing and accessories. This embroidery technique allows stitchers to combine creativity and craftsmanship while adding a meaningful and visually appealing element to their projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/30%20How_to_Embroider_a_Heart/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/30%20How_to_Embroider_a_Heart/thumb.webp"
+                            },
+                            {
+                                "no": 42,
+                                "title": "Palestrina stitch",
+                                "description":
+                                    "Palestrina Stitch is a decorative embroidery stitch that creates a textured line of evenly spaced knots along a stitched path. It is formed by making a loop and wrapping the thread in a specific way before tightening it to produce a raised, twisted knot. The resulting stitch has a distinctive rope-like appearance, making it ideal for outlines, borders, stems, and decorative accents in embroidery designs. Valued for its dimensional texture and elegant effect, Palestrina Stitch is commonly used in both traditional and contemporary embroidery to add depth and visual interest to needlework projects.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/31%20-%20How_to_do_the_Palestrina_Stitch/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/31%20-%20How_to_do_the_Palestrina_Stitch/thumb.webp"
+                            },
+                            {
+                                "no": 43,
+                                "title": "Basketweave stitch in embroidery",
+                                "description":
+                                    "Basketweave Stitch is an embroidery filling technique that creates a woven pattern resembling the appearance of a traditional basket. It is formed by arranging stitches in an interlaced, over-and-under structure that produces a textured and visually balanced surface. This stitch is commonly used to fill larger areas of a design while adding depth, dimension, and a decorative woven effect. Basketweave Stitch is often featured in needlepoint, canvas work, and decorative embroidery projects, where it enhances both the durability and aesthetic appeal of the finished piece. Its structured pattern makes it an excellent choice for creating realistic textures and ornamental backgrounds.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/32%20-%20How_to_do_a_Basketweave_Stitch_in_Embroidery/master.m3u8",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_videos/Stitch/32%20-%20How_to_do_a_Basketweave_Stitch_in_Embroidery/thumb.webp"
+                            }
+                        ]
+                },
+                {
+                    "name": "Seam",
+                    "items":
+                        [
+                            {
+                                "no": 1,
+                                "title": "Open plain seam",
+                                "description":
+                                    "Sew the fabric pieces right sides together, finish the raw edges of the seam allowances separately, and press the seam open.\nThis technique is ideal for garments, quilting, and projects where a clean, flat seam is needed for a professional finish.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Open%20plain%20seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Open%20plain%20seam%201.jpg"
+                            },
+                            {
+                                "no": 2,
+                                "title": "Closed plain seam",
+                                "description":
+                                    "Sew the fabric pieces right sides together, finish the raw edges of the seam allowances together, and press the seam to one side.\n\nYou can use this technique for garments like shirts, dresses, and pants to achieve a professional finish.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Closed%20plain%20seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Closed%20plain%20seam%201.jpg"
+                            },
+                            {
+                                "no": 3,
+                                "title": "Edgestitch seam",
+                                "description":
+                                    "An edgestitch seam is a topstitch sewn close to the edge of the fabric, typically 1.5 to 3 mm away. It’s both decorative and functional, as it flattens seams and reinforces the edges.\n\nTo sew an edgestitch seam, use an edge stitching foot or the inside edge of the standard presser foot as a guide. With the right side of the fabric facing up, sew close to the seam, ensuring you catch the seam allowance on the wrong side.\n\nEdgestitching is commonly used on garments to provide a clean finish. It’s also ideal for securing seam allowances in place, or for decorative accents in home décor items like pillowcases or tablecloths.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Edgestitch%20seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Edgestitch%20seam%201.jpg"
+                            },
+                            {
+                                "no": 4,
+                                "title": "Topstitch seam",
+                                "description":
+                                    "A topstitch seam is a decorative or functional stitching line sewn on the right side of a garment, parallel to a seam.\nIt is often used to reinforce seams, add definition, or create a finished look.\nTopstitching is usually sewn about 6mm (or 1/4 inch) away from the seam line. You can also use the outer edge of your standard presser foot as a guide.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Topstitch%20seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/topstitch%20seam%201.jpg"
+                            },
+                            {
+                                "no": 5,
+                                "title": "Welt Seam",
+                                "description":
+                                    "A welt seam is a strong, flat seam often used for medium to heavy-weight fabrics. It resembles a flat-felled seam but is less bulky, making it ideal for jeans, denim, and other garments that require durability.\n\nTo sew a welt seam:\nPlace the fabric right sides together and sew the seam, finish the raw edges together using a serger or zigzag stitch, press the seam allowances to one side, with the right side facing up, sew an edgestitch close to the seam, then add a topstitch.\n\nTip: You can trim one seam allowance to reduce bulk if needed.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Welt%20Seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Welt%20seam%201.jpg"
+                            },
+                            {
+                                "no": 6,
+                                "title": "French seam",
+                                "description":
+                                    "Sew the pieces wrong sides together with a 4–5 mm seam allowance (You can also sew with a wider seam allowance and then trim it to 4–5 mm). Press the seam allowance to one side.\nFold the fabric along the seam so right sides are together, and press again.\nSew a second seam with a 7–8 mm seam allowance, enclosing the raw edge inside.\n\nA French seam is a sewing technique often used for lightweight or sheer fabrics. It creates a clean, durable, and neat finish by enclosing the raw edges within the seam, resulting in a smooth, professional look on both sides of the garment.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/French%20seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/French%20seam%201.jpg"
+                            },
+                            {
+                                "no": 7,
+                                "title": "Flat Felled Seam",
+                                "description":
+                                    "Place the pieces right sides together. One seam allowance is 1 cm, and the other is 2 cm.\nFold the wider seam allowance over the narrower one and sew a row of stitches close to the raw edge. Then Fold the entire seam allowance to one side so the raw edge is hidden inside.\nAfter pressing, sew an edgestitch and a topstitch from the right side, making sure to catch the folded seam allowance underneath.\nPress and done!\n\nA flat felled seam is a super strong, and professional looking seam inside and out, often used in jeans and shirts. It’s durable and leaves no raw edges, perfect for garments that need strength and a neat finish!",
+                                "video":
+                                    "https://media.sewie.cloud/Tab%201/Seam/Flat%20Felled%20Seam.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Flat%20Felled%20Seam%201.jpg"
+                            }
+                        ]
+                },
+                {
+                    "name": "Sew a button",
+                    "items":
+                        [
+                            {
+                                "no": 1,
+                                "title": "Two-hole button #1",
+                                "description": "Thread the cut ends or the looped end into the eye of the needle, making sure the folded end is at the bottom.\n\nInsert the needle from the wrong side to the right side of the fabric, passing it through one hole of the button—but don’t pull it all the way through. Leave a small loop on the wrong side.\n\nNow, bring the needle from the right side to the wrong side through the second hole of the button. Pass the needle and thread through the loop on the wrong side, then pull to tighten it.\n\nThis method helps you avoid knots on the back of your project.\n\nTo complete sewing the two-hole button, watch the next parts in this series:\n#2 two-hole button, how to sew \n#3 two-hole button, how to finish ",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%231.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Two-hole%20button%201%201.jpg"
+                            },
+                            {
+                                "no": 2,
+                                "title": "Two-hole button #2",
+                                "description":
+                                    "This is part two, don't forget to watch part one #1 how to start sewing a two-hole button on my account.\n\nAfter starting, use a thick needle and place it between the first stitch and the button to create a small space between the button and the fabric. This space is essential — it helps the button sit perfectly when it’s closed into the buttonhole.\nSew three times using a double-threaded needle, and we’re ready to finish it.\n\nWatch the next part to learn how to finish:\n#3 two-hole button, how to finish",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%232.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Two-hole%20button%202%201.jpg"
+                            },
+                            {
+                                "no": 3,
+                                "title": "Two-hole button #3",
+                                "description":
+                                    "This is part three, don't forget to watch part one #1 how to start sewing a two-hole button, and part two #2 how to sew a two-hole button on my account.\n\nAfter sewing the button in place, finish it on the wrong side of the garment: Pass the needle through a stitch to make a loop, then pass the needle through the loop and pull to tighten. Repeat one more time to make the knots secure. Then, pass the needle between the fabric layers, push the fabric down along the thread with your fingers, and cut it short. Straighten the fabric — the small thread tail will be hidden inside, invisible.\n\nNow it’s time to remove the thick needle… and done! You just sewed the most perfect button!",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Two-hole%20button%20%233.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Two-hole%20button%203%201.jpg"
+                            },
+                            {
+                                "no": 4,
+                                "title": "3 Tips to Sew a Button",
+                                "description":
+                                    "3 Tips to Sew a Button with a Clean Finish on Both Sides:\n1. Start without a knot — you can watch the “Start Without a Knot” tutorial on my account.\n2. Keep an eye on where you insert the needle.\n3. Hide the thread end after knotting it off.",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/3%20Tips%20to%20Sew%20a%20Button.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/3%20Tips%20to%20Sew%20a%20Button%201.jpg"
+                            },
+                            {
+                                "no": 5,
+                                "title": "Four-hole button #1",
+                                "description":
+                                    "How to sew a button #1 how to start sewing a four-hole button \nTo complete sewing the four-hole button, watch the next parts in this series:\n#2 four-hole button, how to sew \n#3 four-hole button, how to finish ",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%231.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Four-hole%20Button%201%201.jpg"
+                            },
+                            {
+                                "no": 6,
+                                "title": "Four-hole button #2",
+                                "description":
+                                    "How to sew a button #2 how to sew a four-hole button \nTo complete sewing the four-hole button, watch the next part in this series:\n#3 four-hole button, how to finish",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%232.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Four-hole%20Button%202%201.jpg"
+                            },
+                            {
+                                "no": 7,
+                                "title": "Four-hole button #3",
+                                "description":
+                                    "How to sew a button #3 how to finish sewing a four-hole button \nDon’t forget to watch Parts One and Two to sew a four-hole button. Love you",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Four-hole%20button%20%233.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Four-hole%20Button%203%201.jpg"
+                            },
+                            {
+                                "no": 8,
+                                "title": "Shank button #1",
+                                "description":
+                                    "How to sew a shank button: button sewing techniques you need to know.\nPlease don't forget to watch Part 2 to finish sewing a shank button ",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Shank%20button%20%231.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Shank%20button%201%201.jpg"
+                            },
+                            {
+                                "no": 9,
+                                "title": "Shank button #2",
+                                "description":
+                                    "How to sew a shank button: button sewing techniques you need to know.\nWatch Part 1 to see how to start sewing a shank button",
+                                "video":
+                                    "https://media.sewie.cloud/Tab 1/Button/Shank%20button%20%232.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning/Shank%20button%202%201.jpg"
+                            }
+                        ]
+                },
+                {
+                    "name": "Hemming",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Double Fold Hem",
+                            "description":
+                                "Double Fold Hem is a method of folding the fabric edge twice: first, fold the raw edge inward by about 0.5–1 cm; second, fold it again by a larger amount (1–2 cm) to enclose the raw edge completely inside, then sew a line close to the inner fold or along the outer edge to create a clean and sturdy hem.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Double%20Fold%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Double%20Fold%20Hem.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Single Fold Hem",
+                            "description":
+                                "Fold the raw edge once and sew straight; raw edge is visible inside unless finished with zigzag or serger.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Single%20Fold%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Single%20Fold%20Hem.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Blind Hem - Hand",
+                            "description":
+                                "Fold fabric back, catch only a few threads of main fabric with a tiny stitch, then move diagonally; nearly invisible from the right side.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Hand.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Hand.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Blind Hem - Machine",
+                            "description":
+                                "Use a blind hem foot and zigzag-like stitch; fabric is folded with a crease, the machine takes a tiny bite of the fold, creating an almost invisible hem from the front.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Blind%20Hem%20-%20Machine.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Blind%20Hem%20-%20Machine.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Rolled Hem",
+                            "description":
+                                "Fabric edge is rolled tightly and sewn continuously (often with a rolled hem foot), creating a very narrow, smooth, rounded edge.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Rolled%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Rolled%20Hem.png"
+                        },
+                        {
+                            "no": 6,
+                            "title": "Narrow Hem",
+                            "description":
+                                "Very small double fold, sewn close to the inner edge; used on lightweight fabrics like chiffon or handkerchiefs.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Narrow%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Narrow%20Hem.png"
+                        },
+                        {
+                            "no": 7,
+                            "title": "Curved Hem",
+                            "description":
+                                "For rounded edges, use a narrow double fold, clip seam allowance at curves, press carefully, and sew slowly to avoid puckers.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Curved%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Curved%20Hem.png"
+                        },
+                        {
+                            "no": 8,
+                            "title": "Hemming Pants",
+                            "description":
+                                "Measure desired length, cut excess, fold twice (single or double), press, sew with straight stitch or blind hem; for jeans, keep the original worn edge by folding and topstitching with heavy thread.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Pants.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Pants.png"
+                        },
+                        {
+                            "no": 9,
+                            "title": "Hemming Skirts",
+                            "description":
+                                "Depends on shape: straight skirts - double fold; flared/circle - narrow or rolled hem; use blind stitch or machine hem, pressing after each fold.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Skirts.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Skirts.png"
+                        },
+                        {
+                            "no": 10,
+                            "title": "Hemming Sleeves",
+                            "description":
+                                "Usually narrow double fold or rolled hem (for thin fabrics), press carefully around the curve, sew with straight or blind stitch, keep even width all around.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Hemming/Hemming%20Sleeves.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Hemming/Hemming%20Sleeves.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Zippers",
+                    "items":
+                        [
+                            {
+                                "no": 1,
+                                "title": "Centered Zipper",
+                                "description":
+                                    "The stitching runs straight down the middle, with fabric evenly covering both sides of the zipper. Sew from bottom to top using a standard zipper foot, then stitch a bar tack at the bottom.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Centered%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Centered%20Zipper.png"
+                            },
+                            {
+                                "no": 2,
+                                "title": "Invisible Zipper",
+                                "description":
+                                    "The zipper is hidden inside the seam, with only the teeth visible. Use an invisible zipper foot, open the zipper, place it face down on the right side of the fabric, and sew close to the teeth. When finished, the zipper is completely concealed.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Invisible%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Invisible%20Zipper.png"
+                            },
+                            {
+                                "no": 3,
+                                "title": "Lapped Zipper",
+                                "description":
+                                    "One side of the fabric overlaps the zipper (lapped), while the other side lies underneath. Topstitch close to the folded edge on the upper side, creating a clean finish, commonly used for skirts with waistbands.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Lapped%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Lapped%20Zipper.png"
+                            },
+                            {
+                                "no": 4,
+                                "title": "Exposed Zipper",
+                                "description":
+                                    "The zipper is fully exposed on the outside, often used as a design feature. Baste the seam first, press it open, place the zipper face up on the right side of the fabric, and stitch close to both sides of the teeth.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Exposed%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Exposed%20Zipper.png"
+                            },
+                            {
+                                "no": 5,
+                                "title": "Sewing Zipper with Lining",
+                                "description":
+                                    "Sew the zipper to the main fabric first, then attach the lining over it to cover the back of the zipper. Alternatively, sandwich the zipper between the main fabric and lining (bag method).",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Sewing%20Zipper%20with%20Lining.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Sewing%20Zipper%20with%20Lining.png"
+                            },
+                            {
+                                "no": 6,
+                                "title": "Fixing a Broken Zipper",
+                                "description":
+                                    "If teeth separate, gently squeeze the top of the slider with pliers. If the slider falls off, reattach it from the top. If teeth are broken, replacement is needed. If fabric is stuck, gently pull back or rub with soap.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Fixing%20a%20Broken%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Fixing%20a%20Broken%20Zipper.png"
+                            },
+                            {
+                                "no": 7,
+                                "title": "Shortening a Zipper",
+                                "description":
+                                    "Mark the new length, sew a bar tack across the teeth at that point (by machine or hand), then cut off the excess zipper below the tack. Reattach the top stop or leave the original top stop in place.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Zippers/Shortening%20a%20Zipper.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Zippers/Shortening%20a%20Zipper.png"
+                            }
+                        ]
+                },
+                {
+                    "name": "Waistbands",
+                    "items":
+                        [
+                            {
+                                "no": 1,
+                                "title": "Elastic Waistband",
+                                "description":
+                                    "Cut a fabric piece twice the width of the elastic, sew into a tube, insert the elastic, sew the elastic ends together, then stitch the elastic in place (or sew channels). No zipper needed.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Elastic%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Elastic%20Waistband.png"
+                            },
+                            {
+                                "no": 2,
+                                "title": "Drawstring Waistband",
+                                "description":
+                                    "Sew an attached or separate waistband, leaving two small openings at the front (or sides). Thread a drawstring through one opening, go around the waistband, and exit through the other opening. Can combine with elastic.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Drawstring%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Drawstring%20Waistband.png"
+                            },
+                            {
+                                "no": 3,
+                                "title": "Basic Waistband",
+                                "description":
+                                    "A separate waistband, usually with interfacing. Fold lengthwise, place right side onto the garment, sew along the seam, turn right side out, press, and topstitch close to the bottom edge.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Basic%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Basic%20Waistband.png"
+                            },
+                            {
+                                "no": 4,
+                                "title": "Contour Waistband",
+                                "description":
+                                    "A curved waistband, higher at the back and lower at the front. Cut in a curved shape with interfacing, sewn like a basic waistband but requires pressing curves to fit the body closely.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Contour%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Contour%20Waistband.png"
+                            },
+                            {
+                                "no": 5,
+                                "title": "Gathered Waistband",
+                                "description":
+                                    "The garment body is wider than the waistband. Sew two long basting stitches (or use elastic thread), pull the threads to create even gathers. Then attach the waistband (usually elastic or basic) onto the gathered section.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Gathered%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Gathered%20Waistband.png"
+                            },
+                            {
+                                "no": 6,
+                                "title": "Adding Elastic to Existing Clothes",
+                                "description":
+                                    "Make two small slits on the inside of the waistband (at the sides). Thread elastic through one slit, go around the waistband, and exit the other slit. Sew the elastic ends together, then close the slits. Alternatively, remove the old waistband and sew a new elastic waistband.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Adding%20Elastic%20to%20Existing%20Clothes.png"
+                            },
+                            {
+                                "no": 7,
+                                "title": "Fix Loose Waistband",
+                                "description":
+                                    "For elastic waistband: make a small slit, cut a section of elastic shorter, sew the ends back together, close the slit. For rigid waistband: add darts at the sides or back, or sew small elastic pieces inside the side seams.",
+                                "video":
+                                    "https://may.sewie.cloud/Learning_videos/Waistbands/Fix%20Loose%20Waistband.mp4",
+                                "image":
+                                    "https://may.sewie.cloud/Learning_image/Waistbands/Fix%20Loose%20Waistband.png"
+                            }
+                        ]
+                },
+                {
+                    "name": "Pockets",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Patch Pocket",
+                            "description":
+                                "Cut a fabric piece in pocket shape, fold the edges inward 0.5-1 cm, press, then topstitch it onto the main fabric. Corners can be reinforced or decorative stitching added.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Patch%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Patch%20Pocket.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Inseam Pocket",
+                            "description":
+                                "Use two pocket lining pieces, sandwich them between the right sides of front and back panels, sew along the side seam. When finished, the pocket is completely inside, with only the opening visible at the side seam.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Inseam%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Inseam%20Pocket.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Side Seam Pocket",
+                            "description":
+                                "Similar to inseam pocket but the opening is topstitched with a curve or straight line, commonly seen in dress pants or skirts. Part of the pocket may be visible, finished with a facing or binding.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Side%20Seam%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Side%20Seam%20Pocket.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Welt Pocket",
+                            "description":
+                                "A slit pocket with a narrow welt covering the opening. Cut a slit on the main fabric, sew the welt and pocket lining, turn right side out, and bar tack the ends. Looks neat, often on blazers or dress pants.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Welt%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Welt%20Pocket.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Zipper Pocket",
+                            "description":
+                                "Cut a slit on the fabric, sew a zipper onto the wrong side, then attach the pocket bag underneath. Finish with binding or facing to cover the zipper edges. Keeps items secure, often used on sportswear or backpacks.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Zipper%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Zipper%20Pocket.png"
+                        },
+                        {
+                            "no": 6,
+                            "title": "Cargo Pocket",
+                            "description":
+                                "A large patch pocket, often with a flap, with pleats at the bottom or sides to create volume (box shape). Topstitched onto pants or jackets, commonly seen on cargo pants or hunting jackets.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Cargo%20Pocket.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Cargo%20Pocket.png"
+                        },
+                        {
+                            "no": 7,
+                            "title": "Add Pocket to Existing Clothes",
+                            "description":
+                                "Choose matching or contrasting fabric, cut a patch pocket, fold edges, press. Pin onto the desired location, topstitch close to the edge. Optionally add a zipper or flap. Avoid sewing over existing seams to prevent bulk.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Add%20Pocket%20to%20Existing%20Clothes.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Add%20Pocket%20to%20Existing%20Clothes.png"
+                        },
+                        {
+                            "no": 8,
+                            "title": "Reinforce Pocket Corners",
+                            "description":
+                                "When sewing patch pockets or slit pocket openings, stitch a triangle tack or bar tack at each corner. Alternatively, use dense zigzag stitching or attach rivets to prevent the corners from tearing.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Pockets/Reinforce%20Pocket%20Corners.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Pockets/Reinforce%20Pocket%20Corners.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sleeves",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Set-in Sleeve",
+                            "description":
+                                "A sleeve sewn separately and set into a closed armhole. The sleeve cap is slightly eased to fit the armhole. Attach around the armhole, then sew the underarm seam. Creates a structured, tailored fit.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Set-in%20Sleeve.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Set-in%20Sleeve.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Flat Sleeve Attachment",
+                            "description":
+                                "Attach the sleeve to the flat (unsewn) armhole first, right sides together. Then sew the side seam and underarm seam in one continuous line. Easier than set-in sleeves, commonly used for casual garments.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Flat%20Sleeve%20Attachment.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Flat%20Sleeve%20Attachment.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Gathered Sleeve",
+                            "description":
+                                "The sleeve cap is wider than the armhole and gathered to fit. Sew basting stitches, pull to create gathers, then set into the armhole. Adds soft volume at the shoulder.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Gathered%20Sleeve.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Gathered%20Sleeve.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Puff Sleeve",
+                            "description":
+                                "A sleeve with fullness at the cap, cuff, or both. Gather or pleat the fabric, then attach to the armhole and finish with a cuff or elastic. Creates a rounded, voluminous shape.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Puff%20Sleeve.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Puff%20Sleeve.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Sewing Sleeve Cuff",
+                            "description":
+                                "Attach a cuff to finish the sleeve edge. Sew the cuff to the sleeve, fold it over to enclose the seam, then topstitch. Interfacing is often used for structure. Buttons or closures can be added.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Sewing%20Sleeve%20Cuff.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Sewing%20Sleeve%20Cuff.png"
+                        },
+                        {
+                            "no": 6,
+                            "title": "Short Sleeve Hem",
+                            "description":
+                                "Finish the sleeve edge with a narrow or double fold hem. Fold, press, and stitch close to the edge. Use a rolled hem for lightweight or flared sleeves.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Short%20Sleeve%20Hem.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Short%20Sleeve%20Hem.png"
+                        },
+                        {
+                            "no": 7,
+                            "title": "Adjust Sleeve Length",
+                            "description":
+                                "Mark the desired length, add seam allowance, and trim excess fabric. Finish with a hem or reattach the cuff. For sleeves with plackets, shorten both the placket and cuff proportionally.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Sleeves/Adjust%20Sleeve%20Length.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Sleeves/Adjust%20Sleeve%20Length.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklines",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Round Neckline",
+                            "description":
+                                "A curved neckline that follows the base of the neck. Cut along a smooth curve and finish with bias binding or a facing. Simple and versatile, suitable for many garment styles.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Necklines/Round%20Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Necklines/Round%20Neckline.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "V-Neckline",
+                            "description":
+                                "A neckline with a sharp V-shaped point at the center. Mark the point precisely, sew to the tip, clip into the corner, then turn and press carefully to create a clean, sharp finish.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Necklines/V-Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Necklines/V-Neckline.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Square Neckline",
+                            "description":
+                                "A neckline with straight edges and right-angle corners. Clip into each corner before turning to reduce bulk, then press carefully to maintain crisp, clean edges.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Necklines/Square%20Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Necklines/Square%20Neckline.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Bias Binding Neckline",
+                            "description":
+                                "Finish the neckline using bias-cut fabric (cut at 45°) for flexibility. Sew the binding to the edge, fold to the inside, and stitch in place. Creates a clean finish that adapts well to curves.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Necklines/Bias%20Binding%20Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Necklines/Bias%20Binding%20Neckline.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Facing Neckline",
+                            "description":
+                                "Use a shaped facing piece to finish the neckline from the inside. Sew right sides together, clip curves, turn inward, and press. Provides a clean, structured finish, ideal for heavier fabrics.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Necklines/Facing%20Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Necklines/Facing%20Neckline.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Collars",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Basic Shirt Collar",
+                            "description":
+                                "A structured collar made of a collar stand and collar fall. Sew the collar pieces right sides together, turn and press. Attach the collar to the stand, then sew the stand to the neckline, enclosing the collar. Creates a clean, structured look for shirts.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Collars/Basic%20Shirt%20Collar.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Collars/Basic%20Shirt%20Collar.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Peter Pan Collar",
+                            "description":
+                                "A flat, rounded collar that lies smoothly against the garment with no stand. Sew the collar pieces together, turn and press, then attach to the neckline using a facing or binding. Common in feminine or children's designs.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Collars/Peter%20Pan%20Collar.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Collars/Peter%20Pan%20Collar.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Mandarin Collar",
+                            "description":
+                                "A short standing collar without a fold-over section. Cut a slightly curved band with interfacing, fold lengthwise, and attach to the neckline. Often finished with buttons at the front for a clean, minimal look.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Collars/Mandarin%20Collar.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Collars/Mandarin%20Collar.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Attaching Collar to Garment",
+                            "description":
+                                "Pin or baste the collar to the neckline, right sides together. Attach a facing or collar band to enclose the seam. Clip curves, press well, and ease the fabric evenly to prevent twisting or puckering.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Collars/Attaching%20Collar%20to%20Garment.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Collars/Attaching%20Collar%20to%20Garment.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Fixing Uneven Neckline",
+                            "description":
+                                "Uneven necklines are often caused by stretching or inaccurate cutting. Remove the stitching, press the fabric flat, and re-mark the neckline evenly. Reattach the collar using pins, sew slowly, and avoid stretching. Use stay tape if the fabric has distorted.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Collars/Fixing%20Uneven%20Neckline.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Collars/Fixing%20Uneven%20Neckline.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Closures",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Hook and Eye",
+                            "description":
+                                "A small fastening made of a hook and a loop (eye). Sew the hook to one side and the eye to the opposite side, aligning them carefully. Commonly used at waistbands, skirts, or collars where extra security is needed. Stitch firmly over the base to prevent loosening.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Hook%20and%20Eye.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Hook%20and%20Eye.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Snap Button",
+                            "description":
+                                "A press-fastener with two parts (ball and socket) that snap together. Attach using snap pliers or by sewing. For sew-on snaps, stitch around the holes securely. For metal snaps, insert prongs through the fabric and press firmly. Common in shirts, kidswear, and bags.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Snap%20Button.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Snap%20Button.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Velcro Closure",
+                            "description":
+                                "A hook-and-loop fastener with two sides: rough (hook) and soft (loop). Cut to size and sew onto fabric using a rectangle or cross-stitch pattern. Reinforce corners with bar tacks to prevent peeling. Keep away from raw edges to reduce lint buildup.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Velcro%20Closure.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Velcro%20Closure.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Button Loop",
+                            "description":
+                                "A small loop made from fabric or cord that fits over a button. Create using bias fabric or elastic cord, sew into a loop, then attach to the garment edge. Often used on delicate garments or back closures. Ensure the loop is snug for a secure fit.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Button%20Loop.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Button%20Loop.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Toggle Closure",
+                            "description":
+                                "A closure made of a toggle (bar) and a loop. Attach the toggle with a cord or fabric strip, and sew a loop on the opposite side. To fasten, pass the toggle through the loop. Common on coats and outerwear.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Toggle%20Closure.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Toggle%20Closure.png"
+                        },
+                        {
+                            "no": 6,
+                            "title": "Sewing Clasps",
+                            "description":
+                                "Metal fasteners such as purse clasps or lobster clasps. Sew the base plate onto fabric using tight whipstitches, reinforcing multiple times. Use strong or nylon thread for durability. Ensure the base is well secured to handle tension.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Closures/Sewing%20Clasps.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Closures/Sewing%20Clasps.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabric Shaping",
+                    "items": [
+                        {
+                            "no": 1,
+                            "title": "Gathering Fabric",
+                            "description":
+                                "Sew 2–3 rows of long basting stitches within the seam allowance. Leave long thread tails. Pull the bobbin threads to gather the fabric evenly. Distribute the gathers, then attach to another fabric piece (e.g., a waistband). Leave 0.5–1 cm seam allowance.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Gathering%20Fabric.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Gathering%20Fabric.png"
+                        },
+                        {
+                            "no": 2,
+                            "title": "Pleats - Box, Knife",
+                            "description":
+                                "Knife pleat: all folds face the same direction. Box pleat: folds face each other, forming an “H” shape. Mark pleat positions, fold accurately, and press firmly before stitching. Secure pleats by stitching across the top edge (within seam allowance) or stitch down partially/full length depending on design.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Pleats%20-%20Box,%20Knife.png"
+                        },
+                        {
+                            "no": 3,
+                            "title": "Sewing Darts",
+                            "description":
+                                "Fold fabric along the dart line, right sides together. Sew from the wide end toward the tip, tapering gradually and sewing off the edge at the tip. Do not backstitch at the tip; instead, tie the threads. Press toward center or down.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Sewing%20Darts.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Sewing%20Darts.png"
+                        },
+                        {
+                            "no": 4,
+                            "title": "Ruffles",
+                            "description":
+                                "Cut a strip 1.5–3× longer than the area. Sew gathering stitches, pull to create gathers, and distribute evenly. Attach to the main fabric. Avoid pressing flat to maintain volume. Use a ruffler foot or two rows of gathering stitches.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Ruffles.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Ruffles.png"
+                        },
+                        {
+                            "no": 5,
+                            "title": "Tucks",
+                            "description":
+                                "Small, even folds stitched down their entire length, used for decoration or light elastic effect. Fold fabric vertically or horizontally, press firmly, sew a line parallel to the folded edge about 0.3-0.5 cm away. No gathering, just folding and stitching.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Tucks.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Tucks.png"
+                        },
+                        {
+                            "no": 6,
+                            "title": "Shirring - Elastic Thread",
+                            "description":
+                                "Wind elastic thread onto the bobbin by hand (without stretching). Sew parallel rows 0.5–1.5 cm apart (usually on the wrong side). After sewing, apply steam or heat to shrink the elastic, creating even gathers.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Shirring%20-%20Elastic%20Thread.png"
+                        },
+                        {
+                            "no": 7,
+                            "title": "Adding Volume",
+                            "description":
+                                "Increase fullness by adding extra fabric using pleats, gathers, or inserts (e.g., godets). Cutting on the bias also creates natural drape. For sleeves, increase sleeve cap height. For skirts, add width at the hem and control fullness at the waistband.",
+                            "video":
+                                "https://may.sewie.cloud/Learning_videos/Fabric%20Shaping/Adding%20Volume.mp4",
+                            "image":
+                                "https://may.sewie.cloud/Learning_image/Fabric%20Shaping/Adding%20Volume.png"
+                        }
+                    ]
+                }
+            ]
     }
-  ]
-}
