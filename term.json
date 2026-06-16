@@ -2,275 +2,315 @@
     "terms": [
         {
             "title": "Appliqué",
-            "description": "A decorative technique where pieces of fabric are sewn onto another fabric to create patterns or designs"
-        },
-        {
-            "title": "Back Stitch",
-            "description": "A strong hand stitch where each stitch goes slightly backward, creating a solid, continuous line often used for seams"
-        },
-        {
-            "title": "Back Tack",
-            "description": "Sewing backward for a few stitches to lock the thread and prevent seams from coming undone"
-        },
-        {
-            "title": "Bias Binding",
-            "description": "Strips of fabric cut diagonally, used to neatly finish edges and curves"
-        },
-        {
-            "title": "Bobbin",
-            "description": "A small spool under the needle plate that holds the lower thread in a sewing machine"
-        },
-        {
-            "title": "Grain",
-            "description": "The direction of threads in fabric, including lengthwise and crosswise lines"
-        },
-        {
-            "title": "Interfacing",
-            "description": "An extra layer of fabric added inside to give shape and support to garments"
-        },
-        {
-            "title": "Presser Foot",
-            "description": "The part of the sewing machine that holds the fabric in place while stitching"
-        },
-        {
-            "title": "Raw Edge",
-            "description": "The unfinished edge of fabric that can fray if not sewn or finished"
-        },
-        {
-            "title": "Reverse Stitch",
-            "description": "A machine function that sews backward to secure stitches at the beginning or end"
-        },
-        {
-            "title": "Right Side",
-            "description": "The outer, visible side of the fabric when the project is finished"
-        },
-        {
-            "title": "Seam Allowance",
-            "description": "The extra fabric between the stitching line and the edge, used to join pieces together"
-        },
-        {
-            "title": "Self-Lined Fabric",
-            "description": "Using the same fabric on both the inside and outside of a garment"
-        },
-        {
-            "title": "Selvedge",
-            "description": "The finished edge of fabric that doesn’t fray and runs along its length"
-        },
-        {
-            "title": "Stay Stitch",
-            "description": "A line of stitching sewn close to the edge to keep fabric from stretching out of shape"
-        },
-        {
-            "title": "Tacking Stitch",
-            "description": "Temporary hand stitches used to hold fabric pieces in place before final sewing"
-        },
-        {
-            "title": "Top Stitch",
-            "description": "A visible line of stitching on the outside of a garment, often used for decoration or strength"
-        },
-        {
-            "title": "Warp",
-            "description": "The threads that run lengthwise in fabric and stay fixed on the loom"
-        },
-        {
-            "title": "Weft",
-            "description": "The threads woven across the fabric, going over and under the warp threads"
-        },
-        {
-            "title": "Wrong Side",
-            "description": "The inside or hidden side of the fabric"
-        },
-        {
-            "title": "Zig-Zag Stitch",
-            "description": "A stitch that moves side to side, used to prevent fraying or add decoration"
-        },
-        {
-            "title": "Basting",
-            "description": "Long temporary stitches used to hold fabric layers together before final sewing, usually removed later"
-        },
-        {
-            "title": "Clip / Notch",
-            "description": "Small cuts made into seam allowance to help curves and corners lie flat after turning"
-        },
-        {
-            "title": "Dart",
-            "description": "A fold sewn into fabric to shape it around curves of the body"
-        },
-        {
-            "title": "Ease",
-            "description": "The slight fullness added to fabric so it fits comfortably without being tight"
-        },
-        {
-            "title": "Facing",
-            "description": "A piece of fabric used to finish raw edges, usually inside necklines or armholes"
-        },
-        {
-            "title": "Fold Line",
-            "description": "A marking on a pattern indicating the edge should be placed on a fabric fold"
-        },
-        {
-            "title": "Gathering",
-            "description": "Pulling fabric together using stitches to create fullness or ruffles"
-        },
-        {
-            "title": "Hem",
-            "description": "The finished edge of a garment, usually folded and sewn to prevent fraying"
-        },
-        {
-            "title": "Lining",
-            "description": "An inner layer of fabric that provides a clean finish and improves comfort"
-        },
-        {
-            "title": "Muslin (Toile)",
-            "description": "A test version of a garment made with inexpensive fabric to check fit before final sewing"
-        },
-        {
-            "title": "Notches",
-            "description": "Small marks on pattern pieces used to align fabric pieces correctly"
-        },
-        {
-            "title": "Overlock / Serger",
-            "description": "A type of stitch or machine that trims and finishes edges at the same time"
-        },
-        {
-            "title": "Pattern Piece",
-            "description": "A template used to cut fabric into the correct shapes for a garment"
-        },
-        {
-            "title": "Pleat",
-            "description": "A fold in fabric that is stitched or pressed into place for shape or style"
-        },
-        {
-            "title": "Pressing",
-            "description": "Using an iron to flatten seams and shape fabric during sewing, not the same as ironing clothes"
-        },
-        {
-            "title": "Seam Finish",
-            "description": "Techniques used to prevent raw edges from fraying, such as zig-zag or overlock"
-        },
-        {
-            "title": "Seam Ripper",
-            "description": "A small tool used to remove stitches without damaging fabric"
-        },
-        {
-            "title": "Slip Stitch",
-            "description": "A nearly invisible hand stitch used to close seams or hems from the outside"
-        },
-        {
-            "title": "Stay Tape",
-            "description": "A strip of material used to stabilize seams and prevent stretching"
-        },
-        {
-            "title": "Understitch",
-            "description": "A line of stitching that keeps facing or lining from rolling to the outside"
-        },
-        {
-            "title": "Walking Foot",
-            "description": "A sewing machine foot that feeds multiple layers evenly, useful for thick fabrics or quilting"
-        },
-        {
-            "title": "Nap",
-            "description": "The texture direction of fabrics like velvet or corduroy that affects appearance when cut"
-        },
-        {
-            "title": "Bias",
-            "description": "The diagonal direction of fabric that stretches more than straight grain"
-        },
-        {
-            "title": "Cut on Fold",
-            "description": "A pattern instruction where fabric is folded to create a symmetrical piece"
-        },
-        {
-            "title": "Grading",
-            "description": "Trimming seam allowances to different widths to reduce bulk"
-        },
-        {
-            "title": "Layering",
-            "description": "Stacking seam allowances at different lengths to create smoother edges"
-        },
-        {
-            "title": "Twin Needle",
-            "description": "A sewing machine needle with two points used for parallel stitching lines"
-        },
-        {
-            "title": "Feed Dogs",
-            "description": "The metal teeth under the presser foot that move fabric through the machine"
-        },
-        {
-            "title": "Thread Tension",
-            "description": "The balance of upper and lower threads that affects stitch quality"
-        },
-        {
-            "title": "Lock Stitch",
-            "description": "A basic stitch formed by interlocking upper and bobbin threads"
+            "description":
+                "A decorative technique where pieces of fabric are sewn onto another fabric to create patterns or designs"
         },
         {
             "title": "Armscye",
-            "description": "The armhole opening in a garment where the sleeve is attached"
+            "description":
+                "The armhole opening in a garment where the sleeve is attached"
+        },
+        {
+            "title": "Back Stitch",
+            "description":
+                "A strong hand stitch where each stitch goes slightly backward, creating a solid, continuous line often used for seams"
+        },
+        {
+            "title": "Back Tack",
+            "description":
+                "Sewing backward for a few stitches to lock the thread and prevent seams from coming undone"
+        },
+        {
+            "title": "Basting",
+            "description":
+                "Long temporary stitches used to hold fabric layers together before final sewing, usually removed later"
+        },
+        {
+            "title": "Batting",
+            "description":
+                "The soft layer placed between fabric layers in quilting"
+        },
+        {
+            "title": "Bias",
+            "description":
+                "The diagonal direction of fabric that stretches more than straight grain"
+        },
+        {
+            "title": "Bias Binding",
+            "description":
+                "Strips of fabric cut diagonally, used to neatly finish edges and curves"
+        },
+        {
+            "title": "Bias Cut",
+            "description":
+                "Cutting fabric diagonally to allow more stretch and fluid drape"
+        },
+        {
+            "title": "Binding",
+            "description":
+                "A method of finishing edges by enclosing them with a strip of fabric for a clean and durable finish"
         },
         {
             "title": "Bishop Sleeve",
-            "description": "A long sleeve that is full and gathered at the wrist"
+            "description":
+                "A long sleeve that is full and gathered at the wrist"
+        },
+        {
+            "title": "Bobbin",
+            "description":
+                "A small spool under the needle plate that holds the lower thread in a sewing machine"
         },
         {
             "title": "Boning",
-            "description": "Rigid strips inserted into garments like corsets to provide structure and support"
+            "description":
+                "Rigid strips inserted into garments like corsets to provide structure and support"
         },
         {
             "title": "Box Pleat",
-            "description": "A pleat made by folding fabric in opposite directions to create a box shape"
+            "description":
+                "A pleat made by folding fabric in opposite directions to create a box shape"
         },
         {
             "title": "Bust Dart",
-            "description": "A dart specifically placed to shape fabric around the bust"
+            "description":
+                "A dart specifically placed to shape fabric around the bust"
+        },
+        {
+            "title": "Button Placket",
+            "description":
+                "The strip of fabric where buttons and buttonholes are placed"
+        },
+        {
+            "title": "Buttonhole",
+            "description":
+                "A stitched opening that allows a button to pass through"
         },
         {
             "title": "Casing",
             "description": "A fabric channel used to hold elastic or drawstring"
         },
         {
+            "title": "Chain Stitch",
+            "description":
+                "A stitch that forms loops like a chain, often used in decorative sewing"
+        },
+        {
+            "title": "Clip / Notch",
+            "description":
+                "Small cuts made into seam allowance to help curves and corners lie flat after turning"
+        },
+        {
             "title": "Continuous Binding",
-            "description": "A method of finishing edges using one long strip of bias binding"
+            "description":
+                "A method of finishing edges using one long strip of bias binding"
+        },
+        {
+            "title": "Cord",
+            "description":
+                "A thick twisted thread or string used for decoration or reinforcement in sewing projects"
+        },
+        {
+            "title": "Cover Stitch",
+            "description":
+                "A professional stitch used for hemming knit fabrics, seen in T-shirts"
         },
         {
             "title": "Crotch Curve",
-            "description": "The curved seam in pants that shapes the fit between the legs"
+            "description":
+                "The curved seam in pants that shapes the fit between the legs"
+        },
+        {
+            "title": "Cut on Fold",
+            "description":
+                "A pattern instruction where fabric is folded to create a symmetrical piece"
+        },
+        {
+            "title": "Cutting Mat",
+            "description":
+                "A protective surface used with rotary cutters to prevent damage to work surfaces"
+        },
+        {
+            "title": "Darning",
+            "description":
+                "A technique used to repair holes or worn areas in fabric by weaving stitches over the damaged area"
+        },
+        {
+            "title": "Dart",
+            "description":
+                "A fold sewn into fabric to shape it around curves of the body"
+        },
+        {
+            "title": "Drape",
+            "description": "How fabric hangs and flows when worn or used"
+        },
+        {
+            "title": "Drawstring",
+            "description":
+                "A cord or ribbon used to tighten fabric, often inside a casing"
+        },
+        {
+            "title": "Dress Form",
+            "description": "A mannequin used for fitting and designing garments"
         },
         {
             "title": "Drop Shoulder",
-            "description": "A sleeve style where the shoulder seam falls below the natural shoulder line"
+            "description":
+                "A sleeve style where the shoulder seam falls below the natural shoulder line"
+        },
+        {
+            "title": "Ease",
+            "description":
+                "The slight fullness added to fabric so it fits comfortably without being tight"
         },
         {
             "title": "Edge Stitch",
-            "description": "A line of stitching sewn very close to the edge for a clean finish"
+            "description":
+                "A line of stitching sewn very close to the edge for a clean finish"
+        },
+        {
+            "title": "Elastic",
+            "description":
+                "A stretchy material used to gather fabric or create fitted areas"
+        },
+        {
+            "title": "Embroidery",
+            "description":
+                "Decorative stitching used to create patterns or designs on fabric using thread"
+        },
+        {
+            "title": "Eyelet",
+            "description":
+                "A small reinforced hole in fabric, often used for laces or decorative purposes"
+        },
+        {
+            "title": "Fabric Stretch",
+            "description":
+                "The ability of fabric to stretch in one or more directions"
+        },
+        {
+            "title": "Fabric Weight",
+            "description":
+                "The heaviness or thickness of fabric, affecting drape and usage"
+        },
+        {
+            "title": "Facing",
+            "description":
+                "A piece of fabric used to finish raw edges, usually inside necklines or armholes"
+        },
+        {
+            "title": "Feed Dogs",
+            "description":
+                "The metal teeth under the presser foot that move fabric through the machine"
+        },
+        {
+            "title": "Fold Line",
+            "description":
+                "A marking on a pattern indicating the edge should be placed on a fabric fold"
         },
         {
             "title": "French Seam",
-            "description": "A seam that encloses raw edges inside, creating a clean finish inside garments"
+            "description":
+                "A seam that encloses raw edges inside, creating a clean finish inside garments"
+        },
+        {
+            "title": "Fusible Interfacing",
+            "description":
+                "A type of interfacing with adhesive that bonds to fabric when heat is applied, adding structure and support"
+        },
+        {
+            "title": "Gathering",
+            "description":
+                "Pulling fabric together using stitches to create fullness or ruffles"
         },
         {
             "title": "Godet",
-            "description": "A triangular piece of fabric inserted into a garment to add flare and movement"
+            "description":
+                "A triangular piece of fabric inserted into a garment to add flare and movement"
+        },
+        {
+            "title": "Grading",
+            "description":
+                "Trimming seam allowances to different widths to reduce bulk"
+        },
+        {
+            "title": "Grain",
+            "description":
+                "The direction of threads in fabric, including lengthwise and crosswise lines"
+        },
+        {
+            "title": "Grain Distortion",
+            "description":
+                "When fabric grain becomes misaligned due to handling or cutting"
+        },
+        {
+            "title": "Grainline",
+            "description":
+                "A line on a pattern piece that shows how it should align with the fabric grain"
         },
         {
             "title": "Gusset",
-            "description": "An extra piece of fabric added to provide ease of movement or reduce stress on seams"
+            "description":
+                "An extra piece of fabric added to provide ease of movement or reduce stress on seams"
+        },
+        {
+            "title": "Hand Sewing Needle",
+            "description":
+                "A needle used for manual stitching, varying in size and purpose"
+        },
+        {
+            "title": "Hem",
+            "description":
+                "The finished edge of a garment, usually folded and sewn to prevent fraying"
         },
         {
             "title": "Inseam",
-            "description": "The seam running along the inside of the leg in pants"
+            "description":
+                "The seam running along the inside of the leg in pants"
+        },
+        {
+            "title": "Interfacing",
+            "description":
+                "An extra layer of fabric added inside to give shape and support to garments"
+        },
+        {
+            "title": "Interfacing Types",
+            "description":
+                "Different forms of interfacing such as fusible, sew-in, knit, or woven used for specific purposes"
         },
         {
             "title": "Interlining",
-            "description": "A layer of fabric between the outer fabric and lining for extra warmth or structure"
+            "description":
+                "A layer of fabric between the outer fabric and lining for extra warmth or structure"
+        },
+        {
+            "title": "Jersey",
+            "description":
+                "A soft, stretchy knit fabric commonly used for T-shirts and casual garments"
         },
         {
             "title": "Keyhole Opening",
-            "description": "A small decorative opening in a garment, often at the neckline"
+            "description":
+                "A small decorative opening in a garment, often at the neckline"
         },
         {
             "title": "Lapped Zipper",
-            "description": "A zipper insertion method where one side overlaps the zipper teeth"
+            "description":
+                "A zipper insertion method where one side overlaps the zipper teeth"
+        },
+        {
+            "title": "Layering",
+            "description":
+                "Stacking seam allowances at different lengths to create smoother edges"
+        },
+        {
+            "title": "Lining",
+            "description":
+                "An inner layer of fabric that provides a clean finish and improves comfort"
+        },
+        {
+            "title": "Lock Stitch",
+            "description":
+                "A basic stitch formed by interlocking upper and bobbin threads"
         },
         {
             "title": "Mandarin Collar",
@@ -278,23 +318,198 @@
         },
         {
             "title": "Mock Seam",
-            "description": "A decorative seam that looks functional but does not join fabric pieces"
+            "description":
+                "A decorative seam that looks functional but does not join fabric pieces"
+        },
+        {
+            "title": "Muslin (Toile)",
+            "description":
+                "A test version of a garment made with inexpensive fabric to check fit before final sewing"
+        },
+        {
+            "title": "Nap",
+            "description":
+                "The texture direction of fabrics like velvet or corduroy that affects appearance when cut"
+        },
+        {
+            "title": "Needle Size",
+            "description":
+                "The thickness of a needle, selected based on fabric type and thread"
+        },
+        {
+            "title": "Needle Types",
+            "description":
+                "Different sewing machine needles such as universal, ballpoint, denim, or stretch needles"
+        },
+        {
+            "title": "Needlework",
+            "description":
+                "Any form of sewing, embroidery, or decorative stitching done using a needle"
+        },
+        {
+            "title": "Notch Matching",
+            "description":
+                "Aligning notches on pattern pieces to ensure correct assembly"
+        },
+        {
+            "title": "Notches",
+            "description":
+                "Small marks on pattern pieces used to align fabric pieces correctly"
+        },
+        {
+            "title": "Overcasting",
+            "description":
+                "Stitching over the edge of fabric to prevent fraying"
+        },
+        {
+            "title": "Overlay",
+            "description":
+                "A layer of fabric placed over another fabric, often used for decorative or sheer effects"
+        },
+        {
+            "title": "Overlock / Serger",
+            "description":
+                "A type of stitch or machine that trims and finishes edges at the same time"
+        },
+        {
+            "title": "Pad Stitching",
+            "description":
+                "A hand sewing technique used to shape and support areas like collars and lapels"
+        },
+        {
+            "title": "Pattern Markings",
+            "description":
+                "Symbols and lines on patterns that guide cutting and sewing, such as darts, grainlines, and notches"
+        },
+        {
+            "title": "Pattern Piece",
+            "description":
+                "A template used to cut fabric into the correct shapes for a garment"
+        },
+        {
+            "title": "Piecing",
+            "description":
+                "Joining smaller pieces of fabric together to create a larger design, commonly used in quilting"
+        },
+        {
+            "title": "Pleat",
+            "description":
+                "A fold in fabric that is stitched or pressed into place for shape or style"
+        },
+        {
+            "title": "Pocket",
+            "description":
+                "A small fabric pouch attached to or inserted into a garment to hold items"
+        },
+        {
+            "title": "Presser Foot",
+            "description":
+                "The part of the sewing machine that holds the fabric in place while stitching"
+        },
+        {
+            "title": "Pressing",
+            "description":
+                "Using an iron to flatten seams and shape fabric during sewing, not the same as ironing clothes"
         },
         {
             "title": "Princess Seam",
-            "description": "A long curved seam that shapes a garment closely to the body"
+            "description":
+                "A long curved seam that shapes a garment closely to the body"
+        },
+        {
+            "title": "Puckering",
+            "description":
+                "Wrinkling or gathering of fabric caused by incorrect tension or stitching"
+        },
+        {
+            "title": "Quilting",
+            "description":
+                "Sewing layers of fabric together with padding in between to create texture and warmth"
         },
         {
             "title": "Raglan Sleeve",
-            "description": "A sleeve that extends in one piece to the collar, without a shoulder seam"
+            "description":
+                "A sleeve that extends in one piece to the collar, without a shoulder seam"
+        },
+        {
+            "title": "Raw Edge",
+            "description":
+                "The unfinished edge of fabric that can fray if not sewn or finished"
+        },
+        {
+            "title": "Reverse Stitch",
+            "description":
+                "A machine function that sews backward to secure stitches at the beginning or end"
+        },
+        {
+            "title": "Right Side",
+            "description":
+                "The outer, visible side of the fabric when the project is finished"
         },
         {
             "title": "Rolled Hem",
-            "description": "A very narrow hem rolled tightly and stitched, often used on lightweight fabrics"
+            "description":
+                "A very narrow hem rolled tightly and stitched, often used on lightweight fabrics"
+        },
+        {
+            "title": "Rotary Cutter",
+            "description":
+                "A cutting tool with a circular blade used for precise fabric cutting"
+        },
+        {
+            "title": "Ruching",
+            "description":
+                "A decorative technique where fabric is gathered to create a textured, pleated effect"
+        },
+        {
+            "title": "Running Stitch",
+            "description":
+                "A simple hand stitch that goes in and out of fabric in a straight line, often used for basting or gathering"
         },
         {
             "title": "Scye Depth",
-            "description": "The vertical measurement of an armhole, important for fit"
+            "description":
+                "The vertical measurement of an armhole, important for fit"
+        },
+        {
+            "title": "Seam Allowance",
+            "description":
+                "The extra fabric between the stitching line and the edge, used to join pieces together"
+        },
+        {
+            "title": "Seam Finish",
+            "description":
+                "Techniques used to prevent raw edges from fraying, such as zig-zag or overlock"
+        },
+        {
+            "title": "Seam Gauge",
+            "description":
+                "A small ruler used to measure seam allowances and hems accurately"
+        },
+        {
+            "title": "Seam Line",
+            "description":
+                "The actual line where stitches are sewn, distinct from the seam allowance"
+        },
+        {
+            "title": "Seam Ripper",
+            "description":
+                "A small tool used to remove stitches without damaging fabric"
+        },
+        {
+            "title": "Seam Slippage",
+            "description":
+                "When fabric pulls away from stitches, causing gaps in seams"
+        },
+        {
+            "title": "Self-Lined Fabric",
+            "description":
+                "Using the same fabric on both the inside and outside of a garment"
+        },
+        {
+            "title": "Selvedge",
+            "description":
+                "The finished edge of fabric that doesn't fray and runs along its length"
         },
         {
             "title": "Set-in Sleeve",
@@ -302,235 +517,141 @@
         },
         {
             "title": "Shirring",
-            "description": "Gathering fabric using elastic thread to create stretch and texture"
-        },
-        {
-            "title": "Sloper",
-            "description": "A basic pattern used as a foundation to create other designs"
-        },
-        {
-            "title": "Tuck",
-            "description": "A fold sewn into fabric for decorative or shaping purposes"
-        },
-        {
-            "title": "Vent",
-            "description": "A slit in a garment that allows ease of movement, often at hems"
-        },
-        {
-            "title": "Yoke",
-            "description": "A fitted section of a garment, usually at the shoulders or waist, that supports the rest"
-        },
-        {
-            "title": "Quilting",
-            "description": "Sewing layers of fabric together with padding in between to create texture and warmth"
-        },
-        {
-            "title": "Batting",
-            "description": "The soft layer placed between fabric layers in quilting"
-        },
-        {
-            "title": "Chain Stitch",
-            "description": "A stitch that forms loops like a chain, often used in decorative sewing"
-        },
-        {
-            "title": "Cover Stitch",
-            "description": "A professional stitch used for hemming knit fabrics, seen in T-shirts"
-        },
-        {
-            "title": "Overcasting",
-            "description": "Stitching over the edge of fabric to prevent fraying"
-        },
-        {
-            "title": "Seam Line",
-            "description": "The actual line where stitches are sewn, distinct from the seam allowance"
-        },
-        {
-            "title": "Pattern Markings",
-            "description": "Symbols and lines on patterns that guide cutting and sewing, such as darts, grainlines, and notches"
-        },
-        {
-            "title": "Grainline",
-            "description": "A line on a pattern piece that shows how it should align with the fabric grain"
-        },
-        {
-            "title": "Bust Point",
-            "description": "The fullest point of the bust used as a reference for fitting garments"
-        },
-        {
-            "title": "Notch Matching",
-            "description": "Aligning notches on pattern pieces to ensure correct assembly"
-        },
-        {
-            "title": "Underlining",
-            "description": "A layer of fabric sewn to the main fabric to add structure and improve finish"
-        },
-        {
-            "title": "Interfacing Types",
-            "description": "Different forms of interfacing such as fusible, sew-in, knit, or woven used for specific purposes"
-        },
-        {
-            "title": "Fabric Stretch",
-            "description": "The ability of fabric to stretch in one or more directions"
-        },
-        {
-            "title": "Fabric Weight",
-            "description": "The heaviness or thickness of fabric, affecting drape and usage"
-        },
-        {
-            "title": "Drape",
-            "description": "How fabric hangs and flows when worn or used"
-        },
-        {
-            "title": "Seam Slippage",
-            "description": "When fabric pulls away from stitches, causing gaps in seams"
-        },
-        {
-            "title": "Puckering",
-            "description": "Wrinkling or gathering of fabric caused by incorrect tension or stitching"
+            "description":
+                "Gathering fabric using elastic thread to create stretch and texture"
         },
         {
             "title": "Skipped Stitches",
             "description": "Missing stitches caused by needle or machine issues"
         },
         {
-            "title": "Thread Bunching",
-            "description": "Tangled thread buildup, often under the fabric, due to tension or threading problems"
+            "title": "Slip Stitch",
+            "description":
+                "A nearly invisible hand stitch used to close seams or hems from the outside"
         },
         {
-            "title": "Needle Types",
-            "description": "Different sewing machine needles such as universal, ballpoint, denim, or stretch needles"
+            "title": "Sloper",
+            "description":
+                "A basic pattern used as a foundation to create other designs"
         },
         {
-            "title": "Needle Size",
-            "description": "The thickness of a needle, selected based on fabric type and thread"
+            "title": "Stay Stitch",
+            "description":
+                "A line of stitching sewn close to the edge to keep fabric from stretching out of shape"
         },
         {
-            "title": "Hand Sewing Needle",
-            "description": "A needle used for manual stitching, varying in size and purpose"
-        },
-        {
-            "title": "Rotary Cutter",
-            "description": "A cutting tool with a circular blade used for precise fabric cutting"
-        },
-        {
-            "title": "Cutting Mat",
-            "description": "A protective surface used with rotary cutters to prevent damage to work surfaces"
-        },
-        {
-            "title": "Tailor’s Chalk",
-            "description": "A marking tool used to draw temporary lines on fabric"
-        },
-        {
-            "title": "Seam Gauge",
-            "description": "A small ruler used to measure seam allowances and hems accurately"
-        },
-        {
-            "title": "Dress Form",
-            "description": "A mannequin used for fitting and designing garments"
-        },
-        {
-            "title": "Buttonhole",
-            "description": "A stitched opening that allows a button to pass through"
-        },
-        {
-            "title": "Button Placket",
-            "description": "The strip of fabric where buttons and buttonholes are placed"
-        },
-        {
-            "title": "Elastic",
-            "description": "A stretchy material used to gather fabric or create fitted areas"
-        },
-        {
-            "title": "Drawstring",
-            "description": "A cord or ribbon used to tighten fabric, often inside a casing"
-        },
-        {
-            "title": "Bias Cut",
-            "description": "Cutting fabric diagonally to allow more stretch and fluid drape"
-        },
-        {
-            "title": "Grain Distortion",
-            "description": "When fabric grain becomes misaligned due to handling or cutting"
+            "title": "Stay Tape",
+            "description":
+                "A strip of material used to stabilize seams and prevent stretching"
         },
         {
             "title": "Stitch",
-            "description": "A single loop of thread that forms a line of sewing, used to join, decorate, or finish fabric"
+            "description":
+                "A single loop of thread that forms a line of sewing, used to join, decorate, or finish fabric"
         },
         {
-            "title": "Running Stitch",
-            "description": "A simple hand stitch that goes in and out of fabric in a straight line, often used for basting or gathering"
+            "title": "Tacking Stitch",
+            "description":
+                "Temporary hand stitches used to hold fabric pieces in place before final sewing"
         },
         {
-            "title": "Binding",
-            "description": "A method of finishing edges by enclosing them with a strip of fabric for a clean and durable finish"
-        },
-        {
-            "title": "Cord",
-            "description": "A thick twisted thread or string used for decoration or reinforcement in sewing projects"
-        },
-        {
-            "title": "Darning",
-            "description": "A technique used to repair holes or worn areas in fabric by weaving stitches over the damaged area"
-        },
-        {
-            "title": "Embroidery",
-            "description": "Decorative stitching used to create patterns or designs on fabric using thread"
-        },
-        {
-            "title": "Eyelet",
-            "description": "A small reinforced hole in fabric, often used for laces or decorative purposes"
-        },
-        {
-            "title": "Fusible Interfacing",
-            "description": "A type of interfacing with adhesive that bonds to fabric when heat is applied, adding structure and support"
-        },
-        {
-            "title": "Jersey",
-            "description": "A soft, stretchy knit fabric commonly used for T-shirts and casual garments"
-        },
-        {
-            "title": "Needlework",
-            "description": "Any form of sewing, embroidery, or decorative stitching done using a needle"
-        },
-        {
-            "title": "Overlay",
-            "description": "A layer of fabric placed over another fabric, often used for decorative or sheer effects"
-        },
-        {
-            "title": "Pad Stitching",
-            "description": "A hand sewing technique used to shape and support areas like collars and lapels"
-        },
-        {
-            "title": "Piecing",
-            "description": "Joining smaller pieces of fabric together to create a larger design, commonly used in quilting"
-        },
-        {
-            "title": "Pocket",
-            "description": "A small fabric pouch attached to or inserted into a garment to hold items"
-        },
-        {
-            "title": "Ruching",
-            "description": "A decorative technique where fabric is gathered to create a textured, pleated effect"
-        },
-        {
-            "title": "Thread",
-            "description": "A thin strand used in sewing to join fabric pieces together"
+            "title": "Tailor's Chalk",
+            "description":
+                "A marking tool used to draw temporary lines on fabric"
         },
         {
             "title": "Thimble",
-            "description": "A small protective cap worn on the finger to push a needle safely while sewing"
+            "description":
+                "A small protective cap worn on the finger to push a needle safely while sewing"
+        },
+        {
+            "title": "Thread",
+            "description":
+                "A thin strand used in sewing to join fabric pieces together"
+        },
+        {
+            "title": "Thread Bunching",
+            "description":
+                "Tangled thread buildup, often under the fabric, due to tension or threading problems"
+        },
+        {
+            "title": "Thread Tension",
+            "description":
+                "The balance of upper and lower threads that affects stitch quality"
+        },
+        {
+            "title": "Top Stitch",
+            "description":
+                "A visible line of stitching on the outside of a garment, often used for decoration or strength"
         },
         {
             "title": "Trim",
-            "description": "Decorative elements such as ribbons, lace, or edging added to enhance a garment"
+            "description":
+                "Decorative elements such as ribbons, lace, or edging added to enhance a garment"
+        },
+        {
+            "title": "Tuck",
+            "description":
+                "A fold sewn into fabric for decorative or shaping purposes"
         },
         {
             "title": "Twill Tape",
-            "description": "A flat woven tape used to reinforce seams or stabilize edges"
+            "description":
+                "A flat woven tape used to reinforce seams or stabilize edges"
+        },
+        {
+            "title": "Twin Needle",
+            "description":
+                "A sewing machine needle with two points used for parallel stitching lines"
+        },
+        {
+            "title": "Underlining",
+            "description":
+                "A layer of fabric sewn to the main fabric to add structure and improve finish"
+        },
+        {
+            "title": "Understitch",
+            "description":
+                "A line of stitching that keeps facing or lining from rolling to the outside"
+        },
+        {
+            "title": "Vent",
+            "description":
+                "A slit in a garment that allows ease of movement, often at hems"
+        },
+        {
+            "title": "Walking Foot",
+            "description":
+                "A sewing machine foot that feeds multiple layers evenly, useful for thick fabrics or quilting"
+        },
+        {
+            "title": "Warp",
+            "description":
+                "The threads that run lengthwise in fabric and stay fixed on the loom"
+        },
+        {
+            "title": "Weft",
+            "description":
+                "The threads woven across the fabric, going over and under the warp threads"
+        },
+        {
+            "title": "Wrong Side",
+            "description": "The inside or hidden side of the fabric"
         },
         {
             "title": "Yarn",
-            "description": "A continuous strand of fibers used for sewing, knitting, or weaving"
+            "description":
+                "A continuous strand of fibers used for sewing, knitting, or weaving"
+        },
+        {
+            "title": "Yoke",
+            "description":
+                "A fitted section of a garment, usually at the shoulders or waist, that supports the rest"
+        },
+        {
+            "title": "Zig-Zag Stitch",
+            "description":
+                "A stitch that moves side to side, used to prevent fraying or add decoration"
         }
     ]
 }
