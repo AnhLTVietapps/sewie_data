@@ -6,6 +6,362 @@
                 "items":
                     [
                         {
+                            "name": "Sunny Pup Cap",
+                            "level": "Beginner",
+                            "time": "45 minutes",
+                            "finishedSize": "Available in all sizes",
+                            "techPack": [
+                                {
+                                    "title": "Main Fabric",
+                                    "description":
+                                        "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+                                },
+                                {
+                                    "title": "Visor Support",
+                                    "description":
+                                        "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+                                },
+                                {
+                                    "title": "Securing Strap",
+                                    "description":
+                                        "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+                                },
+                                {
+                                    "title": "Pattern & Sizing",
+                                    "description":
+                                        "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+                                },
+                                {
+                                    "title": "Tools & Notions",
+                                    "description":
+                                        "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+                                },
+                                {
+                                    "title": "Techniques Required",
+                                    "description":
+                                        "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+                                }
+                            ],
+                            "showCustomSize": true,
+                            "pdf": "",
+                            "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+                            "video": "",
+                            "steps":
+                                [
+                                    {
+                                        "number": 1,
+                                        "title":
+                                            "Choose and Prepare the Pattern",
+                                        "content":
+                                            "Choose the size group that best matches your dog and prepare the head and visor pattern pieces. Cut both pattern pieces on the fold as indicated so each piece opens into its complete symmetrical shape.",
+                                        "tip":
+                                            {
+                                                "type": "pro_tip",
+                                                "text": "Print the pattern at actual size or 100% scale and check the test square before cutting your fabric."
+                                            }
+                                    },
+                                    {
+                                        "number": 2,
+                                        "title": "Cut the Fabric Pieces",
+                                        "content":
+                                            "Cut two head pieces and two visor pieces from your chosen fabric. One set will form the outer layer and the other will create the lining.",
+                                        "tip":
+                                            {
+                                                "type": "common_mistake",
+                                                "text": "Keep each pattern piece aligned with the fabric fold. Cutting away from the fold can create an incomplete or asymmetrical cap."
+                                            }
+                                    },
+                                    {
+                                        "number": 3,
+                                        "title": "Sew the Outer Head",
+                                        "content": "Take the outer head piece and sew the center top seam to create the rounded shape of the cap.",
+                                        "tip": {
+                                            "type": "pro_tip",
+                                            "text":
+                                                "Sew smoothly along the curved top seam to help the finished cap sit neatly around your dog's head."
+                                        }
+                                    },
+                                    {
+                                        "number": 4,
+                                        "title": "Sew the Head Lining",
+                                        "content":
+                                            "Repeat the same center top seam on the lining head piece.",
+                                        "tip": {
+                                            "type": "common_mistake",
+                                            "text":
+                                                "Make sure the outer head and lining pieces are sewn in the same orientation so they align correctly when joined."
+                                        }
+                                    },
+                                    {
+                                        "number": 5,
+                                        "title": "Join the Head Layers",
+                                        "content":
+                                            "Place the outer head and lining right sides together. Sew around the outer edges, leaving the section where the head will attach to the visor open. Turn the head section right side out.",
+                                        "tip": {
+                                            "type": "warning",
+                                            "text":
+                                                "Do not close the visor attachment edge. This opening is needed to join the visor and finish the lining neatly."
+                                        }
+                                    },
+                                    {
+                                        "number": 6,
+                                        "title": "Prepare the Visor Support",
+                                        "content":
+                                            "Cut a piece of waterproof cardboard, thin plastic, or another lightweight rigid material to fit inside the visor shape. Thick fabric can also be used instead of a separate insert.",
+                                        "tip": {
+                                            "type": "pro_tip",
+                                            "text":
+                                                "Keep the support slightly smaller than the finished visor edge so it does not interfere with the seam."
+                                        }
+                                    },
+                                    {
+                                        "number": 7,
+                                        "title": "Sew the Visor",
+                                        "content":
+                                            "Place the two visor pieces right sides together and sew around the outer curved edges, leaving the edge that will attach to the head open. Turn the visor right side out, inserting the chosen support between the layers if using one.",
+                                        "tip": {
+                                            "type": "common_mistake",
+                                            "text":
+                                                "Keep the attachment edge open and make sure the visor support lies flat without shifting toward the seam."
+                                        }
+                                    },
+                                    {
+                                        "number": 8,
+                                        "title": "Attach the Visor",
+                                        "content":
+                                            "With right sides facing together, sew the outer layer of the visor to the outer layer of the head section.",
+                                        "tip": {
+                                            "type": "pro_tip",
+                                            "text":
+                                                "Match the center points of the visor and cap opening first, then work outward to keep the visor evenly positioned."
+                                        }
+                                    },
+                                    {
+                                        "number": 9,
+                                        "title": "Finish the Inner Visor Edge",
+                                        "content":
+                                            "Sew a ribbon along the loose edge of the inner visor layer. Then topstitch or hand sew the loose edge of the ribbon to the loose edge of the head lining to close and finish the join.",
+                                        "tip": {
+                                            "type": "pro_tip",
+                                            "text":
+                                                "Keep the ribbon smooth as you sew so the finished seam lies flat inside the cap."
+                                        }
+                                    },
+                                    {
+                                        "number": 10,
+                                        "title": "Topstitch the Cap",
+                                        "content":
+                                            "Optionally edge-stitch around the cap to flatten the seams and give the finished cap a cleaner shape.",
+                                        "tip": {
+                                            "type": "pro_tip",
+                                            "text":
+                                                "Use a consistent distance from the edge for a neat decorative finish."
+                                        }
+                                    },
+                                    {
+                                        "number": 11,
+                                        "title": "Add the Elastic Strap",
+                                        "content":
+                                            "Attach an elastic securing strap using a length that fits your dog's head comfortably. Adjust the strap placement and length to suit your dog's individual head shape.",
+                                        "tip": {
+                                            "type": "warning",
+                                            "text":
+                                                "Do not make the elastic too tight. The cap should stay secure without creating pressure or restricting your dog's movement."
+                                        }
+                                    },
+                                    {
+                                        "number": 12,
+                                        "title": "Check the Fit",
+                                        "content":
+                                            "Place the finished cap on your dog and check that the head section sits comfortably, the visor shades the eyes without blocking vision, and the elastic holds the cap securely in place.",
+                                        "tip": {
+                                            "type": "warning",
+                                            "text":
+                                                "Always supervise your dog while wearing the cap and adjust or remove it if the fit causes discomfort or affects normal movement."
+                                        }
+                                    }
+                                ],
+                            "timelines": []
+                        },
+                        {
+                            "name": "Cat Nap Hammock",
+                            "level": "Beginner",
+                            "time": "30 minutes",
+                            "finishedSize":
+                                "Approximately 18\" × 18\" (45 × 45 cm)",
+                            "techPack": [
+                                {
+                                    "title": "Main Fabric",
+                                    "description":
+                                        "1/2 yard of sturdy cotton for the hammock base. Cut two 18\" × 18\" (45 × 45 cm) squares. Cotton, poplin, or duck fabric works well. For a reversible hammock, use two coordinating fat quarters. Lightweight cotton may need interfacing for additional support."
+                                },
+                                {
+                                    "title": "Strap Fabric",
+                                    "description":
+                                        "1/4 yard of cotton fabric for the hanging straps. Cut two strips measuring approximately 40\" × 3\" (100 × 7.5 cm). Fold the strips to create narrow fabric straps that fit comfortably through the swivel hooks."
+                                },
+                                {
+                                    "title": "Hardware",
+                                    "description":
+                                        "4 lobster clasp swivel hooks with approximately 1 1/4\" (3 cm) wide openings. Choose hooks that match the finished width of the fabric straps."
+                                },
+                                {
+                                    "title": "Tools Required",
+                                    "description":
+                                        "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, and a sewing machine. A walking foot, hump jumper, or hand-sewing needle may be useful when working through the thick layers near the hooks."
+                                },
+                                {
+                                    "title": "Techniques Required",
+                                    "description":
+                                        "Straight stitching, turning and pressing, topstitching, folding fabric straps, attaching straps around raw edges, matching center points, reinforcing high-stress areas, and securing swivel hooks through multiple layers of fabric."
+                                },
+                                {
+                                    "title": "Reinforcement",
+                                    "description":
+                                        "The points where the straps meet the hammock base can be reinforced with a small stitched square and an X inside the square. Double stitching can provide additional strength at these high-stress areas."
+                                }
+                            ],
+                            "showCustomSize": false,
+                            "pdf": "",
+                            "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Cat%20Nap%20Hammock.png",
+                            "video": "",
+                            "steps":
+                                [
+                                    {
+                                        "number": 1,
+                                        "title": "Cut the Fabric",
+                                        "content":
+                                            "Cut two 18\" × 18\" (45 × 45 cm) squares for the hammock base. Cut two 40\" × 3\" (100 × 7.5 cm) strips for the hammock arms.",
+                                        "tip":
+                                            {
+                                                "type": "pro_tip",
+                                                "text": "Choose sturdy cotton, poplin, or duck fabric for better support. You can use two different fabrics to make the hammock reversible."
+                                            }
+                                    },
+                                    {
+                                        "number": 2,
+                                        "title": "Sew the Hammock Base",
+                                        "content":
+                                            "Place the two base squares right sides together. Stitch along two opposite sides, leaving the remaining two sides open.",
+                                        "tip":
+                                            {
+                                                "type": "common_mistake",
+                                                "text": "Only sew two opposite edges. The remaining raw edges will be enclosed inside the hammock arms."
+                                            }
+                                    },
+                                    {
+                                        "number": 3,
+                                        "title": "Turn and Topstitch",
+                                        "content":
+                                            "Turn the base right side out. Press the two sewn edges flat, then topstitch along both finished sides. Set the base aside.",
+                                        "tip":
+                                            {
+                                                "type": "pro_tip",
+                                                "text": "Press the seams carefully before topstitching to keep the base flat and give the hammock a neat finish."
+                                            }
+                                    },
+                                    {
+                                        "number": 4,
+                                        "title": "Fold the Hammock Arms",
+                                        "content":
+                                            "Take each strap strip and fold it in half lengthwise, then press. Fold each long edge toward the center crease and press again to create a narrow, multi-layer strap.",
+                                        "tip":
+                                            {
+                                                "type": "warning",
+                                                "text": "Check that the finished strap width fits through the opening of your swivel hooks before attaching it to the hammock."
+                                            }
+                                    },
+                                    {
+                                        "number": 5,
+                                        "title": "Mark the Center Points",
+                                        "content":
+                                            "Fold each hammock arm in half and mark its midpoint. Fold the hammock base so the finished edges meet, then mark the midpoint of each remaining raw edge.",
+                                        "tip":
+                                            {
+                                                "type": "pro_tip",
+                                                "text": "Matching the center marks helps keep both hammock arms evenly positioned."
+                                            }
+                                    },
+                                    {
+                                        "number": 6,
+                                        "title": "Attach the First Hammock Arm",
+                                        "content":
+                                            "Place one folded arm around one raw edge of the hammock base so the strap encloses the raw edge. Match the center points and secure the layers with pins or clips. Stitch continuously from one free arm end, across the hammock base, and out to the other free arm end.",
+                                        "tip":
+                                            {
+                                                "type": "common_mistake",
+                                                "text": "Check that the stitching catches the hidden side of the folded strap along the entire length."
+                                            }
+                                    },
+                                    {
+                                        "number": 7,
+                                        "title": "Check the Arm Lengths",
+                                        "content":
+                                            "Check that the two free sections of the attached arm are equal in length. Each side should extend approximately 11\" (28 cm) beyond the hammock base. Trim any excess if necessary.",
+                                        "tip":
+                                            {
+                                                "type": "pro_tip",
+                                                "text": "Keep both extensions as even as possible so the hammock hangs level after the hooks are attached."
+                                            }
+                                    },
+                                    {
+                                        "number": 8,
+                                        "title": "Attach the Second Arm",
+                                        "content":
+                                            "Topstitch along the outer edge of the first attached arm. Repeat the same process to attach the second folded arm around the remaining raw edge of the hammock base, then topstitch its outer edge.",
+                                        "tip":
+                                            {
+                                                "type": "common_mistake",
+                                                "text": "Compare the placement and length of both arms before completing the final topstitching."
+                                            }
+                                    },
+                                    {
+                                        "number": 9,
+                                        "title": "Reinforce the Stress Points",
+                                        "content":
+                                            "Optional: reinforce the areas where the hammock arms meet the base by stitching a small square through the layers and sewing an X inside it. Double stitch the reinforcement if extra strength is needed.",
+                                        "tip":
+                                            {
+                                                "type": "warning",
+                                                "text": "These junctions carry the most stress when the hammock is in use, so make sure the reinforcement stitching is secure."
+                                            }
+                                    },
+                                    {
+                                        "number": 10,
+                                        "title": "Attach the Swivel Hooks",
+                                        "content":
+                                            "Slide each strap end through a swivel hook by approximately 1/2\" to 1\" (1.5–2.5 cm). Fold the raw edge underneath to hide it, then stitch securely back and forth. Repeat for all four ends.",
+                                        "tip": {
+                                            "type": "warning",
+                                            "text": "Sewing through the folded strap can be thick. Use a walking foot, hump jumper, or hand stitching if your sewing machine struggles with the layers."
+                                        }
+                                    },
+                                    {
+                                        "number": 11,
+                                        "title": "Check the Hook Direction",
+                                        "content":
+                                            "Before finishing the final attachments, make sure all four swivel hooks face the same direction and that each hook is securely attached to the strap.",
+                                        "tip": {
+                                            "type": "common_mistake",
+                                            "text":
+                                                "Check the direction of all four hooks before completing the final stitching. Correcting a reversed hook afterward requires unpicking thick reinforced seams."
+                                        }
+                                    },
+                                    {
+                                        "number": 12,
+                                        "title": "Finish the Hammock",
+                                        "content":
+                                            "Inspect all seams, reinforcement points, and hook attachments. Attach the four hooks to a suitable secure support and check that the hammock hangs evenly.",
+                                        "tip": {
+                                            "type": "warning",
+                                            "text":
+                                                "Inspect the hooks, straps, and stitching regularly to ensure everything remains secure before allowing your cat to use the hammock."
+                                        }
+                                    }
+                                ],
+                            "timelines": []
+                        },
+                        {
                             "name": "Waist Rest Pillow",
                             "level": "Beginner",
                             "time": "1.5 hours",
