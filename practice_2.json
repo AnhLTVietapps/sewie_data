@@ -22020,6 +22020,1445 @@
       ]
     },
     {
+      "name": "Pet",
+      "items": [
+        {
+          "name": "Cat Nap Hammock",
+          "level": "Beginner",
+          "time": "30 minutes",
+          "finishedSize": "Approximately 18\" × 18\" (45 × 45 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "1/2 yard of sturdy cotton for the hammock base. Cut two 18\" × 18\" (45 × 45 cm) squares. Cotton, poplin, or duck fabric works well. For a reversible hammock, use two coordinating fat quarters. Lightweight cotton may need interfacing for additional support."
+            },
+            {
+              "title": "Strap Fabric",
+              "description": "1/4 yard of cotton fabric for the hanging straps. Cut two strips measuring approximately 40\" × 3\" (100 × 7.5 cm). Fold the strips to create narrow fabric straps that fit comfortably through the swivel hooks."
+            },
+            {
+              "title": "Hardware",
+              "description": "4 lobster clasp swivel hooks with approximately 1 1/4\" (3 cm) wide openings. Choose hooks that match the finished width of the fabric straps."
+            },
+            {
+              "title": "Tools Required",
+              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, and a sewing machine. A walking foot, hump jumper, or hand-sewing needle may be useful when working through the thick layers near the hooks."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Straight stitching, turning and pressing, topstitching, folding fabric straps, attaching straps around raw edges, matching center points, reinforcing high-stress areas, and securing swivel hooks through multiple layers of fabric."
+            },
+            {
+              "title": "Reinforcement",
+              "description": "The points where the straps meet the hammock base can be reinforced with a small stitched square and an X inside the square. Double stitching can provide additional strength at these high-stress areas."
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Cat%20Nap%20Hammock.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Cut the Fabric",
+              "content": "Cut two 18\" × 18\" (45 × 45 cm) squares for the hammock base. Cut two 40\" × 3\" (100 × 7.5 cm) strips for the hammock arms.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Choose sturdy cotton, poplin, or duck fabric for better support. You can use two different fabrics to make the hammock reversible."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Sew the Hammock Base",
+              "content": "Place the two base squares right sides together. Stitch along two opposite sides, leaving the remaining two sides open.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Only sew two opposite edges. The remaining raw edges will be enclosed inside the hammock arms."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Turn and Topstitch",
+              "content": "Turn the base right side out. Press the two sewn edges flat, then topstitch along both finished sides. Set the base aside.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press the seams carefully before topstitching to keep the base flat and give the hammock a neat finish."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Fold the Hammock Arms",
+              "content": "Take each strap strip and fold it in half lengthwise, then press. Fold each long edge toward the center crease and press again to create a narrow, multi-layer strap.",
+              "tip": {
+                "type": "warning",
+                "text": "Check that the finished strap width fits through the opening of your swivel hooks before attaching it to the hammock."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Mark the Center Points",
+              "content": "Fold each hammock arm in half and mark its midpoint. Fold the hammock base so the finished edges meet, then mark the midpoint of each remaining raw edge.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Matching the center marks helps keep both hammock arms evenly positioned."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Attach the First Hammock Arm",
+              "content": "Place one folded arm around one raw edge of the hammock base so the strap encloses the raw edge. Match the center points and secure the layers with pins or clips. Stitch continuously from one free arm end, across the hammock base, and out to the other free arm end.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Check that the stitching catches the hidden side of the folded strap along the entire length."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Check the Arm Lengths",
+              "content": "Check that the two free sections of the attached arm are equal in length. Each side should extend approximately 11\" (28 cm) beyond the hammock base. Trim any excess if necessary.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep both extensions as even as possible so the hammock hangs level after the hooks are attached."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Attach the Second Arm",
+              "content": "Topstitch along the outer edge of the first attached arm. Repeat the same process to attach the second folded arm around the remaining raw edge of the hammock base, then topstitch its outer edge.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Compare the placement and length of both arms before completing the final topstitching."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Reinforce the Stress Points",
+              "content": "Optional: reinforce the areas where the hammock arms meet the base by stitching a small square through the layers and sewing an X inside it. Double stitch the reinforcement if extra strength is needed.",
+              "tip": {
+                "type": "warning",
+                "text": "These junctions carry the most stress when the hammock is in use, so make sure the reinforcement stitching is secure."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Attach the Swivel Hooks",
+              "content": "Slide each strap end through a swivel hook by approximately 1/2\" to 1\" (1.5–2.5 cm). Fold the raw edge underneath to hide it, then stitch securely back and forth. Repeat for all four ends.",
+              "tip": {
+                "type": "warning",
+                "text": "Sewing through the folded strap can be thick. Use a walking foot, hump jumper, or hand stitching if your sewing machine struggles with the layers."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Check the Hook Direction",
+              "content": "Before finishing the final attachments, make sure all four swivel hooks face the same direction and that each hook is securely attached to the strap.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Check the direction of all four hooks before completing the final stitching. Correcting a reversed hook afterward requires unpicking thick reinforced seams."
+              }
+            },
+            {
+              "number": 12,
+              "title": "Finish the Hammock",
+              "content": "Inspect all seams, reinforcement points, and hook attachments. Attach the four hooks to a suitable secure support and check that the hammock hangs evenly.",
+              "tip": {
+                "type": "warning",
+                "text": "Inspect the hooks, straps, and stitching regularly to ensure everything remains secure before allowing your cat to use the hammock."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Everyday Dog Collar",
+          "level": "Beginner",
+          "time": "45 minutes",
+          "finishedSize": "Custom fit based on your dog's neck measurement",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Tightly woven cotton fabric for covering the collar. Measure your dog's neck and add approximately 6\" to 10\" (15 to 25 cm) of extra length for seam allowances, hardware, and adjustment. Cut the fabric strip to four times the width of the webbing."
+            },
+            {
+              "title": "Webbing & Interfacing",
+              "description": "Polypropylene or nylon webbing forms the strong inner core of the collar. Use approximately 1\" (2.5 cm) wide webbing for larger dogs or 1/2\" (12 mm) webbing for smaller dogs. Medium-weight fusible interfacing is optional and can add support when making small or extra-small collars."
+            },
+            {
+              "title": "Collar Hardware",
+              "description": "One tri-slider, one contoured side-release buckle, and one D-ring sized to match the width of the collar. For dogs that spend time in water, choose corrosion-resistant hardware such as a stainless steel D-ring and durable plastic buckle and tri-slider."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching polyester thread, fabric scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, and a sewing machine."
+            },
+            {
+              "title": "Sizing Guide",
+              "description": "Measure around your dog's neck without pulling the tape too tight. A correctly fitted collar should allow approximately three fingers between the collar and the dog's neck. Common neck sizes are X-Small: 8\" to 9\" (20 to 23 cm), Small: 10\" to 13\" (25 to 33 cm), Medium: 14\" to 17\" (35.5 to 43 cm), and Large: 18\" to 24\" (45.75 to 61 cm)."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Measuring and cutting for a custom fit, applying optional fusible interfacing, folding and pressing fabric, enclosing webbing, edge stitching, threading collar hardware, box stitching, triple stitching, and reinforcing the D-ring area with a box-and-X stitch."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Everyday%20Dog%20Collar.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Measure Your Dog's Neck",
+              "content": "Measure the circumference of your dog's neck with a flexible measuring tape. Do not pull the tape too tight. Add approximately 6\" (15 cm) for a small collar or up to 10\" (25 cm) for a larger collar to allow for the hardware, construction, and future adjustment.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "A properly fitted collar should allow you to comfortably slip about three fingers between the collar and your dog's neck."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Calculate and Cut the Fabric",
+              "content": "Choose the width of webbing for your dog's size. Use approximately 1\" (2.5 cm) wide webbing for a larger dog or 1/2\" (12 mm) for a smaller dog. Cut the fabric strip to the calculated collar length and four times the width of the webbing.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Do not cut the fabric to the exact neck measurement. The extra length is needed for the buckle, tri-slider, folded ends, and adjustability."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Add Optional Interfacing",
+              "content": "If you are making a small or extra-small collar and want additional structure, cut a strip of medium-weight fusible interfacing and fuse it to the wrong side of the fabric according to the manufacturer's instructions.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Interfacing is optional. Use it when a lightweight fabric needs extra body, but avoid adding unnecessary bulk to a collar for a very small dog."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Fold and Press the Fabric",
+              "content": "Fold both short ends inward by approximately 1/4\" and press. Fold the fabric strip in half lengthwise and lightly press to create a center crease. Open it, fold both long edges toward the center crease, press, then fold the strip in half lengthwise again and press.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Accurate pressing creates an even fabric channel so the webbing sits neatly inside the collar."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Insert the Webbing",
+              "content": "Open the final lengthwise fold and place the polypropylene or nylon webbing neatly inside the folded fabric. Make sure the webbing is centered and the fabric edges align evenly around it, then secure the layers with clips or pins.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the webbing flat and centered. Twisted or uneven webbing can make the finished collar uncomfortable and difficult to adjust."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Stitch Around the Collar",
+              "content": "Sew around the short and long edges approximately 1/8\" (3 mm) from the edge to enclose the webbing and close the fabric cover. At each corner, leave the needle in the fabric, lift the presser foot, turn the collar, then continue stitching. Backstitch at the beginning and end.",
+              "tip": {
+                "type": "warning",
+                "text": "Make sure the stitching catches all fabric layers around the webbing. Missed layers can leave an opening that weakens the collar."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Attach the Tri-Slider",
+              "content": "Place the outer side of the collar face-down. Thread one end through the last opening of the tri-slider, bring it up over the center bar, and pass it down through the remaining opening. Leave approximately 1\" (2.5 cm) extending beyond the slider.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check the orientation of the tri-slider before sewing. The collar should lie flat without twisting when the adjustment section is assembled."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Secure the Tri-Slider",
+              "content": "Sew a box stitch as close to the tri-slider as possible. Stitch across near the slider, continue approximately 1\" toward the fabric edge, stitch down, then back across to form a secure box that prevents the slider from slipping off.",
+              "tip": {
+                "type": "warning",
+                "text": "This seam carries tension during adjustment, so reinforce it securely and keep the stitching close to the hardware."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Add the Pronged Buckle",
+              "content": "On the opposite end of the collar, thread the fabric through the pronged half of the contoured side-release buckle. Pass the fabric over and then under the buckle bar so the buckle can move smoothly.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Before continuing, check that the buckle is facing the correct direction and that its prongs will face outward when the collar is worn."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Thread the Collar Back Through the Slider",
+              "content": "Bring the collar around and thread the fabric back through the tri-slider that was secured earlier. Adjust the length as needed and check that the collar can slide smoothly for size adjustment.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Test the adjustment before attaching the remaining buckle half. It is much easier to correct the threading order before the final seams are sewn."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Add the D-Ring and Second Buckle Half",
+              "content": "Slide the D-ring onto the remaining free end without sewing it in place yet. Then thread on the second half of the side-release buckle, making sure its orientation matches the pronged half. Leave approximately 1.5\" (4 cm) of fabric extending beyond the buckle.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Make sure the D-ring is added before the final buckle half is secured. Otherwise, you may need to unpick the finished seam to insert it."
+              }
+            },
+            {
+              "number": 12,
+              "title": "Secure the Buckle End",
+              "content": "Stitch a reinforced triple seam by sewing forward, backward, and forward again as close to the buckle as possible to secure the folded end.",
+              "tip": {
+                "type": "warning",
+                "text": "Keep the buckle away from the needle path and stitch only through the fabric and webbing layers."
+              }
+            },
+            {
+              "number": 13,
+              "title": "Secure the D-Ring",
+              "content": "Slide the D-ring up between the buckle and the remaining fabric tab. Position it next to the reinforced buckle seam, then sew a box with an X through the center to secure the fabric tab and hold the D-ring firmly in place.",
+              "tip": {
+                "type": "warning",
+                "text": "The D-ring area receives the most pulling force from the leash, so reinforce the box-and-X stitching carefully and inspect it before use."
+              }
+            },
+            {
+              "number": 14,
+              "title": "Adjust and Check the Fit",
+              "content": "Fasten the collar around your dog's neck and adjust the tri-slider until it fits comfortably. Confirm that the buckle closes securely, the collar lies flat, and the D-ring is positioned correctly for attaching a leash.",
+              "tip": {
+                "type": "warning",
+                "text": "Before regular use, check all reinforcement stitches and make sure you can still comfortably fit approximately three fingers between the collar and your dog's neck."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Upcycled Denim Dog Toy",
+          "level": "Beginner",
+          "time": "15 minutes",
+          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
+            },
+            {
+              "title": "Filling",
+              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Prepare the Bone Template",
+              "content": "Download and prepare the dog bone template. The template is placed on a fold through the center so both sides of the bone are symmetrical. Cut the template to size and scale it up or down if you want to make the toy larger or smaller.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Choose the finished size based on your dog's size. A larger dog may need a larger template and a wider turning opening."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Cut the Denim",
+              "content": "Open the side seam of the jeans or prepare two pieces of heavy-weight fabric. Place the bone template on the fabric fold, pin it in place, and cut out two matching bone shapes.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Include denim pockets or existing seams if desired. These details can add visual interest and create a tougher toy."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Layer and Pin the Pieces",
+              "content": "Unfold both bone pieces and place them right sides together. Align the edges carefully, then pin or clip the layers in place.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Make sure the right sides are facing each other before sewing so the finished toy turns out with the correct side facing outward."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Sew Around the Bone",
+              "content": "Stitch around the edge of the bone using a 1/4\" (6 mm) seam allowance. Leave an opening of approximately 2\" (5 cm) near the center of the bone's shank for turning and stuffing.",
+              "tip": {
+                "type": "warning",
+                "text": "Do not sew the opening closed. For a larger bone, adjust the opening size so there is enough space to turn the toy right side out."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Finish the Raw Edges",
+              "content": "Finish the seam allowance around the sewn edges with a serger or overlocker to help prevent fraying. If you do not have a serger, sew a zigzag stitch around the raw edges.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use a stitch that secures the raw denim edges without trimming too close to the construction seam."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Turn and Shape the Toy",
+              "content": "Turn the bone right side out through the opening in the center. Use a knitting needle or turning tool to gently push out the curved edges and shape the ends of the bone. Press the toy flat.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Push out the curves gently to avoid poking through the seam, especially when using a pointed turning tool."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Stuff the Bone",
+              "content": "Fill the toy with poly-fill stuffing, pushing the filling firmly into both rounded ends and through the center. Adjust the firmness based on your dog's size and how vigorously they play. Add an optional squeaker while stuffing if desired.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Dogs that shake and toss toys may benefit from a firmer stuffing, while a softer fill can work well for gentler chewers."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Close the Opening",
+              "content": "Close the turning gap after stuffing. For a tightly stuffed toy, use doubled strong thread and a ladder stitch for a secure, less visible closure. For a more lightly stuffed toy, fold the raw edges inward and machine stitch across the opening.",
+              "tip": {
+                "type": "warning",
+                "text": "Make the closing stitches secure, as this opening can come under repeated stress during chewing, shaking, and fetching."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "The Everyday Dog Leash",
+          "level": "Beginner",
+          "time": "30 minutes",
+          "finishedSize": "Custom length; tutorial example finishes at approximately 4 ft (1.2 m)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Tightly woven cotton fabric at least 4 ft × 4\" (1.5 m × 10 cm). For the 4 ft tutorial example, cut the fabric to approximately 57 1/2\" (1.5 m) long and 4\" (10 cm) wide, allowing extra length for the handle, bolt snap foldover, and seam allowances."
+            },
+            {
+              "title": "Leash Core",
+              "description": "1\" (2.5 cm) wide nylon or polypropylene webbing for a small to medium dog. The tutorial example uses a 57\" long piece to create a finished 4 ft leash. For a tiny dog, use narrower 1/2\" (12 mm) webbing."
+            },
+            {
+              "title": "Hardware",
+              "description": "1 bolt snap or quick-release catch for attaching the leash to the dog's collar. Choose durable hardware suitable for your dog's size and pulling strength. Stainless steel is recommended for frequent water exposure, while chromed or galvanized hardware can be used for dogs that are not regularly in water."
+            },
+            {
+              "title": "Optional Interfacing",
+              "description": "A 2\" wide strip of fusible interfacing can be applied down the center of the wrong side of the fabric strip for additional structure. Skip this step if extra support is not needed."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching polyester thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips, and a sewing machine."
+            },
+            {
+              "title": "Length Options",
+              "description": "A 4 ft (1.2 m) leash is useful for busy streets, crowded places, and close-control training. A 6 ft (1.8 m) leash is a common everyday length for regular walks. An 8 ft (2.4 m) leash gives the dog more room to explore while remaining under control."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Measuring and cutting, optional interfacing application, folding and pressing fabric, enclosing webbing, edge stitching, attaching hardware, creating a folded handle, box stitching, and reinforcing stress points with a box-and-X stitch."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/The%20Everyday%20Dog%20Leash.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Cut the Webbing",
+              "content": "For the 4 ft (1.2 m) leash shown in the tutorial, cut a 1\" (2.5 cm) wide piece of polypropylene or nylon webbing to 57\" long. For a tiny dog, use narrower 1/2\" (12 mm) webbing. Seal the freshly cut webbing ends carefully to help prevent fraying.",
+              "tip": {
+                "type": "warning",
+                "text": "Keep any flame away from the fabric and only use it briefly on synthetic webbing edges to prevent melting or scorching."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Cut the Fabric Cover",
+              "content": "For the 4 ft leash example, cut a tightly woven cotton strip approximately 57 1/2\" long and 4\" wide. This includes extra length for the 8\" handle foldover, the foldover around the bolt snap, and seam allowances at both short ends.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "For a different finished leash length, adjust the fabric and webbing measurements while keeping enough extra length for both end folds."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Apply Optional Interfacing",
+              "content": "If you want additional structure, fuse a 2\" wide strip of interfacing down the center of the wrong side of the 4\" wide fabric strip according to the manufacturer's instructions.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the interfacing centered so the fabric folds evenly around the webbing."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Fold the Short Ends",
+              "content": "Fold each short end of the fabric inward by approximately 1/4\" (5 mm) and press.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Pressing these edges now creates a cleaner finish at both the bolt snap and handle ends."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Fold and Press the Fabric Strip",
+              "content": "Fold the fabric strip in half lengthwise and lightly press to create a center crease. Open it again, fold both long edges toward the center crease, and press. Fold the entire strip in half lengthwise once more, align the folded edges, and press.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Make sure both long edges meet evenly at the center before the final fold so the webbing will be fully covered."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Insert the Webbing",
+              "content": "Open the final lengthwise fold and place the webbing neatly inside the prepared fabric channel. Align it evenly along the length, then secure the layers with sewing clips.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the webbing flat and untwisted before clipping. A twist inside the fabric cover cannot be corrected easily after stitching."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Stitch the Fabric Cover",
+              "content": "Sew around both short ends and along both long edges approximately 1/8\" (3 mm) from the edge, enclosing the webbing and closing the fabric cover. Leave the needle in the fabric when turning corners and backstitch at the beginning and end.",
+              "tip": {
+                "type": "warning",
+                "text": "Check that every seam catches all fabric layers around the webbing. An unstitched section can weaken the finished leash."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Attach the Bolt Snap",
+              "content": "Place the leash with the wrong side facing up. Slide the bolt snap bar onto one end, fold approximately 1.5\" (4 cm) of the leash back toward the wrong side, and clip the folded section in place.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Check the direction of the bolt snap before sewing so it faces correctly when attached to the collar."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Form the Handle",
+              "content": "At the opposite end, fold approximately 8\" (20 cm) of the leash back toward the same side as the bolt snap fold to create the hand loop. Align the edges neatly and secure the folded section with clips.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Try the handle around your hand before stitching to make sure the loop feels comfortable without being excessively large."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Reinforce the Bolt Snap",
+              "content": "Sew a line close to the bolt snap bar and continue stitching approximately 1\" toward the edge of the folded section. Stitch around the shape to form a reinforced box, then sew an X inside the box for additional strength. Backstitch securely at the beginning and end.",
+              "tip": {
+                "type": "warning",
+                "text": "The bolt snap connection receives regular pulling force, so make sure the box-and-X reinforcement is securely stitched through all layers."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Secure the Handle",
+              "content": "Sew a reinforced box with an X through the approximately 1\" end of the handle fold to secure the hand loop firmly to the leash.",
+              "tip": {
+                "type": "warning",
+                "text": "Test the handle stitching with firm pulling before using the leash to make sure the reinforced seam is secure."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Fairy Pup Dress",
+          "level": "Beginner",
+          "time": "1 hour",
+          "finishedSize": "Available in all size",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Stretch cotton or T-shirt fabric for the sleeveless bodice. Cut one front piece and one back piece on the fold as indicated by the pattern to create the full bodice pieces without a center seam."
+            },
+            {
+              "title": "Tulle Skirt",
+              "description": "Soft tulle for the tutu skirt. Use one color or combine several colors for a layered fairy effect. For a skirt length of 6\" (15 cm), cut each tulle strip approximately 13\" (32 cm) long, which includes the doubled skirt length and seam allowance."
+            },
+            {
+              "title": "Elastic & Binding",
+              "description": "Elastic for gathering the tulle skirt and matching stretch fabric strips for finishing the neckline and arm openings. A decorative ribbon can be added at the waist as an optional final detail."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The pattern includes separate front and back bodice pieces in XS, S, M, L, XL, and XXL. Cut each piece with the fabric folded in half as marked on the pattern. Seam allowance is included in the pattern."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors, ruler or measuring tape, pins or sewing clips, elastic threading tool or safety pin, iron, and a sewing machine. A zigzag stitch or overlocker is useful for finishing raw edges."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting pattern pieces on the fold, sewing shoulder and side seams, zigzag or overlock finishing, hemming or applying fabric binding, basting, topstitching, folding tulle strips, creating an elastic casing, gathering the tutu, attaching the skirt to the bodice, and finishing the waist."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Fairy%20Pup%20Dress.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Choose and Cut Your Pattern Size",
+              "content": "Choose the pattern size that best matches your dog's measurements. Cut the front and back bodice pieces with the fabric folded in half as indicated on the pattern so each piece opens into a full symmetrical shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Print the pattern at 100% scale and check the test square before cutting your fabric to make sure the finished dress fits the intended size."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Sew the Bodice Seams",
+              "content": "Place the front and back bodice pieces right sides together. Sew the shoulder seams and side seams, then finish the raw seam edges with a zigzag stitch or overlocker to help prevent fraying.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Check that the neckline and arm openings are aligned before sewing the shoulder seams so the bodice sits correctly on your dog."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Finish the Neckline and Armholes",
+              "content": "Finish the neckline and sleeve openings with a narrow hem, or apply folded strips of the same stretch fabric as binding. Baste the binding in place first, sew it securely, finish the raw edge if needed, then topstitch along the seam.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Avoid stretching the neckline or armholes while sewing. Let the fabric feed naturally to keep the openings comfortable and evenly shaped."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Cut the Tulle Strips",
+              "content": "Decide the desired finished skirt length. Cut the tulle strips to approximately twice that length, then add 1\" (2.5 cm) for seam allowance. For example, for a 6\" (15 cm) finished skirt, cut strips approximately 13\" (32 cm) long.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Mixing two or more soft or pastel tulle colors creates a fuller fairy-style tutu with more visual depth."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Prepare the Tulle Layers",
+              "content": "Take two tulle strips, either in the same color or different colors, and fold them in half together. Arrange the layers so the folded edge will form the top of the skirt.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Prepare several folded tulle pairs before sewing so the gathering process is easier and the colors stay evenly distributed."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Create the Elastic Casing",
+              "content": "Sew a straight seam approximately 1/2\" (1 cm) below the folded edge of each tulle pair to create a casing for the elastic.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the casing wide enough for the elastic to slide through smoothly without twisting or bunching."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Thread and Gather the Tulle",
+              "content": "Thread the elastic through the casing using a bodkin or a safety pin. Pull the elastic to gather the tulle, then repeat with additional tulle strips until the skirt covers the waistline while leaving the belly area open as shown in the tutorial.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Adjust the gathers gradually so the tulle is evenly distributed instead of forming a bulky cluster in one area."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Join the Skirt Elastic",
+              "content": "Once the tulle covers the required waist area, sew the ends of the elastic together to complete the gathered skirt section.",
+              "tip": {
+                "type": "warning",
+                "text": "Check the elastic length around the bodice before sewing the ends together. It should gather the tulle without pulling the finished dress too tightly."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Attach the Tutu to the Bodice",
+              "content": "Position the gathered tulle skirt along the lower edge of the bodice and sew the tulle line securely to the top. At the belly area, add a fabric strip to cover and hide the elastic.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Distribute the tulle gathers evenly before stitching so the skirt looks balanced from both the front and back."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Finish the Waist",
+              "content": "Fold the fabric strip over the elastic at the belly area and topstitch it in place to create a clean finish.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the waist finish smooth and flat so the elastic does not rub against your dog's belly."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Add an Optional Ribbon",
+              "content": "If desired, sew a decorative ribbon around the waist to add a final fairy-inspired detail.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Choose a lightweight ribbon and secure the ends well so it stays flat and does not interfere with the dog's movement."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Gentleman’s Tweed Coat",
+          "level": "Intermediate",
+          "time": "2 hours",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Outer Fabric",
+              "description": "Wool tweed is used for the outer coat, giving the garment warmth and a classic country style. Other wool fabrics can also be used. Choose a textured or patterned fabric that suits your dog's coloring."
+            },
+            {
+              "title": "Lining",
+              "description": "Synthetic Sherpa fleece is used to line the main body, collar, and belly straps. The fleece lining adds warmth and softness while avoiding the bulk and moisture retention associated with cotton fleece."
+            },
+            {
+              "title": "Pattern Pieces",
+              "description": "The coat includes one main body piece with integrated neck straps, two belly straps, one belt, and one collar. Cut the main body, belly straps, and collar from both outer fabric and lining. Cut the belt from outer fabric and medium-weight iron-on interfacing."
+            },
+            {
+              "title": "Sizing & Fit",
+              "description": "Measure your dog's back from approximately 1\" (2.5 cm) below the collar to approximately 2\" (5 cm) before the tail. Enlarge or reduce the pattern so the main body matches this back length, then scale all remaining pieces by the same percentage. Make a paper mock-up first to check the fit and adjust the positions and lengths of the belt and belly straps."
+            },
+            {
+              "title": "Closures & Trims",
+              "description": "Velcro is used to fasten the neck straps and belly straps. Two buttons are sewn onto the decorative belt. Double-fold bias tape is used to conceal and finish the raw edges of the collar, belly straps, and main coat body."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Tape measure, strong medium-weight paper for creating and testing the pattern, pencil, paper and fabric scissors, adhesive tape, pins, fine fabric marker, sewing machine, medium-weight iron-on interfacing, iron and ironing board, needle and thread."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Taking custom measurements, scaling and adjusting a pattern, creating a paper mock-up, cutting fabric and lining pieces, sewing Velcro, applying iron-on interfacing, zigzag stitching to prevent fraying, hemming, attaching a decorative belt and buttons, joining outer fabric to lining with wrong sides together, attaching straps and collar, and finishing raw edges with double-fold bias tape."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Gentleman%E2%80%99s%20Tweed%20Coat.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Measure Your Dog",
+              "content": "Measure your dog's back from approximately 1\" (2.5 cm) below the collar to approximately 2\" (5 cm) before the tail. Use this measurement as the finished length of the main coat body.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the measuring tape following the natural line of your dog's back without pulling it tight."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Scale the Pattern",
+              "content": "Enlarge the main body pattern by 400%, then enlarge it by another 110%. Adjust the pattern further if needed so the pattern block matches your dog's measured back length. Scale all remaining pattern pieces by the same percentage.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Do not resize only the main body. The collar, belly straps, and belt must be scaled proportionally to keep the coat balanced."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Make a Paper Mock-Up",
+              "content": "Cut the coat pieces from strong paper and tape them together. Place the paper mock-up on your dog to check the fit. Adjust the body shape, belt position, belly strap position, and strap lengths as needed.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "For dogs with a long back and narrow girth, adjust the neck area separately from the back length so the coat fits comfortably around both areas."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Cut the Coat Pieces",
+              "content": "Use the adjusted paper mock-up as your pattern. Cut one main body with integrated neck straps from the outer fabric and one from the lining. Cut two belly straps from both fabrics, one collar from both fabrics, and one belt from the outer fabric and iron-on interfacing. Add a 1/2\" (1 cm) seam allowance only to the belt piece.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "The main coat pieces do not need an additional seam allowance unless your adjusted paper pattern was created without one. Only the belt requires the specified 1/2\" allowance."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Shape the Belt",
+              "content": "Cut the belt from the outer fabric and create a matching interfacing piece. To make pointed ends, fold the paper belt template in half lengthwise and then crosswise, then cut the short ends diagonally before opening it out.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Make sure both belt points are symmetrical before using the paper shape to cut the fabric."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Mark the Velcro Placement",
+              "content": "Place the outer main body on your dog and check where the neck straps meet underneath the chin. Mark the required Velcro placement. Mark the matching positions for the belly strap closures.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Test the closure positions with the paper mock-up or fabric before sewing so the straps are secure without being restrictive."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Attach the Neck Velcro",
+              "content": "Cut the Velcro to the required length. Sew one piece onto the right side of the right-hand neck strap on the outer fabric. Sew the corresponding piece onto the right side of the lining neck strap in the matching position so the closures align after the layers are joined.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Remember that the outer coat and lining are later joined with their wrong sides facing, so the Velcro pieces need to be positioned on opposing straps to meet correctly."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Attach the Belly Strap Velcro",
+              "content": "Cut the Velcro to length and sew it centrally onto the right side of one outer-fabric belly strap and onto the right side of one lining belly strap. Leave the remaining matching pieces without Velcro so the closures will face each other after assembly.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Pair one Velcro outer piece with one plain lining piece, and one plain outer piece with one Velcro lining piece."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Prepare the Belt",
+              "content": "Sew a zigzag stitch around the outer-fabric belt to prevent fraying. Fuse the medium-weight interfacing to the belt following the manufacturer's instructions, then sew a small hem around the edges.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Trim and shape the pointed ends carefully before hemming so the finished belt lies flat and symmetrical."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Attach the Belt and Buttons",
+              "content": "Position the belt straight and centered across the back of the outer main body. Pin it in place and sew a neat line from point to point along the center of the belt. Sew two buttons onto the belt along this central stitching line, placing them at equal distances from each end.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use the paper mock-up markings to position the belt so it sits correctly relative to the dog's body."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Join the Outer Fabric and Lining",
+              "content": "For the main body, collar, and both belly straps, place each outer-fabric piece together with its matching lining piece with wrong sides facing. Pin around the edges and machine stitch the layers together.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "For the belly straps, check that each pair contains one piece with Velcro and one corresponding piece without Velcro."
+              }
+            },
+            {
+              "number": 12,
+              "title": "Finish the Collar and Belly Straps",
+              "content": "Apply double-fold bias tape around the edge of the collar and along the long U-shaped edges of the belly straps. Stitch close to the edge of the bias tape, catching both sides securely.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Ease the bias tape gradually around curves to avoid puckering or stretching the collar shape."
+              }
+            },
+            {
+              "number": 13,
+              "title": "Attach the Collar",
+              "content": "Place the collar centrally at the front of the outer coat with the fleece side facing up. Align the inner edge of the collar with the neck edge of the main body, pin it in place, and sew securely.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Double-check that the fleece side will face toward your dog's neck before stitching the collar permanently."
+              }
+            },
+            {
+              "number": 14,
+              "title": "Attach the Belly Straps",
+              "content": "Turn the coat so the fleece lining faces up. Position the two belly straps opposite each other with their lining sides facing down and folded inward so the Velcro sections meet. Align their raw edges with the sides of the main body, pin, and sew securely.",
+              "tip": {
+                "type": "warning",
+                "text": "Check that both belly straps are positioned at the same height and can overlap comfortably before sewing them to the body."
+              }
+            },
+            {
+              "number": 15,
+              "title": "Finish the Coat Edges",
+              "content": "Apply double-fold bias tape around all remaining raw edges of the main coat body. Stitch as close as possible to the edge of the bias tape while catching both sides in the seam.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Work slowly around curves and corners to keep the bias tape smooth and give the coat a clean, tailored finish."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Little Pup Jeans",
+          "level": "Intermediate",
+          "time": "1 hour",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Medium-weight woven fabric suitable for dog pants, such as denim, cotton twill, or another durable woven fabric. Choose a fabric that is comfortable for your dog while providing enough structure to hold the shape of the pants."
+            },
+            {
+              "title": "Waistband & Closure",
+              "description": "Elastic or an adjustable waistband is used to help the pants fit comfortably around the waist. Choose a closure method that keeps the pants secure without restricting your dog's movement."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The pattern includes multiple sizes. Select the size that best matches your dog's measurements and print the pattern at the correct scale before cutting. Check the pattern markings carefully and transfer any placement marks before sewing."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors or a rotary cutter, cutting mat, ruler or measuring tape, sewing clips or pins, fabric marker or chalk, iron and ironing board, and a sewing machine."
+            },
+            {
+              "title": "Construction Techniques",
+              "description": "Cutting woven fabric from a pattern, transferring pattern markings, sewing curved seams, joining inseams, constructing a waistband, inserting or attaching elastic, hemming the leg openings, and finishing seams for durability."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Little%20Pup%20Jeans.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Choose Your Size",
+              "content": "Select the pattern size that best matches your dog's measurements. Print the pattern at the correct scale and check the measurement guide before cutting the pattern pieces.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Measure your dog while standing naturally. If your dog falls between sizes, compare the waist and leg measurements before deciding which size will provide the most comfortable fit."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Prepare and Cut the Fabric",
+              "content": "Prepare your fabric by pressing it flat. Lay out the pattern pieces according to the grainline markings, secure them with pins or pattern weights, and cut the required fabric pieces.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the grainline aligned before cutting. Incorrect grain placement can affect how the finished pants fit and move."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Transfer Pattern Markings",
+              "content": "Transfer any important pattern markings, notches, fold lines, waistband placement marks, and matching points onto the wrong side of the fabric.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use removable tailor's chalk or a washable fabric marker so the markings do not remain visible on the finished pants."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Sew the Leg Seams",
+              "content": "Place the matching fabric pieces right sides together and sew the curved leg and inseam sections according to the pattern markings. Finish the raw edges if needed to help prevent fraying.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Match the notches and curve markings carefully. If the pieces are misaligned, the leg openings may twist or become uneven."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Join the Pants",
+              "content": "Turn one leg section right side out and place it inside the other leg section so the right sides are facing each other. Align the center seams and sew around the remaining crotch seam to join the pants.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Pin the center seam intersections first, then work outward. This helps keep the crotch area smooth and evenly aligned."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Prepare the Waistband",
+              "content": "Prepare the waistband according to the pattern instructions by folding and pressing the waistband edge or attaching the separate waistband piece if included.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press the waistband carefully before stitching so the elastic channel or folded edge remains even around the waist."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Insert the Elastic",
+              "content": "Insert the elastic through the waistband channel or attach it according to the pattern construction method. Adjust the elastic so the waistband sits securely without being too tight.",
+              "tip": {
+                "type": "warning",
+                "text": "Check the elastic length before permanently closing the waistband. It should hold the pants in place while still allowing comfortable movement."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Hem the Leg Openings",
+              "content": "Fold the raw edge of each leg opening to the wrong side and press. Stitch the hems evenly around both leg openings.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep both leg hems the same depth. Uneven hems can cause the pants to sit differently on each leg."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Finish and Check the Fit",
+              "content": "Trim loose threads, press the finished pants, and try them on your dog. Check that the waistband sits comfortably and that the leg openings allow free movement.",
+              "tip": {
+                "type": "warning",
+                "text": "Always supervise your dog when trying on new clothing and adjust the fit if any part of the garment restricts movement or causes discomfort."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Sunny Pup Cap",
+          "level": "Beginner",
+          "time": "45 minutes",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+            },
+            {
+              "title": "Visor Support",
+              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+            },
+            {
+              "title": "Securing Strap",
+              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Choose and Prepare the Pattern",
+              "content": "Choose the size group that best matches your dog and prepare the head and visor pattern pieces. Cut both pattern pieces on the fold as indicated so each piece opens into its complete symmetrical shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Print the pattern at actual size or 100% scale and check the test square before cutting your fabric."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Cut the Fabric Pieces",
+              "content": "Cut two head pieces and two visor pieces from your chosen fabric. One set will form the outer layer and the other will create the lining.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep each pattern piece aligned with the fabric fold. Cutting away from the fold can create an incomplete or asymmetrical cap."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Sew the Outer Head",
+              "content": "Take the outer head piece and sew the center top seam to create the rounded shape of the cap.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Sew smoothly along the curved top seam to help the finished cap sit neatly around your dog's head."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Sew the Head Lining",
+              "content": "Repeat the same center top seam on the lining head piece.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Make sure the outer head and lining pieces are sewn in the same orientation so they align correctly when joined."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Join the Head Layers",
+              "content": "Place the outer head and lining right sides together. Sew around the outer edges, leaving the section where the head will attach to the visor open. Turn the head section right side out.",
+              "tip": {
+                "type": "warning",
+                "text": "Do not close the visor attachment edge. This opening is needed to join the visor and finish the lining neatly."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Prepare the Visor Support",
+              "content": "Cut a piece of waterproof cardboard, thin plastic, or another lightweight rigid material to fit inside the visor shape. Thick fabric can also be used instead of a separate insert.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the support slightly smaller than the finished visor edge so it does not interfere with the seam."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Sew the Visor",
+              "content": "Place the two visor pieces right sides together and sew around the outer curved edges, leaving the edge that will attach to the head open. Turn the visor right side out, inserting the chosen support between the layers if using one.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the attachment edge open and make sure the visor support lies flat without shifting toward the seam."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Attach the Visor",
+              "content": "With right sides facing together, sew the outer layer of the visor to the outer layer of the head section.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Match the center points of the visor and cap opening first, then work outward to keep the visor evenly positioned."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Finish the Inner Visor Edge",
+              "content": "Sew a ribbon along the loose edge of the inner visor layer. Then topstitch or hand sew the loose edge of the ribbon to the loose edge of the head lining to close and finish the join.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the ribbon smooth as you sew so the finished seam lies flat inside the cap."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Topstitch the Cap",
+              "content": "Optionally edge-stitch around the cap to flatten the seams and give the finished cap a cleaner shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use a consistent distance from the edge for a neat decorative finish."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Add the Elastic Strap",
+              "content": "Attach an elastic securing strap using a length that fits your dog's head comfortably. Adjust the strap placement and length to suit your dog's individual head shape.",
+              "tip": {
+                "type": "warning",
+                "text": "Do not make the elastic too tight. The cap should stay secure without creating pressure or restricting your dog's movement."
+              }
+            },
+            {
+              "number": 12,
+              "title": "Check the Fit",
+              "content": "Place the finished cap on your dog and check that the head section sits comfortably, the visor shades the eyes without blocking vision, and the elastic holds the cap securely in place.",
+              "tip": {
+                "type": "warning",
+                "text": "Always supervise your dog while wearing the cap and adjust or remove it if the fit causes discomfort or affects normal movement."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Witchy Pup Costume",
+          "level": "Beginner",
+          "time": "1 hour",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Fabric for the witch costume body, including the main cape or dress section. Choose a lightweight woven fabric that is comfortable for your dog and suitable for the desired Halloween look."
+            },
+            {
+              "title": "Hat Fabric",
+              "description": "Matching or contrasting fabric for the witch hat. The hat uses separate pattern pieces for the crown and brim and can be made in the same fabric as the costume or in a coordinating color."
+            },
+            {
+              "title": "Interfacing & Structure",
+              "description": "Fusible interfacing or another lightweight stabilizing material can be used to add structure to the witch hat, especially around the brim and crown."
+            },
+            {
+              "title": "Closures & Decoration",
+              "description": "Use elastic, ribbon, ties, or another suitable fastening method to keep the costume and hat comfortably in place. Optional decorative details can be added to personalize the finished witch costume."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The pattern is available in multiple sizes. Select the size that best matches your dog's measurements and print the pattern at the correct scale before cutting the fabric."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors, ruler or measuring tape, sewing clips or pins, fabric marker, iron and ironing board, sewing machine, and hand-sewing needle if needed for finishing details."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Selecting and preparing pattern pieces, cutting fabric, sewing curved and straight seams, constructing a shaped hat, attaching and finishing the brim, joining costume sections, hemming raw edges, attaching closures, topstitching, and adding decorative details."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Witchy%20Pup%20Costume.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Choose Your Pattern Size",
+              "content": "Select the pattern size that best matches your dog's measurements. Print the pattern at the correct scale and check the pattern markings before cutting any fabric.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Measure your dog while standing naturally and compare the measurements with the pattern guide before choosing a size."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Prepare the Pattern Pieces",
+              "content": "Cut out the required pattern pieces for the costume and witch hat. Follow the fold lines, grainlines, and cutting instructions marked on each pattern piece.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Do not cut through a fold line. Place the indicated pattern edge directly on the folded fabric when required."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Cut the Costume Fabric",
+              "content": "Press the fabric flat and arrange the costume pattern pieces according to their grainline markings. Pin or clip the pieces in place and cut the required sections.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Transfer important notches and placement marks before removing the pattern pieces from the fabric."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Sew the Main Costume",
+              "content": "Place the matching costume pieces right sides together and sew the required seams to form the main body of the costume.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Match notches and seam intersections before sewing to prevent the costume from becoming twisted or uneven."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Finish the Costume Edges",
+              "content": "Finish the remaining raw edges using the hemming or finishing method indicated by the pattern. Press the seams and hems to help the costume keep a neat shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press each seam after sewing rather than waiting until the end. This gives the finished costume a cleaner shape."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Add the Costume Closure",
+              "content": "Attach the selected closure, ties, elastic, or fastening detail so the costume can be secured comfortably around your dog.",
+              "tip": {
+                "type": "warning",
+                "text": "Check the fit before permanently securing the closure. The costume should stay in place without restricting breathing or movement."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Cut the Witch Hat Pieces",
+              "content": "Cut the required hat crown and brim pieces from your chosen fabric. If using interfacing or another stabilizer, cut the matching support pieces as needed.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Mark the center points of the brim and crown pieces to make them easier to align during assembly."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Construct the Hat Crown",
+              "content": "Fold the hat crown into shape with the right sides together and sew along the indicated seam to create the pointed crown.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Keep the pointed end aligned carefully while sewing so the finished hat has a clean, even tip."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Prepare the Hat Brim",
+              "content": "Sew and turn the brim pieces as required by the pattern. Add interfacing or another stabilizing layer if needed to help the brim maintain its shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep any stiff support slightly inside the seam allowance so it does not interfere with the final stitching."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Attach the Brim to the Crown",
+              "content": "Align the lower edge of the hat crown with the inner opening of the brim. Match the center markings, pin the pieces evenly, and sew them together.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Distribute the crown evenly around the brim before stitching to avoid puckers or uneven gathers."
+              }
+            },
+            {
+              "number": 11,
+              "title": "Finish the Witch Hat",
+              "content": "Turn and shape the hat as needed. Topstitch or finish the remaining edges to give the hat a neat appearance and help it hold its final shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use a blunt tool to gently shape the pointed crown without damaging the seam."
+              }
+            },
+            {
+              "number": 12,
+              "title": "Add the Hat Strap",
+              "content": "Attach elastic, ribbon, or another comfortable securing strap so the witch hat can stay in place on your dog's head.",
+              "tip": {
+                "type": "warning",
+                "text": "Make sure the strap is secure but not tight. The hat should be easy to remove and should not place pressure around the neck."
+              }
+            },
+            {
+              "number": 13,
+              "title": "Add Final Decorative Details",
+              "content": "Add any optional decorative details to complete the witch costume, then trim loose threads and press the finished fabric sections where appropriate.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep decorations lightweight and securely attached so they do not interfere with your dog's comfort or movement."
+              }
+            },
+            {
+              "number": 14,
+              "title": "Check the Final Fit",
+              "content": "Try the completed costume and hat on your dog and check the overall fit. Adjust the closures or securing straps if necessary so your dog can move comfortably.",
+              "tip": {
+                "type": "warning",
+                "text": "Always supervise your dog while wearing a costume and remove the outfit if it causes discomfort or restricts normal movement."
+              }
+            }
+          ],
+          "timelines": []
+        },
+        {
+          "name": "Reversible Pup Bandana",
+          "level": "Beginner",
+          "time": "30 minutes",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Two coordinating pieces of cotton fabric are used to create a fully reversible dog bandana. Choose quilting cotton or another lightweight woven fabric that is comfortable, easy to wash, and holds its shape well."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The bandana pattern is available in multiple sizes to fit different dogs. Select the size based on your dog's neck measurement and preferred bandana fit, then print and prepare the corresponding pattern piece before cutting."
+            },
+            {
+              "title": "Reversible Design",
+              "description": "The bandana uses two fabric layers, allowing either side to be worn as the outside. Choose contrasting colors, coordinating prints, or two different patterns to create two looks in one finished accessory."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors or a rotary cutter and cutting mat, ruler or measuring tape, sewing clips or pins, fabric marker or chalk, iron and ironing board, and a sewing machine."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting fabric from a pattern, sewing straight and curved seams, joining two fabric layers right sides together, leaving a turning opening, clipping seam allowances around curves, turning, pressing, closing an opening, and topstitching."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Reversible%20Pup%20Bandana.png",
+          "video": "",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Choose Your Bandana Size",
+              "content": "Select the bandana size that best suits your dog's neck measurement and the amount of coverage you want. Prepare the corresponding pattern piece before cutting the fabric.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Measure your dog's neck loosely and allow enough room for the finished bandana to sit comfortably without feeling tight."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Prepare the Two Fabrics",
+              "content": "Choose two coordinating cotton fabrics for the reversible design. Press both fabrics flat before cutting so the pattern pieces remain accurate and the finished bandana has a neat shape.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Using contrasting prints makes the reversible feature more noticeable and gives the bandana two distinct looks."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Cut the Bandana Pieces",
+              "content": "Place the pattern on each fabric as directed and cut one matching bandana piece from each fabric. Transfer any important markings before removing the pattern pieces.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Make sure both fabric pieces are cut in the same orientation so the finished layers match correctly when sewn together."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Layer the Fabric Pieces",
+              "content": "Place the two bandana pieces right sides together and carefully align all edges and corners. Secure the layers with sewing clips or pins.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Start by matching the corners and center points, then add clips along the edges to keep the layers from shifting."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Sew Around the Bandana",
+              "content": "Sew around the outside edge of the layered bandana, leaving a small opening for turning. Backstitch at the beginning and end of the opening.",
+              "tip": {
+                "type": "warning",
+                "text": "Do not sew the turning opening closed. Make the opening large enough to turn the bandana without stretching or distorting the seams."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Trim and Clip the Curves",
+              "content": "Trim excess seam allowance if needed and carefully clip into curved sections without cutting through the stitching.",
+              "tip": {
+                "type": "warning",
+                "text": "Stop just before the stitch line when clipping curves. Cutting into the seam can create holes or weaken the finished edge."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Turn the Bandana Right Side Out",
+              "content": "Turn the bandana right side out through the opening. Gently push out the corners and shape the edges so the bandana lies evenly.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use a blunt turning tool to shape the corners without piercing the fabric."
+              }
+            },
+            {
+              "number": 8,
+              "title": "Press the Edges",
+              "content": "Press the bandana flat, folding the raw edges of the turning opening inward so they align with the sewn seam.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "A careful press before topstitching helps keep both fabric layers flat and prevents the edge from rolling."
+              }
+            },
+            {
+              "number": 9,
+              "title": "Topstitch and Close the Opening",
+              "content": "Topstitch around the outer edge of the bandana, closing the turning opening at the same time. Keep the stitching at a consistent distance from the edge.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Check that the folded edges at the opening are fully caught in the topstitching before removing the bandana from the machine."
+              }
+            },
+            {
+              "number": 10,
+              "title": "Finish and Wear",
+              "content": "Trim any loose threads and give the finished bandana a final press. Turn it to either side depending on which fabric you want to display, then tie or secure it comfortably around your dog's neck.",
+              "tip": {
+                "type": "warning",
+                "text": "Make sure the bandana fits comfortably and always supervise your dog while wearing accessories."
+              }
+            }
+          ],
+          "timelines": []
+        }
+      ]
+    },
+    {
       "name": "For Kids",
       "items": [
         {
@@ -24465,1445 +25904,6 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Pet",
-      "items": [
-        {
-          "name": "Cat Nap Hammock",
-          "level": "Beginner",
-          "time": "30 minutes",
-          "finishedSize": "Approximately 18\" × 18\" (45 × 45 cm)",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "1/2 yard of sturdy cotton for the hammock base. Cut two 18\" × 18\" (45 × 45 cm) squares. Cotton, poplin, or duck fabric works well. For a reversible hammock, use two coordinating fat quarters. Lightweight cotton may need interfacing for additional support."
-            },
-            {
-              "title": "Strap Fabric",
-              "description": "1/4 yard of cotton fabric for the hanging straps. Cut two strips measuring approximately 40\" × 3\" (100 × 7.5 cm). Fold the strips to create narrow fabric straps that fit comfortably through the swivel hooks."
-            },
-            {
-              "title": "Hardware",
-              "description": "4 lobster clasp swivel hooks with approximately 1 1/4\" (3 cm) wide openings. Choose hooks that match the finished width of the fabric straps."
-            },
-            {
-              "title": "Tools Required",
-              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, and a sewing machine. A walking foot, hump jumper, or hand-sewing needle may be useful when working through the thick layers near the hooks."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Straight stitching, turning and pressing, topstitching, folding fabric straps, attaching straps around raw edges, matching center points, reinforcing high-stress areas, and securing swivel hooks through multiple layers of fabric."
-            },
-            {
-              "title": "Reinforcement",
-              "description": "The points where the straps meet the hammock base can be reinforced with a small stitched square and an X inside the square. Double stitching can provide additional strength at these high-stress areas."
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Cat%20Nap%20Hammock.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut the Fabric",
-              "content": "Cut two 18\" × 18\" (45 × 45 cm) squares for the hammock base. Cut two 40\" × 3\" (100 × 7.5 cm) strips for the hammock arms.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Choose sturdy cotton, poplin, or duck fabric for better support. You can use two different fabrics to make the hammock reversible."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Sew the Hammock Base",
-              "content": "Place the two base squares right sides together. Stitch along two opposite sides, leaving the remaining two sides open.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Only sew two opposite edges. The remaining raw edges will be enclosed inside the hammock arms."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn and Topstitch",
-              "content": "Turn the base right side out. Press the two sewn edges flat, then topstitch along both finished sides. Set the base aside.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the seams carefully before topstitching to keep the base flat and give the hammock a neat finish."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Fold the Hammock Arms",
-              "content": "Take each strap strip and fold it in half lengthwise, then press. Fold each long edge toward the center crease and press again to create a narrow, multi-layer strap.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that the finished strap width fits through the opening of your swivel hooks before attaching it to the hammock."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Mark the Center Points",
-              "content": "Fold each hammock arm in half and mark its midpoint. Fold the hammock base so the finished edges meet, then mark the midpoint of each remaining raw edge.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Matching the center marks helps keep both hammock arms evenly positioned."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Attach the First Hammock Arm",
-              "content": "Place one folded arm around one raw edge of the hammock base so the strap encloses the raw edge. Match the center points and secure the layers with pins or clips. Stitch continuously from one free arm end, across the hammock base, and out to the other free arm end.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check that the stitching catches the hidden side of the folded strap along the entire length."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Check the Arm Lengths",
-              "content": "Check that the two free sections of the attached arm are equal in length. Each side should extend approximately 11\" (28 cm) beyond the hammock base. Trim any excess if necessary.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep both extensions as even as possible so the hammock hangs level after the hooks are attached."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Second Arm",
-              "content": "Topstitch along the outer edge of the first attached arm. Repeat the same process to attach the second folded arm around the remaining raw edge of the hammock base, then topstitch its outer edge.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Compare the placement and length of both arms before completing the final topstitching."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Reinforce the Stress Points",
-              "content": "Optional: reinforce the areas where the hammock arms meet the base by stitching a small square through the layers and sewing an X inside it. Double stitch the reinforcement if extra strength is needed.",
-              "tip": {
-                "type": "warning",
-                "text": "These junctions carry the most stress when the hammock is in use, so make sure the reinforcement stitching is secure."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Attach the Swivel Hooks",
-              "content": "Slide each strap end through a swivel hook by approximately 1/2\" to 1\" (1.5–2.5 cm). Fold the raw edge underneath to hide it, then stitch securely back and forth. Repeat for all four ends.",
-              "tip": {
-                "type": "warning",
-                "text": "Sewing through the folded strap can be thick. Use a walking foot, hump jumper, or hand stitching if your sewing machine struggles with the layers."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Check the Hook Direction",
-              "content": "Before finishing the final attachments, make sure all four swivel hooks face the same direction and that each hook is securely attached to the strap.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check the direction of all four hooks before completing the final stitching. Correcting a reversed hook afterward requires unpicking thick reinforced seams."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Finish the Hammock",
-              "content": "Inspect all seams, reinforcement points, and hook attachments. Attach the four hooks to a suitable secure support and check that the hammock hangs evenly.",
-              "tip": {
-                "type": "warning",
-                "text": "Inspect the hooks, straps, and stitching regularly to ensure everything remains secure before allowing your cat to use the hammock."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Everyday Dog Collar",
-          "level": "Beginner",
-          "time": "45 minutes",
-          "finishedSize": "Custom fit based on your dog's neck measurement",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Tightly woven cotton fabric for covering the collar. Measure your dog's neck and add approximately 6\" to 10\" (15 to 25 cm) of extra length for seam allowances, hardware, and adjustment. Cut the fabric strip to four times the width of the webbing."
-            },
-            {
-              "title": "Webbing & Interfacing",
-              "description": "Polypropylene or nylon webbing forms the strong inner core of the collar. Use approximately 1\" (2.5 cm) wide webbing for larger dogs or 1/2\" (12 mm) webbing for smaller dogs. Medium-weight fusible interfacing is optional and can add support when making small or extra-small collars."
-            },
-            {
-              "title": "Collar Hardware",
-              "description": "One tri-slider, one contoured side-release buckle, and one D-ring sized to match the width of the collar. For dogs that spend time in water, choose corrosion-resistant hardware such as a stainless steel D-ring and durable plastic buckle and tri-slider."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching polyester thread, fabric scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, and a sewing machine."
-            },
-            {
-              "title": "Sizing Guide",
-              "description": "Measure around your dog's neck without pulling the tape too tight. A correctly fitted collar should allow approximately three fingers between the collar and the dog's neck. Common neck sizes are X-Small: 8\" to 9\" (20 to 23 cm), Small: 10\" to 13\" (25 to 33 cm), Medium: 14\" to 17\" (35.5 to 43 cm), and Large: 18\" to 24\" (45.75 to 61 cm)."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Measuring and cutting for a custom fit, applying optional fusible interfacing, folding and pressing fabric, enclosing webbing, edge stitching, threading collar hardware, box stitching, triple stitching, and reinforcing the D-ring area with a box-and-X stitch."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Everyday%20Dog%20Collar.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Measure Your Dog's Neck",
-              "content": "Measure the circumference of your dog's neck with a flexible measuring tape. Do not pull the tape too tight. Add approximately 6\" (15 cm) for a small collar or up to 10\" (25 cm) for a larger collar to allow for the hardware, construction, and future adjustment.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A properly fitted collar should allow you to comfortably slip about three fingers between the collar and your dog's neck."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Calculate and Cut the Fabric",
-              "content": "Choose the width of webbing for your dog's size. Use approximately 1\" (2.5 cm) wide webbing for a larger dog or 1/2\" (12 mm) for a smaller dog. Cut the fabric strip to the calculated collar length and four times the width of the webbing.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Do not cut the fabric to the exact neck measurement. The extra length is needed for the buckle, tri-slider, folded ends, and adjustability."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Add Optional Interfacing",
-              "content": "If you are making a small or extra-small collar and want additional structure, cut a strip of medium-weight fusible interfacing and fuse it to the wrong side of the fabric according to the manufacturer's instructions.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Interfacing is optional. Use it when a lightweight fabric needs extra body, but avoid adding unnecessary bulk to a collar for a very small dog."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Fold and Press the Fabric",
-              "content": "Fold both short ends inward by approximately 1/4\" and press. Fold the fabric strip in half lengthwise and lightly press to create a center crease. Open it, fold both long edges toward the center crease, press, then fold the strip in half lengthwise again and press.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Accurate pressing creates an even fabric channel so the webbing sits neatly inside the collar."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Insert the Webbing",
-              "content": "Open the final lengthwise fold and place the polypropylene or nylon webbing neatly inside the folded fabric. Make sure the webbing is centered and the fabric edges align evenly around it, then secure the layers with clips or pins.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the webbing flat and centered. Twisted or uneven webbing can make the finished collar uncomfortable and difficult to adjust."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Stitch Around the Collar",
-              "content": "Sew around the short and long edges approximately 1/8\" (3 mm) from the edge to enclose the webbing and close the fabric cover. At each corner, leave the needle in the fabric, lift the presser foot, turn the collar, then continue stitching. Backstitch at the beginning and end.",
-              "tip": {
-                "type": "warning",
-                "text": "Make sure the stitching catches all fabric layers around the webbing. Missed layers can leave an opening that weakens the collar."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Tri-Slider",
-              "content": "Place the outer side of the collar face-down. Thread one end through the last opening of the tri-slider, bring it up over the center bar, and pass it down through the remaining opening. Leave approximately 1\" (2.5 cm) extending beyond the slider.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Check the orientation of the tri-slider before sewing. The collar should lie flat without twisting when the adjustment section is assembled."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Secure the Tri-Slider",
-              "content": "Sew a box stitch as close to the tri-slider as possible. Stitch across near the slider, continue approximately 1\" toward the fabric edge, stitch down, then back across to form a secure box that prevents the slider from slipping off.",
-              "tip": {
-                "type": "warning",
-                "text": "This seam carries tension during adjustment, so reinforce it securely and keep the stitching close to the hardware."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Add the Pronged Buckle",
-              "content": "On the opposite end of the collar, thread the fabric through the pronged half of the contoured side-release buckle. Pass the fabric over and then under the buckle bar so the buckle can move smoothly.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Before continuing, check that the buckle is facing the correct direction and that its prongs will face outward when the collar is worn."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Thread the Collar Back Through the Slider",
-              "content": "Bring the collar around and thread the fabric back through the tri-slider that was secured earlier. Adjust the length as needed and check that the collar can slide smoothly for size adjustment.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Test the adjustment before attaching the remaining buckle half. It is much easier to correct the threading order before the final seams are sewn."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Add the D-Ring and Second Buckle Half",
-              "content": "Slide the D-ring onto the remaining free end without sewing it in place yet. Then thread on the second half of the side-release buckle, making sure its orientation matches the pronged half. Leave approximately 1.5\" (4 cm) of fabric extending beyond the buckle.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the D-ring is added before the final buckle half is secured. Otherwise, you may need to unpick the finished seam to insert it."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Secure the Buckle End",
-              "content": "Stitch a reinforced triple seam by sewing forward, backward, and forward again as close to the buckle as possible to secure the folded end.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the buckle away from the needle path and stitch only through the fabric and webbing layers."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Secure the D-Ring",
-              "content": "Slide the D-ring up between the buckle and the remaining fabric tab. Position it next to the reinforced buckle seam, then sew a box with an X through the center to secure the fabric tab and hold the D-ring firmly in place.",
-              "tip": {
-                "type": "warning",
-                "text": "The D-ring area receives the most pulling force from the leash, so reinforce the box-and-X stitching carefully and inspect it before use."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Adjust and Check the Fit",
-              "content": "Fasten the collar around your dog's neck and adjust the tri-slider until it fits comfortably. Confirm that the buckle closes securely, the collar lies flat, and the D-ring is positioned correctly for attaching a leash.",
-              "tip": {
-                "type": "warning",
-                "text": "Before regular use, check all reinforcement stitches and make sure you can still comfortably fit approximately three fingers between the collar and your dog's neck."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Upcycled Denim Dog Toy",
-          "level": "Beginner",
-          "time": "15 minutes",
-          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
-            },
-            {
-              "title": "Filling",
-              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Bone Template",
-              "content": "Download and prepare the dog bone template. The template is placed on a fold through the center so both sides of the bone are symmetrical. Cut the template to size and scale it up or down if you want to make the toy larger or smaller.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Choose the finished size based on your dog's size. A larger dog may need a larger template and a wider turning opening."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Denim",
-              "content": "Open the side seam of the jeans or prepare two pieces of heavy-weight fabric. Place the bone template on the fabric fold, pin it in place, and cut out two matching bone shapes.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Include denim pockets or existing seams if desired. These details can add visual interest and create a tougher toy."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Layer and Pin the Pieces",
-              "content": "Unfold both bone pieces and place them right sides together. Align the edges carefully, then pin or clip the layers in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the right sides are facing each other before sewing so the finished toy turns out with the correct side facing outward."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew Around the Bone",
-              "content": "Stitch around the edge of the bone using a 1/4\" (6 mm) seam allowance. Leave an opening of approximately 2\" (5 cm) near the center of the bone's shank for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not sew the opening closed. For a larger bone, adjust the opening size so there is enough space to turn the toy right side out."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Finish the Raw Edges",
-              "content": "Finish the seam allowance around the sewn edges with a serger or overlocker to help prevent fraying. If you do not have a serger, sew a zigzag stitch around the raw edges.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a stitch that secures the raw denim edges without trimming too close to the construction seam."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Turn and Shape the Toy",
-              "content": "Turn the bone right side out through the opening in the center. Use a knitting needle or turning tool to gently push out the curved edges and shape the ends of the bone. Press the toy flat.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Push out the curves gently to avoid poking through the seam, especially when using a pointed turning tool."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Stuff the Bone",
-              "content": "Fill the toy with poly-fill stuffing, pushing the filling firmly into both rounded ends and through the center. Adjust the firmness based on your dog's size and how vigorously they play. Add an optional squeaker while stuffing if desired.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Dogs that shake and toss toys may benefit from a firmer stuffing, while a softer fill can work well for gentler chewers."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Close the Opening",
-              "content": "Close the turning gap after stuffing. For a tightly stuffed toy, use doubled strong thread and a ladder stitch for a secure, less visible closure. For a more lightly stuffed toy, fold the raw edges inward and machine stitch across the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Make the closing stitches secure, as this opening can come under repeated stress during chewing, shaking, and fetching."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "The Everyday Dog Leash",
-          "level": "Beginner",
-          "time": "30 minutes",
-          "finishedSize": "Custom length; tutorial example finishes at approximately 4 ft (1.2 m)",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Tightly woven cotton fabric at least 4 ft × 4\" (1.5 m × 10 cm). For the 4 ft tutorial example, cut the fabric to approximately 57 1/2\" (1.5 m) long and 4\" (10 cm) wide, allowing extra length for the handle, bolt snap foldover, and seam allowances."
-            },
-            {
-              "title": "Leash Core",
-              "description": "1\" (2.5 cm) wide nylon or polypropylene webbing for a small to medium dog. The tutorial example uses a 57\" long piece to create a finished 4 ft leash. For a tiny dog, use narrower 1/2\" (12 mm) webbing."
-            },
-            {
-              "title": "Hardware",
-              "description": "1 bolt snap or quick-release catch for attaching the leash to the dog's collar. Choose durable hardware suitable for your dog's size and pulling strength. Stainless steel is recommended for frequent water exposure, while chromed or galvanized hardware can be used for dogs that are not regularly in water."
-            },
-            {
-              "title": "Optional Interfacing",
-              "description": "A 2\" wide strip of fusible interfacing can be applied down the center of the wrong side of the fabric strip for additional structure. Skip this step if extra support is not needed."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching polyester thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips, and a sewing machine."
-            },
-            {
-              "title": "Length Options",
-              "description": "A 4 ft (1.2 m) leash is useful for busy streets, crowded places, and close-control training. A 6 ft (1.8 m) leash is a common everyday length for regular walks. An 8 ft (2.4 m) leash gives the dog more room to explore while remaining under control."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Measuring and cutting, optional interfacing application, folding and pressing fabric, enclosing webbing, edge stitching, attaching hardware, creating a folded handle, box stitching, and reinforcing stress points with a box-and-X stitch."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/The%20Everyday%20Dog%20Leash.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut the Webbing",
-              "content": "For the 4 ft (1.2 m) leash shown in the tutorial, cut a 1\" (2.5 cm) wide piece of polypropylene or nylon webbing to 57\" long. For a tiny dog, use narrower 1/2\" (12 mm) webbing. Seal the freshly cut webbing ends carefully to help prevent fraying.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep any flame away from the fabric and only use it briefly on synthetic webbing edges to prevent melting or scorching."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Fabric Cover",
-              "content": "For the 4 ft leash example, cut a tightly woven cotton strip approximately 57 1/2\" long and 4\" wide. This includes extra length for the 8\" handle foldover, the foldover around the bolt snap, and seam allowances at both short ends.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "For a different finished leash length, adjust the fabric and webbing measurements while keeping enough extra length for both end folds."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Apply Optional Interfacing",
-              "content": "If you want additional structure, fuse a 2\" wide strip of interfacing down the center of the wrong side of the 4\" wide fabric strip according to the manufacturer's instructions.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the interfacing centered so the fabric folds evenly around the webbing."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Fold the Short Ends",
-              "content": "Fold each short end of the fabric inward by approximately 1/4\" (5 mm) and press.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Pressing these edges now creates a cleaner finish at both the bolt snap and handle ends."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Fold and Press the Fabric Strip",
-              "content": "Fold the fabric strip in half lengthwise and lightly press to create a center crease. Open it again, fold both long edges toward the center crease, and press. Fold the entire strip in half lengthwise once more, align the folded edges, and press.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure both long edges meet evenly at the center before the final fold so the webbing will be fully covered."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Insert the Webbing",
-              "content": "Open the final lengthwise fold and place the webbing neatly inside the prepared fabric channel. Align it evenly along the length, then secure the layers with sewing clips.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the webbing flat and untwisted before clipping. A twist inside the fabric cover cannot be corrected easily after stitching."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Stitch the Fabric Cover",
-              "content": "Sew around both short ends and along both long edges approximately 1/8\" (3 mm) from the edge, enclosing the webbing and closing the fabric cover. Leave the needle in the fabric when turning corners and backstitch at the beginning and end.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that every seam catches all fabric layers around the webbing. An unstitched section can weaken the finished leash."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Bolt Snap",
-              "content": "Place the leash with the wrong side facing up. Slide the bolt snap bar onto one end, fold approximately 1.5\" (4 cm) of the leash back toward the wrong side, and clip the folded section in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check the direction of the bolt snap before sewing so it faces correctly when attached to the collar."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Form the Handle",
-              "content": "At the opposite end, fold approximately 8\" (20 cm) of the leash back toward the same side as the bolt snap fold to create the hand loop. Align the edges neatly and secure the folded section with clips.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Try the handle around your hand before stitching to make sure the loop feels comfortable without being excessively large."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Reinforce the Bolt Snap",
-              "content": "Sew a line close to the bolt snap bar and continue stitching approximately 1\" toward the edge of the folded section. Stitch around the shape to form a reinforced box, then sew an X inside the box for additional strength. Backstitch securely at the beginning and end.",
-              "tip": {
-                "type": "warning",
-                "text": "The bolt snap connection receives regular pulling force, so make sure the box-and-X reinforcement is securely stitched through all layers."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Secure the Handle",
-              "content": "Sew a reinforced box with an X through the approximately 1\" end of the handle fold to secure the hand loop firmly to the leash.",
-              "tip": {
-                "type": "warning",
-                "text": "Test the handle stitching with firm pulling before using the leash to make sure the reinforced seam is secure."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Fairy Pup Dress",
-          "level": "Beginner",
-          "time": "1 hour",
-          "finishedSize": "Available in all size",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Stretch cotton or T-shirt fabric for the sleeveless bodice. Cut one front piece and one back piece on the fold as indicated by the pattern to create the full bodice pieces without a center seam."
-            },
-            {
-              "title": "Tulle Skirt",
-              "description": "Soft tulle for the tutu skirt. Use one color or combine several colors for a layered fairy effect. For a skirt length of 6\" (15 cm), cut each tulle strip approximately 13\" (32 cm) long, which includes the doubled skirt length and seam allowance."
-            },
-            {
-              "title": "Elastic & Binding",
-              "description": "Elastic for gathering the tulle skirt and matching stretch fabric strips for finishing the neckline and arm openings. A decorative ribbon can be added at the waist as an optional final detail."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The pattern includes separate front and back bodice pieces in XS, S, M, L, XL, and XXL. Cut each piece with the fabric folded in half as marked on the pattern. Seam allowance is included in the pattern."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors, ruler or measuring tape, pins or sewing clips, elastic threading tool or safety pin, iron, and a sewing machine. A zigzag stitch or overlocker is useful for finishing raw edges."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting pattern pieces on the fold, sewing shoulder and side seams, zigzag or overlock finishing, hemming or applying fabric binding, basting, topstitching, folding tulle strips, creating an elastic casing, gathering the tutu, attaching the skirt to the bodice, and finishing the waist."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Fairy%20Pup%20Dress.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose and Cut Your Pattern Size",
-              "content": "Choose the pattern size that best matches your dog's measurements. Cut the front and back bodice pieces with the fabric folded in half as indicated on the pattern so each piece opens into a full symmetrical shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print the pattern at 100% scale and check the test square before cutting your fabric to make sure the finished dress fits the intended size."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Sew the Bodice Seams",
-              "content": "Place the front and back bodice pieces right sides together. Sew the shoulder seams and side seams, then finish the raw seam edges with a zigzag stitch or overlocker to help prevent fraying.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check that the neckline and arm openings are aligned before sewing the shoulder seams so the bodice sits correctly on your dog."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Finish the Neckline and Armholes",
-              "content": "Finish the neckline and sleeve openings with a narrow hem, or apply folded strips of the same stretch fabric as binding. Baste the binding in place first, sew it securely, finish the raw edge if needed, then topstitch along the seam.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Avoid stretching the neckline or armholes while sewing. Let the fabric feed naturally to keep the openings comfortable and evenly shaped."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Cut the Tulle Strips",
-              "content": "Decide the desired finished skirt length. Cut the tulle strips to approximately twice that length, then add 1\" (2.5 cm) for seam allowance. For example, for a 6\" (15 cm) finished skirt, cut strips approximately 13\" (32 cm) long.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Mixing two or more soft or pastel tulle colors creates a fuller fairy-style tutu with more visual depth."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Prepare the Tulle Layers",
-              "content": "Take two tulle strips, either in the same color or different colors, and fold them in half together. Arrange the layers so the folded edge will form the top of the skirt.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Prepare several folded tulle pairs before sewing so the gathering process is easier and the colors stay evenly distributed."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Create the Elastic Casing",
-              "content": "Sew a straight seam approximately 1/2\" (1 cm) below the folded edge of each tulle pair to create a casing for the elastic.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the casing wide enough for the elastic to slide through smoothly without twisting or bunching."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Thread and Gather the Tulle",
-              "content": "Thread the elastic through the casing using a bodkin or a safety pin. Pull the elastic to gather the tulle, then repeat with additional tulle strips until the skirt covers the waistline while leaving the belly area open as shown in the tutorial.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Adjust the gathers gradually so the tulle is evenly distributed instead of forming a bulky cluster in one area."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Join the Skirt Elastic",
-              "content": "Once the tulle covers the required waist area, sew the ends of the elastic together to complete the gathered skirt section.",
-              "tip": {
-                "type": "warning",
-                "text": "Check the elastic length around the bodice before sewing the ends together. It should gather the tulle without pulling the finished dress too tightly."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Attach the Tutu to the Bodice",
-              "content": "Position the gathered tulle skirt along the lower edge of the bodice and sew the tulle line securely to the top. At the belly area, add a fabric strip to cover and hide the elastic.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Distribute the tulle gathers evenly before stitching so the skirt looks balanced from both the front and back."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish the Waist",
-              "content": "Fold the fabric strip over the elastic at the belly area and topstitch it in place to create a clean finish.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the waist finish smooth and flat so the elastic does not rub against your dog's belly."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Add an Optional Ribbon",
-              "content": "If desired, sew a decorative ribbon around the waist to add a final fairy-inspired detail.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Choose a lightweight ribbon and secure the ends well so it stays flat and does not interfere with the dog's movement."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Gentleman’s Tweed Coat",
-          "level": "Intermediate",
-          "time": "2 hours",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Outer Fabric",
-              "description": "Wool tweed is used for the outer coat, giving the garment warmth and a classic country style. Other wool fabrics can also be used. Choose a textured or patterned fabric that suits your dog's coloring."
-            },
-            {
-              "title": "Lining",
-              "description": "Synthetic Sherpa fleece is used to line the main body, collar, and belly straps. The fleece lining adds warmth and softness while avoiding the bulk and moisture retention associated with cotton fleece."
-            },
-            {
-              "title": "Pattern Pieces",
-              "description": "The coat includes one main body piece with integrated neck straps, two belly straps, one belt, and one collar. Cut the main body, belly straps, and collar from both outer fabric and lining. Cut the belt from outer fabric and medium-weight iron-on interfacing."
-            },
-            {
-              "title": "Sizing & Fit",
-              "description": "Measure your dog's back from approximately 1\" (2.5 cm) below the collar to approximately 2\" (5 cm) before the tail. Enlarge or reduce the pattern so the main body matches this back length, then scale all remaining pieces by the same percentage. Make a paper mock-up first to check the fit and adjust the positions and lengths of the belt and belly straps."
-            },
-            {
-              "title": "Closures & Trims",
-              "description": "Velcro is used to fasten the neck straps and belly straps. Two buttons are sewn onto the decorative belt. Double-fold bias tape is used to conceal and finish the raw edges of the collar, belly straps, and main coat body."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Tape measure, strong medium-weight paper for creating and testing the pattern, pencil, paper and fabric scissors, adhesive tape, pins, fine fabric marker, sewing machine, medium-weight iron-on interfacing, iron and ironing board, needle and thread."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Taking custom measurements, scaling and adjusting a pattern, creating a paper mock-up, cutting fabric and lining pieces, sewing Velcro, applying iron-on interfacing, zigzag stitching to prevent fraying, hemming, attaching a decorative belt and buttons, joining outer fabric to lining with wrong sides together, attaching straps and collar, and finishing raw edges with double-fold bias tape."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Gentleman%E2%80%99s%20Tweed%20Coat.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Measure Your Dog",
-              "content": "Measure your dog's back from approximately 1\" (2.5 cm) below the collar to approximately 2\" (5 cm) before the tail. Use this measurement as the finished length of the main coat body.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the measuring tape following the natural line of your dog's back without pulling it tight."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Scale the Pattern",
-              "content": "Enlarge the main body pattern by 400%, then enlarge it by another 110%. Adjust the pattern further if needed so the pattern block matches your dog's measured back length. Scale all remaining pattern pieces by the same percentage.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Do not resize only the main body. The collar, belly straps, and belt must be scaled proportionally to keep the coat balanced."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Make a Paper Mock-Up",
-              "content": "Cut the coat pieces from strong paper and tape them together. Place the paper mock-up on your dog to check the fit. Adjust the body shape, belt position, belly strap position, and strap lengths as needed.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "For dogs with a long back and narrow girth, adjust the neck area separately from the back length so the coat fits comfortably around both areas."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Cut the Coat Pieces",
-              "content": "Use the adjusted paper mock-up as your pattern. Cut one main body with integrated neck straps from the outer fabric and one from the lining. Cut two belly straps from both fabrics, one collar from both fabrics, and one belt from the outer fabric and iron-on interfacing. Add a 1/2\" (1 cm) seam allowance only to the belt piece.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "The main coat pieces do not need an additional seam allowance unless your adjusted paper pattern was created without one. Only the belt requires the specified 1/2\" allowance."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Shape the Belt",
-              "content": "Cut the belt from the outer fabric and create a matching interfacing piece. To make pointed ends, fold the paper belt template in half lengthwise and then crosswise, then cut the short ends diagonally before opening it out.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Make sure both belt points are symmetrical before using the paper shape to cut the fabric."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Mark the Velcro Placement",
-              "content": "Place the outer main body on your dog and check where the neck straps meet underneath the chin. Mark the required Velcro placement. Mark the matching positions for the belly strap closures.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Test the closure positions with the paper mock-up or fabric before sewing so the straps are secure without being restrictive."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Neck Velcro",
-              "content": "Cut the Velcro to the required length. Sew one piece onto the right side of the right-hand neck strap on the outer fabric. Sew the corresponding piece onto the right side of the lining neck strap in the matching position so the closures align after the layers are joined.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Remember that the outer coat and lining are later joined with their wrong sides facing, so the Velcro pieces need to be positioned on opposing straps to meet correctly."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Belly Strap Velcro",
-              "content": "Cut the Velcro to length and sew it centrally onto the right side of one outer-fabric belly strap and onto the right side of one lining belly strap. Leave the remaining matching pieces without Velcro so the closures will face each other after assembly.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Pair one Velcro outer piece with one plain lining piece, and one plain outer piece with one Velcro lining piece."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Prepare the Belt",
-              "content": "Sew a zigzag stitch around the outer-fabric belt to prevent fraying. Fuse the medium-weight interfacing to the belt following the manufacturer's instructions, then sew a small hem around the edges.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Trim and shape the pointed ends carefully before hemming so the finished belt lies flat and symmetrical."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Attach the Belt and Buttons",
-              "content": "Position the belt straight and centered across the back of the outer main body. Pin it in place and sew a neat line from point to point along the center of the belt. Sew two buttons onto the belt along this central stitching line, placing them at equal distances from each end.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use the paper mock-up markings to position the belt so it sits correctly relative to the dog's body."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Join the Outer Fabric and Lining",
-              "content": "For the main body, collar, and both belly straps, place each outer-fabric piece together with its matching lining piece with wrong sides facing. Pin around the edges and machine stitch the layers together.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "For the belly straps, check that each pair contains one piece with Velcro and one corresponding piece without Velcro."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Finish the Collar and Belly Straps",
-              "content": "Apply double-fold bias tape around the edge of the collar and along the long U-shaped edges of the belly straps. Stitch close to the edge of the bias tape, catching both sides securely.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Ease the bias tape gradually around curves to avoid puckering or stretching the collar shape."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Attach the Collar",
-              "content": "Place the collar centrally at the front of the outer coat with the fleece side facing up. Align the inner edge of the collar with the neck edge of the main body, pin it in place, and sew securely.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Double-check that the fleece side will face toward your dog's neck before stitching the collar permanently."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Attach the Belly Straps",
-              "content": "Turn the coat so the fleece lining faces up. Position the two belly straps opposite each other with their lining sides facing down and folded inward so the Velcro sections meet. Align their raw edges with the sides of the main body, pin, and sew securely.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that both belly straps are positioned at the same height and can overlap comfortably before sewing them to the body."
-              }
-            },
-            {
-              "number": 15,
-              "title": "Finish the Coat Edges",
-              "content": "Apply double-fold bias tape around all remaining raw edges of the main coat body. Stitch as close as possible to the edge of the bias tape while catching both sides in the seam.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Work slowly around curves and corners to keep the bias tape smooth and give the coat a clean, tailored finish."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Little Pup Jeans",
-          "level": "Intermediate",
-          "time": "1 hour",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Medium-weight woven fabric suitable for dog pants, such as denim, cotton twill, or another durable woven fabric. Choose a fabric that is comfortable for your dog while providing enough structure to hold the shape of the pants."
-            },
-            {
-              "title": "Waistband & Closure",
-              "description": "Elastic or an adjustable waistband is used to help the pants fit comfortably around the waist. Choose a closure method that keeps the pants secure without restricting your dog's movement."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The pattern includes multiple sizes. Select the size that best matches your dog's measurements and print the pattern at the correct scale before cutting. Check the pattern markings carefully and transfer any placement marks before sewing."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors or a rotary cutter, cutting mat, ruler or measuring tape, sewing clips or pins, fabric marker or chalk, iron and ironing board, and a sewing machine."
-            },
-            {
-              "title": "Construction Techniques",
-              "description": "Cutting woven fabric from a pattern, transferring pattern markings, sewing curved seams, joining inseams, constructing a waistband, inserting or attaching elastic, hemming the leg openings, and finishing seams for durability."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Little%20Pup%20Jeans.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose Your Size",
-              "content": "Select the pattern size that best matches your dog's measurements. Print the pattern at the correct scale and check the measurement guide before cutting the pattern pieces.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Measure your dog while standing naturally. If your dog falls between sizes, compare the waist and leg measurements before deciding which size will provide the most comfortable fit."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare and Cut the Fabric",
-              "content": "Prepare your fabric by pressing it flat. Lay out the pattern pieces according to the grainline markings, secure them with pins or pattern weights, and cut the required fabric pieces.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the grainline aligned before cutting. Incorrect grain placement can affect how the finished pants fit and move."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Transfer Pattern Markings",
-              "content": "Transfer any important pattern markings, notches, fold lines, waistband placement marks, and matching points onto the wrong side of the fabric.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use removable tailor's chalk or a washable fabric marker so the markings do not remain visible on the finished pants."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Leg Seams",
-              "content": "Place the matching fabric pieces right sides together and sew the curved leg and inseam sections according to the pattern markings. Finish the raw edges if needed to help prevent fraying.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Match the notches and curve markings carefully. If the pieces are misaligned, the leg openings may twist or become uneven."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Join the Pants",
-              "content": "Turn one leg section right side out and place it inside the other leg section so the right sides are facing each other. Align the center seams and sew around the remaining crotch seam to join the pants.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Pin the center seam intersections first, then work outward. This helps keep the crotch area smooth and evenly aligned."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Prepare the Waistband",
-              "content": "Prepare the waistband according to the pattern instructions by folding and pressing the waistband edge or attaching the separate waistband piece if included.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the waistband carefully before stitching so the elastic channel or folded edge remains even around the waist."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Insert the Elastic",
-              "content": "Insert the elastic through the waistband channel or attach it according to the pattern construction method. Adjust the elastic so the waistband sits securely without being too tight.",
-              "tip": {
-                "type": "warning",
-                "text": "Check the elastic length before permanently closing the waistband. It should hold the pants in place while still allowing comfortable movement."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Hem the Leg Openings",
-              "content": "Fold the raw edge of each leg opening to the wrong side and press. Stitch the hems evenly around both leg openings.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep both leg hems the same depth. Uneven hems can cause the pants to sit differently on each leg."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish and Check the Fit",
-              "content": "Trim loose threads, press the finished pants, and try them on your dog. Check that the waistband sits comfortably and that the leg openings allow free movement.",
-              "tip": {
-                "type": "warning",
-                "text": "Always supervise your dog when trying on new clothing and adjust the fit if any part of the garment restricts movement or causes discomfort."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Sunny Pup Cap",
-          "level": "Beginner",
-          "time": "45 minutes",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
-            },
-            {
-              "title": "Visor Support",
-              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
-            },
-            {
-              "title": "Securing Strap",
-              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose and Prepare the Pattern",
-              "content": "Choose the size group that best matches your dog and prepare the head and visor pattern pieces. Cut both pattern pieces on the fold as indicated so each piece opens into its complete symmetrical shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print the pattern at actual size or 100% scale and check the test square before cutting your fabric."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Fabric Pieces",
-              "content": "Cut two head pieces and two visor pieces from your chosen fabric. One set will form the outer layer and the other will create the lining.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep each pattern piece aligned with the fabric fold. Cutting away from the fold can create an incomplete or asymmetrical cap."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Outer Head",
-              "content": "Take the outer head piece and sew the center top seam to create the rounded shape of the cap.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Sew smoothly along the curved top seam to help the finished cap sit neatly around your dog's head."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Head Lining",
-              "content": "Repeat the same center top seam on the lining head piece.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the outer head and lining pieces are sewn in the same orientation so they align correctly when joined."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Join the Head Layers",
-              "content": "Place the outer head and lining right sides together. Sew around the outer edges, leaving the section where the head will attach to the visor open. Turn the head section right side out.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not close the visor attachment edge. This opening is needed to join the visor and finish the lining neatly."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Prepare the Visor Support",
-              "content": "Cut a piece of waterproof cardboard, thin plastic, or another lightweight rigid material to fit inside the visor shape. Thick fabric can also be used instead of a separate insert.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the support slightly smaller than the finished visor edge so it does not interfere with the seam."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew the Visor",
-              "content": "Place the two visor pieces right sides together and sew around the outer curved edges, leaving the edge that will attach to the head open. Turn the visor right side out, inserting the chosen support between the layers if using one.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the attachment edge open and make sure the visor support lies flat without shifting toward the seam."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Visor",
-              "content": "With right sides facing together, sew the outer layer of the visor to the outer layer of the head section.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Match the center points of the visor and cap opening first, then work outward to keep the visor evenly positioned."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish the Inner Visor Edge",
-              "content": "Sew a ribbon along the loose edge of the inner visor layer. Then topstitch or hand sew the loose edge of the ribbon to the loose edge of the head lining to close and finish the join.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the ribbon smooth as you sew so the finished seam lies flat inside the cap."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Topstitch the Cap",
-              "content": "Optionally edge-stitch around the cap to flatten the seams and give the finished cap a cleaner shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a consistent distance from the edge for a neat decorative finish."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Add the Elastic Strap",
-              "content": "Attach an elastic securing strap using a length that fits your dog's head comfortably. Adjust the strap placement and length to suit your dog's individual head shape.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not make the elastic too tight. The cap should stay secure without creating pressure or restricting your dog's movement."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Check the Fit",
-              "content": "Place the finished cap on your dog and check that the head section sits comfortably, the visor shades the eyes without blocking vision, and the elastic holds the cap securely in place.",
-              "tip": {
-                "type": "warning",
-                "text": "Always supervise your dog while wearing the cap and adjust or remove it if the fit causes discomfort or affects normal movement."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Witchy Pup Costume",
-          "level": "Beginner",
-          "time": "1 hour",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Fabric for the witch costume body, including the main cape or dress section. Choose a lightweight woven fabric that is comfortable for your dog and suitable for the desired Halloween look."
-            },
-            {
-              "title": "Hat Fabric",
-              "description": "Matching or contrasting fabric for the witch hat. The hat uses separate pattern pieces for the crown and brim and can be made in the same fabric as the costume or in a coordinating color."
-            },
-            {
-              "title": "Interfacing & Structure",
-              "description": "Fusible interfacing or another lightweight stabilizing material can be used to add structure to the witch hat, especially around the brim and crown."
-            },
-            {
-              "title": "Closures & Decoration",
-              "description": "Use elastic, ribbon, ties, or another suitable fastening method to keep the costume and hat comfortably in place. Optional decorative details can be added to personalize the finished witch costume."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The pattern is available in multiple sizes. Select the size that best matches your dog's measurements and print the pattern at the correct scale before cutting the fabric."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors, ruler or measuring tape, sewing clips or pins, fabric marker, iron and ironing board, sewing machine, and hand-sewing needle if needed for finishing details."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Selecting and preparing pattern pieces, cutting fabric, sewing curved and straight seams, constructing a shaped hat, attaching and finishing the brim, joining costume sections, hemming raw edges, attaching closures, topstitching, and adding decorative details."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Witchy%20Pup%20Costume.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose Your Pattern Size",
-              "content": "Select the pattern size that best matches your dog's measurements. Print the pattern at the correct scale and check the pattern markings before cutting any fabric.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Measure your dog while standing naturally and compare the measurements with the pattern guide before choosing a size."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Pattern Pieces",
-              "content": "Cut out the required pattern pieces for the costume and witch hat. Follow the fold lines, grainlines, and cutting instructions marked on each pattern piece.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Do not cut through a fold line. Place the indicated pattern edge directly on the folded fabric when required."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Cut the Costume Fabric",
-              "content": "Press the fabric flat and arrange the costume pattern pieces according to their grainline markings. Pin or clip the pieces in place and cut the required sections.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Transfer important notches and placement marks before removing the pattern pieces from the fabric."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Main Costume",
-              "content": "Place the matching costume pieces right sides together and sew the required seams to form the main body of the costume.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Match notches and seam intersections before sewing to prevent the costume from becoming twisted or uneven."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Finish the Costume Edges",
-              "content": "Finish the remaining raw edges using the hemming or finishing method indicated by the pattern. Press the seams and hems to help the costume keep a neat shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press each seam after sewing rather than waiting until the end. This gives the finished costume a cleaner shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Add the Costume Closure",
-              "content": "Attach the selected closure, ties, elastic, or fastening detail so the costume can be secured comfortably around your dog.",
-              "tip": {
-                "type": "warning",
-                "text": "Check the fit before permanently securing the closure. The costume should stay in place without restricting breathing or movement."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Cut the Witch Hat Pieces",
-              "content": "Cut the required hat crown and brim pieces from your chosen fabric. If using interfacing or another stabilizer, cut the matching support pieces as needed.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Mark the center points of the brim and crown pieces to make them easier to align during assembly."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Construct the Hat Crown",
-              "content": "Fold the hat crown into shape with the right sides together and sew along the indicated seam to create the pointed crown.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the pointed end aligned carefully while sewing so the finished hat has a clean, even tip."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Prepare the Hat Brim",
-              "content": "Sew and turn the brim pieces as required by the pattern. Add interfacing or another stabilizing layer if needed to help the brim maintain its shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep any stiff support slightly inside the seam allowance so it does not interfere with the final stitching."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Attach the Brim to the Crown",
-              "content": "Align the lower edge of the hat crown with the inner opening of the brim. Match the center markings, pin the pieces evenly, and sew them together.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Distribute the crown evenly around the brim before stitching to avoid puckers or uneven gathers."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Finish the Witch Hat",
-              "content": "Turn and shape the hat as needed. Topstitch or finish the remaining edges to give the hat a neat appearance and help it hold its final shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a blunt tool to gently shape the pointed crown without damaging the seam."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Add the Hat Strap",
-              "content": "Attach elastic, ribbon, or another comfortable securing strap so the witch hat can stay in place on your dog's head.",
-              "tip": {
-                "type": "warning",
-                "text": "Make sure the strap is secure but not tight. The hat should be easy to remove and should not place pressure around the neck."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Add Final Decorative Details",
-              "content": "Add any optional decorative details to complete the witch costume, then trim loose threads and press the finished fabric sections where appropriate.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep decorations lightweight and securely attached so they do not interfere with your dog's comfort or movement."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Check the Final Fit",
-              "content": "Try the completed costume and hat on your dog and check the overall fit. Adjust the closures or securing straps if necessary so your dog can move comfortably.",
-              "tip": {
-                "type": "warning",
-                "text": "Always supervise your dog while wearing a costume and remove the outfit if it causes discomfort or restricts normal movement."
-              }
-            }
-          ],
-          "timelines": []
-        },
-        {
-          "name": "Reversible Pup Bandana",
-          "level": "Beginner",
-          "time": "30 minutes",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Two coordinating pieces of cotton fabric are used to create a fully reversible dog bandana. Choose quilting cotton or another lightweight woven fabric that is comfortable, easy to wash, and holds its shape well."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The bandana pattern is available in multiple sizes to fit different dogs. Select the size based on your dog's neck measurement and preferred bandana fit, then print and prepare the corresponding pattern piece before cutting."
-            },
-            {
-              "title": "Reversible Design",
-              "description": "The bandana uses two fabric layers, allowing either side to be worn as the outside. Choose contrasting colors, coordinating prints, or two different patterns to create two looks in one finished accessory."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors or a rotary cutter and cutting mat, ruler or measuring tape, sewing clips or pins, fabric marker or chalk, iron and ironing board, and a sewing machine."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting fabric from a pattern, sewing straight and curved seams, joining two fabric layers right sides together, leaving a turning opening, clipping seam allowances around curves, turning, pressing, closing an opening, and topstitching."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Reversible%20Pup%20Bandana.png",
-          "video": "",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose Your Bandana Size",
-              "content": "Select the bandana size that best suits your dog's neck measurement and the amount of coverage you want. Prepare the corresponding pattern piece before cutting the fabric.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Measure your dog's neck loosely and allow enough room for the finished bandana to sit comfortably without feeling tight."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Two Fabrics",
-              "content": "Choose two coordinating cotton fabrics for the reversible design. Press both fabrics flat before cutting so the pattern pieces remain accurate and the finished bandana has a neat shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Using contrasting prints makes the reversible feature more noticeable and gives the bandana two distinct looks."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Cut the Bandana Pieces",
-              "content": "Place the pattern on each fabric as directed and cut one matching bandana piece from each fabric. Transfer any important markings before removing the pattern pieces.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure both fabric pieces are cut in the same orientation so the finished layers match correctly when sewn together."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Layer the Fabric Pieces",
-              "content": "Place the two bandana pieces right sides together and carefully align all edges and corners. Secure the layers with sewing clips or pins.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Start by matching the corners and center points, then add clips along the edges to keep the layers from shifting."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Sew Around the Bandana",
-              "content": "Sew around the outside edge of the layered bandana, leaving a small opening for turning. Backstitch at the beginning and end of the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not sew the turning opening closed. Make the opening large enough to turn the bandana without stretching or distorting the seams."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Trim and Clip the Curves",
-              "content": "Trim excess seam allowance if needed and carefully clip into curved sections without cutting through the stitching.",
-              "tip": {
-                "type": "warning",
-                "text": "Stop just before the stitch line when clipping curves. Cutting into the seam can create holes or weaken the finished edge."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Turn the Bandana Right Side Out",
-              "content": "Turn the bandana right side out through the opening. Gently push out the corners and shape the edges so the bandana lies evenly.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a blunt turning tool to shape the corners without piercing the fabric."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Press the Edges",
-              "content": "Press the bandana flat, folding the raw edges of the turning opening inward so they align with the sewn seam.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A careful press before topstitching helps keep both fabric layers flat and prevents the edge from rolling."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Topstitch and Close the Opening",
-              "content": "Topstitch around the outer edge of the bandana, closing the turning opening at the same time. Keep the stitching at a consistent distance from the edge.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check that the folded edges at the opening are fully caught in the topstitching before removing the bandana from the machine."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish and Wear",
-              "content": "Trim any loose threads and give the finished bandana a final press. Turn it to either side depending on which fabric you want to display, then tie or secure it comfortably around your dog's neck.",
-              "tip": {
-                "type": "warning",
-                "text": "Make sure the bandana fits comfortably and always supervise your dog while wearing accessories."
-              }
-            }
-          ],
-          "timelines": []
         }
       ]
     },
