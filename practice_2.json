@@ -2307,6 +2307,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Rectangular%20Baking%20Dish%20Cover.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Rectangular%20Baking%20Dish%20Cover/master.m3u8",
+                 "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rectangular%20Baking%20Dish%20Cover/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rectangular%20Baking%20Dish%20Cover/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -3754,6 +3756,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Heart%20Keychain%20Zipper%20Pouch.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Keychain%20Zipper%20Pouch/master.m3u8",
+                   "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Keychain%20Zipper%20Pouch/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Keychain%20Zipper%20Pouch/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -4793,6 +4797,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Tie-Strap%20Camisole%20Top.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Tie-Strap%20Camisole%20Top/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Tie-Strap%20Camisole%20Top/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Tie-Strap%20Camisole%20Top/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -5681,6 +5687,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Winter%20Scarf.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Winter%20Scarf/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Winter%20Scarf/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Winter%20Scarf/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -5796,6 +5804,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Wildflower%20Butterfly%20Mitt.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/30.%20Fabric%20Butterfly%20Coaster/master.m3u8",
+                  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Wildflower%20Butterfly%20Mitt/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Wildflower%20Butterfly%20Mitt/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -5972,6 +5982,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Lip%20Balm%20Holder.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Lipstick%20Keychain%20Holder/master.m3u8",
+                   "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Lip%20Balm%20Holder/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Lip%20Balm%20Holder/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -6104,6 +6116,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Patchwork%20Pencil%20Organizer.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/16.%20Pencil%20Roll/master.m3u8",
+              "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Patchwork%20Pencil%20Organizer/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Patchwork%20Pencil%20Organizer/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -9090,6 +9104,36 @@
                 "text": "Keep the topstitching an even distance from the brim edge and sew slowly over the seam intersections to maintain a smooth, professional finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew the crown",
+              "time": "00:49:00"
+            },
+            {
+              "title": "Step 3: Sew the brim",
+              "time": "02:14:00"
+            },
+            {
+              "title": "Step 4: Sew crown & brim together",
+              "time": "03:08:00"
+            },
+            {
+              "title": "Step 5: Sew the lining",
+              "time": "03:49:00"
+            },
+            {
+              "title": "Step 6: Sew lining to main hat",
+              "time": "03:59:00"
+            },
+            {
+              "title": "Step 7: Topstitch",
+              "time": "04:48:00"
+            }
           ]
         },
         {
@@ -9160,6 +9204,36 @@
                 "type": "common_mistake",
                 "text": "Do not pull the fabric while stitching the hem. Stretching lightweight woven fabric can create a wavy or uneven finished edge."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the pleats",
+              "time": "00:23:00"
+            },
+            {
+              "title": "Step 3: Sew shoulder & side seams",
+              "time": "01:31:00"
+            },
+            {
+              "title": "Step 4: Serge the raw edges",
+              "time": "02:57:00"
+            },
+            {
+              "title": "Step 5: Sew the collar",
+              "time": "03:45:00"
+            },
+            {
+              "title": "Step 6: Sew the sleeve hems",
+              "time": "05:00:00"
+            },
+            {
+              "title": "Step 7: Sew the bottom hem",
+              "time": "05:51:00"
             }
           ]
         },
@@ -9238,133 +9312,129 @@
           "name": "Classic Wool Panel A-Line Skirt",
           "level": "Beginner",
           "time": "1 hour",
-          "finishedSize": "UK Sizes 8-20",
+          "finishedSize": "UK Sizes 8–20",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "39.4 inches wool felt fabric (55 inches wide)"
+              "description": "Wool felt fabric"
             },
             {
               "title": "Materials Needed",
-              "description": "39.4 inches wool felt fabric (55 inches wide)\n39.4 inches lining fabric\n9.1 inches concealed zipper\nMatching sewing thread\nDressmaking pins or clips\nFabric marker or tailor's chalk\nIron and pressing cloth"
+              "description": "39.4\" wool felt fabric (55\" wide)\n9.1\" concealed zipper\nMatching sewing thread\nDressmaking pins or clips\nFabric marker or tailor's chalk\nIron and pressing cloth"
             },
             {
               "title": "Techniques Required",
-              "description": "Dressmaking, Panel Skirt Construction, Concealed Zipper Insertion, Lining Construction, Understitching, Hand Stitching, Seam Finishing, Edge Stitching, Hemming, Pressing"
+              "description": "Pattern Cutting, Panel Skirt Construction, Overlocking, Dart Sewing, Waist Facing Construction, Understitching, Side Seam Construction, Concealed Zipper Insertion, Hemming, Pressing"
             }
           ],
           "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Skirts/Classic%20Wool%20Panel%20A-Line%20Skirt.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Skirts/Classic%20Wool%20Panel%20A-Line%20Skirt.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Classic%20Wool%20Panel%20A-Line%20Skirt/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Cut the Pattern Pieces",
-              "content": "Download and print the pattern. Cut all skirt panel pieces and lining sections according to the cutting guide. Transfer all notches and markings.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Trace the front and back pattern pieces onto the main fabric. Add a 0.4\" seam allowance, then cut to obtain 3 front panel pieces and 2 back panel pieces. Transfer the dart markings onto the back panels. Cut 3 additional pieces for the waist facing.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Accurately transfer panel matching notches to ensure the seams align correctly."
+                "text": "Transfer all dart lines, panel matching points, and zipper placement markings before removing the pattern pieces from the fabric."
               }
             },
             {
               "number": 2,
-              "title": "Assemble the Front Panels",
-              "content": "Place the front panel sections right sides together and stitch along the long panel seams. Press the seam allowances open and repeat for the remaining front panels.",
+              "title": "Finish the Raw Edges",
+              "content": "Overlock all raw fabric edges to prevent fraying and create a clean finish.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Press each seam as you sew to help the panels lie smoothly."
+                "text": "Test the overlock settings on a fabric scrap first, especially when working with thicker wool fabric, to avoid stretching or compressing the edges."
               }
             },
             {
               "number": 3,
-              "title": "Assemble the Back Panels",
-              "content": "Join the back panel sections in the same way, leaving the zipper opening unstitched in the designated seam.",
+              "title": "Assemble the Front Panels",
+              "content": "Join the front panel pieces together with right sides facing. Align the corresponding edges and sew along the marked stitching lines.",
               "tip": {
-                "type": "warning",
-                "text": "Leave the zipper opening exactly as marked on the pattern to avoid fitting issues later."
+                "type": "common_mistake",
+                "text": "Make sure the upper and lower edges of the panels are aligned before sewing so the waistline and hem remain even."
               }
             },
             {
               "number": 4,
-              "title": "Join the Side Seams",
-              "content": "Place the front and back skirt sections right sides together and sew the side seams. Press the seam allowances open.",
+              "title": "Sew the Back Darts",
+              "content": "Fold each back dart with right sides together, matching the two dart lines. Sew along the marked dart line from the wider end toward the dart point on the wrong side of the fabric.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Match panel seam intersections carefully for a professional finish."
+                "text": "As you approach the dart point, gradually sew closer to the folded edge and secure the thread without creating a bulky backstitch at the tip."
               }
             },
             {
               "number": 5,
-              "title": "Insert the Concealed Zipper",
-              "content": "Press the zipper seam allowances open and install the concealed zipper into the designated back opening. Stitch each side securely and test the zipper operation.",
+              "title": "Attach the Waist Facing",
+              "content": "Place the waist facing and the main skirt right sides together. Align the waist edges and sew along the marked stitching line. Open the facing away from the skirt and press the seam allowance toward the facing. Understitch close to the seam on the right side of the facing.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Check that the waistband and panel seams align across the zipper before sewing permanently."
+                "type": "pro_tip",
+                "text": "Keep the seam allowance pressed toward the facing while understitching so the facing rolls neatly to the inside and does not show above the waistline."
               }
             },
             {
               "number": 6,
-              "title": "Construct the Lining",
-              "content": "Assemble the lining pieces in the same order as the outer skirt, leaving the zipper opening unstitched. Finish the lower edge of the lining if required.",
+              "title": "Sew the Side Seams",
+              "content": "Place the skirt pieces right sides together and sew both side seams. Carefully align the waist seam at each side before stitching.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Use a slightly shorter stitch length on lightweight lining fabrics for stronger seams."
+                "type": "common_mistake",
+                "text": "Pin directly at the waist seam intersection before sewing, as even a small mismatch can make the finished waistline look uneven."
               }
             },
             {
               "number": 7,
-              "title": "Attach the Lining",
-              "content": "With the skirt right side out and the lining wrong side out, place the lining over the skirt. Match all panel seams and stitch around the waistline.",
+              "title": "Insert the Concealed Zipper",
+              "content": "Mark the zipper placement on the back opening. Using a concealed zipper foot, place one side of the zipper right side down against the right side of one back edge. Sew close to the zipper teeth, then repeat on the opposite side of the zipper.",
               "tip": {
                 "type": "warning",
-                "text": "Ensure the lining is not twisted before stitching the waist seam."
+                "text": "Check that the waist edges align perfectly when the zipper is closed before permanently stitching the second side."
               }
             },
             {
               "number": 8,
-              "title": "Understitch the Waistline",
-              "content": "Press the waist seam allowances toward the lining and understitch close to the seam line to keep the lining from rolling outward.",
+              "title": "Finish the Facing at the Zipper",
+              "content": "Fold the waist facing over the zipper with right sides together. Stitch close to the edge to secure the facing and skirt at the zipper area, then turn the facing right side out and shape the corner neatly.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Understitching greatly improves the appearance and durability of lined garments."
+                "text": "Trim excess seam allowance at the top corner before turning, taking care not to cut the stitching, for a sharper and less bulky finish."
               }
             },
             {
               "number": 9,
-              "title": "Secure the Zipper Area",
-              "content": "Fold the lining seam allowances around the zipper and hand stitch neatly along both sides of the zipper opening.",
+              "title": "Close the Back Seam Below the Zipper",
+              "content": "Close the zipper and move the zipper tape gently to one side. With right sides together, sew the centre back seam from just below the end of the zipper down to the hem.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Keep hand stitches small and hidden to maintain a clean interior finish."
+                "text": "Begin the back seam as close as possible to the end of the zipper stitching to avoid leaving a small opening or bump below the zipper."
               }
             },
             {
               "number": 10,
-              "title": "Finish the Lining Hem",
-              "content": "Turn and stitch the lining hem allowance according to the pattern instructions. Press carefully.",
+              "title": "Hem the Skirt",
+              "content": "Fold the raw hem edge toward the wrong side twice, enclosing the raw edge. Press the folded hem, then stitch evenly around the skirt to secure it and complete the garment.",
               "tip": {
                 "type": "pro_tip",
-                "text": "A shorter lining hem helps prevent it from showing beneath the skirt."
+                "text": "Press both folds before stitching to keep the hem width consistent and help the A-line skirt hang smoothly."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
             },
             {
-              "number": 11,
-              "title": "Secure the Waistline Seams",
-              "content": "At each panel seam along the waistline, hand stitch the lining seam allowances to the skirt seam allowances to keep the lining positioned correctly.",
-              "tip": {
-                "type": "warning",
-                "text": "Avoid stitching through to the outer garment where the stitches may become visible."
-              }
+              "title": "Step 2: Sew the front pieces",
+              "time": "01:05:00"
             },
             {
-              "number": 12,
-              "title": "Final Press and Finish",
-              "content": "Give the entire skirt a final press, ensuring all panel seams, zipper edges, and lining sections lie smoothly.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use plenty of steam when pressing wool felt to create crisp panel shaping."
-              }
+              "title": "Step 3: Sew the pieces together",
+              "time": "03:40:00"
             }
           ]
         },
@@ -9667,115 +9737,128 @@
           "name": "Gingerbread Buddy",
           "level": "Beginner",
           "time": "0.5 hours",
-          "finishedSize": "Approx. 18cm tall",
+          "finishedSize": "Approx. 7.09\" tall",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Fabric, brown plush"
+              "description": "Brown plush fabric"
             },
             {
               "title": "Materials Needed",
-              "description": "Fabric, brown plush.\nFelt, red.\nRicrac trim, white.\nPom poms, white, two.\nToy eyes, 10mm, two.\nToy filling.\nEmbroidery thread, black.\n5mm seam allowance used throughout unless otherwise stated."
+              "description": "Brown plush fabric\nRed felt\nWhite ricrac trim\nWhite pom poms (2)\nToy stuffing\nFabric marker\nMatching sewing thread\nHand-sewing needle\nPins\nScissors"
             },
             {
               "title": "Techniques Required",
-              "description": "Soft Toy Sewing, Hand Sewing, Appliqué, Embroidery"
+              "description": "Pattern Cutting, Soft Toy Construction, Sewing Ricrac Trim, Appliqué, Turning, Stuffing, Hand Sewing, Overcast Stitch, Attaching Pom Poms"
             }
           ],
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Gingerbread%20Buddy.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Gingerbread%20Buddy.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Gingerbread%20Buddy/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Cut Out the Template Pieces",
-              "content": "Download and print the templates. Cut two gingerbread body pieces from brown plush fabric. From red felt, cut three circles for buttons and a strip measuring 3cm x 30cm to create the scarf.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Place the pattern templates on the main fabric and trace around them. Add a 0.2\" seam allowance, then cut out 2 main body pieces, 2 red circles for the decorative buttons, and 1 fabric strip for the scarf.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Remember that plush fabric has a nap, so ensure all pattern pieces are cut in the same direction."
+                "text": "If the plush fabric has a visible nap, place both body pieces in the same direction before cutting so the finished toy has a consistent appearance."
               }
             },
             {
               "number": 2,
-              "title": "Prepare the Body Front",
-              "content": "Position the felt circles on the front body piece and secure them in place. Add the ricrac trim to the arms and legs following the template markings.",
+              "title": "Attach the Ricrac Trim",
+              "content": "Position the ricrac trim on the right side of the front body piece across both arms and both legs. Pin the trim in place, then stitch securely to attach it to the body.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Check that decorative trims are symmetrical before stitching permanently."
+                "text": "Check that the ricrac pieces are positioned evenly on both arms and legs before stitching, as uneven placement will be noticeable on the finished toy."
               }
             },
             {
               "number": 3,
-              "title": "Create the Face",
-              "content": "Attach the toy eyes to the front body section. Embroider a smiling mouth using black embroidery thread and add any additional facial details desired.",
+              "title": "Sew the Body",
+              "content": "Place the two main body pieces right sides together. Sew around the body along the marked stitching line, leaving the top of the head open for turning and stuffing.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Mark the smile lightly with a fabric pencil first to achieve an even curve."
+                "type": "warning",
+                "text": "Do not sew across the opening at the top of the head, as this opening is needed for turning and stuffing the body."
               }
             },
             {
               "number": 4,
-              "title": "Sew the Body Together",
-              "content": "Place the front and back body pieces right sides together. Stitch around the outer edge, leaving a turning gap between the legs or at the side as indicated on the template.",
+              "title": "Turn Right Side Out",
+              "content": "Carefully turn the body right side out through the opening at the top of the head.",
               "tip": {
-                "type": "warning",
-                "text": "Leave the turning gap completely open to make stuffing easier later."
+                "type": "pro_tip",
+                "text": "Use a blunt turning tool to gently push out the arms and legs without stretching or puncturing the plush fabric."
               }
             },
             {
               "number": 5,
-              "title": "Clip and Turn",
-              "content": "Trim seam allowances where necessary and clip curved areas around the head, arms and legs. Turn the gingerbread character right side out through the opening.",
+              "title": "Stuff the Body",
+              "content": "Insert toy stuffing through the opening at the top of the head. Fill the arms and legs first, then continue stuffing the body and head evenly.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Avoid clipping through the stitching line when trimming curved seams."
+                "text": "Avoid inserting large clumps of stuffing at once, as this can create lumps and leave the narrow arms and legs unevenly filled."
               }
             },
             {
               "number": 6,
-              "title": "Stuff the Toy",
-              "content": "Gradually fill the arms, legs, head and body with toy stuffing until the shape is firm and evenly filled. Pay special attention to the edges and corners.",
+              "title": "Attach the Decorative Buttons",
+              "content": "Position the two red felt circles on the front of the body. Hand-sew around the edge of each circle with small straight stitches to secure them in place.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Use small pieces of stuffing for a smoother finish with fewer lumps."
+                "text": "Position both felt circles before sewing and check their spacing so the decorative buttons appear straight and evenly aligned."
               }
             },
             {
               "number": 7,
-              "title": "Close the Opening",
-              "content": "Hand sew the turning gap closed using small ladder stitches. Shape the toy while sewing to ensure an even outline.",
+              "title": "Close the Head Opening",
+              "content": "Fold the raw edges of the opening inward, then hand-sew around the opening with an overcast stitch to close the top of the head securely.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Matching thread will make the closing seam nearly invisible."
+                "text": "Use small, evenly spaced stitches and matching thread to create a neat and secure closure along the top of the head."
               }
             },
             {
               "number": 8,
               "title": "Make the Scarf",
-              "content": "Fold the red felt strip lengthwise and trim the ends into points if desired. Wrap the scarf around the neck and secure it with a few hand stitches.",
+              "content": "Attach one white pom pom to each end of the scarf with secure hand stitches.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Do not pull the scarf too tightly or it may distort the stuffed neck area."
+                "type": "warning",
+                "text": "Stitch each pom pom firmly through several points so it does not come loose during handling."
               }
             },
             {
               "number": 9,
-              "title": "Add the Pom Poms",
-              "content": "Attach one white pom pom to each end of the scarf using strong hand stitches. Check that they are securely fixed in place.",
+              "title": "Add the Finishing Details",
+              "content": "Use a fabric marker to draw the facial details on the face. Wrap the finished scarf around the neck and arrange it neatly to complete the Gingerbread Buddy.",
               "tip": {
-                "type": "warning",
-                "text": "Reinforce the stitching on the pom poms since they can be pulled loose with handling."
+                "type": "common_mistake",
+                "text": "Test the fabric marker on a scrap of plush fabric first, as some markers may bleed or spread on the fabric surface."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
             },
             {
-              "number": 10,
-              "title": "Finish the Gingerbread Character",
-              "content": "Adjust the stuffing and scarf placement, then give the toy a final inspection. Smooth the plush fabric and ensure all embellishments are securely attached.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Reduce the template size and add a hanging loop if you want to create tree ornaments."
-              }
+              "title": "Step 2: Decorate arms & legs",
+              "time": "00:35:00"
+            },
+            {
+              "title": "Step 3: Sew the body",
+              "time": "01:43:00"
+            },
+            {
+              "title": "Step 4: Sew the head closed",
+              "time": "03:21:00"
+            },
+            {
+              "title": "Step 5: Final decorations",
+              "time": "04:28:00"
             }
           ]
         },
@@ -9783,187 +9866,191 @@
           "name": "Flower Hen Plush",
           "level": "Beginner",
           "time": "0.5 hours",
-          "finishedSize": "24cm x 30cm",
+          "finishedSize": "9.45\" x 11.81\"",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton assorted prints"
+              "description": "Cotton fabric in assorted coordinating prints"
             },
             {
               "title": "Materials Needed",
-              "description": "Cotton assorted prints\nPale pink felt\nQuilt wadding\nToy stuffing\nEmbroidery thread\nLight blue ribbon\nButtons (10mm x 2)\nMatching sewing thread\nPins\nScissors"
+              "description": "Cotton fabric in assorted coordinating prints\nPale pink felt\nQuilt wadding\nToy stuffing\nLight blue ribbon\nButtons (0.39\" x 2)\nMatching sewing thread\nPins\nScissors"
             },
             {
               "title": "Techniques Required",
-              "description": "Soft Toy Construction, Appliqué, Hand Embroidery, Wing Attachment, Decorative Tail Feathers"
+              "description": "Pattern Cutting, Seam Allowance, Sewing Curves, Turning, Stuffing, Edge Stitching, Attaching Wings, Inserting Tail Feathers, Ladder Stitch"
             }
           ],
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Flower%20Hen%20Plush.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Flower%20Hen%20Plush.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Flower%20Hen%20Plush/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Download and Print Templates",
-              "content": "Download and print the hen templates at full size. Cut out all pattern pieces for the body, wings, comb, wattles, beak and tail feathers.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Place the pattern templates on the fabric and trace around them. Add a 0.4\" seam allowance around each shape, then cut along the outer lines. You should have 2 body pieces, 2 beak pieces, 2 comb pieces, 6 tail pieces, and 2 wing pieces.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Print at 100% scale to achieve the intended finished size."
+                "text": "Transfer all pattern markings before removing the templates so the pieces can be aligned accurately during assembly."
               }
             },
             {
               "number": 2,
-              "title": "Cut the Main Body Pieces",
-              "content": "Using the templates, cut two body pieces from the main floral cotton fabric, including the seam allowance.",
+              "title": "Sew the Tail Feathers",
+              "content": "Place each pair of tail pieces right sides together. Sew along the marked stitching line, leaving the base open for turning. Turn each tail feather right side out through the opening, then add a small amount of toy stuffing.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Transfer all placement markings before removing the paper templates."
+                "type": "pro_tip",
+                "text": "Use only a small amount of stuffing so the tail feathers stay soft and are easy to sew into the body seam."
               }
             },
             {
               "number": 3,
-              "title": "Prepare the Body Gusset",
-              "content": "Cut the gusset piece and pin it between the two body sections to create the rounded shape of the hen.",
+              "title": "Sew the Comb",
+              "content": "Place the two comb pieces right sides together. Sew around the marked outer edge, leaving the edge that will attach to the body open. Turn the comb right side out through the opening.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Clip curves lightly after stitching to help the gusset sit smoothly."
+                "text": "Clip small notches into the curved seam allowance without cutting through the stitches to help the comb turn smoothly."
               }
             },
             {
               "number": 4,
-              "title": "Sew the Body Together",
-              "content": "Stitch the body pieces and gusset together, leaving an opening for turning and stuffing.",
+              "title": "Sew the Beak",
+              "content": "Place the two beak pieces right sides together. Sew along the marked stitching line, leaving the edge that will attach to the body open. Turn the beak right side out through the opening.",
               "tip": {
                 "type": "warning",
-                "text": "Do not sew the turning gap closed during construction."
+                "text": "Do not sew the base of the beak closed, as this edge needs to remain open for attaching it to the body."
               }
             },
             {
               "number": 5,
-              "title": "Create the Comb",
-              "content": "Cut two comb pieces from contrast fabric. Stitch around the curved edges, clip the curves and turn right side out.",
+              "title": "Sew the Wing",
+              "content": "Place the two wing pieces right sides together. Sew along the marked stitching line, leaving a 1\" opening for turning. Turn the wing right side out through the opening.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Use a blunt turning tool to shape the points of the comb neatly."
+                "text": "Gently push out the curved edges after turning, then press the wing flat for a neat shape before attaching it to the body."
               }
             },
             {
               "number": 6,
-              "title": "Attach the Comb",
-              "content": "Position the finished comb on top of the head and secure it with hand stitches or by inserting it into the head seam.",
+              "title": "Attach the Wing to the Body",
+              "content": "Place one body piece right side up. Position the finished wing on top and adjust it until it is evenly aligned. Pin the wing in place, then edge-stitch close to the wing edge. At the turning opening, fold the raw edges inside and stitch across them as you attach the wing.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Check the comb is centred before sewing permanently."
+                "text": "Check the wing placement before stitching and make sure the folded edges of the turning opening are fully tucked inside."
               }
             },
             {
               "number": 7,
-              "title": "Make the Tail Feathers",
-              "content": "Cut several tail feather pieces from coordinating fabrics. Sew pairs together, leaving an opening for turning.",
+              "title": "Position the Comb, Beak, and Tail",
+              "content": "Use the body piece with the wing already attached. Position the tail feathers, comb, and beak with the finished sections pointing inward toward the centre of the body. Align the raw edges of these pieces with the raw edge of the body, then stitch them in place.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Mix complementary prints for a playful vintage appearance."
+                "text": "Baste the comb, beak, and tail pieces to the body first so they cannot shift when the second body piece is sewn on."
               }
             },
             {
               "number": 8,
-              "title": "Turn and Shape the Tail Feathers",
-              "content": "Turn the feather pieces right side out and press them flat. Lightly stuff if desired for extra dimension.",
+              "title": "Sew the Body",
+              "content": "Place the remaining body piece on top with right sides together. Align the edges and pin securely. Sew around the marked stitching line, leaving a 2\" opening for turning.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Press carefully around narrow feather tips to maintain their shape."
+                "type": "warning",
+                "text": "Keep the comb, beak, and tail feathers tucked safely inside the body while sewing so they are not accidentally caught in the wrong part of the seam."
               }
             },
             {
               "number": 9,
-              "title": "Assemble the Tail",
-              "content": "Gather the finished feathers into a fan arrangement and stitch them together at the base.",
+              "title": "Turn Right Side Out",
+              "content": "Carefully turn the hen right side out through the 2\" opening.",
               "tip": {
-                "type": "warning",
-                "text": "Secure the feather bundle firmly because it receives frequent handling."
+                "type": "pro_tip",
+                "text": "Turn slowly around the beak, comb, and tail areas to avoid pulling or damaging the seams."
               }
             },
             {
               "number": 10,
-              "title": "Create the Wings",
-              "content": "Cut wing pieces from contrast fabrics, stitch right sides together and turn right side out.",
+              "title": "Stuff the Hen",
+              "content": "Insert toy stuffing through the opening, distributing it evenly throughout the body until the hen reaches the desired shape and firmness.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Topstitch around the wing edges for extra definition."
+                "type": "common_mistake",
+                "text": "Avoid overstuffing the body, as too much stuffing can distort the shape and put unnecessary pressure on the seams."
               }
             },
             {
               "number": 11,
-              "title": "Add Decorative Stitching",
-              "content": "Use embroidery thread to add decorative running stitches around the wings and body details.",
+              "title": "Close the Opening",
+              "content": "Fold the raw edges of the opening to the inside and close the opening securely with a ladder stitch.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Contrasting thread colours help highlight decorative features."
+                "text": "Use small, evenly spaced ladder stitches and gently pull the thread after every few stitches for a nearly invisible closure."
               }
             },
             {
               "number": 12,
-              "title": "Attach the Wings",
-              "content": "Position the wings on both sides of the body and stitch them securely in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Measure both sides to ensure the wings are attached evenly."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Make the Beak and Wattle",
-              "content": "Cut and stitch the beak and decorative wattle pieces, then attach them to the head according to the template markings.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Small hand stitches provide the neatest finish around facial features."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Stuff the Hen",
-              "content": "Turn the body right side out and fill evenly with toy stuffing until the hen is plump and stable.",
+              "title": "Add the Finishing Details",
+              "content": "Sew the buttons securely in place to create the eyes. Check the shape of the hen and adjust the stuffing if necessary to complete the plush.",
               "tip": {
                 "type": "warning",
-                "text": "Add stuffing gradually to avoid lumps and uneven shaping."
+                "text": "If the plush is intended for a baby or young child, use securely embroidered eyes instead of buttons to avoid loose small parts."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:20:00"
             },
             {
-              "number": 15,
-              "title": "Close the Opening",
-              "content": "Fold the raw edges inward and close the turning gap with ladder stitch or small oversew stitches.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A ladder stitch creates a nearly invisible seam."
-              }
+              "title": "Step 2: Sew the tails",
+              "time": "01:14:00"
             },
             {
-              "number": 16,
-              "title": "Add Button Eyes",
-              "content": "Sew two 10mm buttons onto the face to create the hen's eyes.",
-              "tip": {
-                "type": "warning",
-                "text": "For toys intended for very young children, replace buttons with embroidered eyes."
-              }
+              "title": "Step 3: Sew the comb",
+              "time": "01:57:00"
             },
             {
-              "number": 17,
-              "title": "Attach Ribbon Decoration",
-              "content": "Tie or stitch a light blue ribbon around the neck area as a decorative finishing touch.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A small bow adds extra charm and complements floral fabrics."
-              }
+              "title": "Step 4: Sew the beak",
+              "time": "02:25:00"
             },
             {
-              "number": 18,
-              "title": "Final Finishing",
-              "content": "Check all seams, adjust the stuffing, straighten the tail feathers and wings, and remove any visible thread ends.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Give the hen a final press around the fabric details for a polished appearance."
-              }
+              "title": "Step 5: Sew the wing",
+              "time": "02:58:00"
+            },
+            {
+              "title": "Step 6: Clip the curves",
+              "time": "03:50:00"
+            },
+            {
+              "title": "Step 7: Turn right side out",
+              "time": "04:06:00"
+            },
+            {
+              "title": "Step 8: Stuffing",
+              "time": "04:31:00"
+            },
+            {
+              "title": "Step 9: Sew parts onto body piece",
+              "time": "05:05:00"
+            },
+            {
+              "title": "Step 10: Sew the body",
+              "time": "06:24:00"
+            },
+            {
+              "title": "Step 11: Clip the curves",
+              "time": "07:20:00"
+            },
+            {
+              "title": "Step 12: Turn right side out",
+              "time": "07:29:00"
+            },
+            {
+              "title": "Step 13: Stuffing",
+              "time": "07:50:00"
+            },
+            {
+              "title": "Step 14: Sew the opening closed",
+              "time": "08:18:00"
             }
           ]
         },
@@ -13725,133 +13812,129 @@
           "name": "Classic Wool Panel A-Line Skirt",
           "level": "Beginner",
           "time": "1 hour",
-          "finishedSize": "UK Sizes 8-20",
+          "finishedSize": "UK Sizes 8–20",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Wool felt fabric (55 inches wide)"
+              "description": "Wool felt fabric"
             },
             {
               "title": "Materials Needed",
-              "description": "39.4 inches wool felt fabric (55 inches wide)\n39.4 inches lining fabric\n9.1 inches concealed zipper\nMatching sewing thread\nDressmaking pins or clips\nFabric marker or tailor's chalk\nIron and pressing cloth"
+              "description": "39.4\" wool felt fabric (55\" wide)\n9.1\" concealed zipper\nMatching sewing thread\nDressmaking pins or clips\nFabric marker or tailor's chalk\nIron and pressing cloth"
             },
             {
               "title": "Techniques Required",
-              "description": "Dressmaking, Panel Skirt Construction, Concealed Zipper Insertion, Lining Construction, Understitching, Hand Stitching, Seam Finishing, Edge Stitching, Hemming, Pressing"
+              "description": "Pattern Cutting, Panel Skirt Construction, Overlocking, Dart Sewing, Waist Facing Construction, Understitching, Side Seam Construction, Concealed Zipper Insertion, Hemming, Pressing"
             }
           ],
           "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Skirts/Classic%20Wool%20Panel%20A-Line%20Skirt.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Skirts/Classic%20Wool%20Panel%20A-Line%20Skirt.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Classic%20Wool%20Panel%20A-Line%20Skirt/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Cut the Pattern Pieces",
-              "content": "Download and print the pattern. Cut all skirt panel pieces and lining sections according to the cutting guide. Transfer all notches and markings.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Trace the front and back pattern pieces onto the main fabric. Add a 0.4\" seam allowance, then cut to obtain 3 front panel pieces and 2 back panel pieces. Transfer the dart markings onto the back panels. Cut 3 additional pieces for the waist facing.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Accurately transfer panel matching notches to ensure the seams align correctly."
+                "text": "Transfer all dart lines, panel matching points, and zipper placement markings before removing the pattern pieces from the fabric."
               }
             },
             {
               "number": 2,
-              "title": "Assemble the Front Panels",
-              "content": "Place the front panel sections right sides together and stitch along the long panel seams. Press the seam allowances open and repeat for the remaining front panels.",
+              "title": "Finish the Raw Edges",
+              "content": "Overlock all raw fabric edges to prevent fraying and create a clean finish.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Press each seam as you sew to help the panels lie smoothly."
+                "text": "Test the overlock settings on a fabric scrap first, especially when working with thicker wool fabric, to avoid stretching or compressing the edges."
               }
             },
             {
               "number": 3,
-              "title": "Assemble the Back Panels",
-              "content": "Join the back panel sections in the same way, leaving the zipper opening unstitched in the designated seam.",
+              "title": "Assemble the Front Panels",
+              "content": "Join the front panel pieces together with right sides facing. Align the corresponding edges and sew along the marked stitching lines.",
               "tip": {
-                "type": "warning",
-                "text": "Leave the zipper opening exactly as marked on the pattern to avoid fitting issues later."
+                "type": "common_mistake",
+                "text": "Make sure the upper and lower edges of the panels are aligned before sewing so the waistline and hem remain even."
               }
             },
             {
               "number": 4,
-              "title": "Join the Side Seams",
-              "content": "Place the front and back skirt sections right sides together and sew the side seams. Press the seam allowances open.",
+              "title": "Sew the Back Darts",
+              "content": "Fold each back dart with right sides together, matching the two dart lines. Sew along the marked dart line from the wider end toward the dart point on the wrong side of the fabric.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Match panel seam intersections carefully for a professional finish."
+                "text": "As you approach the dart point, gradually sew closer to the folded edge and secure the thread without creating a bulky backstitch at the tip."
               }
             },
             {
               "number": 5,
-              "title": "Insert the Concealed Zipper",
-              "content": "Press the zipper seam allowances open and install the concealed zipper into the designated back opening. Stitch each side securely and test the zipper operation.",
+              "title": "Attach the Waist Facing",
+              "content": "Place the waist facing and the main skirt right sides together. Align the waist edges and sew along the marked stitching line. Open the facing away from the skirt and press the seam allowance toward the facing. Understitch close to the seam on the right side of the facing.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Check that the waistband and panel seams align across the zipper before sewing permanently."
+                "type": "pro_tip",
+                "text": "Keep the seam allowance pressed toward the facing while understitching so the facing rolls neatly to the inside and does not show above the waistline."
               }
             },
             {
               "number": 6,
-              "title": "Construct the Lining",
-              "content": "Assemble the lining pieces in the same order as the outer skirt, leaving the zipper opening unstitched. Finish the lower edge of the lining if required.",
+              "title": "Sew the Side Seams",
+              "content": "Place the skirt pieces right sides together and sew both side seams. Carefully align the waist seam at each side before stitching.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Use a slightly shorter stitch length on lightweight lining fabrics for stronger seams."
+                "type": "common_mistake",
+                "text": "Pin directly at the waist seam intersection before sewing, as even a small mismatch can make the finished waistline look uneven."
               }
             },
             {
               "number": 7,
-              "title": "Attach the Lining",
-              "content": "With the skirt right side out and the lining wrong side out, place the lining over the skirt. Match all panel seams and stitch around the waistline.",
+              "title": "Insert the Concealed Zipper",
+              "content": "Mark the zipper placement on the back opening. Using a concealed zipper foot, place one side of the zipper right side down against the right side of one back edge. Sew close to the zipper teeth, then repeat on the opposite side of the zipper.",
               "tip": {
                 "type": "warning",
-                "text": "Ensure the lining is not twisted before stitching the waist seam."
+                "text": "Check that the waist edges align perfectly when the zipper is closed before permanently stitching the second side."
               }
             },
             {
               "number": 8,
-              "title": "Understitch the Waistline",
-              "content": "Press the waist seam allowances toward the lining and understitch close to the seam line to keep the lining from rolling outward.",
+              "title": "Finish the Facing at the Zipper",
+              "content": "Fold the waist facing over the zipper with right sides together. Stitch close to the edge to secure the facing and skirt at the zipper area, then turn the facing right side out and shape the corner neatly.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Understitching greatly improves the appearance and durability of lined garments."
+                "text": "Trim excess seam allowance at the top corner before turning, taking care not to cut the stitching, for a sharper and less bulky finish."
               }
             },
             {
               "number": 9,
-              "title": "Secure the Zipper Area",
-              "content": "Fold the lining seam allowances around the zipper and hand stitch neatly along both sides of the zipper opening.",
+              "title": "Close the Back Seam Below the Zipper",
+              "content": "Close the zipper and move the zipper tape gently to one side. With right sides together, sew the centre back seam from just below the end of the zipper down to the hem.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Keep hand stitches small and hidden to maintain a clean interior finish."
+                "text": "Begin the back seam as close as possible to the end of the zipper stitching to avoid leaving a small opening or bump below the zipper."
               }
             },
             {
               "number": 10,
-              "title": "Finish the Lining Hem",
-              "content": "Turn and stitch the lining hem allowance according to the pattern instructions. Press carefully.",
+              "title": "Hem the Skirt",
+              "content": "Fold the raw hem edge toward the wrong side twice, enclosing the raw edge. Press the folded hem, then stitch evenly around the skirt to secure it and complete the garment.",
               "tip": {
                 "type": "pro_tip",
-                "text": "A shorter lining hem helps prevent it from showing beneath the skirt."
+                "text": "Press both folds before stitching to keep the hem width consistent and help the A-line skirt hang smoothly."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
             },
             {
-              "number": 11,
-              "title": "Secure the Waistline Seams",
-              "content": "At each panel seam along the waistline, hand stitch the lining seam allowances to the skirt seam allowances to keep the lining positioned correctly.",
-              "tip": {
-                "type": "warning",
-                "text": "Avoid stitching through to the outer garment where the stitches may become visible."
-              }
+              "title": "Step 2: Sew the front pieces",
+              "time": "01:05:00"
             },
             {
-              "number": 12,
-              "title": "Final Press and Finish",
-              "content": "Give the entire skirt a final press, ensuring all panel seams, zipper edges, and lining sections lie smoothly.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use plenty of steam when pressing wool felt to create crisp panel shaping."
-              }
+              "title": "Step 3: Sew the pieces together",
+              "time": "03:40:00"
             }
           ]
         },
@@ -19463,6 +19546,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Heart%20Keychain%20Zipper%20Pouch.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Keychain%20Zipper%20Pouch/master.m3u8",
+                             "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Keychain%20Zipper%20Pouch/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Keychain%20Zipper%20Pouch/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -23996,6 +24081,36 @@
                 "text": "Keep the topstitching an even distance from the brim edge and sew slowly over the seam intersections to maintain a smooth, professional finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew the crown",
+              "time": "00:49:00"
+            },
+            {
+              "title": "Step 3: Sew the brim",
+              "time": "02:14:00"
+            },
+            {
+              "title": "Step 4: Sew crown & brim together",
+              "time": "03:08:00"
+            },
+            {
+              "title": "Step 5: Sew the lining",
+              "time": "03:49:00"
+            },
+            {
+              "title": "Step 6: Sew lining to main hat",
+              "time": "03:59:00"
+            },
+            {
+              "title": "Step 7: Topstitch",
+              "time": "04:48:00"
+            }
           ]
         },
         {
@@ -24414,6 +24529,36 @@
                 "type": "common_mistake",
                 "text": "Do not pull the fabric while stitching the hem. Stretching lightweight woven fabric can create a wavy or uneven finished edge."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the pleats",
+              "time": "00:23:00"
+            },
+            {
+              "title": "Step 3: Sew shoulder & side seams",
+              "time": "01:31:00"
+            },
+            {
+              "title": "Step 4: Serge the raw edges",
+              "time": "02:57:00"
+            },
+            {
+              "title": "Step 5: Sew the collar",
+              "time": "03:45:00"
+            },
+            {
+              "title": "Step 6: Sew the sleeve hems",
+              "time": "05:00:00"
+            },
+            {
+              "title": "Step 7: Sew the bottom hem",
+              "time": "05:51:00"
             }
           ]
         },
@@ -29360,115 +29505,128 @@
           "name": "Gingerbread Buddy",
           "level": "Beginner",
           "time": "0.5 hours",
-          "finishedSize": "Approx. 18cm tall",
+          "finishedSize": "Approx. 7.09\" tall",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Brown plush fabric and red felt"
+              "description": "Brown plush fabric"
             },
             {
               "title": "Materials Needed",
-              "description": "Fabric, brown plush.\nFelt, red.\nRicrac trim, white.\nPom poms, white, two.\nToy eyes, 10mm, two.\nToy filling.\nEmbroidery thread, black.\n5mm seam allowance used throughout unless otherwise stated."
+              "description": "Brown plush fabric\nRed felt\nWhite ricrac trim\nWhite pom poms (2)\nToy stuffing\nFabric marker\nMatching sewing thread\nHand-sewing needle\nPins\nScissors"
             },
             {
               "title": "Techniques Required",
-              "description": "Soft Toy Sewing, Hand Sewing, Appliqué, Embroidery"
+              "description": "Pattern Cutting, Soft Toy Construction, Sewing Ricrac Trim, Appliqué, Turning, Stuffing, Hand Sewing, Overcast Stitch, Attaching Pom Poms"
             }
           ],
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Gingerbread%20Buddy.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Gingerbread%20Buddy.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Gingerbread%20Buddy/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Cut Out the Template Pieces",
-              "content": "Download and print the templates. Cut two gingerbread body pieces from brown plush fabric. From red felt, cut three circles for buttons and a strip measuring 3cm x 30cm to create the scarf.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Place the pattern templates on the main fabric and trace around them. Add a 0.2\" seam allowance, then cut out 2 main body pieces, 2 red circles for the decorative buttons, and 1 fabric strip for the scarf.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Remember that plush fabric has a nap, so ensure all pattern pieces are cut in the same direction."
+                "text": "If the plush fabric has a visible nap, place both body pieces in the same direction before cutting so the finished toy has a consistent appearance."
               }
             },
             {
               "number": 2,
-              "title": "Prepare the Body Front",
-              "content": "Position the felt circles on the front body piece and secure them in place. Add the ricrac trim to the arms and legs following the template markings.",
+              "title": "Attach the Ricrac Trim",
+              "content": "Position the ricrac trim on the right side of the front body piece across both arms and both legs. Pin the trim in place, then stitch securely to attach it to the body.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Check that decorative trims are symmetrical before stitching permanently."
+                "text": "Check that the ricrac pieces are positioned evenly on both arms and legs before stitching, as uneven placement will be noticeable on the finished toy."
               }
             },
             {
               "number": 3,
-              "title": "Create the Face",
-              "content": "Attach the toy eyes to the front body section. Embroider a smiling mouth using black embroidery thread and add any additional facial details desired.",
+              "title": "Sew the Body",
+              "content": "Place the two main body pieces right sides together. Sew around the body along the marked stitching line, leaving the top of the head open for turning and stuffing.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Mark the smile lightly with a fabric pencil first to achieve an even curve."
+                "type": "warning",
+                "text": "Do not sew across the opening at the top of the head, as this opening is needed for turning and stuffing the body."
               }
             },
             {
               "number": 4,
-              "title": "Sew the Body Together",
-              "content": "Place the front and back body pieces right sides together. Stitch around the outer edge, leaving a turning gap between the legs or at the side as indicated on the template.",
+              "title": "Turn Right Side Out",
+              "content": "Carefully turn the body right side out through the opening at the top of the head.",
               "tip": {
-                "type": "warning",
-                "text": "Leave the turning gap completely open to make stuffing easier later."
+                "type": "pro_tip",
+                "text": "Use a blunt turning tool to gently push out the arms and legs without stretching or puncturing the plush fabric."
               }
             },
             {
               "number": 5,
-              "title": "Clip and Turn",
-              "content": "Trim seam allowances where necessary and clip curved areas around the head, arms and legs. Turn the gingerbread character right side out through the opening.",
+              "title": "Stuff the Body",
+              "content": "Insert toy stuffing through the opening at the top of the head. Fill the arms and legs first, then continue stuffing the body and head evenly.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Avoid clipping through the stitching line when trimming curved seams."
+                "text": "Avoid inserting large clumps of stuffing at once, as this can create lumps and leave the narrow arms and legs unevenly filled."
               }
             },
             {
               "number": 6,
-              "title": "Stuff the Toy",
-              "content": "Gradually fill the arms, legs, head and body with toy stuffing until the shape is firm and evenly filled. Pay special attention to the edges and corners.",
+              "title": "Attach the Decorative Buttons",
+              "content": "Position the two red felt circles on the front of the body. Hand-sew around the edge of each circle with small straight stitches to secure them in place.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Use small pieces of stuffing for a smoother finish with fewer lumps."
+                "text": "Position both felt circles before sewing and check their spacing so the decorative buttons appear straight and evenly aligned."
               }
             },
             {
               "number": 7,
-              "title": "Close the Opening",
-              "content": "Hand sew the turning gap closed using small ladder stitches. Shape the toy while sewing to ensure an even outline.",
+              "title": "Close the Head Opening",
+              "content": "Fold the raw edges of the opening inward, then hand-sew around the opening with an overcast stitch to close the top of the head securely.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Matching thread will make the closing seam nearly invisible."
+                "text": "Use small, evenly spaced stitches and matching thread to create a neat and secure closure along the top of the head."
               }
             },
             {
               "number": 8,
               "title": "Make the Scarf",
-              "content": "Fold the red felt strip lengthwise and trim the ends into points if desired. Wrap the scarf around the neck and secure it with a few hand stitches.",
+              "content": "Attach one white pom pom to each end of the scarf with secure hand stitches.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Do not pull the scarf too tightly or it may distort the stuffed neck area."
+                "type": "warning",
+                "text": "Stitch each pom pom firmly through several points so it does not come loose during handling."
               }
             },
             {
               "number": 9,
-              "title": "Add the Pom Poms",
-              "content": "Attach one white pom pom to each end of the scarf using strong hand stitches. Check that they are securely fixed in place.",
+              "title": "Add the Finishing Details",
+              "content": "Use a fabric marker to draw the facial details on the face. Wrap the finished scarf around the neck and arrange it neatly to complete the Gingerbread Buddy.",
               "tip": {
-                "type": "warning",
-                "text": "Reinforce the stitching on the pom poms since they can be pulled loose with handling."
+                "type": "common_mistake",
+                "text": "Test the fabric marker on a scrap of plush fabric first, as some markers may bleed or spread on the fabric surface."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
             },
             {
-              "number": 10,
-              "title": "Finish the Gingerbread Character",
-              "content": "Adjust the stuffing and scarf placement, then give the toy a final inspection. Smooth the plush fabric and ensure all embellishments are securely attached.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Reduce the template size and add a hanging loop if you want to create tree ornaments."
-              }
+              "title": "Step 2: Decorate arms & legs",
+              "time": "00:35:00"
+            },
+            {
+              "title": "Step 3: Sew the body",
+              "time": "01:43:00"
+            },
+            {
+              "title": "Step 4: Sew the head closed",
+              "time": "03:21:00"
+            },
+            {
+              "title": "Step 5: Final decorations",
+              "time": "04:28:00"
             }
           ]
         },
@@ -32779,187 +32937,191 @@
           "name": "Flower Hen Plush",
           "level": "Beginner",
           "time": "0.5 hours",
-          "finishedSize": "24cm x 30cm",
+          "finishedSize": "9.45\" x 11.81\"",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton assorted prints and pale pink felt"
+              "description": "Cotton fabric in assorted coordinating prints"
             },
             {
               "title": "Materials Needed",
-              "description": "Cotton assorted prints\nPale pink felt\nQuilt wadding\nToy stuffing\nEmbroidery thread\nLight blue ribbon\nButtons (10mm x 2)\nMatching sewing thread\nPins\nScissors"
+              "description": "Cotton fabric in assorted coordinating prints\nPale pink felt\nQuilt wadding\nToy stuffing\nLight blue ribbon\nButtons (0.39\" x 2)\nMatching sewing thread\nPins\nScissors"
             },
             {
               "title": "Techniques Required",
-              "description": "Soft Toy Construction, Appliqué, Hand Embroidery, Wing Attachment, Decorative Tail Feathers"
+              "description": "Pattern Cutting, Seam Allowance, Sewing Curves, Turning, Stuffing, Edge Stitching, Attaching Wings, Inserting Tail Feathers, Ladder Stitch"
             }
           ],
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Flower%20Hen%20Plush.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Flower%20Hen%20Plush.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Flower%20Hen%20Plush/master.m3u8",
           "steps": [
             {
               "number": 1,
-              "title": "Download and Print Templates",
-              "content": "Download and print the hen templates at full size. Cut out all pattern pieces for the body, wings, comb, wattles, beak and tail feathers.",
+              "title": "Cut and Prepare the Pieces",
+              "content": "Place the pattern templates on the fabric and trace around them. Add a 0.4\" seam allowance around each shape, then cut along the outer lines. You should have 2 body pieces, 2 beak pieces, 2 comb pieces, 6 tail pieces, and 2 wing pieces.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Print at 100% scale to achieve the intended finished size."
+                "text": "Transfer all pattern markings before removing the templates so the pieces can be aligned accurately during assembly."
               }
             },
             {
               "number": 2,
-              "title": "Cut the Main Body Pieces",
-              "content": "Using the templates, cut two body pieces from the main floral cotton fabric, including the seam allowance.",
+              "title": "Sew the Tail Feathers",
+              "content": "Place each pair of tail pieces right sides together. Sew along the marked stitching line, leaving the base open for turning. Turn each tail feather right side out through the opening, then add a small amount of toy stuffing.",
               "tip": {
-                "type": "common_mistake",
-                "text": "Transfer all placement markings before removing the paper templates."
+                "type": "pro_tip",
+                "text": "Use only a small amount of stuffing so the tail feathers stay soft and are easy to sew into the body seam."
               }
             },
             {
               "number": 3,
-              "title": "Prepare the Body Gusset",
-              "content": "Cut the gusset piece and pin it between the two body sections to create the rounded shape of the hen.",
+              "title": "Sew the Comb",
+              "content": "Place the two comb pieces right sides together. Sew around the marked outer edge, leaving the edge that will attach to the body open. Turn the comb right side out through the opening.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Clip curves lightly after stitching to help the gusset sit smoothly."
+                "text": "Clip small notches into the curved seam allowance without cutting through the stitches to help the comb turn smoothly."
               }
             },
             {
               "number": 4,
-              "title": "Sew the Body Together",
-              "content": "Stitch the body pieces and gusset together, leaving an opening for turning and stuffing.",
+              "title": "Sew the Beak",
+              "content": "Place the two beak pieces right sides together. Sew along the marked stitching line, leaving the edge that will attach to the body open. Turn the beak right side out through the opening.",
               "tip": {
                 "type": "warning",
-                "text": "Do not sew the turning gap closed during construction."
+                "text": "Do not sew the base of the beak closed, as this edge needs to remain open for attaching it to the body."
               }
             },
             {
               "number": 5,
-              "title": "Create the Comb",
-              "content": "Cut two comb pieces from contrast fabric. Stitch around the curved edges, clip the curves and turn right side out.",
+              "title": "Sew the Wing",
+              "content": "Place the two wing pieces right sides together. Sew along the marked stitching line, leaving a 1\" opening for turning. Turn the wing right side out through the opening.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Use a blunt turning tool to shape the points of the comb neatly."
+                "text": "Gently push out the curved edges after turning, then press the wing flat for a neat shape before attaching it to the body."
               }
             },
             {
               "number": 6,
-              "title": "Attach the Comb",
-              "content": "Position the finished comb on top of the head and secure it with hand stitches or by inserting it into the head seam.",
+              "title": "Attach the Wing to the Body",
+              "content": "Place one body piece right side up. Position the finished wing on top and adjust it until it is evenly aligned. Pin the wing in place, then edge-stitch close to the wing edge. At the turning opening, fold the raw edges inside and stitch across them as you attach the wing.",
               "tip": {
                 "type": "common_mistake",
-                "text": "Check the comb is centred before sewing permanently."
+                "text": "Check the wing placement before stitching and make sure the folded edges of the turning opening are fully tucked inside."
               }
             },
             {
               "number": 7,
-              "title": "Make the Tail Feathers",
-              "content": "Cut several tail feather pieces from coordinating fabrics. Sew pairs together, leaving an opening for turning.",
+              "title": "Position the Comb, Beak, and Tail",
+              "content": "Use the body piece with the wing already attached. Position the tail feathers, comb, and beak with the finished sections pointing inward toward the centre of the body. Align the raw edges of these pieces with the raw edge of the body, then stitch them in place.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Mix complementary prints for a playful vintage appearance."
+                "text": "Baste the comb, beak, and tail pieces to the body first so they cannot shift when the second body piece is sewn on."
               }
             },
             {
               "number": 8,
-              "title": "Turn and Shape the Tail Feathers",
-              "content": "Turn the feather pieces right side out and press them flat. Lightly stuff if desired for extra dimension.",
+              "title": "Sew the Body",
+              "content": "Place the remaining body piece on top with right sides together. Align the edges and pin securely. Sew around the marked stitching line, leaving a 2\" opening for turning.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Press carefully around narrow feather tips to maintain their shape."
+                "type": "warning",
+                "text": "Keep the comb, beak, and tail feathers tucked safely inside the body while sewing so they are not accidentally caught in the wrong part of the seam."
               }
             },
             {
               "number": 9,
-              "title": "Assemble the Tail",
-              "content": "Gather the finished feathers into a fan arrangement and stitch them together at the base.",
+              "title": "Turn Right Side Out",
+              "content": "Carefully turn the hen right side out through the 2\" opening.",
               "tip": {
-                "type": "warning",
-                "text": "Secure the feather bundle firmly because it receives frequent handling."
+                "type": "pro_tip",
+                "text": "Turn slowly around the beak, comb, and tail areas to avoid pulling or damaging the seams."
               }
             },
             {
               "number": 10,
-              "title": "Create the Wings",
-              "content": "Cut wing pieces from contrast fabrics, stitch right sides together and turn right side out.",
+              "title": "Stuff the Hen",
+              "content": "Insert toy stuffing through the opening, distributing it evenly throughout the body until the hen reaches the desired shape and firmness.",
               "tip": {
-                "type": "pro_tip",
-                "text": "Topstitch around the wing edges for extra definition."
+                "type": "common_mistake",
+                "text": "Avoid overstuffing the body, as too much stuffing can distort the shape and put unnecessary pressure on the seams."
               }
             },
             {
               "number": 11,
-              "title": "Add Decorative Stitching",
-              "content": "Use embroidery thread to add decorative running stitches around the wings and body details.",
+              "title": "Close the Opening",
+              "content": "Fold the raw edges of the opening to the inside and close the opening securely with a ladder stitch.",
               "tip": {
                 "type": "pro_tip",
-                "text": "Contrasting thread colours help highlight decorative features."
+                "text": "Use small, evenly spaced ladder stitches and gently pull the thread after every few stitches for a nearly invisible closure."
               }
             },
             {
               "number": 12,
-              "title": "Attach the Wings",
-              "content": "Position the wings on both sides of the body and stitch them securely in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Measure both sides to ensure the wings are attached evenly."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Make the Beak and Wattle",
-              "content": "Cut and stitch the beak and decorative wattle pieces, then attach them to the head according to the template markings.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Small hand stitches provide the neatest finish around facial features."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Stuff the Hen",
-              "content": "Turn the body right side out and fill evenly with toy stuffing until the hen is plump and stable.",
+              "title": "Add the Finishing Details",
+              "content": "Sew the buttons securely in place to create the eyes. Check the shape of the hen and adjust the stuffing if necessary to complete the plush.",
               "tip": {
                 "type": "warning",
-                "text": "Add stuffing gradually to avoid lumps and uneven shaping."
+                "text": "If the plush is intended for a baby or young child, use securely embroidered eyes instead of buttons to avoid loose small parts."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:20:00"
             },
             {
-              "number": 15,
-              "title": "Close the Opening",
-              "content": "Fold the raw edges inward and close the turning gap with ladder stitch or small oversew stitches.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A ladder stitch creates a nearly invisible seam."
-              }
+              "title": "Step 2: Sew the tails",
+              "time": "01:14:00"
             },
             {
-              "number": 16,
-              "title": "Add Button Eyes",
-              "content": "Sew two 10mm buttons onto the face to create the hen's eyes.",
-              "tip": {
-                "type": "warning",
-                "text": "For toys intended for very young children, replace buttons with embroidered eyes."
-              }
+              "title": "Step 3: Sew the comb",
+              "time": "01:57:00"
             },
             {
-              "number": 17,
-              "title": "Attach Ribbon Decoration",
-              "content": "Tie or stitch a light blue ribbon around the neck area as a decorative finishing touch.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A small bow adds extra charm and complements floral fabrics."
-              }
+              "title": "Step 4: Sew the beak",
+              "time": "02:25:00"
             },
             {
-              "number": 18,
-              "title": "Final Finishing",
-              "content": "Check all seams, adjust the stuffing, straighten the tail feathers and wings, and remove any visible thread ends.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Give the hen a final press around the fabric details for a polished appearance."
-              }
+              "title": "Step 5: Sew the wing",
+              "time": "02:58:00"
+            },
+            {
+              "title": "Step 6: Clip the curves",
+              "time": "03:50:00"
+            },
+            {
+              "title": "Step 7: Turn right side out",
+              "time": "04:06:00"
+            },
+            {
+              "title": "Step 8: Stuffing",
+              "time": "04:31:00"
+            },
+            {
+              "title": "Step 9: Sew parts onto body piece",
+              "time": "05:05:00"
+            },
+            {
+              "title": "Step 10: Sew the body",
+              "time": "06:24:00"
+            },
+            {
+              "title": "Step 11: Clip the curves",
+              "time": "07:20:00"
+            },
+            {
+              "title": "Step 12: Turn right side out",
+              "time": "07:29:00"
+            },
+            {
+              "title": "Step 13: Stuffing",
+              "time": "07:50:00"
+            },
+            {
+              "title": "Step 14: Sew the opening closed",
+              "time": "08:18:00"
             }
           ]
         },
@@ -40963,6 +41125,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Tie-Strap%20Camisole%20Top.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Tie-Strap%20Camisole%20Top/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Tie-Strap%20Camisole%20Top/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Tie-Strap%20Camisole%20Top/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -43681,6 +43845,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Rectangular%20Baking%20Dish%20Cover.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Rectangular%20Baking%20Dish%20Cover/master.m3u8",
+                           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rectangular%20Baking%20Dish%20Cover/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rectangular%20Baking%20Dish%20Cover/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -46052,6 +46218,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Lip%20Balm%20Holder.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Lipstick%20Keychain%20Holder/master.m3u8",
+                     "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Lip%20Balm%20Holder/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Lip%20Balm%20Holder/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -46150,6 +46318,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Winter%20Scarf.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Winter%20Scarf/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Winter%20Scarf/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Winter%20Scarf/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -49337,6 +49507,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Wildflower%20Butterfly%20Mitt.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/30.%20Fabric%20Butterfly%20Coaster/master.m3u8",
+                        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Wildflower%20Butterfly%20Mitt/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Wildflower%20Butterfly%20Mitt/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -53011,6 +53183,8 @@
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Patchwork%20Pencil%20Organizer.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/16.%20Pencil%20Roll/master.m3u8",
+                 "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Patchwork%20Pencil%20Organizer/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Patchwork%20Pencil%20Organizer/thumb.webp",
           "steps": [
             {
               "number": 1,
