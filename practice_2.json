@@ -458,6 +458,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Fairy%20Pup%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Fairy%20Pup%20Dress.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fairy%20Pup%20Dress/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fairy%20Pup%20Dress/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -600,6 +602,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Witchy%20Pup%20Costume.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Witchy%20Pup%20Costume.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Witchy%20Pup%20Costume/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Witchy%20Pup%20Costume/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -761,6 +765,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Reversible%20Pup%20Bandana.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Reversible%20Pup%20Bandana.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Reversible%20Pup%20Bandana/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Reversible%20Pup%20Bandana/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -890,6 +896,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -1037,6 +1045,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Cat%20Nap%20Hammock.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Cat%20Nap%20Hammock.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cat%20Nap%20Hammock/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cat%20Nap%20Hammock/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -2144,7 +2154,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Round%20Canvas%20Crossbody%20Bag.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Round%20Canvas%20Crossbody%20Bag/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Round%20Canvas%20Crossbody%20Bag%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Round%20Canvas%20Crossbody%20Bag/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Round%20Canvas%20Crossbody%20Bag/thumb.webp",
           "steps": [
@@ -2756,7 +2766,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Easy%20Everyday%20Tote.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Easy%20Everyday%20Tote/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Easy%20Everyday%20Tote%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Easy%20Everyday%20Tote/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Easy%20Everyday%20Tote/thumb.webp",
           "steps": [
@@ -3001,7 +3011,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Papillon%20Hair%20Clip.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Papillon%20Hair%20Clip/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Papillon%20Hair%20Clip%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Papillon%20Hair%20Clip/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Papillon%20Hair%20Clip/thumb.webp",
           "steps": [
@@ -3325,7 +3335,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
           "steps": [
@@ -11582,7 +11592,7 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Felt%20Egg%20Ornaments.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Felt%20Egg%20Ornaments.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Egg%20Ornaments%20Tiny/master.m3u8",
-             "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/thumb.webp",
           "steps": [
             {
@@ -11700,7 +11710,7 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Patchwork%20%26%20Quilting/Red%20Riding%20Hood%20Set.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Patchwork%20%26%20Quilting/Red%20Riding%20Hood%20Set.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Red%20Riding%20Hood%20Set/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/thumb.webp",
           "steps": [
             {
@@ -19880,7 +19890,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Easy%20Everyday%20Tote.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Easy%20Everyday%20Tote/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Easy%20Everyday%20Tote%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Easy%20Everyday%20Tote/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Easy%20Everyday%20Tote/thumb.webp",
           "steps": [
@@ -20152,7 +20162,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Round%20Canvas%20Crossbody%20Bag.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Round%20Canvas%20Crossbody%20Bag/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Round%20Canvas%20Crossbody%20Bag%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Round%20Canvas%20Crossbody%20Bag/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Round%20Canvas%20Crossbody%20Bag/thumb.webp",
           "steps": [
@@ -22256,6 +22266,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Cat%20Nap%20Hammock.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Cat%20Nap%20Hammock.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cat%20Nap%20Hammock/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cat%20Nap%20Hammock/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -22823,6 +22835,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Fairy%20Pup%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Fairy%20Pup%20Dress.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fairy%20Pup%20Dress/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fairy%20Pup%20Dress/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -23255,6 +23269,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -23406,6 +23422,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Witchy%20Pup%20Costume.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Witchy%20Pup%20Costume.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Witchy%20Pup%20Costume/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Witchy%20Pup%20Costume/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -23567,6 +23585,8 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Reversible%20Pup%20Bandana.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Reversible%20Pup%20Bandana.png",
           "video": "",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Reversible%20Pup%20Bandana/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Reversible%20Pup%20Bandana/thumb.webp",
           "steps": [
             {
               "number": 1,
@@ -38539,7 +38559,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
           "steps": [
@@ -48126,7 +48146,7 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Fabric%20Reindeer.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Fabric%20Reindeer.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Fabric%20Reindeer/master.m3u8",
-           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/thumb.webp",
           "steps": [
             {
@@ -50101,7 +50121,7 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Felt%20Egg%20Ornaments.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Felt%20Egg%20Ornaments.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Egg%20Ornaments%20Tiny/master.m3u8",
-                  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Egg%20Ornaments/thumb.webp",
           "steps": [
             {
@@ -53608,7 +53628,7 @@
           "showCustomSize": false,
           "pdf": "",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Papillon%20Hair%20Clip.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Papillon%20Hair%20Clip/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Papillon%20Hair%20Clip%20Tiny/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Papillon%20Hair%20Clip/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Papillon%20Hair%20Clip/thumb.webp",
           "steps": [
@@ -54861,7 +54881,7 @@
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Patchwork%20%26%20Quilting/Red%20Riding%20Hood%20Set.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Patchwork%20%26%20Quilting/Red%20Riding%20Hood%20Set.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Red%20Riding%20Hood%20Set/master.m3u8",
-           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Red%20Riding%20Hood%20Set/thumb.webp",
           "steps": [
             {
