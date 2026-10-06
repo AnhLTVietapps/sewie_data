@@ -1,0 +1,312 @@
+[
+  {
+    "lessonTitle": "Sewing Machine",
+    "videoPreviewUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/master.m3u8",
+    "thumbnailPreviewUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/thumb.webp",
+    "sections": [
+      {
+        "sectionTitle": "Instructions",
+        "imageUrl": "",
+        "videoUrl": "",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Needle",
+            "description": "A small, sharp metal needle that moves up and down through the fabric. Carries the upper thread through the fabric to form each stitch. Different fabrics require different needle types and sizes.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:08",
+            "title": "Presser Foot",
+            "description": "A small attachment that sits above the needle plate and holds the fabric in place. Presses the fabric against the feed dogs while you sew. It keeps the fabric stable and helps you sew smoothly and accurately.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:16",
+            "title": "Feed Dogs",
+            "description": "Small metal teeth located underneath the presser foot. Move the fabric forward as the machine stitches. They control fabric movement, so you generally don't need to push or pull the fabric.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:24",
+            "title": "Bobbin",
+            "description": "A small spool that holds the lower thread. Supplies the lower thread that combines with the upper thread to form stitches. The bobbin thread forms the underside of every machine stitch.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:32",
+            "title": "Thread Guides",
+            "description": "Small hooks or guides that the upper thread passes through. Direct the thread along the correct path from the spool to the needle. Following the correct threading path helps the machine form stitches properly.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:40",
+            "title": "Take-Up Lever",
+            "description": "A small lever that moves up and down as the machine sews. Controls the movement of the upper thread during each stitch. It helps maintain consistent thread flow as the needle moves.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:48",
+            "title": "Thread Tension Dial",
+            "description": "A dial that controls the tension of the upper thread. Adjusts how tightly the upper thread is pulled during sewing. Correct tension helps the upper and lower threads form balanced, even stitches.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:56",
+            "title": "Stitch Selector",
+            "description": "A dial, button, or screen used to choose a stitch. Selects the stitch pattern the machine will sew. Different stitches are suited to different sewing tasks, such as straight seams, zigzag edges, or decorative stitching.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:04",
+            "title": "Stitch Length & Width",
+            "description": "Controls that adjust the size of the stitches. Stitch length changes how long each stitch is, while stitch width changes how wide stitches such as zigzag are. The right settings help you create the stitch you need for different fabrics and techniques.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:12",
+            "title": "Reverse Lever",
+            "description": "A lever or button that makes the machine sew backward. Reverses the direction of stitching for a short distance. It is commonly used to secure the beginning and end of a seam.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:20",
+            "title": "Handwheel",
+            "description": "The large wheel on the side of the sewing machine. Moves the needle up and down manually for precise needle positioning. It is useful when starting, stopping, turning, or removing fabric.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:28",
+            "title": "Foot Pedal",
+            "description": "A pedal operated with your foot and connected to the sewing machine. Controls the machine's sewing speed. Pressing gently lets you sew slowly and gives you better control, especially when you're learning.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:36",
+            "title": "Needle Plate",
+            "description": "The flat metal plate directly beneath the needle and presser foot. Supports the fabric while you sew and provides an opening for the needle and feed dogs. Many needle plates also have seam guides that help you maintain consistent seam allowances.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:44",
+            "title": "Bobbin Case",
+            "description": "The mechanism that holds and positions the bobbin inside the machine. Keeps the bobbin in place and helps control the lower thread as stitches are formed. A correctly inserted bobbin case is important for smooth, consistent stitching.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:52",
+            "title": "Spool Pin",
+            "description": "A small pin that holds the upper thread spool. Keeps the spool in position while the thread feeds into the machine. It allows the thread to unwind smoothly during sewing.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:00",
+            "title": "Presser Foot Lifter",
+            "description": "A lever that raises and lowers the presser foot. Lifts the presser foot to position or remove fabric and lowers it to hold the fabric while sewing. Lowering the presser foot before sewing helps keep the fabric stable.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:08",
+            "title": "Bobbin Winder",
+            "description": "A small mechanism used to wind thread onto an empty bobbin. Spins the bobbin while transferring thread from the spool. It prepares the lower thread needed for sewing.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:16",
+            "title": "Free Arm",
+            "description": "The narrow section of the machine revealed when the extension table is removed. Provides a smaller sewing surface for narrow or tubular areas. It makes it easier to sew areas such as sleeves, cuffs, and pant legs.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:24",
+            "title": "Extension Table",
+            "description": "A removable platform attached around the sewing machine's base. Provides additional support and a larger working surface for fabric. It makes handling larger pieces of fabric easier and more stable.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:32",
+            "title": "Speed Control",
+            "description": "A slider, button, or control found on some computerized sewing machines. Limits the machine's maximum sewing speed. A slower maximum speed can make it easier for beginners to control the machine.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:40",
+            "title": "Presser Foot Pressure",
+            "description": "A control found on some sewing machines that adjusts how firmly the presser foot presses against the fabric. Changes the pressure applied to the fabric while sewing. Adjusting the pressure can improve fabric feeding, especially with different fabric weights or stretchy materials.",
+            "imageUrl": ""
+          }
+        ]
+      },
+      {
+        "sectionTitle": "How to use",
+        "imageUrl": "",
+        "videoUrl": "",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Wind the Bobbin",
+            "description": "Place thread on the spool pin, guide it around the bobbin guide, and push the bobbin winder to the right to fill it.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:08",
+            "title": "Insert the Bobbin",
+            "description": "Drop the wound bobbin into its case under the needle, pulling the thread through the small tension groove.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:16",
+            "title": "Thread the Upper Path (1 to 3)",
+            "description": "Guide the top thread down through thread guide #1, around #2, and pull it up through #3.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:24",
+            "title": "Hook the Take-Up Lever",
+            "description": "Hook the thread from right to left into the metal take-up lever at the top.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:32",
+            "title": "Thread the Needle",
+            "description": "Pass the thread through the needle bar guide, then thread it through the eye of the needle.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:40",
+            "title": "Catch the Bobbin Thread",
+            "description": "Hold the top thread, turn the handwheel toward you to lower and raise the needle, then pull up the bobbin thread loop.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:48",
+            "title": "Pull Threads Back",
+            "description": "Pull both the upper and bobbin threads toward the back of the presser foot, leaving about 10 cm of thread.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:56",
+            "title": "Set Stitch & Tension",
+            "description": "Select a straight stitch, set the stitch length to about 2.5 mm, and adjust the tension to the recommended setting for your machine.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:04",
+            "title": "Position the Fabric",
+            "description": "Place the fabric under the presser foot and align the edge with the seam guide on the needle plate.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:12",
+            "title": "Lower the Presser Foot",
+            "description": "Lower the presser foot before pressing the foot pedal. Make sure the fabric is positioned correctly before you start sewing.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:20",
+            "title": "Start Sewing Slowly",
+            "description": "Press the foot pedal gently to start sewing. Sew slowly at first to keep the fabric and stitch line under control.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:28",
+            "title": "Guide, Don't Pull",
+            "description": "Let the feed dogs move the fabric forward while you gently guide it. Do not push or pull the fabric as you sew.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:36",
+            "title": "Secure the Seam",
+            "description": "At the beginning and end of the seam, use the reverse lever to sew backward for a few stitches and secure the seam.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:44",
+            "title": "Finish the Seam",
+            "description": "Raise the needle and presser foot, remove the fabric, and cut the thread tails. Check that the stitches are even and secure.",
+            "imageUrl": ""
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Key Points",
+        "imageUrl": "",
+        "videoUrl": "",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Rule 1: Always Lower the Presser Foot",
+            "description": "Never start sewing with the presser foot up. Lowering it engages the thread tension and prevents thread tangles.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:08",
+            "title": "Rule 2: Turn Handwheel Toward You",
+            "description": "Always turn the handwheel toward yourself (counterclockwise). Turning it backward can tangle threads inside the bobbin case.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:16",
+            "title": "Rule 3: Don't Pull or Push Fabric",
+            "description": "Let the feed dogs move the fabric naturally. Pulling or pushing fabric will bend the needle and can cause uneven stitches.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:24",
+            "title": "Rule 4: Leave Thread Tails Behind",
+            "description": "Always leave about 10 cm of upper and bobbin threads pulled toward the back before pressing the pedal to start.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:32",
+            "title": "Rule 5: Change Needles Regularly",
+            "description": "Replace your needle regularly and whenever it becomes bent, dull, or damaged. A worn needle can cause skipped stitches and damage fabric.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:40",
+            "title": "Rule 6: Match Needle to Fabric",
+            "description": "Use the right needle type and size for your fabric and thread. Lightweight fabrics need finer needles, while heavier fabrics may require stronger needles.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:48",
+            "title": "Rule 7: Clean the Dust Regularly",
+            "description": "Remove lint and dust from the needle plate, feed dogs, and bobbin area regularly to keep your machine running smoothly.",
+            "imageUrl": ""
+          },
+          {
+            "time": "00:56",
+            "title": "Rule 8: Keep Your Fingers Away from the Needle",
+            "description": "Keep your fingers away from the needle while the machine is running. Slow down when sewing near small or detailed areas.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:04",
+            "title": "Rule 9: Stop Before Adjusting Anything",
+            "description": "Stop the machine and remove your foot from the pedal before changing the needle, presser foot, bobbin, or thread.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:12",
+            "title": "Rule 10: Raise the Needle Before Removing Fabric",
+            "description": "Raise the needle to its highest position before lifting the presser foot and pulling the fabric out.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:20",
+            "title": "Rule 11: Use the Right Presser Foot",
+            "description": "Different techniques may require different presser feet. Check that the correct foot is securely attached before sewing.",
+            "imageUrl": ""
+          },
+          {
+            "time": "01:28",
+            "title": "Rule 12: Turn Off the Machine When You're Done",
+            "description": "Turn off and unplug the machine when cleaning, changing parts, or leaving it unattended.",
+            "imageUrl": ""
+          }
+        ]
+      }
+    ]
+  }
+]
