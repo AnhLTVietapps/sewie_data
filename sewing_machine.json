@@ -6,14 +6,14 @@
     "sections": [
       {
         "sectionTitle": "Instructions",
-        "imageUrl": "",
-        "videoUrl": "",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Image%20Section/sm_instruction.png",
+        "videoUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/master.m3u8",
         "timelines": [
           {
             "time": "00:00",
             "title": "Needle",
             "description": "A small, sharp metal needle that moves up and down through the fabric. Carries the upper thread through the fabric to form each stitch. Different fabrics require different needle types and sizes.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/thumb.webp"
           },
           {
             "time": "00:08",
@@ -139,7 +139,7 @@
       },
       {
         "sectionTitle": "How to use",
-        "imageUrl": "",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Image%20Section/sm_howtouse.png",
         "videoUrl": "",
         "timelines": [
           {
@@ -230,7 +230,7 @@
       },
       {
         "sectionTitle": "Key Points",
-        "imageUrl": "",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Image%20Section/sm_notes.png",
         "videoUrl": "",
         "timelines": [
           {
