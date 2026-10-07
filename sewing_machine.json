@@ -11,128 +11,152 @@
         "timelines": [
           {
             "time": "00:00",
-            "title": "Needle",
-            "description": "A small, sharp metal needle that moves up and down through the fabric. Carries the upper thread through the fabric to form each stitch. Different fabrics require different needle types and sizes.",
-            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/thumb.webp"
-          },
-          {
-            "time": "00:08",
-            "title": "Presser Foot",
-            "description": "A small attachment that sits above the needle plate and holds the fabric in place. Presses the fabric against the feed dogs while you sew. It keeps the fabric stable and helps you sew smoothly and accurately.",
+            "title": "Start/Stop Button & Foot Pedal",
+            "description": "The Start/Stop button starts and stops the machine when the foot pedal is not connected. When the foot pedal is connected, use it to control sewing.",
             "imageUrl": ""
           },
           {
-            "time": "00:16",
-            "title": "Feed Dogs",
-            "description": "Small metal teeth located underneath the presser foot. Move the fabric forward as the machine stitches. They control fabric movement, so you generally don't need to push or pull the fabric.",
-            "imageUrl": ""
-          },
-          {
-            "time": "00:24",
-            "title": "Bobbin",
-            "description": "A small spool that holds the lower thread. Supplies the lower thread that combines with the upper thread to form stitches. The bobbin thread forms the underside of every machine stitch.",
-            "imageUrl": ""
-          },
-          {
-            "time": "00:32",
-            "title": "Thread Guides",
-            "description": "Small hooks or guides that the upper thread passes through. Direct the thread along the correct path from the spool to the needle. Following the correct threading path helps the machine form stitches properly.",
-            "imageUrl": ""
-          },
-          {
-            "time": "00:40",
-            "title": "Take-Up Lever",
-            "description": "A small lever that moves up and down as the machine sews. Controls the movement of the upper thread during each stitch. It helps maintain consistent thread flow as the needle moves.",
+            "time": "00:35",
+            "title": "Reverse Button",
+            "description": "Reverses the direction of stitching while pressed. It is mainly used at the beginning and end of a seam to secure the stitches.",
             "imageUrl": ""
           },
           {
             "time": "00:48",
-            "title": "Thread Tension Dial",
-            "description": "A dial that controls the tension of the upper thread. Adjusts how tightly the upper thread is pulled during sewing. Correct tension helps the upper and lower threads form balanced, even stitches.",
+            "title": "Auto-Lock Button",
+            "description": "Creates locking stitches in place without sewing backward. It is useful for securing the beginning or end of a seam.",
             "imageUrl": ""
           },
           {
-            "time": "00:56",
-            "title": "Stitch Selector",
-            "description": "A dial, button, or screen used to choose a stitch. Selects the stitch pattern the machine will sew. Different stitches are suited to different sewing tasks, such as straight seams, zigzag edges, or decorative stitching.",
+            "time": "00:59",
+            "title": "Needle Up/Down Button",
+            "description": "Raises or lowers the needle with a button press. It helps position the needle precisely when starting, stopping, or turning fabric.",
             "imageUrl": ""
           },
           {
-            "time": "01:04",
-            "title": "Stitch Length & Width",
-            "description": "Controls that adjust the size of the stitches. Stitch length changes how long each stitch is, while stitch width changes how wide stitches such as zigzag are. The right settings help you create the stitch you need for different fabrics and techniques.",
+            "time": "01:13",
+            "title": "Thread Cutter Button",
+            "description": "Automatically cuts the upper and bobbin threads when pressed. It saves time when finishing a seam.",
             "imageUrl": ""
           },
           {
-            "time": "01:12",
-            "title": "Reverse Lever",
-            "description": "A lever or button that makes the machine sew backward. Reverses the direction of stitching for a short distance. It is commonly used to secure the beginning and end of a seam.",
+            "time": "01:24",
+            "title": "Manual Thread Cutter",
+            "description": "A built-in blade used to cut the threads manually. It provides a quick way to trim thread tails when the automatic cutter is not used.",
             "imageUrl": ""
           },
           {
-            "time": "01:20",
-            "title": "Handwheel",
-            "description": "The large wheel on the side of the sewing machine. Moves the needle up and down manually for precise needle positioning. It is useful when starting, stopping, turning, or removing fabric.",
+            "time": "01:30",
+            "title": "Twin Needle Button",
+            "description": "Activates the twin-needle setting for sewing with two needles at the same time. It is used to create two parallel rows of stitching.",
             "imageUrl": ""
           },
           {
-            "time": "01:28",
-            "title": "Foot Pedal",
-            "description": "A pedal operated with your foot and connected to the sewing machine. Controls the machine's sewing speed. Pressing gently lets you sew slowly and gives you better control, especially when you're learning.",
+            "time": "01:38",
+            "title": "Speed Control Slider",
+            "description": "Controls the maximum sewing speed of the machine. Moving the slider to a slower setting gives you more control while sewing.",
             "imageUrl": ""
           },
           {
-            "time": "01:36",
-            "title": "Needle Plate",
-            "description": "The flat metal plate directly beneath the needle and presser foot. Supports the fabric while you sew and provides an opening for the needle and feed dogs. Many needle plates also have seam guides that help you maintain consistent seam allowances.",
+            "time": "01:48",
+            "title": "Touch Panel",
+            "description": "A control panel used to select stitches and adjust settings such as stitch length and width. It lets you quickly customize the machine for different sewing tasks.",
             "imageUrl": ""
           },
           {
-            "time": "01:44",
-            "title": "Bobbin Case",
-            "description": "The mechanism that holds and positions the bobbin inside the machine. Keeps the bobbin in place and helps control the lower thread as stitches are formed. A correctly inserted bobbin case is important for smooth, consistent stitching.",
+            "time": "01:56",
+            "title": "Bobbin Winder Spindle & Stopper",
+            "description": "The spindle holds the bobbin while it is being wound. The stopper helps stop the winding process when the bobbin is full.",
             "imageUrl": ""
           },
           {
-            "time": "01:52",
-            "title": "Spool Pin",
-            "description": "A small pin that holds the upper thread spool. Keeps the spool in position while the thread feeds into the machine. It allows the thread to unwind smoothly during sewing.",
+            "time": "02:05",
+            "title": "Spool Pin & Spool Pin Cap",
+            "description": "The spool pin holds the upper thread spool in place. The spool pin cap keeps the spool secure while the thread unwinds during sewing.",
             "imageUrl": ""
           },
           {
-            "time": "02:00",
-            "title": "Presser Foot Lifter",
-            "description": "A lever that raises and lowers the presser foot. Lifts the presser foot to position or remove fabric and lowers it to hold the fabric while sewing. Lowering the presser foot before sewing helps keep the fabric stable.",
-            "imageUrl": ""
-          },
-          {
-            "time": "02:08",
-            "title": "Bobbin Winder",
-            "description": "A small mechanism used to wind thread onto an empty bobbin. Spins the bobbin while transferring thread from the spool. It prepares the lower thread needed for sewing.",
-            "imageUrl": ""
-          },
-          {
-            "time": "02:16",
-            "title": "Free Arm",
-            "description": "The narrow section of the machine revealed when the extension table is removed. Provides a smaller sewing surface for narrow or tubular areas. It makes it easier to sew areas such as sleeves, cuffs, and pant legs.",
-            "imageUrl": ""
-          },
-          {
-            "time": "02:24",
-            "title": "Extension Table",
-            "description": "A removable platform attached around the sewing machine's base. Provides additional support and a larger working surface for fabric. It makes handling larger pieces of fabric easier and more stable.",
+            "time": "02:17",
+            "title": "Presser Foot Pressure Dial",
+            "description": "Controls how much pressure the presser foot applies to the fabric. Adjusting the pressure can help prevent fabric from slipping or stretching while sewing.",
             "imageUrl": ""
           },
           {
             "time": "02:32",
-            "title": "Speed Control",
-            "description": "A slider, button, or control found on some computerized sewing machines. Limits the machine's maximum sewing speed. A slower maximum speed can make it easier for beginners to control the machine.",
+            "title": "Thread Guide",
+            "description": "Guides the thread along the correct path through the machine. It helps keep the thread moving smoothly during threading and sewing.",
             "imageUrl": ""
           },
           {
-            "time": "02:40",
-            "title": "Presser Foot Pressure",
-            "description": "A control found on some sewing machines that adjusts how firmly the presser foot presses against the fabric. Changes the pressure applied to the fabric while sewing. Adjusting the pressure can improve fabric feeding, especially with different fabric weights or stretchy materials.",
+            "time": "02:43",
+            "title": "Thread Take-Up Lever",
+            "description": "Moves up and down as the machine sews and controls the movement of the upper thread. The thread must pass through it when threading the machine.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:51",
+            "title": "Thread Tension Dial",
+            "description": "Controls how tightly the upper thread is pulled during sewing. Adjusting the tension helps balance the upper and bobbin threads for even stitches.",
+            "imageUrl": ""
+          },
+          {
+            "time": "03:06",
+            "title": "Foot Holder",
+            "description": "Holds the presser foot securely in place. It allows you to attach and change different presser feet for different sewing tasks.",
+            "imageUrl": ""
+          },
+          {
+            "time": "03:16",
+            "title": "Needle Clamp Screw",
+            "description": "Holds the needle securely in the needle clamp. Loosen it to remove the needle and tighten it after inserting a new one.",
+            "imageUrl": ""
+          },
+          {
+            "time": "03:26",
+            "title": "Needle Plate",
+            "description": "The flat metal plate beneath the needle and presser foot. It supports the fabric and includes seam guides to help maintain consistent seam allowances.",
+            "imageUrl": ""
+          },
+          {
+            "time": "03:43",
+            "title": "Hook Cover Plate",
+            "description": "Covers the area where the bobbin sits. It can be removed to access the bobbin area for changing the bobbin or cleaning the machine.",
+            "imageUrl": ""
+          },
+          {
+            "time": "03:52",
+            "title": "Feed Dogs",
+            "description": "Small metal teeth beneath the presser foot that grip and move the fabric forward as you sew. They help maintain smooth and consistent fabric movement.",
+            "imageUrl": ""
+          },
+          {
+            "time": "04:10",
+            "title": "Accessories Drawer",
+            "description": "A small storage compartment for presser feet and other sewing machine accessories. It can be removed to provide access to the free arm.",
+            "imageUrl": ""
+          },
+          {
+            "time": "04:22",
+            "title": "Free Arm",
+            "description": "The narrow sewing area revealed when the accessories drawer or extension section is removed. It makes it easier to sew small or tubular areas such as sleeves and cuffs.",
+            "imageUrl": ""
+          },
+          {
+            "time": "04:33",
+            "title": "Needle Threader",
+            "description": "A built-in mechanism that helps guide the thread through the eye of the needle. It makes threading the needle easier, especially for beginners.",
+            "imageUrl": ""
+          },
+          {
+            "time": "04:43",
+            "title": "Presser Foot Lifter",
+            "description": "Raises and lowers the presser foot. Lift it to position or remove fabric, and lower it to hold the fabric securely while sewing.",
+            "imageUrl": ""
+          },
+          {
+            "time": "04:51",
+            "title": "Buttonhole Lever",
+            "description": "A lever that works with the buttonhole foot to help the machine sew a buttonhole. Lower it when using the machine's automatic buttonhole function.",
             "imageUrl": ""
           }
         ]
