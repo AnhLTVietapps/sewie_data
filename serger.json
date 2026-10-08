@@ -1,0 +1,49 @@
+{
+  "sectionTitle": "Serger",
+  "imageUrl": "",
+  "videoUrl": "",
+  "timelines": [
+    {
+      "time": "00:00",
+      "title": "Prepare",
+      "description": "Remove all threads and needles from the serger before starting maintenance or replacing any parts.",
+      "imageUrl": ""
+    },
+    {
+      "time": "01:43",
+      "title": "Clean",
+      "description": "Remove dust, lint, and fabric scraps from inside the serger to keep it clean and running smoothly.",
+      "imageUrl": ""
+    },
+    {
+      "time": "02:16",
+      "title": "Replace the Knives",
+      "description": "Replace damaged or dull knives and install the new lower and upper blades securely in the correct position.",
+      "imageUrl": ""
+    },
+    {
+      "time": "06:20",
+      "title": "Replace the Needles",
+      "description": "Insert the needles with the flat side facing the back, push them fully up, then tighten them securely.",
+      "imageUrl": ""
+    },
+    {
+      "time": "07:08",
+      "title": "Thread the Serger",
+      "description": "Follow the numbered and color-coded threading paths in the correct order, using tweezers to guide the thread through tight areas.",
+      "imageUrl": ""
+    },
+    {
+      "time": "12:20",
+      "title": "Adjust the Tension",
+      "description": "Test the stitch on scrap fabric and make small tension adjustments until the threads sit evenly along the fabric edge.",
+      "imageUrl": ""
+    },
+    {
+      "time": "15:50",
+      "title": "Finish the Thread Tails",
+      "description": "Tuck the serger tail back into the stitches with a hook tool, then trim the excess thread to keep the seam secure.",
+      "imageUrl": ""
+    }
+  ]
+}
