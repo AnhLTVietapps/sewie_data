@@ -7,157 +7,157 @@
       {
         "sectionTitle": "Instructions",
         "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Image%20Section/sm_instruction.png",
-        "videoUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/banner_sewing_machine_instruction/master.m3u8",
+        "videoUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction/master.m3u8",
         "timelines": [
           {
             "time": "00:00",
             "title": "Start/Stop Button & Foot Pedal",
             "description": "The Start/Stop button starts and stops the machine when the foot pedal is not connected. When the foot pedal is connected, use it to control sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/01_0011s_start-stop-foot-pedal.png"
           },
           {
             "time": "00:35",
             "title": "Reverse Button",
             "description": "Reverses the direction of stitching while pressed. It is mainly used at the beginning and end of a seam to secure the stitches.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/02_0035s_reverse-button.png"
           },
           {
             "time": "00:48",
             "title": "Auto-Lock Button",
             "description": "Creates locking stitches in place without sewing backward. It is useful for securing the beginning or end of a seam.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/03_0048s_autolock-button.png"
           },
           {
             "time": "00:59",
             "title": "Needle Up/Down Button",
             "description": "Raises or lowers the needle with a button press. It helps position the needle precisely when starting, stopping, or turning fabric.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/04_0059s_needle-up-down-button.png"
           },
           {
             "time": "01:13",
             "title": "Thread Cutter Button",
             "description": "Automatically cuts the upper and bobbin threads when pressed. It saves time when finishing a seam.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/05_0113s_thread-cutter-button.png"
           },
           {
             "time": "01:24",
             "title": "Manual Thread Cutter",
             "description": "A built-in blade used to cut the threads manually. It provides a quick way to trim thread tails when the automatic cutter is not used.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/06_0124s_manual-thread-cutter.png"
           },
           {
             "time": "01:30",
             "title": "Twin Needle Button",
             "description": "Activates the twin-needle setting for sewing with two needles at the same time. It is used to create two parallel rows of stitching.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/07_0130s_twin-needle-button.png"
           },
           {
             "time": "01:38",
             "title": "Speed Control Slider",
             "description": "Controls the maximum sewing speed of the machine. Moving the slider to a slower setting gives you more control while sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/08_0138s_speed-control-slider.png"
           },
           {
             "time": "01:48",
             "title": "Touch Panel",
             "description": "A control panel used to select stitches and adjust settings such as stitch length and width. It lets you quickly customize the machine for different sewing tasks.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/09_0148s_touch-panel.png"
           },
           {
             "time": "01:56",
             "title": "Bobbin Winder Spindle & Stopper",
             "description": "The spindle holds the bobbin while it is being wound. The stopper helps stop the winding process when the bobbin is full.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/10_0156s_bobbin-winder-spindle-and-stopper.png"
           },
           {
             "time": "02:05",
             "title": "Spool Pin & Spool Pin Cap",
             "description": "The spool pin holds the upper thread spool in place. The spool pin cap keeps the spool secure while the thread unwinds during sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/11_0205s_spool-pin-and-spool-pin-cap.png"
           },
           {
             "time": "02:17",
             "title": "Presser Foot Pressure Dial",
             "description": "Controls how much pressure the presser foot applies to the fabric. Adjusting the pressure can help prevent fabric from slipping or stretching while sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/12_0217s_presser-foot-pressure-dial.png"
           },
           {
             "time": "02:32",
             "title": "Thread Guide",
             "description": "Guides the thread along the correct path through the machine. It helps keep the thread moving smoothly during threading and sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/13_0232s_thread-guide.png"
           },
           {
             "time": "02:43",
             "title": "Thread Take-Up Lever",
             "description": "Moves up and down as the machine sews and controls the movement of the upper thread. The thread must pass through it when threading the machine.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/14_0243s_thread-take-up-lever.png"
           },
           {
             "time": "02:51",
             "title": "Thread Tension Dial",
             "description": "Controls how tightly the upper thread is pulled during sewing. Adjusting the tension helps balance the upper and bobbin threads for even stitches.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/15_0251s_thread-tension-dial.png"
           },
           {
             "time": "03:06",
             "title": "Foot Holder",
             "description": "Holds the presser foot securely in place. It allows you to attach and change different presser feet for different sewing tasks.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/16_0306s_foot-holder.png"
           },
           {
             "time": "03:16",
             "title": "Needle Clamp Screw",
             "description": "Holds the needle securely in the needle clamp. Loosen it to remove the needle and tighten it after inserting a new one.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/17_0316s_needle-clamp-screw.png"
           },
           {
             "time": "03:26",
             "title": "Needle Plate",
             "description": "The flat metal plate beneath the needle and presser foot. It supports the fabric and includes seam guides to help maintain consistent seam allowances.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/18_0326s_needle-plate.png"
           },
           {
             "time": "03:43",
             "title": "Hook Cover Plate",
             "description": "Covers the area where the bobbin sits. It can be removed to access the bobbin area for changing the bobbin or cleaning the machine.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/19_0343s_hook-cover-plate.png"
           },
           {
             "time": "03:52",
             "title": "Feed Dogs",
             "description": "Small metal teeth beneath the presser foot that grip and move the fabric forward as you sew. They help maintain smooth and consistent fabric movement.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/20_0352s_feed-dogs.png"
           },
           {
             "time": "04:10",
             "title": "Accessories Drawer",
             "description": "A small storage compartment for presser feet and other sewing machine accessories. It can be removed to provide access to the free arm.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/21_0410s_accessories-draw.png"
           },
           {
             "time": "04:22",
             "title": "Free Arm",
             "description": "The narrow sewing area revealed when the accessories drawer or extension section is removed. It makes it easier to sew small or tubular areas such as sleeves and cuffs.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/22_0422s_free-arm.png"
           },
           {
             "time": "04:33",
             "title": "Needle Threader",
             "description": "A built-in mechanism that helps guide the thread through the eye of the needle. It makes threading the needle easier, especially for beginners.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/23_0433s_needle-threader.png"
           },
           {
             "time": "04:43",
             "title": "Presser Foot Lifter",
             "description": "Raises and lowers the presser foot. Lift it to position or remove fabric, and lower it to hold the fabric securely while sewing.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/24_0444s_presser-foot-lifter.png"
           },
           {
             "time": "04:51",
             "title": "Buttonhole Lever",
             "description": "A lever that works with the buttonhole foot to help the machine sew a buttonhole. Lower it when using the machine's automatic buttonhole function.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Machine/Instruction%20Image/25_0451s_buttonhole-lever.png"
           }
         ]
       },
