@@ -87,33 +87,33 @@
     "sections": [
       {
         "sectionTitle": "Print Pattern",
-        "imageUrl": "",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/Print%20pattern/banner.png",
         "videoUrl": "",
         "timelines": [
           {
             "time": "00:00",
             "title": "Print at Home — A4 / US Letter",
             "description": "Print at Home: The pattern is divided into multiple A4 or US Letter pages. Print the pages, trim the margins, and tape them together using the numbered guides, like assembling a puzzle.\nCheck the Print Scale: Select Actual Size or 100% scale instead of Fit to Page. Measure the test square, if provided, to make sure the pattern prints at the correct size.\nAssemble the Pattern: Align the numbered guides and matching marks carefully before taping the pages together. Check that the pattern lines connect correctly across the sheets.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/Print%20pattern/print_at_home.png"
           },
           {
             "time": "02:30",
             "title": "Large-Format / Copyshop Printing — A0",
             "description": "Print on Large Sheets: The pattern is printed on one to three large A0 sheets, depending on the pattern layout, without needing to tape multiple pages together.\nChoose a Copy Shop: Send the A0 pattern file to a print shop that handles technical or architectural drawings. Confirm that the shop can print the required paper size.\nCheck the Printed Pattern: Make sure the print scale is correct and that the pattern dimensions match the original file before cutting the pieces out.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/Print%20pattern/large_format_a0.png"
           },
           {
             "time": "05:00",
             "title": "Projector Sewing",
             "description": "Project Directly onto Fabric: Use a ceiling-mounted projector to display the digital pattern directly onto the fabric, eliminating the need for printed paper.\nCalibrate the Projector: Adjust the projector position and zoom until the pattern appears at the correct scale. Use the pattern's test square or measurement guide to verify accuracy.\nTrace and Cut: Align the projected pattern with the fabric grain, select the correct size, and mark or cut the fabric according to the pattern instructions.",
-            "imageUrl": ""
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/Print%20pattern/projector_sewing.png"
           }
         ]
       },
       {
         "title": "How to Use",
-        "imageUrl": "",
-        "videoUrl": "",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/How%20to%20use/banner.png",
+        "videoUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Instruction%20guide/How%20to%20use/how_to_use/master.m3u8",
         "description": ""
       }
     ]
