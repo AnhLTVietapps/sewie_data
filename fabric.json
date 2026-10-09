@@ -1,0 +1,43 @@
+{
+  "sectionTitle": "Fabric Types",
+  "imageUrl": "",
+  "videoUrl": "",
+  "timelines": [
+    {
+      "time": "00:00",
+      "title": "Linen",
+      "description": "Breathable, lightweight, and naturally textured. Suitable for summer dresses, relaxed shirts, pants, and aprons.",
+      "imageUrl": ""
+    },
+    {
+      "time": "00:17",
+      "title": "Woven Cotton",
+      "description": "Soft, breathable, and easy to sew, with little stretch. Suitable for tote bags, tops, pajama sets, and beginner practice pieces.",
+      "imageUrl": ""
+    },
+    {
+      "time": "00:34",
+      "title": "Rayon / Viscose",
+      "description": "Soft, lightweight, and fluid, with a beautiful drape. Suitable for flowy dresses, breezy skirts, and lightweight blouses.",
+      "imageUrl": ""
+    },
+    {
+      "time": "00:50",
+      "title": "Polyester",
+      "description": "Durable, wrinkle-resistant, and available in various textures and finishes. Suitable for jackets, structured skirts, linings, and everyday wear.",
+      "imageUrl": ""
+    },
+    {
+      "time": "01:06",
+      "title": "Knit / Jersey",
+      "description": "Soft, stretchy, and comfortable, allowing easy movement. Suitable for T-shirts, loungewear, baby clothes, and leggings.",
+      "imageUrl": ""
+    },
+    {
+      "time": "01:22",
+      "title": "Denim / Canvas",
+      "description": "Strong, durable, and generally more structured than lightweight fabrics. Suitable for jackets, jeans, tote bags, aprons, and vests.",
+      "imageUrl": ""
+    }
+  ]
+}
