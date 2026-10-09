@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Straight Stitch",
+    "videoUrl": "",
+    "information": "A straight stitch is the most basic and commonly used stitch on a sewing machine. It forms a straight line of stitches to join two or more layers of fabric together. This stitch is essential for sewing seams, attaching fabric pieces, topstitching, and completing everyday sewing projects such as bags, pillowcases, and clothing. Stitch length can be adjusted depending on the fabric and the purpose of the seam.",
+    "notes": [
+      "Keep the fabric edge aligned with the seam guide.",
+      "Maintain a steady sewing speed.",
+      "Secure the beginning and end of the seam with backstitching."
+    ]
+  },
+  {
+    "title": "Zigzag Stitch",
+    "videoUrl": "",
+    "information": "A zigzag stitch moves the needle from side to side as the fabric feeds through the machine, creating a zigzag line. It is commonly used to finish raw edges and reduce fraying, sew decorative details, and provide flexibility when working with stretchy fabrics. Stitch width and length can be adjusted to create different effects, from narrow zigzags to wider edge finishes. For stretchy fabrics, choose a suitable needle and test the stitch on a scrap first.",
+    "notes": [
+      "Test the stitch width and length on scrap fabric.",
+      "Keep the fabric edge within the zigzag stitches.",
+      "Use a suitable needle and setting for stretchy fabrics."
+    ]
+  },
+  {
+    "title": "Plain Seam (Pressed Open)",
+    "videoUrl": "",
+    "information": "A plain seam joins two pieces of fabric with their right sides facing each other, then stitches them together along the seam line. After sewing, the seam allowances are pressed open, with one allowance on each side of the seam. This creates a flatter finish and helps distribute bulk evenly. It is commonly used for garments, skirts, dresses, and other projects where a neat, flat seam is desirable.",
+    "notes": [
+      "Place the right sides of the fabric together.",
+      "Keep the seam allowance consistent.",
+      "Press both seam allowances open after sewing."
+    ]
+  },
+  {
+    "title": "Plain Seam (Pressed to One Side)",
+    "videoUrl": "",
+    "information": "A plain seam joins two pieces of fabric with their right sides facing each other. After stitching, both seam allowances are pressed in the same direction instead of being opened. This method is simple and can help stabilize the seam, making it useful for everyday garments and projects where the fabric or construction benefits from having the allowances lie together on one side. The seam should be pressed neatly to reduce unwanted ridges.",
+    "notes": [
+      "Align the fabric edges before sewing.",
+      "Keep the seam allowance even.",
+      "Press both seam allowances in the same direction."
+    ]
+  },
+  {
+    "title": "Basic Hem",
+    "videoUrl": "",
+    "information": "A basic hem finishes the raw edge of a garment or fabric project by folding the edge inward and stitching it in place. The folded edge encloses the raw fabric, creating a cleaner appearance and helping prevent fraying. Hems are commonly used on skirts, dresses, pants, sleeves, and shirts. The hem allowance and stitch placement can vary depending on the fabric weight, garment design, and desired finish.",
+    "notes": [
+      "Measure and mark the hem allowance evenly.",
+      "Press the fold before sewing.",
+      "Stitch close to the folded edge for a neat finish."
+    ]
+  },
+  {
+    "title": "Topstitch",
+    "videoUrl": "",
+    "information": "Topstitching is a line of stitching sewn on the visible side of a garment or sewing project, usually close to a seam or folded edge. It can hold seam allowances in place, reinforce areas that receive frequent use, and add a decorative detail. Topstitching is often seen around collars, pockets, waistbands, cuffs, bag edges, and denim seams. A consistent distance from the edge helps create a professional-looking finish.",
+    "notes": [
+      "Use a consistent distance from the edge.",
+      "Sew slowly around corners and curves.",
+      "Practice keeping the stitching line straight and even."
+    ]
+  },
+  {
+    "title": "Wavy Stitch",
+    "videoUrl": "",
+    "information": "A wavy stitch follows a gentle, wave-shaped line rather than a straight path. It is useful for decorative stitching, curved design details, and practicing how to guide fabric smoothly under the needle. Beginners can draw a wavy guideline on scrap fabric and follow it while sewing, gradually learning to control direction and spacing. The goal is to create smooth curves and consistent stitches rather than sharp, uneven turns.",
+    "notes": [
+      "Draw a guideline before you begin.",
+      "Guide the fabric gradually along the curves.",
+      "Keep your sewing speed slow and consistent."
+    ]
+  },
+  {
+    "title": "Spiral Stitch",
+    "videoUrl": "",
+    "information": "A spiral stitch follows a curved line that winds inward or outward from a center point. It is mainly a practice and decorative technique that helps develop fabric control, coordination, and confidence when sewing continuous curves. Spiral stitching can also be used for creative details on suitable fabric projects. Starting with a large spiral makes it easier to learn how to turn the fabric gradually before attempting tighter curves.",
+    "notes": [
+      "Draw a spiral guideline on scrap fabric.",
+      "Turn the fabric gradually as you sew.",
+      "Slow down when approaching tighter curves."
+    ]
+  },
+  {
+    "title": "Gathering Stitch",
+    "videoUrl": "",
+    "information": "Gathering creates small, soft folds in fabric so that a longer piece can fit along a shorter edge. It is usually made with long machine stitches, then the thread tails are gently pulled to draw the fabric together. Gathering is commonly used for full skirts, puff sleeves, ruffles, and decorative details on dresses and tops. Before attaching the gathered piece, distribute the folds evenly to achieve a balanced result.",
+    "notes": [
+      "Use a long stitch length and leave long thread tails.",
+      "Pull the bobbin threads gently to create gathers.",
+      "Distribute the gathers evenly before attaching the fabric."
+    ]
+  },
+  {
+    "title": "Pleat",
+    "videoUrl": "",
+    "information": "A pleat is formed by folding fabric along marked lines and bringing the folds together in a planned direction. The folds may be pressed and stitched in place, depending on the design. Pleats add shape, structure, movement, or controlled fullness to garments such as skirts, dresses, trousers, and shirts. Accurate marking and folding are important because uneven pleats can affect the garment's appearance and fit.",
+    "notes": [
+      "Mark the pleat lines clearly before folding.",
+      "Match the marks and pin the fold in place.",
+      "Press the pleat before stitching when required."
+    ]
+  },
+  {
+    "title": "Dart",
+    "videoUrl": "",
+    "information": "A dart is a tapered fold of fabric stitched to remove excess fullness and shape a garment around the body's curves. It is commonly used at the bust, waist, shoulders, and back to create a closer, more contoured fit. Darts are marked on the pattern and transferred to the fabric before sewing. The stitching usually starts at the wider end and gradually tapers to the point, helping the finished garment lie smoothly against the body.",
+    "notes": [
+      "Transfer the dart markings accurately.",
+      "Stitch from the wider end toward the point.",
+      "Avoid backstitching at the tip; tie the thread tails securely instead."
+    ]
+  }
+]
