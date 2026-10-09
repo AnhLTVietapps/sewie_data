@@ -1,79 +1,79 @@
 {
   "sectionTitle": "Other Tools",
-  "imageUrl": "",
-  "videoUrl": "",
+  "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/Banner_other_tools.png",
+  "videoUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Other_tools/master.m3u8",
   "timelines": [
     {
       "time": "00:00",
       "title": "Pins",
       "description": "Sharp sewing pins used to hold fabric, patterns, and seams securely in place before and during sewing.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/1_Pins.png"
     },
     {
       "time": "00:30",
       "title": "Clips",
       "description": "Small hinged clips that grip fabric layers without piercing them, especially useful for thick fabrics, curves, and delicate materials.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/2_Clips.png"
     },
     {
       "time": "01:01",
       "title": "Pins Cushion",
       "description": "A padded cushion designed to safely store and organize sewing pins while keeping them easy to reach.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/3_Pins%20Cushion.png"
     },
     {
       "time": "01:11",
       "title": "Scissors",
       "description": "Sharp fabric scissors designed to cut fabric, pattern pieces, and larger sections cleanly and accurately.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/4_Scissors.png"
     },
     {
       "time": "01:25",
       "title": "Rotary Cutter",
       "description": "A handheld tool with a circular blade that rolls across fabric, making smooth and precise cuts, especially through multiple layers.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/5_Rotary%20Cutter.png"
     },
     {
       "time": "01:51",
       "title": "Giant Ruler & Small Ruler",
       "description": "Sewing rulers used to measure fabric, check dimensions, mark seam lines, and create accurate straight or angled lines.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/6_Rulers.png"
     },
     {
       "time": "02:30",
       "title": "Thread Snips",
       "description": "Small, sharp scissors designed to quickly trim thread tails, loose threads, and small fabric ends.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/7_Thread%20Snips.png"
     },
     {
       "time": "02:44",
       "title": "Tape Measure",
       "description": "A flexible measuring tool used to take body measurements and measure fabric, patterns, and curved areas.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/8_Tape%20Measure.png"
     },
     {
       "time": "02:58",
       "title": "Iron",
       "description": "A heated tool used to remove wrinkles and press seams, hems, and fabric folds for a cleaner finish.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/9_Iron.png"
     },
     {
       "time": "03:09",
       "title": "Hot Ruler",
       "description": "A heat-resistant ruler that helps measure and create accurate folds, hems, and seam allowances while pressing with heat.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/9.1_Hot%20Ruler.png"
     },
     {
       "time": "03:22",
       "title": "Bias Tape Maker",
       "description": "A tool that folds fabric strips evenly to create consistent bias tape for binding edges, seams, and necklines.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/9.2_Bias%20Tape%20Maker.png"
     },
     {
       "time": "03:38",
       "title": "Tailor's Chalk",
       "description": "A temporary fabric-marking tool used to mark sewing lines, darts, hems, and placement points before sewing.",
-      "imageUrl": ""
+      "imageUrl": "https://may.sewie.cloud/Learning_New/Other%20Tools/Images/9.3_Tailor_s%20Chalk.png"
     }
   ]
 }
