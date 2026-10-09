@@ -1,0 +1,659 @@
+[
+    {
+        "name": "Everyday Floral Scrunchie",
+        "level": "Beginner",
+        "time": "15 min",
+        "finishedSize": "Outside diameter: 6\". Elastic ring thickness: 2.75\"",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "Main Fabric",
+                "description":
+                    "Lightweight woven cotton, satin, linen, or upcycled fabric"
+            },
+            {
+                "title": "Materials Needed",
+                "description":
+                    "Lightweight woven cotton, satin, linen, or upcycled fabric\nOne fabric strip measuring 27.5\" x 6\"\nElastic band\nThread"
+            },
+            {
+                "title": "Techniques Required",
+                "description":
+                    "Straight Stitching, Tube Turning, Elastic Insertion, Topstitching"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf":
+            "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
+        "preview":
+            "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
+        "video":
+            "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
+        "videoPreview":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
+        "videoPreviewImage":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "Cut and Prepare Fabric",
+                "content": "Cut one fabric strip measuring 27.5\" x 6\".",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Use a rotary cutter and ruler to keep the strip edges straight and ensure the finished scrunchie has an even shape."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "Sew the Short Ends Together",
+                "content":
+                    "Place the fabric right sides together and sew the two short ends together to form a fabric loop.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Make sure the fabric is not twisted before sewing the ends together, or the finished scrunchie will have an uneven shape."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "Sew the Tube",
+                "content":
+                    "Fold the loop in half lengthwise to create four fabric layers. Sew along the outer two layers while keeping the inner two layers tucked inside and unsewn. As you sew, continuously pull the inner fabric through the tube to expose the next section to be stitched. Continue sewing around the loop, leaving a 2-inch opening for turning. Turn the fabric right side out through the opening.",
+                "tip": {
+                    "type": "warning",
+                    "text":
+                        "Be careful not to accidentally catch the inner fabric layers in the seam, as this will prevent the tube from turning correctly."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "Insert the Elastic",
+                "content":
+                    "Thread the elastic through the opening from one end to the other. Tie the elastic ends together securely and tuck the knot inside the fabric tube. Topstitch the opening closed to complete the scrunchie.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Hold both elastic ends securely while threading to prevent one end from slipping back inside the fabric tube."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "Step 1: Cut - Prepare",
+                "time": "00:06:00"
+            },
+            {
+                "title": "Step 2: Sew",
+                "time": "00:18:00"
+            },
+            {
+                "title": "Step 3: Insert Elastic",
+                "time": "03:25:00"
+            },
+            {
+                "title": "Step 4: Sew",
+                "time": "04:03:00"
+            }
+        ]
+    },
+    {
+        "name": "Cozy Puffed Coaster",
+        "level": "Beginner",
+        "time": "15 min",
+        "finishedSize": "4\" x 4\"",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "Main Fabric",
+                "description":
+                    "Cotton, quilting cotton, linen, or upcycled fabric scraps"
+            },
+            {
+                "title": "Materials Needed",
+                "description":
+                    "Cotton, quilting cotton, linen, or upcycled fabric scraps\nPolyester fiberfill or foam filling\nHand sewing needle\nThread"
+            },
+            {
+                "title": "Techniques Required",
+                "description":
+                    "Straight Stitching, Turning, Stuffing, Ladder Stitch"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf":
+            "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
+        "preview":
+            "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
+        "video":
+            "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
+        "videoPreview":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
+        "videoPreviewImage":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "Cut and Prepare Fabric",
+                "content":
+                    "Prepare 2 fabric pieces. Trace a 3.9\" x 3.9\" square pattern and add a 0.4-inch seam allowance. Cut the fabric along the outer cutting line.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Use a quilting ruler and fabric marker to keep all sides perfectly square for a more professional finished coaster."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "Sew Around the Edges",
+                "content":
+                    "Sew around the marked seam line, leaving a 2-inch opening for turning.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Beginners often forget to leave a turning gap or make it too small, making it difficult to turn the coaster right side out."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "Turn Right Side Out",
+                "content":
+                    "Turn the coaster right side out through the opening.",
+                "tip": {
+                    "type": "warning",
+                    "text":
+                        "Do not pull the corners too aggressively, as this can stretch the opening or distort the shape of the coaster."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "Add Filling",
+                "content":
+                    "Use only a small amount of polyester stuffing to avoid making the coaster uneven or bulky. Insert the stuffing through the opening.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Overstuffing is a common mistake and can cause the coaster to wobble instead of sitting flat on a table."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 5,
+                "title": "Create the Center Detail",
+                "content":
+                    "Draw a 2\" x 2\" square in the center and sew along the marked lines.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Mark the square from the center outward to ensure the stitching detail stays perfectly aligned."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 6,
+                "title": "Hand Stitch the Opening",
+                "content":
+                    "Use a ladder stitch (invisible stitch) to close the opening neatly.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Match the thread color to the fabric so the ladder stitch becomes virtually invisible after closing."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "Step 1: Cut - Prepare",
+                "time": "00:14:00"
+            },
+            {
+                "title": "Step 2: Sew",
+                "time": "00:55:00"
+            },
+            {
+                "title": "Step 3: Turn right side out",
+                "time": "02:34:00"
+            },
+            {
+                "title": "Step 4: Stuff",
+                "time": "02:58:00"
+            },
+            {
+                "title": "Step 5: The center detail",
+                "time": "03:18:00"
+            },
+            {
+                "title": "Step 6: Hand sew",
+                "time": "04:33:00"
+            }
+        ]
+    },
+    {
+        "name": "Zip Coin Purse",
+        "level": "Beginner",
+        "time": "0.5 hours",
+        "finishedSize": "Approximately 3.5\" x 3.9\" (customizable)",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "Main Fabric",
+                "description":
+                    "Cotton, quilting cotton, canvas, linen, or upcycled fabric"
+            },
+            {
+                "title": "Materials Needed",
+                "description":
+                    "Cotton, quilting cotton, canvas, linen, or upcycled fabric\nTwo outer fabric pieces measuring 7.87 inches x 3.54 inches\nTwo lining fabric pieces measuring 7.87 inches x 3.54 inches\nZipper\nThread\nSewing clips or pins"
+            },
+            {
+                "title": "Techniques Required",
+                "description":
+                    "Zipper Installation, Straight Stitching, Topstitching, Bag Construction, Turning"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf":
+            "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
+        "preview":
+            "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
+        "video":
+            "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
+        "videoPreview":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
+        "videoPreviewImage":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
+        "steps":
+            [
+                {
+                    "number": 1,
+                    "title": "Cut and Prepare the Fabric",
+                    "content":
+                        "Cut four fabric pieces measuring 7.87 inches x 3.54 inches.",
+                    "tip": {
+                        "type": "pro_tip",
+                        "text":
+                            "Stack the fabric layers and cut them together to ensure all pouch pieces are exactly the same size."
+                    },
+                    "patternCutListImage": []
+                },
+                {
+                    "number": 2,
+                    "title": "Attach the Zipper",
+                    "content":
+                        "Place one side of the zipper between the right sides of two fabric layers, aligning it lengthwise. Sew along the zipper edge to secure the layers. Repeat with the other side of the zipper and the remaining two fabric pieces. Once sewn, the two fabric sections should be symmetrical on either side of the zipper.",
+                    "tip": {
+                        "type": "common_mistake",
+                        "text":
+                            "Make sure both zipper sides are aligned evenly before stitching, otherwise the pouch may become twisted or uneven when finished."
+                    },
+                    "patternCutListImage": []
+                },
+                {
+                    "number": 3,
+                    "title": "Topstitch Along the Zipper",
+                    "content":
+                        "Turn the fabric right side out. Topstitch along both sides of the zipper to keep the fabric flat and prevent it from catching in the zipper teeth.",
+                    "tip": {
+                        "type": "pro_tip",
+                        "text":
+                            "Press the fabric away from the zipper before topstitching for a cleaner and more professional finish."
+                    },
+                    "patternCutListImage": []
+                },
+                {
+                    "number": 4,
+                    "title": "Sew the Pouch Body",
+                    "content":
+                        "Open the fabric pieces and place the right sides together. Ensure the zipper is partially open before sewing. Stitch around the outer edges of the pouch, leaving an opening approximately 1.97 inches wide for turning.",
+                    "tip": {
+                        "type": "warning",
+                        "text":
+                            "Always open the zipper before sewing the pouch closed, otherwise it may be impossible to turn the pouch right side out."
+                    },
+                    "patternCutListImage": []
+                },
+                {
+                    "number": 5,
+                    "title": "Turn Right Side Out",
+                    "content":
+                        "Turn the pouch right side out through the opening. Carefully shape all corners and edges, making sure the corners are fully turned out.",
+                    "tip": {
+                        "type": "common_mistake",
+                        "text":
+                            "Pushing the corners out too aggressively can stretch or damage the fabric, especially on lightweight materials."
+                    },
+                    "patternCutListImage": []
+                },
+                {
+                    "number": 6,
+                    "title": "Close the Opening",
+                    "content":
+                        "Fold the seam allowances of the opening inward and sew a straight stitch close to the edge to close the opening. Complete the project.",
+                    "tip": {
+                        "type": "pro_tip",
+                        "text":
+                            "Press the opening flat before stitching to help the closure blend neatly into the pouch seam."
+                    },
+                    "patternCutListImage": []
+                }
+            ],
+        "timelines": [
+            {
+                "title": "Step 1: Cut - Prepare",
+                "time": "00:15:00"
+            },
+            {
+                "title": "Step 2: Sew zipper to fabrics",
+                "time": "01:21:00"
+            },
+            {
+                "title": "Step 3: Topstitch",
+                "time": "02:48:00"
+            },
+            {
+                "title": "Step 4: Sew the pouch together",
+                "time": "04:14:00"
+            },
+            {
+                "title": "Step 5: Turn right side out",
+                "time": "06:44:00"
+            },
+            {
+                "title": "Step 6: Sew the lining closed",
+                "time": "07:09:00"
+            }
+        ]
+    },
+    {
+        "name": "Floral Tote Bag",
+        "level": "Beginner",
+        "time": "1 hour",
+        "finishedSize": "12.2\" x 16.9\" x 3\"",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "Main Fabric",
+                "description": "Woven or upcycled fabric"
+            },
+            {
+                "title": "Materials Needed",
+                "description":
+                    "Woven or upcycled fabric\nWidth 59\": 0.75 yd\nWidth 45\": 0.75 yd\nOuter bag: 2 pieces (according to the template)\nLining: 2 pieces (according to the template)\nShoulder straps: 2 pieces (according to the template)\nAll pieces include a 0.4\" seam allowance unless otherwise noted.\nMatching sewing thread\nPins or sewing clips\nFabric marker or tailor's chalk\nMeasuring tape\nScissors or rotary cutter\nIron and ironing board"
+            },
+            {
+                "title": "Techniques Required",
+                "description":
+                    "Pattern Cutting, Seam Allowance Marking, Straight Stitch Sewing, Bag Construction, Lining Construction, Curved Seam Sewing, Clipping Curves, Turning, Topstitching, Strap Construction, Pressing"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf":
+            "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
+        "preview":
+            "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
+        "video":
+            "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
+        "videoPreview":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
+        "videoPreviewImage":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "Cut and Prepare the Fabric",
+                "content":
+                    "Prepare the tote bag pattern. Place the pattern on the fabric, trace around it, and add a 0.4\" seam allowance. Cut along the outer cutting line. Cut 2 outer bag pieces and 2 lining pieces.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Transfer all notch and alignment marks before cutting to make assembling the outer bag and lining easier."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "Sew the Outer Bag",
+                "content":
+                    "Place the two outer bag pieces right sides together. Sew around the sides and bottom edges, leaving the bag opening and strap openings unsewn.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Make sure the right sides are facing each other before sewing, or the seams will be visible on the outside of the bag."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "Sew the Lining",
+                "content":
+                    "Sew the lining in the same way as the outer bag. Leave a 2\" opening in the bottom seam of the lining for turning later.",
+                "tip": {
+                    "type": "warning",
+                    "text":
+                        "Backstitch at both ends of the turning opening to prevent the seam from opening further during turning."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "Join the Outer Bag and Lining",
+                "content":
+                    "Place the outer bag right side out and the lining wrong side out. Insert the outer bag into the lining. Sew around the top edge of the bag, leaving the strap openings unsewn. Clip the curved areas around the top opening, then turn the bag right side out through the opening in the lining.",
+                "tip": {
+                    "type": "warning",
+                    "text":
+                        "Clip the curved seam allowances carefully without cutting into the stitching to help the top edge lie flat after turning."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 5,
+                "title": "Topstitch the Bag Opening",
+                "content":
+                    "Topstitch close to the top edge around the bag opening.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Press the top edge thoroughly before topstitching to achieve a clean, professional-looking finish."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 6,
+                "title": "Sew the Shoulder Straps",
+                "content":
+                    "Place the two ends of each strap right sides together. Fold both long edges inward toward the center, then sew along the long edge to secure the straps.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Keep both straps exactly the same length so the finished tote hangs evenly when carried."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 7,
+                "title": "Close the Turning Opening",
+                "content":
+                    "Fold the raw edges of the lining opening inward and sew a straight stitch to close the opening. The tote bag is now complete.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Fold the seam allowance evenly before stitching so the closed opening blends neatly with the rest of the lining."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "Step 1: Cut - Prepare",
+                "time": "00:14:00"
+            },
+            {
+                "title": "Step 2: Sew the main pieces",
+                "time": "00:44:00"
+            },
+            {
+                "title": "Step 3: Sew the lining pieces",
+                "time": "01:12:00"
+            },
+            {
+                "title": "Step 4: Sew the bag",
+                "time": "01:37:00"
+            },
+            {
+                "title": "Step 5: Topstitch",
+                "time": "03:18:00"
+            },
+            {
+                "title": "Step 6: Sew the strap",
+                "time": "03:50:00"
+            },
+            {
+                "title": "Step 7: Sew the opening closed",
+                "time": "04:39:00"
+            }
+        ]
+    },
+    {
+        "name": "Comfort Neck Pillow",
+        "level": "Beginner",
+        "time": "30 min",
+        "finishedSize": "11.75\" x 11.75\"",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "Main Fabric",
+                "description": "Woven or upcycled fabric"
+            },
+            {
+                "title": "Materials Needed",
+                "description":
+                    "Woven or upcycled fabric\nWidth 59\": 0.5 yd\nWidth 45\": 0.5 yd\nNeck pillow body: 2 pieces (according to the template)\nAll pieces include a 0.4\" seam allowance.\nPolyester fiberfill\nMatching sewing thread\nPins or sewing clips\nFabric marker or tailor's chalk\nScissors or rotary cutter\nTurning tool or chopstick\nHand-sewing needle\nIron and ironing board"
+            },
+            {
+                "title": "Techniques Required",
+                "description":
+                    "Pattern Cutting, Seam Allowance Marking, Curved Seam Sewing, Clipping Curves, Turning, Stuffing, Ladder Stitch, Pressing"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf":
+            "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
+        "preview":
+            "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
+        "video":
+            "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
+        "videoPreview":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
+        "videoPreviewImage":
+            "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "Cut and Prepare the Fabric",
+                "content":
+                    "Prepare the neck pillow pattern. Trace the pattern onto the fabric and add a 0.4\" seam allowance around the entire shape. Cut the fabric along the outer cutting line to create two pillow body pieces.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Transfer any center or alignment marks from the pattern before cutting to make matching the curved edges easier during sewing."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "Sew the Pillow Body",
+                "content":
+                    "Place the two pillow body pieces right sides together. Sew around the entire edge, leaving a 2\" opening for turning the pillow right side out.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Remember to leave the turning opening unsewn and backstitch at both ends so the seam stays secure during turning."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "Trim and Clip the Curves",
+                "content":
+                    "Trim away the excess seam allowance and clip the curved edges where needed.",
+                "tip": {
+                    "type": "warning",
+                    "text":
+                        "Clip close to the curved seams without cutting through the stitching, or the seam may split when the pillow is turned."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "Turn Right Side Out",
+                "content":
+                    "Turn the pillow right side out through the opening.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Use a blunt turning tool to gently push out the curved sections without damaging the fabric."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 5,
+                "title": "Stuff the Pillow",
+                "content":
+                    "Fill the pillow with polyester fiberfill through the opening. Spread the stuffing evenly throughout the pillow until it reaches the desired firmness.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text":
+                        "Add the fiberfill gradually instead of all at once to prevent lumps and achieve an even, comfortable shape."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 6,
+                "title": "Close the Opening",
+                "content":
+                    "Use a ladder stitch to close the opening. Tie off the thread securely to complete the neck pillow.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text":
+                        "Keep the ladder stitches small and evenly spaced so the opening becomes nearly invisible after tightening the thread."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "Step 1: Cut - Prepare",
+                "time": "00:16:00"
+            },
+            {
+                "title": "Step 2: Sew the pillow",
+                "time": "00:39:00"
+            },
+            {
+                "title": "Step 3: Trim - Clip",
+                "time": "01:19:00"
+            },
+            {
+                "title": "Step 4: Turn right side out",
+                "time": "01:49:00"
+            },
+            {
+                "title": "Step 5: Stuff",
+                "time": "02:12:00"
+            },
+            {
+                "title": "Step 6: Ladder stitch",
+                "time": "02:28:00"
+            }
+        ]
+    }
+]
