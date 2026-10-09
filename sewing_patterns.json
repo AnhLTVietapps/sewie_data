@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Deciphering Pattern",
+    "imageUrl": "",
+    "videoUrl": "",
+    "sections": [
+      {
+        "sectionTitle": "Deciphering Pattern Markings",
+        "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Deciphering%20Pattern%20Markings.png",
+        "videoUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Deciphering_Pattern_Markings/master.m3u8",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Envelope - Front",
+            "description": "Explore the front of a pattern envelope to identify the garment design, available views, style variations, and finished garment examples.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewing%20Pattern%20Envelope%20Tutorial.png"
+          },
+          {
+            "time": "02:04",
+            "title": "Envelope - Back",
+            "description": "Learn how to read the size chart and body measurement guide on the back of a pattern envelope to find the size that best matches your measurements.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewie%20Pattern%20Envelope%20Back%20Guide.png"
+          },
+          {
+            "time": "03:29",
+            "title": "Body vs. Finished Garment Measurements",
+            "description": "Understand the difference between your body measurements and the finished garment measurements. The difference, known as ease, affects how comfortably and loosely a garment fits.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Body%20vs.%20Finished%20Measurements.png"
+          },
+          {
+            "time": "06:09",
+            "title": "Envelope Back - Garment Details",
+            "description": "Read the garment description to understand the design features, included views, and construction details before choosing a pattern.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewing%20Pattern%20Envelope%20Details.png"
+          },
+          {
+            "time": "06:49",
+            "title": "English & Imperial / French & Metric",
+            "description": "Learn how to read fabric requirements, yardage, and notions in different measurement systems. Check the correct units and quantities for your chosen size and view.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Imperial%20to%20Metric%20Sewing%20Guide.png"
+          },
+          {
+            "time": "12:05",
+            "title": "Pattern Instructions",
+            "description": "Explore the instruction booklet to understand the sewing steps, pattern piece references, and cutting layouts that show how to arrange the pieces on your fabric.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewing%20Pattern%20Instructions%20in%20Pink.png"
+          },
+          {
+            "time": "17:20",
+            "title": "Paper Pattern",
+            "description": "Learn how to identify individual paper pattern pieces, cutting lines for different sizes, and grainline arrows that guide correct placement on the fabric.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewie%20Paper%20Pattern%20Guide.png"
+          },
+          {
+            "time": "19:30",
+            "title": "Triangles = Notches",
+            "description": "Recognize triangle-shaped notches and other common pattern markings. These marks help you align pattern pieces and identify important construction details.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Images/Sewing%20Pattern%20Notches%20Explained.png"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Physical vs. PDF Patterns",
+        "imageUrl": "",
+        "videoUrl": "",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Physical Patterns",
+            "description": "Ready to Use: Printed pattern pieces are supplied on paper, so you can start preparing your project without printing or assembling pages.\nNo Printing or Taping: The pattern pieces are already printed. Select your size and transfer any necessary markings before cutting the fabric.\nStore and Reuse: Keep the pattern pieces and instructions together in their envelope. Store them carefully to prevent damage and reuse them for future projects.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Physical%20vs%20PDF%20Pattern/Physical%20Patterns_%20Sewing%20Made%20Simple%20(1).png"
+          },
+          {
+            "time": "02:30",
+            "title": "PDF Patterns",
+            "description": "Instant Download: Download the digital pattern file to your computer or tablet and access it whenever you need.\nPrint at Home or at a Copy Shop: Print tiled patterns on A4 or US Letter paper and assemble the pages, or use a copy shop for large-format printing such as A0.\nConvenient & Flexible: Store the file digitally and print another copy when needed. Always select Actual Size or 100% scale and check the test square to ensure the pattern prints at the correct size.",
+            "imageUrl": "https://may.sewie.cloud/Learning_New/Sewing%20Patterns/Deciphering%20Pattern/Physical%20vs%20PDF%20Pattern/PDF%20Sewing%20Patterns_%20Print%2C%20Cut%2C%20Create%20(1).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Instruction Guide",
+    "imageUrl": "",
+    "videoUrl": "",
+    "sections": [
+      {
+        "sectionTitle": "Print Pattern",
+        "imageUrl": "",
+        "videoUrl": "",
+        "timelines": [
+          {
+            "time": "00:00",
+            "title": "Print at Home — A4 / US Letter",
+            "description": "Print at Home: The pattern is divided into multiple A4 or US Letter pages. Print the pages, trim the margins, and tape them together using the numbered guides, like assembling a puzzle.\nCheck the Print Scale: Select Actual Size or 100% scale instead of Fit to Page. Measure the test square, if provided, to make sure the pattern prints at the correct size.\nAssemble the Pattern: Align the numbered guides and matching marks carefully before taping the pages together. Check that the pattern lines connect correctly across the sheets.",
+            "imageUrl": ""
+          },
+          {
+            "time": "02:30",
+            "title": "Large-Format / Copyshop Printing — A0",
+            "description": "Print on Large Sheets: The pattern is printed on one to three large A0 sheets, depending on the pattern layout, without needing to tape multiple pages together.\nChoose a Copy Shop: Send the A0 pattern file to a print shop that handles technical or architectural drawings. Confirm that the shop can print the required paper size.\nCheck the Printed Pattern: Make sure the print scale is correct and that the pattern dimensions match the original file before cutting the pieces out.",
+            "imageUrl": ""
+          },
+          {
+            "time": "05:00",
+            "title": "Projector Sewing",
+            "description": "Project Directly onto Fabric: Use a ceiling-mounted projector to display the digital pattern directly onto the fabric, eliminating the need for printed paper.\nCalibrate the Projector: Adjust the projector position and zoom until the pattern appears at the correct scale. Use the pattern's test square or measurement guide to verify accuracy.\nTrace and Cut: Align the projected pattern with the fabric grain, select the correct size, and mark or cut the fabric according to the pattern instructions.",
+            "imageUrl": ""
+          }
+        ]
+      },
+      {
+        "title": "How to Use",
+        "imageUrl": "",
+        "videoUrl": "",
+        "description": ""
+      }
+    ]
+  }
+]
