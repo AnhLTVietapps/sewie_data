@@ -173,81 +173,57 @@
             "imageUrl": ""
           },
           {
-            "time": "00:08",
+            "time": "01:27",
             "title": "Insert the Bobbin",
             "description": "Drop the wound bobbin into its case under the needle, pulling the thread through the small tension groove.",
             "imageUrl": ""
           },
           {
-            "time": "00:16",
+            "time": "02:12",
             "title": "Thread the Upper Path (1 to 3)",
             "description": "Guide the top thread down through thread guide #1, around #2, and pull it up through #3.",
             "imageUrl": ""
           },
           {
-            "time": "00:24",
+            "time": "03:16",
             "title": "Hook the Take-Up Lever",
             "description": "Hook the thread from right to left into the metal take-up lever at the top.",
             "imageUrl": ""
           },
           {
-            "time": "00:32",
+            "time": "03:34",
             "title": "Thread the Needle",
             "description": "Pass the thread through the needle bar guide, then thread it through the eye of the needle.",
             "imageUrl": ""
           },
           {
-            "time": "00:40",
+            "time": "04:01",
             "title": "Catch the Bobbin Thread",
             "description": "Hold the top thread, turn the handwheel toward you to lower and raise the needle, then pull up the bobbin thread loop.",
             "imageUrl": ""
           },
           {
-            "time": "00:48",
+            "time": "04:18",
             "title": "Pull Threads Back",
             "description": "Pull both the upper and bobbin threads toward the back of the presser foot, leaving about 10 cm of thread.",
             "imageUrl": ""
           },
           {
-            "time": "00:56",
+            "time": "04:32",
             "title": "Set Stitch & Tension",
             "description": "Select a straight stitch, set the stitch length to about 2.5 mm, and adjust the tension to the recommended setting for your machine.",
             "imageUrl": ""
           },
           {
-            "time": "01:04",
+            "time": "04:43",
             "title": "Position the Fabric",
             "description": "Place the fabric under the presser foot and align the edge with the seam guide on the needle plate.",
             "imageUrl": ""
           },
           {
-            "time": "01:12",
+            "time": "04:55",
             "title": "Lower the Presser Foot",
             "description": "Lower the presser foot before pressing the foot pedal. Make sure the fabric is positioned correctly before you start sewing.",
-            "imageUrl": ""
-          },
-          {
-            "time": "01:20",
-            "title": "Start Sewing Slowly",
-            "description": "Press the foot pedal gently to start sewing. Sew slowly at first to keep the fabric and stitch line under control.",
-            "imageUrl": ""
-          },
-          {
-            "time": "01:28",
-            "title": "Guide, Don't Pull",
-            "description": "Let the feed dogs move the fabric forward while you gently guide it. Do not push or pull the fabric as you sew.",
-            "imageUrl": ""
-          },
-          {
-            "time": "01:36",
-            "title": "Secure the Seam",
-            "description": "At the beginning and end of the seam, use the reverse lever to sew backward for a few stitches and secure the seam.",
-            "imageUrl": ""
-          },
-          {
-            "time": "01:44",
-            "title": "Finish the Seam",
-            "description": "Raise the needle and presser foot, remove the fabric, and cut the thread tails. Check that the stitches are even and secure.",
             "imageUrl": ""
           }
         ]
