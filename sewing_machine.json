@@ -225,6 +225,30 @@
             "title": "Lower the Presser Foot",
             "description": "Lower the presser foot before pressing the foot pedal. Make sure the fabric is positioned correctly before you start sewing.",
             "imageUrl": ""
+          },
+          {
+            "time": "05:08",
+            "title": "Start Sewing Slowly",
+            "description": "Press the foot pedal gently to start sewing. Sew slowly at first to keep the fabric and stitch line under control.",
+            "imageUrl": ""
+          },
+          {
+            "time": "05:22",
+            "title": "Guide, Don't Pull",
+            "description": "Let the feed dogs move the fabric forward while you gently guide it. Do not push or pull the fabric as you sew.",
+            "imageUrl": ""
+          },
+          {
+            "time": "05:39",
+            "title": "Secure the Seam",
+            "description": "At the beginning and end of the seam, use the reverse lever to sew backward for a few stitches and secure the seam.",
+            "imageUrl": ""
+          },
+          {
+            "time": "05:45",
+            "title": "Finish the Seam",
+            "description": "Raise the needle and presser foot, remove the fabric, and cut the thread tails. Check that the stitches are even and secure.",
+            "imageUrl": ""
           }
         ]
       },
