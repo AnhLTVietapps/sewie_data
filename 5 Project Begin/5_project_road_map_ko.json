@@ -1,0 +1,557 @@
+[
+    {
+        "name": "데일리 플로럴 스크런치",
+        "level": "초급",
+        "time": "15분",
+        "finishedSize": "바깥 지름: 6\". 고무줄 두께: 2.75\"",
+        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
+        "techPack": [
+            {
+                "title": "주 원단",
+                "description": "가벼운 평직 면, 새틴, 리넨 또는 재활용 원단"
+            },
+            {
+                "title": "필요한 재료",
+                "description": "가벼운 평직 면, 새틴, 리넨 또는 재활용 원단\n27.5\" x 6\" 크기의 원단 스트립 1장\n고무줄\n실"
+            },
+            {
+                "title": "필요한 기법",
+                "description": "직선 박기, 겉박기"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
+        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
+        "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
+        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
+        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "1단계: 자르기 - 준비",
+                "content": "긴 원단 스트립과 고무줄, 가위가 필요합니다.\n시침핀 또는 클립, 끈꿰기 바늘(보킨), 원단용 마커, 자도 준비해 주세요.\n원단은 5 × 20인치(약 12 × 50 cm)이며, 고무줄은 약 7인치(18 cm) 길이입니다.\n원단을 겉면끼리 맞대어 반으로 접으세요.\n가장자리를 따라 1 cm 시접을 표시하세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "로터리 커터와 자를 사용하면 스트립 가장자리를 곧게 자를 수 있어 완성된 스크런치가 고르게 만들어집니다."
+                },
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
+                ]
+            },
+            {
+                "number": 2,
+                "title": "2단계: 짧은 변 박기",
+                "content": "두 개의 짧은 변을 겉면이 맞닿도록 맞추세요.\n2~3땀 박은 뒤, 풀리지 않도록 되돌아박기로 고정하세요.\n계속 앞으로 박아 나가며, 끝에서도 되돌아박기로 고정하는 것을 잊지 마세요.\n시접을 펼치고 다림질로 눌러 평평하게 하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "양쪽 끝을 박기 전에 원단이 꼬이지 않았는지 확인하세요. 꼬인 채로 박으면 완성된 스크런치가 고르지 않게 됩니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "3단계: 긴 변 박기",
+                "content": "그림과 같이 윗 원단을 말아 주세요.\n아랫 원단의 두 가장자리를 만 원단 위로 감싸 주세요.\n긴 변을 맞추고 시침핀으로 고정하세요.\n직선 박기로 긴 변을 따라 박으세요.\n2~3땀 박은 뒤 되돌아박기로 고정하세요.\n평소처럼 계속 앞으로 박아 나가며, 박으면서 시침핀을 빼내세요.\n안의 말아 넣은 원단을 함께 박지 않도록 주의하세요.\n박으면서 안의 만 원단을 살살 당겨 주세요.\n약 5 cm(2인치)의 뒤집는 구멍을 남기세요.\n끝에서 되돌아박기로 고정하세요.",
+                "tip": {
+                    "type": "warning",
+                    "text": "안쪽 원단 층이 실수로 시접에 함께 박히지 않도록 주의하세요. 함께 박히면 통을 뒤집기 어렵습니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "4단계: 통 뒤집기",
+                "content": "뒤집는 구멍을 통해 원단 통을 겉면이 나오도록 뒤집으세요.\n원단 가장자리를 정돈하고 다림질로 눌러 평평하게 하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "고무줄을 꿸 때는 양쪽 끝을 단단히 잡아, 한쪽 끝이 원단 통 안으로 다시 미끄러져 들어가지 않도록 하세요."
+                },
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Turn%20the%20tube.png"
+                ]
+            },
+            {
+                "number": 5,
+                "title": "5단계: 고무줄 넣기",
+                "content": "고무줄을 끈꿰기 바늘에 고정하세요.\n원단 통 안으로 고무줄을 꿰어 넣으세요.\n양쪽 끝을 단단히 묶으세요.\n살살 당기며 늘임과 매듭을 확인하세요.\n여유분은 약 1 cm 남기고 잘라 주세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "고무줄을 꿸 때는 양쪽 끝을 단단히 잡아, 한쪽 끝이 원단 통 안으로 다시 미끄러져 들어가지 않도록 하세요."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 6,
+                "title": "6단계: 구멍 닫기",
+                "content": "잘린 원단 끝을 안쪽으로 접어 넣고 가지런히 맞추세요.\n시작과 끝에서 되돌아박기로 고정하세요.\n구멍을 닫기 위해 가장자리 가까이 겉박기(탑스티치)하세요.\n남은 실을 잘라 주세요.\n주름이 고르게 분포되도록 원단을 정돈하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "고무줄을 꿸 때는 양쪽 끝을 단단히 잡아, 한쪽 끝이 원단 통 안으로 다시 미끄러져 들어가지 않도록 하세요."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "1단계: 자르기 - 준비",
+                "time": "00:06:00"
+            },
+            {
+                "title": "2단계: 재봉",
+                "time": "00:18:00"
+            },
+            {
+                "title": "3단계: 고무줄 넣기",
+                "time": "03:25:00"
+            },
+            {
+                "title": "4단계: 재봉",
+                "time": "04:03:00"
+            }
+        ]
+    },
+    {
+        "name": "폭신한 컵받침",
+        "level": "초급",
+        "time": "15분",
+        "finishedSize": "4\" x 4\"",
+        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
+        "techPack": [
+            {
+                "title": "주 원단",
+                "description": "면, 퀼팅 면, 리넨 또는 재활용 원단 조각"
+            },
+            {
+                "title": "필요한 재료",
+                "description": "면, 퀼팅 면, 리넨 또는 재활용 원단 조각\n폴리에스터 충전솜 또는 폼 충전재\n바늘\n실"
+            },
+            {
+                "title": "필요한 기법",
+                "description": "직선 박기"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
+        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
+        "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
+        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
+        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "1단계: 자르기 - 준비",
+                "content": "주 원단, 충전재, 가위가 필요합니다.\n시침핀 또는 클립, 끈꿰기 바늘(보킨), 원단용 마커, 자도 준비해 주세요.\n주 원단을 17 × 17 cm 크기로 2장 자르세요. 완성 크기는 15 × 15 cm가 됩니다.\n머그컵에 맞게 크기를 조절해도 되지만, 재단 크기는 완성 크기보다 가로·세로 모두 약 2 cm 크게 하세요.\n원단의 안쪽 면에 네 변 모두 따라 1 cm 시접을 표시하세요.\n겉면에는 각 가장자리에서 5 cm(2인치) 안쪽으로 재고 가운데에 작은 사각형을 그리세요.\n안쪽 사각형과 바깥 사각형의 같은 쪽에 각각 약 4 cm 길이의 뒤집는 구멍을 두 군데 남기세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "퀼팅 자와 원단용 마커를 사용하면 네 변이 모두 정확히 정사각형으로 재단되어 더욱 깔끔하게 완성됩니다."
+                },
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
+                ]
+            },
+            {
+                "number": 2,
+                "title": "2단계: 본판 박기",
+                "content": "주 원단 2장을 겉면끼리 맞대어 놓으세요.\n네 모서리를 시침핀으로 고정하세요.\n노루발 가운데를 박음선에 맞추세요.\n2~3땀 박은 뒤 되돌아박기로 고정하세요.\n표시한 선을 따라 계속 박으세요. 끝에서도 되돌아박기로 시접을 고정하는 것을 잊지 마세요.\n모서리에 다다르면 바늘을 원단에 꽂은 채 두세요. 그런 다음 노루발을 들어 올리고, 원단을 돌린 뒤, 노루발을 내리고 계속 박으세요.\n박음선을 자르지 않도록 주의하며 모서리 여유분을 잘라내세요. 이렇게 하면 겉면으로 뒤집었을 때 모서리가 더 평평하게 눕습니다.\n원단을 겉면이 나오도록 뒤집으세요.\n모서리가 잘 뒤집히지 않으면 젓가락이나 뭉툭한 도구를 이용해 살살 밀어내세요. 너무 세게 밀어 원단이 찢어지지 않도록 주의하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "초보자는 뒤집는 구멍을 남기는 것을 잊거나 구멍을 너무 작게 남겨, 컵받침을 겉면으로 뒤집기 어려워하는 경우가 많습니다."
+                },
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
+                ]
+            },
+            {
+                "number": 3,
+                "title": "3단계: 안쪽 사각형 박기",
+                "content": "안쪽 사각형을 따라 겉박기하되, 처음에 되돌아박기로 박음실을 고정하며 시작하세요.\n안쪽 사각형도 바깥 사각형과 같은 방법으로 박되, 구멍을 남기세요.\n남은 실을 잘라 주세요.\n이제 먼저 가운데의 작은 사각형 부분에 충전재를 넣으세요. 이곳에는 충전재를 너무 많이 넣을 필요는 없습니다.\n안쪽 사각형의 구멍을 박아 닫으세요.\n그런 다음 바깥쪽 구멍을 통해 바깥 테두리에 충전재를 넣으세요.",
+                "tip": {
+                    "type": "warning",
+                    "text": "모서리를 너무 세게 잡아당기지 마세요. 구멍이 늘어나거나 컵받침 모양이 일그러질 수 있습니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "4단계: 구멍 닫기",
+                "content": "바늘을 사용해 바깥 가장자리의 구멍을 닫으세요. 두 원단 층 사이에서 바늘을 빼내며 시작하세요.\n윗 원단 가장자리에서 오른쪽에서 왼쪽으로 작은 땀을 뜨세요.\n바로 아래의 아랫 원단에도 같은 위치에 땀을 뜨세요.\n윗면과 아랫면을 번갈아 뜨면서 구멍이 완전히 닫힐 때까지 계속하세요.\n실을 당겨 원단 가장자리를 맞붙이세요.\n마지막으로 실을 매듭지어 고정하고, 실 끝은 원단 안쪽으로 숨기세요.\n원단용 마커 자국을 없애고 전체 모양이 고르게 되도록 살살 다림질하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "충전재를 너무 많이 넣는 것은 흔한 실수로, 컵받침이 테이블에 평평하게 놓이지 않고 흔들릴 수 있습니다."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "1단계: 자르기 - 준비",
+                "time": "00:14:00"
+            },
+            {
+                "title": "2단계: 재봉",
+                "time": "00:55:00"
+            },
+            {
+                "title": "3단계: 겉면이 나오도록 뒤집기",
+                "time": "02:34:00"
+            },
+            {
+                "title": "4단계: 충전재 넣기",
+                "time": "02:58:00"
+            },
+            {
+                "title": "5단계: 가운데 장식",
+                "time": "03:18:00"
+            },
+            {
+                "title": "6단계: 손바느질",
+                "time": "04:33:00"
+            }
+        ]
+    },
+    {
+        "name": "지퍼 동전 지갑",
+        "level": "초급",
+        "time": "0.5시간",
+        "finishedSize": "약 3.5\" x 3.9\" (맞춤 가능)",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "주 원단",
+                "description": "면, 퀼팅 코튼, 캔버스, 리넨 또는 재활용 원단"
+            },
+            {
+                "title": "필요한 재료",
+                "description": "면, 퀼팅 코튼, 캔버스, 리넨 또는 재활용 원단\n겉감 2장, 각각 7.87 inches x 3.54 inches\n안감 2장, 각각 7.87 inches x 3.54 inches\n지퍼\n실\n재단 클립 또는 시침핀"
+            },
+            {
+                "title": "필요한 기법",
+                "description": "직선 박기, 탑스티치"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
+        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
+        "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
+        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
+        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "1단계: 자르기 - 준비",
+                "content": "주 원단, 접착 심지, 지퍼와 가위가 필요합니다.\n주 원단 2장과 심지 2장을 각각 10 × 8 inches (약 25 × 20 cm)로 재단하세요.\n심지를 주 원단의 뒷면에 붙이세요.\n가장자리에서 남는 심지는 잘라내세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "원단을 겹쳐서 함께 재단하면 파우치 조각들의 크기가 정확히 동일해집니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "2단계: 지퍼 달기",
+                "content": "원단 2장을 반으로 접어 다림질하여 접힘선을 만드세요.\n지퍼를 원단 사이에 끼우고 지퍼 테이프를 따라 시침핀으로 고정하세요.\n2~3땀을 앞으로 박은 뒤 되돌아박기로 고정하세요.\n핀을 제거하면서 가장자리를 따라 계속 박으세요.\n마지막에 되돌아박기로 마무리하는 것을 잊지 마세요.\n원단을 펼치고 지퍼 가장자리를 따라 탑스티치하세요.\n지퍼 반대쪽에도 같은 과정을 반복하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "박기 전에 지퍼 양쪽이 고르게 정렬되었는지 확인하세요. 그렇지 않으면 완성된 파우치가 비틀리거나 울퉁불퉁해질 수 있습니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "3단계: 가장자리 둘러 박기",
+                "content": "나중에 파우치를 뒤집기 위해 지퍼를 반쯤 열어 두세요.\n뒤집기용 구멍 2–3 inch (5–7 cm)를 표시하세요.\n가장자리를 맞추고 네 변을 시침핀으로 고정하세요.\n노루발 중앙을 박음선에 맞추세요.\n2~3땀을 박은 뒤 되돌아박기로 고정하세요.\n가장자리를 따라 계속 박으며, 마지막에 되돌아박기로 박음선을 고정하세요.\n모서리에 닿으면 바늘을 원단에 꽂아둔 채로 노루발을 올리고, 원단을 돌린 뒤 노루발을 내리고 계속 박으세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "탑스티치 전에 지퍼에서 원단을 바깥쪽으로 다려 정리하면 더 깔끔하고 전문적인 마무리가 됩니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "4단계: 겉면이 바깥으로 뒤집기",
+                "content": "모서리를 뒤집을 때 평평하게 펴지도록 박음선을 자르지 않게 조심하며 모서리를 정리하세요.\n구멍을 통해 파우치를 겉면이 바깥으로 오게 뒤집으세요.\n구멍을 닫기 위해 가장자리 가까이로 탑스티치하세요.\n완성! 지퍼 파우치가 완성되어 사용할 준비가 되었습니다!",
+                "tip": {
+                    "type": "warning",
+                    "text": "파우치를 닫기 전에 반드시 지퍼를 열어 두세요. 그렇지 않으면 파우치를 겉면이 바깥으로 뒤집는 것이 불가능할 수 있습니다."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "1단계: 자르기 - 준비",
+                "time": "00:15:00"
+            },
+            {
+                "title": "2단계: 원단에 지퍼 달기",
+                "time": "01:21:00"
+            },
+            {
+                "title": "3단계: 탑스티치",
+                "time": "02:48:00"
+            },
+            {
+                "title": "4단계: 파우치 박음질",
+                "time": "04:14:00"
+            },
+            {
+                "title": "5단계: 겉면이 바깥으로 뒤집기",
+                "time": "06:44:00"
+            },
+            {
+                "title": "6단계: 안감 닫기",
+                "time": "07:09:00"
+            }
+        ]
+    },
+    {
+        "name": "플로럴 토트백",
+        "level": "초급",
+        "time": "1시간",
+        "finishedSize": "12.2\" x 16.9\" x 3\"",
+        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+        "techPack": [
+            {
+                "title": "주 원단",
+                "description": "직조 원단 또는 재활용 원단"
+            },
+            {
+                "title": "필요한 재료",
+                "description": "직조 원단 또는 재활용 원단\n폭 59\": 0.75 yd\n폭 45\": 0.75 yd\n겉감: 2장 (패턴에 따름)\n안감: 2장 (패턴에 따름)\n어깨끈: 2개 (패턴에 따름)\n별도 표시가 없는 한 모든 조각에 0.4\" 시접이 포함됩니다.\n같은 색 실\n시침핀 또는 재단 클립\n원단 마커 또는 재단 분필\n줄자\n가위 또는 로터리 커터\n다리미와 다리미판"
+            },
+            {
+                "title": "필요한 기법",
+                "description": "직선 박기, 탑스티치"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
+        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
+        "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
+        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
+        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "1단계: 자르기 - 준비",
+                "content": "이 가방을 만들 때 몇 가지 기본 재봉 기법을 사용합니다: 기본 직선 박기, 가장자리 박기, 탑스티치. 끈은 가장자리 박기와 탑스티치로 이어붙입니다. 모서리 박싱: 모서리를 잘라내고 가장자리를 함께 박으세요.\n먼저 주 원단과 안감을 준비하고, 가방 패턴을 다운로드하여 인쇄하세요.\n그런 다음 패턴의 밑면 모서리에 삼각형을 표시하고 잘라내세요.\n가방 패턴을 사용하여 주 원단 2장과 안감 2장을 재단하세요.\n각 밑면 모서리에 그림과 같이 뾰족한 삼각형을 잘라내세요.\n주 원단 2장(안감도 동일)을 겉면끼리 맞대고 바깥 가장자리를 따라 시침핀으로 고정하세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "재단하기 전에 모든 노치와 정렬 표시를 옮겨두면 겉감과 안감을 조립하기 쉬워집니다."
+                },
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
+                ]
+            },
+            {
+                "number": 2,
+                "title": "2단계: 밑면 박음질",
+                "content": "직선 박기 설정을 선택하세요. 박음 길이 다이얼을 2로 설정하여 균형 잡힌 중간 길이 박음을 만드세요.\n밑면 삼각형의 가장자리를 겉면끼리 맞대어 모으세요.\n가장자리를 고르게 맞추고 직선으로 박으세요.\n나머지 세 개의 밑면 모서리에도 이 과정을 반복하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "박기 전에 겉면이 서로 마주하고 있는지 확인하세요. 그렇지 않으면 박음선이 가방 바깥에 보이게 됩니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "3단계: 겉감 박기",
+                "content": "*모든 박음선의 시작 부분에서 되돌아박기로 박음선을 고정하는 것을 잊지 마세요.\n핀으로 고정한 선을 따라 가방 전체를 박으며, 박으면서 핀을 제거하세요.\n곡선 밑면을 박을 때는 바늘을 원단에 꽂아둔 채로 노루발을 올리고, 원단을 돌린 뒤 계속 박으세요.\n박음선 끝에서도 되돌아박기로 박음선을 고정하세요.",
+                "tip": {
+                    "type": "warning",
+                    "text": "뒤집는 과정에서 박음선이 더 풀리지 않도록 뒤집기 구멍의 양 끝에서 되돌아박기하세요."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "4단계: 안감 박기",
+                "content": "밑면 모서리를 박고 전체를 둘러 박는 방식으로 안감을 겉감과 똑같이 박으세요.\n가방 전체를 둘러 박되, 밑면에 10cm (4\") 구멍을 남기고 박지 마세요.",
+                "tip": {
+                    "type": "warning",
+                    "text": "곡선 시접을 박음선에 닿지 않게 조심해서 잘라내면 뒤집은 뒤 윗가장자리가 평평하게 놓입니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 5,
+                "title": "5단계: 가방과 안감 이어붙이기",
+                "content": "완성된 겉감입니다.\n밑면에 구멍을 남긴 안감입니다.\n안감을 겉면이 바깥으로 오게 뒤집으세요.\n안감을 겉감 안에 넣고 모서리가 정확히 맞도록 하세요.\n가방 입구 가장자리와 끈 전체를 따라 시침핀으로 단단히 고정하세요.\n가방 앞뒤의 가방 입구와 끈을 따라 두 겹을 함께 시침핀으로 고정하세요.\n핀으로 고정한 선을 따라 박으세요.\n입구와 끈 전체를 둘러 박으며 핀을 제거하세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "탑스티치 전에 윗가장자리를 꼼꼼히 다리면 깔끔하고 전문적인 마무리가 됩니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 6,
+                "title": "6단계: 안감 밑면 구멍 닫기",
+                "content": "뒤집기 구멍의 올 가장자리를 안쪽으로 접어 가장자리 박기로 닫으세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "두 끈의 길이를 정확히 똑같이 하면 완성된 토트백이 들었을 때 균형 있게 매달립니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 7,
+                "title": "7단계: 다림질",
+                "content": "입구와 끈의 박음선을 가장 가장자리까지 밀어내고 평평하게 다려 형태를 잡으세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "박기 전에 시접을 고르게 접으면 닫힌 구멍이 안감의 나머지 부분과 자연스럽게 어우러집니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 8,
+                "title": "8단계: 끈 박기",
+                "content": "끈의 올 가장자리를 1cm 안쪽으로 접어 시침핀으로 고정하세요.\n접어 만든 끝 안에 나머지 끈의 올 가장자리를 밀어 넣으세요.\n두 줄의 평행선으로 박으세요: 가장자리에서 1mm 가장자리 박기 & 가장자리에서 5mm 탑스티치.\n박음선의 시작과 끝에서 되돌아박기하는 것을 잊지 마세요.\n남는 실을 잘라내세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "박기 전에 시접을 고르게 접으면 닫힌 구멍이 안감의 나머지 부분과 자연스럽게 어우러집니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 9,
+                "title": "9단계: 가장자리 박기",
+                "content": "가방 입구와 끈 전체를 가장자리에서 1mm 가장자리 박기하세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "박기 전에 시접을 고르게 접으면 닫힌 구멍이 안감의 나머지 부분과 자연스럽게 어우러집니다."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "1단계: 자르기 - 준비",
+                "time": "00:14:00"
+            },
+            {
+                "title": "2단계: 겉감 조각 박기",
+                "time": "00:44:00"
+            },
+            {
+                "title": "3단계: 안감 조각 박기",
+                "time": "01:12:00"
+            },
+            {
+                "title": "4단계: 가방 박기",
+                "time": "01:37:00"
+            },
+            {
+                "title": "5단계: 탑스티치",
+                "time": "03:18:00"
+            },
+            {
+                "title": "6단계: 끈 박기",
+                "time": "03:50:00"
+            },
+            {
+                "title": "7단계: 구멍 닫기",
+                "time": "04:39:00"
+            }
+        ]
+    },
+    {
+        "name": "편안한 넥 필로우",
+        "level": "초급",
+        "time": "30분",
+        "finishedSize": "11.75\" x 11.75\"",
+        "patternCutList": "",
+        "techPack": [
+            {
+                "title": "주 원단",
+                "description": "직조 원단 또는 재활용 원단"
+            },
+            {
+                "title": "필요한 재료",
+                "description": "직조 원단 또는 재활용 원단\n폭 59\": 0.5 yd\n폭 45\": 0.5 yd\n넥 필로우 본체: 2장 (패턴에 따름)\n모든 조각에 0.4\" 시접이 포함됩니다.\n폴리에스터 충전재\n같은 색 실\n시침핀 또는 재단 클립\n원단 마커 또는 재단 분필\n가위 또는 로터리 커터\n뒤집개 또는 젓가락\n손바느질 바늘\n다리미와 다리미판"
+            },
+            {
+                "title": "필요한 기법",
+                "description": "직선 박기"
+            }
+        ],
+        "showCustomSize": false,
+        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
+        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
+        "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
+        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
+        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
+        "steps": [
+            {
+                "number": 1,
+                "title": "1단계: 자르기 - 준비",
+                "content": "오늘은 편안한 넥 필로우를 만들어 보겠습니다.\n주 원단, 충전재와 가위가 필요합니다.\n시침핀 또는 클립, 보드킨, 원단 마커, 자도 필요합니다.\n그림과 같은 치수로 넥 필로우 패턴을 준비하세요.\n패턴을 원단 위에 놓고 외곽선을 따라 그리세요.\n표시한 선을 따라 베개 조각 2장을 잘라내세요.",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "재단하기 전에 패턴의 중심이나 정렬 표시를 옮겨두면 곡선 가장자리를 박을 때 맞추기 쉬워집니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 2,
+                "title": "2단계: 가장자리를 따라 박기",
+                "content": "주 원단 2장을 겉면끼리 맞대고 가장자리를 따라 시침핀으로 고정하세요.\n뒤집기와 충전재 넣기를 위해 바깥 곡선을 따라 6–8 cm 구멍을 표시하세요.\n구멍의 한쪽 끝부터 박기 시작하세요.\n2~3땀을 앞으로 박은 뒤 되돌아박기로 고정하세요.\n핀을 제거하며 가장자리를 따라 계속 박으세요.\n마지막에 되돌아박기로 고정하는 것을 잊지 마세요.",
+                "tip": {
+                    "type": "common_mistake",
+                    "text": "뒤집기 구멍은 박지 않고 남기고 양 끝에서 되돌아박기하여 뒤집는 동안 박음선이 풀리지 않도록 하세요."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 3,
+                "title": "3단계: 겉면이 바깥으로 뒤집기",
+                "content": "구멍을 통해 베개를 겉면이 바깥으로 오게 뒤집으세요.\n원하는 탄력이 될 때까지 충전재를 고르게 채우세요.",
+                "tip": {
+                    "type": "warning",
+                    "text": "곡선 박음선 가까이에서 박음선을 자르지 않게 조심하며 잘라내세요. 그렇지 않으면 베개를 뒤집을 때 박음선이 터질 수 있습니다."
+                },
+                "patternCutListImage": []
+            },
+            {
+                "number": 4,
+                "title": "4단계: 구멍 닫기",
+                "content": "올 가장자리를 안쪽으로 접어 가지런히 맞추세요.\n숨은박기로 구멍을 닫으세요.\n실을 당기고 매듭을 지은 뒤 실 끝을 숨기세요.\n완성! 편안한 넥 필로우가 완성되어 사용할 준비가 되었습니다!",
+                "tip": {
+                    "type": "pro_tip",
+                    "text": "무딘 뒤집개를 사용해 원단을 손상시키지 않으면서 곡선 부분을 부드럽게 밀어내세요."
+                },
+                "patternCutListImage": []
+            }
+        ],
+        "timelines": [
+            {
+                "title": "1단계: 자르기 - 준비",
+                "time": "00:16:00"
+            },
+            {
+                "title": "2단계: 베개 박기",
+                "time": "00:39:00"
+            },
+            {
+                "title": "3단계: 정리 - 잘라내기",
+                "time": "01:19:00"
+            },
+            {
+                "title": "4단계: 겉면이 바깥으로 뒤집기",
+                "time": "01:49:00"
+            },
+            {
+                "title": "5단계: 솜 채우기",
+                "time": "02:12:00"
+            },
+            {
+                "title": "6단계: 숨은박기",
+                "time": "02:28:00"
+            }
+        ]
+    }
+]
