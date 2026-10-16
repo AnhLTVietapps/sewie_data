@@ -1,557 +1,589 @@
 [
-    {
-        "name": "Coletero floral de uso diario",
-        "level": "Principiante",
-        "time": "15 min",
-        "finishedSize": "Diámetro exterior: 6\". Grosor del anillo elástico: 2.75\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Tela principal",
-                "description": "Algodón de trama ligera, satén, lino o tela reciclada"
-            },
-            {
-                "title": "Materiales necesarios",
-                "description": "Algodón de trama ligera, satén, lino o tela reciclada\nUna tira de tela de 27.5\" x 6\"\nCinta elástica\nHilo"
-            },
-            {
-                "title": "Técnicas requeridas",
-                "description": "Puntada recta, pespunte"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Paso 1: Corte - Preparación",
-                "content": "Necesitarás una tira larga de tela, un trozo de elástico y unas tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nLa tela mide 5 × 20 pulgadas (unos 12 × 50 cm). El elástico mide unas 7 pulgadas (18 cm) de largo.\nDobla la tela por la mitad, derecho con derecho.\nMarca un margen de costura de 1 cm a lo largo del borde.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Usa un cortador rotatorio y una regla para mantener rectos los bordes de la tira y lograr un coletero con una forma uniforme."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Paso 2: Coser el borde corto",
-                "content": "Alinea los dos bordes cortos con el derecho hacia dentro\nCose 2–3 puntadas y haz una puntada de refuerzo para asegurar.\nSigue cosiendo hacia delante y recuerda hacer una puntada de refuerzo al final para asegurar\nAbre la costura y asiéntala con la plancha.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Asegúrate de que la tela no esté retorcida antes de coser los extremos juntos, o el coletero terminado tendrá una forma irregular."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Paso 3: Coser el borde largo",
-                "content": "Enrolla la capa superior de la tela como se muestra.\nEnvuelve los dos bordes de la capa inferior alrededor de la tela enrollada.\nAlinea los bordes largos y sujétalos con alfileres.\nCose a lo largo del borde largo con puntada recta.\nCose 2–3 puntadas y haz una puntada de refuerzo para asegurar.\nSigue cosiendo como de costumbre y quita los alfileres mientras coses.\nTen cuidado de no coser la tela enrollada del interior.\nTira suavemente de la tela enrollada del interior mientras coses.\nDeja una abertura de unos 5 cm (2 pulgadas).\nHaz una puntada de refuerzo al final para asegurar.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Ten cuidado de no atrapar accidentalmente las capas interiores de la tela en la costura, ya que esto impedirá que el tubo se voltee correctamente."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Paso 4: Voltear el tubo",
-                "content": "Voltea el tubo de tela al derecho por la abertura.\nAlisa los bordes de la tela y plánchalos.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Sujeta bien ambos extremos del elástico mientras lo enhebras para evitar que uno de los extremos se deslice de vuelta dentro del tubo de tela."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Turn%20the%20tube.png"
-                ]
-            },
-            {
-                "number": 5,
-                "title": "Paso 5: Insertar el elástico",
-                "content": "Sujeta el elástico a una aguja pasacintas.\nPásalo por el tubo de tela.\nAta bien ambos extremos.\nTira suavemente para comprobar el estiramiento y el nudo.\nRecorta el sobrante dejando unos 1 cm.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Sujeta bien ambos extremos del elástico mientras lo enhebras para evitar que uno de los extremos se deslice de vuelta dentro del tubo de tela."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 6,
-                "title": "Paso 6: Cerrar la abertura",
-                "content": "Mete los bordes sin rematar hacia dentro y alínealos con cuidado.\nHaz una puntada de refuerzo al principio y al final para asegurar.\nHaz un pespunte cerca del borde para cerrar la abertura.\nRecorta el hilo sobrante.\nAjusta la tela para que el fruncido quede distribuido de manera uniforme.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Sujeta bien ambos extremos del elástico mientras lo enhebras para evitar que uno de los extremos se deslice de vuelta dentro del tubo de tela."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Paso 1: Corte - Preparación",
-                "time": "00:06:00"
-            },
-            {
-                "title": "Paso 2: Coser",
-                "time": "00:18:00"
-            },
-            {
-                "title": "Paso 3: Insertar el elástico",
-                "time": "03:25:00"
-            },
-            {
-                "title": "Paso 4: Coser",
-                "time": "04:03:00"
-            }
+  {
+    "name": "Coletero floral de uso diario",
+    "level": "Principiante",
+    "time": "14-25 min",
+    "finishedSize": "5 x 5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Información de la tela",
+        "description": "Tela principal: 1 tira de 5 × 20 inches, Elástico: 1 pieza de 7 inches de largo"
+      },
+      {
+        "title": "Herramientas necesarias",
+        "description": "Máquina de coser, Tijeras para tela, Cinta métrica / Regla, Tiza de sastre / Marcador de tela, Alfileres / Pinzas de costura, Imperdible, Aguja de coser a mano, Aguja pasacintas / Enhebrador de elástico"
+      },
+      {
+        "title": "Técnicas necesarias",
+        "description": "Puntada recta\nPespunte"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Paso 1: Corte - Preparación",
+        "content": "Necesitarás una tira larga de tela, un trozo de elástico y unas tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nLa tela mide 5 × 20 inches (unos 12 × 50 cm). El elástico mide unos 7 inches (18 cm) de largo.\nDobla la tela por la mitad, derecho con derecho.\nMarca un margen de costura de 1 cm a lo largo del borde.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Usa un cortador rotatorio y una regla para mantener rectos los bordes de la tira y que el coletero terminado tenga una forma uniforme."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
         ]
-    },
-    {
-        "name": "Posavasos acolchado acogedor",
-        "level": "Principiante",
-        "time": "15 min",
-        "finishedSize": "4\" x 4\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Tela principal",
-                "description": "Algodón, algodón patchwork, lino o retazos de tela reciclada"
-            },
-            {
-                "title": "Materiales necesarios",
-                "description": "Algodón, algodón patchwork, lino o retazos de tela reciclada\nRelleno de fibra de poliéster o relleno de espuma\nAguja de coser a mano\nHilo"
-            },
-            {
-                "title": "Técnicas requeridas",
-                "description": "Puntada recta"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Paso 1: Corte - Preparación",
-                "content": "Necesitarás tela principal, relleno y tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nCorta 2 piezas de tela principal, cada una de 17 × 17 cm. El tamaño terminado será de 15 × 15 cm.\nPuedes ajustar el tamaño a tu taza, pero asegúrate de que el tamaño de corte sea unos 2 cm más grande en largo y ancho que el tamaño terminado.\nEn el revés de la tela, marca un margen de costura de 1 cm a lo largo de los cuatro bordes.\nEn el derecho, mide 5 cm (2 pulgadas) hacia dentro desde cada borde y dibuja un cuadrado más pequeño en el centro.\nDeja dos aberturas en el mismo lado de los cuadrados interior y exterior, cada una de unos 4 cm de largo.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Usa una regla de acolchado y un marcador de tela para que todos los lados queden perfectamente cuadrados y lograr un posavasos con un acabado más profesional."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Paso 2: Coser la pieza principal",
-                "content": "Coloca las dos piezas de tela principal derecho con derecho.\nSujeta las cuatro esquinas de la tela con alfileres.\nAlinea el centro del prensatelas con la línea de costura.\nCose 2–3 puntadas y haz una puntada de refuerzo para asegurar.\nSigue cosiendo por la línea marcada, recuerda hacer una puntada de refuerzo al final para asegurar la costura.\nCuando llegues a la esquina, deja la aguja clavada en la tela. Luego levanta el prensatelas, gira la tela, baja el prensatelas y sigue cosiendo.\nRecorta las esquinas con cuidado sin cortar las puntadas. Esto ayuda a que las esquinas queden más planas al voltear al derecho.\nVoltea la tela al derecho.\nSi las esquinas son difíciles de voltear, empújalas suavemente con un palillo o una herramienta roma. Ten cuidado de no empujar demasiado fuerte ni perforar la tela.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Los principiantes suelen olvidar dejar una abertura para voltear o la hacen demasiado pequeña, lo que dificulta voltear el posavasos al derecho."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Paso 3: Coser el cuadrado interior",
-                "content": "Haz un pespunte a lo largo del cuadrado interior, empezando con una puntada de refuerzo para asegurar las puntadas.\nCose el cuadrado interior igual que el cuadrado exterior, dejando una abertura.\nRecorta el hilo sobrante.\nAhora, rellenemos primero la pequeña zona cuadrada del centro. No necesitas añadir demasiado relleno aquí.\nCose la abertura del cuadrado interior para cerrarla\nLuego, rellena el borde exterior por la abertura exterior,",
-                "tip": {
-                    "type": "warning",
-                    "text": "No tires de las esquinas con demasiada fuerza, ya que puedes estirar la abertura o deformar la forma del posavasos."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Paso 4: Cerrar la abertura",
-                "content": "Usa una aguja de coser a mano para cerrar la abertura a lo largo del borde exterior, sacando la aguja desde entre las dos capas de tela.\nEn el borde de la tela superior, da una puntada pequeña de derecha a izquierda.\nDa una puntada correspondiente en la tela inferior justo debajo.\nSigue dando puntadas, alternando arriba y abajo, hasta cerrar por completo la abertura.\nTira del hilo para juntar los bordes de la tela\nPor último, remata el hilo con un nudo y luego oculta el cabo del hilo dentro de la tela.\nDale un ligero planchado para quitar cualquier marca del marcador de tela y ayudar a que la forma general quede más uniforme.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Rellenar en exceso es un error común y puede hacer que el posavasos se tambalee en lugar de quedar plano sobre la mesa."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Paso 1: Corte - Preparación",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Paso 2: Coser",
-                "time": "00:55:00"
-            },
-            {
-                "title": "Paso 3: Voltear al derecho",
-                "time": "02:34:00"
-            },
-            {
-                "title": "Paso 4: Rellenar",
-                "time": "02:58:00"
-            },
-            {
-                "title": "Paso 5: El detalle del centro",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Paso 6: Coser a mano",
-                "time": "04:33:00"
-            }
+      },
+      {
+        "number": 2,
+        "title": "Paso 2: Coser el borde corto",
+        "content": "Alinea los dos bordes cortos, derecho con derecho.\nCose 2–3 puntadas y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo hacia adelante y recuerda hacer la puntada de refuerzo al final para asegurar.\nAbre la costura y plánchala para aplanarla.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Asegúrate de que la tela no esté retorcida antes de coser los extremos, o el coletero terminado tendrá una forma irregular."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
         ]
-    },
-    {
-        "name": "Monedero con cremallera",
-        "level": "Principiante",
-        "time": "0,5 horas",
-        "finishedSize": "Aproximadamente 3.5\" x 3.9\" (personalizable)",
-        "patternCutList": "",
-        "techPack": [
-            {
-                "title": "Tela principal",
-                "description": "Algodón, algodón patchwork, lona, lino o tela reciclada"
-            },
-            {
-                "title": "Materiales necesarios",
-                "description": "Algodón, algodón patchwork, lona, lino o tela reciclada\nDos piezas de tela exterior de 7.87 pulgadas x 3.54 pulgadas\nDos piezas de tela de forro de 7.87 pulgadas x 3.54 pulgadas\nCremallera\nHilo\nPinzas de costura o alfileres"
-            },
-            {
-                "title": "Técnicas requeridas",
-                "description": "Puntada recta, pespunte"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Paso 1: Corte - Preparación",
-                "content": "Necesitarás tela principal, entretela termoadhesiva, una cremallera y tijeras.\nCorta 2 piezas de tela principal y 2 piezas de entretela, cada una de 10 × 8 pulgadas (unos 25 × 20 cm).\nPega la entretela al revés de las piezas de tela principal con la plancha.\nRecorta el exceso de entretela alrededor de los bordes.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Apila las capas de tela y córtalas juntas para que todas las piezas del monedero queden exactamente del mismo tamaño."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 2,
-                "title": "Paso 2: Coser la cremallera",
-                "content": "Dobla las dos piezas de tela por la mitad y plancha para marcar un doblez.\nColoca la cremallera entre las capas de tela y sujétala con alfileres a lo largo de la cinta de la cremallera.\nCose 2–3 puntadas hacia delante y haz una puntada de refuerzo para asegurar.\nSigue cosiendo por los bordes, quitando los alfileres mientras avanzas.\nRecuerda hacer una puntada de refuerzo al final para asegurar.\nAbre las telas y haz un pespunte a lo largo del borde de la cremallera.\nRepite el mismo proceso para el otro lado de la cremallera.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Asegúrate de que ambos lados de la cremallera estén alineados de manera uniforme antes de coser, o el monedero puede quedar retorcido o irregular al terminarlo."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Paso 3: Coser alrededor de los bordes",
-                "content": "Abre la cremallera hasta la mitad para poder voltear el monedero al derecho más tarde.\nMarca una abertura de 2–3 pulgadas (5–7 cm) para voltear.\nAlinea los bordes y sujeta con alfileres los cuatro lados.\nAlinea el centro del prensatelas con la línea de costura.\nCose 2–3 puntadas y haz una puntada de refuerzo para asegurar.\nSigue cosiendo por el borde, recuerda hacer una puntada de refuerzo al final para asegurar la costura.\nCuando llegues a la esquina, deja la aguja clavada en la tela. Luego levanta el prensatelas, gira la tela, baja el prensatelas y sigue cosiendo.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Plancha la tela alejándola de la cremallera antes de hacer el pespunte para un acabado más limpio y profesional."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Paso 4: Voltear al derecho",
-                "content": "Recorta las esquinas con cuidado sin cortar las puntadas. Esto ayuda a que las esquinas queden más planas al voltear al derecho.\nVoltea el monedero al derecho por la abertura.\nHaz un pespunte cerca del borde para cerrar la abertura.\n¡Y eso es todo! ¡Nuestro monedero con cremallera está terminado y listo para usar!",
-                "tip": {
-                    "type": "warning",
-                    "text": "Abre siempre la cremallera antes de coser el monedero para cerrarlo, o puede ser imposible voltear el monedero al derecho."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Paso 1: Corte - Preparación",
-                "time": "00:15:00"
-            },
-            {
-                "title": "Paso 2: Coser la cremallera a las telas",
-                "time": "01:21:00"
-            },
-            {
-                "title": "Paso 3: Pespunte",
-                "time": "02:48:00"
-            },
-            {
-                "title": "Paso 4: Coser el monedero",
-                "time": "04:14:00"
-            },
-            {
-                "title": "Paso 5: Voltear al derecho",
-                "time": "06:44:00"
-            },
-            {
-                "title": "Paso 6: Coser el forro para cerrarlo",
-                "time": "07:09:00"
-            }
+      },
+      {
+        "number": 3,
+        "title": "Paso 3: Coser el borde largo",
+        "content": "Enrolla la capa superior de la tela como se muestra.\nEnvuelve los dos bordes de la capa inferior alrededor de la tela enrollada.\nAlinea los bordes largos y sujétalos con alfileres.\nCose a lo largo del borde largo con puntada recta.\nCose 2–3 puntadas y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo hacia adelante como de costumbre y quita los alfileres mientras coses.\nTen cuidado de no coser la tela enrollada del interior.\nTira suavemente de la tela enrollada hacia adentro mientras coses.\nDeja una abertura de unos 5 cm (2 in).\nHaz una puntada de refuerzo al final para asegurar.",
+        "tip": {
+          "type": "warning",
+          "text": "Ten cuidado de no atrapar por accidente las capas interiores de tela en la costura, ya que eso impedirá voltear bien el tubo."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
         ]
-    },
-    {
-        "name": "Bolso tote floral",
-        "level": "Principiante",
-        "time": "1 hora",
-        "finishedSize": "12.2\" x 16.9\" x 3\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-        "techPack": [
-            {
-                "title": "Tela principal",
-                "description": "Tela de trama o tela reciclada"
-            },
-            {
-                "title": "Materiales necesarios",
-                "description": "Tela de trama o tela reciclada\nAncho 59\": 0.75 yd\nAncho 45\": 0.75 yd\nBolso exterior: 2 piezas (según la plantilla)\nForro: 2 piezas (según la plantilla)\nAsas: 2 piezas (según la plantilla)\nTodas las piezas incluyen un margen de costura de 0.4\" salvo indicación contraria.\nHilo de coser a juego\nAlfileres o pinzas de costura\nMarcador de tela o tiza de sastre\nCinta métrica\nTijeras o cortador rotatorio\nPlancha y tabla de planchar"
-            },
-            {
-                "title": "Técnicas requeridas",
-                "description": "Puntada recta, pespunte"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Paso 1: Corte - Preparación",
-                "content": "Para hacer este bolso usaremos algunas técnicas de costura esenciales: la puntada recta estándar, el pespunte al canto y el pespunte. Une las asas con un pespunte al canto y un pespunte. Dar forma a las esquinas: corta las esquinas y cose los bordes juntos\nPrimero, prepara la tela principal y la del forro, descarga e imprime nuestro patrón del bolso\nLuego, marca y corta un triángulo en las esquinas inferiores del patrón\nUsa el patrón del bolso para cortar 2 piezas principales y 2 piezas de forro\nEn cada esquina inferior, corta un triángulo puntiagudo como se muestra\nColoca las dos piezas principales (o del forro) derecho con derecho y sujétalas con alfileres por los bordes exteriores",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Transfiere todas las muescas y marcas de alineación antes de cortar para facilitar el montaje del bolso exterior y el forro."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Paso 2: Coser las costuras inferiores",
-                "content": "Selecciona el ajuste de puntada recta. Pon el dial de longitud de puntada en 2 para una puntada equilibrada de largo medio\nJunta los bordes del triángulo inferior (derecho con derecho)\nAlinea los bordes de manera uniforme y cose una línea recta\nRepite este proceso para las tres esquinas inferiores restantes",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Asegúrate de que los derechos estén enfrentados antes de coser, o las costuras se verán por fuera del bolso."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Paso 3: Coser el bolso principal",
-                "content": "*Recuerda hacer una puntada de refuerzo al inicio de cada costura para asegurar tus puntadas\nCose todo alrededor del bolso por la línea con alfileres, quitando los alfileres mientras avanzas\nAl coser la parte inferior curva, deja la aguja clavada en la tela, levanta el prensatelas, gira la tela y sigue cosiendo\nHaz una puntada de refuerzo al final de la costura para asegurar también tus puntadas",
-                "tip": {
-                    "type": "warning",
-                    "text": "Haz una puntada de refuerzo en ambos extremos de la abertura para voltear para evitar que la costura se abra más al voltear."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Paso 4: Coser el forro",
-                "content": "Cose el forro exactamente igual que el bolso principal cosiendo las esquinas inferiores y todo alrededor\nCose todo alrededor del bolso, dejando sin coser un hueco de 10 cm (4\") en la parte inferior",
-                "tip": {
-                    "type": "warning",
-                    "text": "Recorta con cuidado los márgenes de costura curvos sin cortar las puntadas para que el borde superior quede plano después de voltear."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 5,
-                "title": "Paso 5: Unir el bolso y el forro",
-                "content": "Aquí está el bolso principal terminado\nAquí está el forro, con el hueco sin coser en la parte inferior\nVoltea el forro al derecho\nIntroduce el forro dentro del bolso principal, asegurándote de que las esquinas queden perfectamente alineadas\nSujeta con alfileres todo alrededor de los bordes de la abertura del bolso y las asas para mantener las capas bien sujetas\nSujeta las dos capas juntas con alfileres a lo largo de la abertura del bolso y las asas tanto en la parte delantera como en la trasera del bolso\nCose por estas líneas con alfileres\nCose todo alrededor de la abertura y las asas, quitando los alfileres mientras avanzas",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Plancha bien el borde superior antes de hacer el pespunte para lograr un acabado limpio y de aspecto profesional."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 6,
-                "title": "Paso 6: Coser para cerrar el hueco del forro inferior",
-                "content": "Dobla los bordes sin rematar del agujero para voltear hacia dentro y haz un pespunte al canto para cerrar",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Mantén ambas asas exactamente del mismo largo para que el tote terminado cuelgue de manera uniforme al llevarlo."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 7,
-                "title": "Paso 7: Planchado",
-                "content": "Lleva las costuras de la abertura y las asas hasta el mismo borde y luego plancha para fijar la forma",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 8,
-                "title": "Paso 8: Coser el asa",
-                "content": "Dobla el borde sin rematar del asa 1 cm hacia dentro y sujétalo con alfileres\nDesliza el borde sin rematar del asa restante dentro del extremo doblado que acabas de hacer\nCose 2 líneas paralelas: pespunte al canto a 1 mm del borde y pespunte a 5 mm del borde\nRecuerda hacer una puntada de refuerzo al principio y al final de tus costuras\nRecorta el hilo sobrante",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 9,
-                "title": "Paso 9: Pespunte al canto",
-                "content": "Haz un pespunte al canto a 1 mm del borde alrededor de la abertura del bolso y las asas",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Paso 1: Corte - Preparación",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Paso 2: Coser las piezas principales",
-                "time": "00:44:00"
-            },
-            {
-                "title": "Paso 3: Coser las piezas del forro",
-                "time": "01:12:00"
-            },
-            {
-                "title": "Paso 4: Coser el bolso",
-                "time": "01:37:00"
-            },
-            {
-                "title": "Paso 5: Pespunte",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Paso 6: Coser el asa",
-                "time": "03:50:00"
-            },
-            {
-                "title": "Paso 7: Coser la abertura para cerrarla",
-                "time": "04:39:00"
-            }
+      },
+      {
+        "number": 4,
+        "title": "Paso 5: Insertar el elástico",
+        "content": "Sujeta el elástico a una aguja pasacintas.\nPásalo por el tubo de tela.\nAta bien los dos extremos.\nTira suavemente para comprobar la elasticidad y el nudo.\nRecorta el sobrante dejando aproximadamente 1 cm.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Sujeta bien los dos extremos del elástico mientras lo pasas para evitar que uno de ellos se deslice de nuevo dentro del tubo de tela."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
         ]
-    },
-    {
-        "name": "Almohada cervical de confort",
-        "level": "Principiante",
-        "time": "30 min",
-        "finishedSize": "11.75\" x 11.75\"",
-        "patternCutList": "",
-        "techPack": [
-            {
-                "title": "Tela principal",
-                "description": "Tela de trama o tela reciclada"
-            },
-            {
-                "title": "Materiales necesarios",
-                "description": "Tela de trama o tela reciclada\nAncho 59\": 0.5 yd\nAncho 45\": 0.5 yd\nCuerpo de la almohada cervical: 2 piezas (según la plantilla)\nTodas las piezas incluyen un margen de costura de 0.4\".\nRelleno de fibra de poliéster\nHilo de coser a juego\nAlfileres o pinzas de costura\nMarcador de tela o tiza de sastre\nTijeras o cortador rotatorio\nHerramienta para voltear o palillo\nAguja de coser a mano\nPlancha y tabla de planchar"
-            },
-            {
-                "title": "Técnicas requeridas",
-                "description": "Puntada recta"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Paso 1: Corte - Preparación",
-                "content": "Hoy vamos a coser una almohada cervical de confort.\nNecesitarás tela principal, relleno y tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nPrepara el patrón de la almohada cervical en las dimensiones indicadas.\nColoca el patrón sobre la tela y traza el contorno.\nCorta las dos piezas de la almohada por la línea marcada.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Transfiere cualquier marca de centro o de alineación del patrón antes de cortar para facilitar la unión de los bordes curvos durante la costura."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 2,
-                "title": "Paso 2: Coser por los bordes",
-                "content": "Coloca las dos piezas de tela principal derecho con derecho y sujeta con alfileres alrededor de los bordes.\nMarca una abertura de 6–8 cm a lo largo de la curva exterior para voltear y rellenar.\nEmpieza a coser desde un extremo de la abertura.\nCose 2–3 puntadas hacia delante y haz una puntada de refuerzo para asegurar.\nSigue cosiendo por los bordes, quitando los alfileres mientras avanzas.\nRecuerda hacer una puntada de refuerzo al final para asegurar.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Recuerda dejar sin coser la abertura para voltear y hacer una puntada de refuerzo en ambos extremos para que la costura se mantenga segura al voltear."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Paso 3: Voltear al derecho",
-                "content": "Voltea la almohada al derecho por la abertura.\nRellena la almohada de manera uniforme con fibra de poliéster hasta lograr la firmeza deseada.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Recorta cerca de las costuras curvas sin cortar las puntadas, o la costura puede abrirse al voltear la almohada."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Paso 4: Cerrar la abertura",
-                "content": "Dobla los bordes sin rematar hacia dentro y alínealos con cuidado.\nUsa una puntada invisible para cerrar la abertura.\nTira bien del hilo, haz un nudo y oculta el cabo del hilo.\n¡Y eso es todo! ¡Nuestra almohada cervical de confort está terminada y lista para usar!",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Usa una herramienta para voltear roma para empujar suavemente las secciones curvas sin dañar la tela."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Paso 1: Corte - Preparación",
-                "time": "00:16:00"
-            },
-            {
-                "title": "Paso 2: Coser la almohada",
-                "time": "00:39:00"
-            },
-            {
-                "title": "Paso 3: Recortar - Hacer piquetes",
-                "time": "01:19:00"
-            },
-            {
-                "title": "Paso 4: Voltear al derecho",
-                "time": "01:49:00"
-            },
-            {
-                "title": "Paso 5: Rellenar",
-                "time": "02:12:00"
-            },
-            {
-                "title": "Paso 6: Puntada invisible",
-                "time": "02:28:00"
-            }
+      },
+      {
+        "number": 5,
+        "title": "Paso 6: Cerrar la abertura",
+        "content": "Mete los bordes sin rematar hacia adentro y alinéalos con cuidado.\nHaz una puntada de refuerzo al principio y al final para asegurar.\nHaz un pespunte cerca del borde para cerrar la abertura.\nRecorta el hilo sobrante.\nAjusta la tela para que los frunces queden repartidos de manera uniforme.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Sujeta bien los dos extremos del elástico mientras lo pasas para evitar que uno de ellos se deslice de nuevo dentro del tubo de tela."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
         ]
-    }
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Paso 1: Corte - Preparación",
+        "time": "00:06:00"
+      },
+      {
+        "title": "Paso 2: Coser",
+        "time": "00:18:00"
+      },
+      {
+        "title": "Paso 3: Insertar el elástico",
+        "time": "03:25:00"
+      },
+      {
+        "title": "Paso 4: Coser",
+        "time": "04:03:00"
+      }
+    ]
+  },
+  {
+    "name": "Posavasos acolchado acogedor",
+    "level": "Principiante",
+    "time": "25-40 min",
+    "finishedSize": "6 x 6 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Información de la tela",
+        "description": "Tela principal: 2 piezas de 17 × 17 cm cada una"
+      },
+      {
+        "title": "Herramientas necesarias",
+        "description": "Máquina de coser, Aguja para máquina de coser, Tijeras para tela, Tijeras corta-hilos, Regla o regla para patchwork, Tiza de sastre o rotulador para tela, Alfileres o pinzas de costura, Volteador de esquinas, Plancha y tabla de planchar, Descosedor"
+      },
+      {
+        "title": "Técnicas necesarias",
+        "description": "Puntada recta"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Paso 1: Corte - Preparación",
+        "content": "Necesitarás tela principal, relleno y tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nCorta 2 piezas de tela principal de 17 × 17 cm cada una. El tamaño terminado será de 15 × 15 cm.\nPuedes ajustar el tamaño a tu taza, pero asegúrate de que la medida de corte sea unos 2 cm mayor en largo y ancho que el tamaño terminado.\nEn el revés de la tela, marca un margen de costura de 1 cm en los cuatro bordes.\nEn el derecho de la tela, mide 5 cm (2 inches) hacia adentro desde cada borde y dibuja un cuadrado más pequeño en el centro.\nDeja dos aberturas en el mismo lado de los cuadrados interior y exterior, cada una de unos 4 cm de largo.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Usa una regla para patchwork y un marcador de tela para que todos los lados queden perfectamente cuadrados y el posavasos terminado tenga un acabado más profesional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Paso 2: Coser la pieza principal",
+        "content": "Coloca las dos piezas de tela principal derecho con derecho.\nSujeta con alfileres las cuatro esquinas de la tela.\nAlinea el centro del prensatelas con la línea de costura.\nCose 2–3 puntadas y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo a lo largo de la línea marcada y recuerda hacer la puntada de refuerzo al final para asegurar la costura.\nCuando llegues a la esquina, deja la aguja clavada en la tela. Luego levanta el prensatelas, gira la tela, baja el prensatelas y sigue cosiendo.\nRecorta las esquinas con cuidado sin cortar las puntadas. Esto ayuda a que las esquinas queden más planas al voltear la tela al derecho.\nVoltea la tela al derecho.\nSi las esquinas son difíciles de voltear, empújalas suavemente con un palillo chino o una herramienta roma. Ten cuidado de no empujar demasiado fuerte ni perforar la tela.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Los principiantes suelen olvidar dejar una abertura para voltear o la hacen demasiado pequeña, lo que dificulta voltear el posavasos al derecho."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Paso 3: Coser el cuadrado interior",
+        "content": "Haz un pespunte a lo largo del cuadrado interior, empezando con una puntada de refuerzo para asegurar las puntadas.\nCose el cuadrado interior igual que el cuadrado exterior, dejando una abertura.\nRecorta el hilo sobrante.\nAhora, rellena primero la pequeña zona cuadrada del centro. No hace falta poner mucho relleno aquí.\nCose la abertura del cuadrado interior para cerrarla.\nLuego, rellena el borde exterior por la abertura exterior.",
+        "tip": {
+          "type": "warning",
+          "text": "No tires de las esquinas con demasiada fuerza, ya que podrías estirar la abertura o deformar el posavasos."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Paso 4: Cerrar la abertura",
+        "content": "Usa una aguja de coser a mano para cerrar la abertura a lo largo del borde exterior, sacando la aguja desde entre las dos capas de tela.\nEn el borde de la tela superior, da una puntada pequeña de derecha a izquierda.\nDa una puntada correspondiente en la tela inferior justo debajo.\nSigue dando puntadas, alternando arriba y abajo, hasta cerrar por completo la abertura.\nTira del hilo para juntar los bordes de la tela.\nPor último, remata el hilo con un nudo y esconde la hebra dentro de la tela.\nDale un ligero planchado para quitar cualquier resto del marcador de tela y ayudar a que la forma general quede más uniforme.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Rellenar en exceso es un error común y puede hacer que el posavasos se tambalee en lugar de quedar plano sobre la mesa."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Paso 1: Corte - Preparación",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Paso 2: Coser",
+        "time": "00:55:00"
+      },
+      {
+        "title": "Paso 3: Voltear al derecho",
+        "time": "02:34:00"
+      },
+      {
+        "title": "Paso 4: Rellenar",
+        "time": "02:58:00"
+      },
+      {
+        "title": "Paso 5: El detalle central",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Paso 6: Coser a mano",
+        "time": "04:33:00"
+      }
+    ]
+  },
+  {
+    "name": "Monedero con cremallera",
+    "level": "Principiante",
+    "time": "45-70 min",
+    "finishedSize": "4 x 7 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Información de la tela",
+        "description": "Tela principal: 2 piezas de 10 × 8 inches cada una, Entretela termoadhesiva: 2 piezas de 10 × 8 inches cada una, Cremallera: 1 pieza de 7 inches de largo"
+      },
+      {
+        "title": "Herramientas necesarias",
+        "description": "Máquina de coser y agujas adecuadas para máquina de coser, Prensatelas estándar y prensatelas para cremalleras, Tijeras para tela y tijeras corta-hilos, Regla y cinta métrica, Papel para patrones, Tiza de sastre o rotulador para tela, Alfileres o pinzas de costura, Herramienta roma para voltear, Plancha y tabla de planchar, Descosedor, Aguja de coser a mano si vas a cerrar la abertura de volteo con puntada invisible, Materiales: tela exterior, tela de forro, cremallera, hilo de coser y entretela termoadhesiva opcional o guata fina."
+      },
+      {
+        "title": "Técnicas necesarias",
+        "description": "Puntada recta, Pespunte"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Paso 1: Corte - Preparación",
+        "content": "Necesitarás tela principal, entretela termoadhesiva, una cremallera y tijeras.\nCorta 2 piezas de tela principal y 2 piezas de entretela de 10 × 8 inches cada una (unos 25 × 20 cm).\nPega la entretela al revés de las piezas de tela principal.\nRecorta el exceso de entretela alrededor de los bordes.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Apila las capas de tela y córtalas juntas para que todas las piezas del monedero tengan exactamente el mismo tamaño."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Paso 2: Coser la cremallera",
+        "content": "Dobla las dos piezas de tela por la mitad y plánchalas para marcar un doblez.\nColoca la cremallera entre las capas de tela como un sándwich y sujeta con alfileres a lo largo de la cinta de la cremallera.\nCose 2–3 puntadas hacia adelante y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo a lo largo de los bordes, quitando los alfileres mientras avanzas.\nRecuerda hacer la puntada de refuerzo al final para asegurar.\nAbre las telas y haz un pespunte a lo largo del borde de la cremallera.\nRepite el mismo proceso en el otro lado de la cremallera.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Asegúrate de que ambos lados de la cremallera estén bien alineados antes de coser, o el monedero podría quedar retorcido o desigual al terminarlo."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Paso 3: Coser alrededor de los bordes",
+        "content": "Abre la cremallera hasta la mitad para poder voltear el monedero al derecho después.\nMarca una abertura de 2–3 inch (5–7 cm) para voltear.\nAlinea los bordes y sujeta con alfileres los cuatro lados.\nAlinea el centro del prensatelas con la línea de costura.\nCose 2–3 puntadas y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo a lo largo del borde y recuerda hacer la puntada de refuerzo al final para asegurar la costura.\nCuando llegues a la esquina, deja la aguja clavada en la tela. Luego levanta el prensatelas, gira la tela, baja el prensatelas y sigue cosiendo.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Plancha la tela alejándola de la cremallera antes de hacer el pespunte para un acabado más limpio y profesional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Paso 4: Voltear al derecho",
+        "content": "Recorta las esquinas con cuidado sin cortar las puntadas. Esto ayuda a que las esquinas queden más planas al voltear la tela al derecho.\nVoltea el monedero al derecho por la abertura.\nHaz un pespunte cerca del borde para cerrar la abertura.\n¡Y listo! Nuestro monedero con cremallera está terminado y listo para usar.",
+        "tip": {
+          "type": "warning",
+          "text": "Abre siempre la cremallera antes de coser el monedero, o podría ser imposible voltearlo al derecho."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Paso 1: Corte - Preparación",
+        "time": "00:15:00"
+      },
+      {
+        "title": "Paso 2: Coser la cremallera a las telas",
+        "time": "01:21:00"
+      },
+      {
+        "title": "Paso 3: Pespunte",
+        "time": "02:48:00"
+      },
+      {
+        "title": "Paso 4: Coser el monedero",
+        "time": "04:14:00"
+      },
+      {
+        "title": "Paso 5: Voltear al derecho",
+        "time": "06:44:00"
+      },
+      {
+        "title": "Paso 6: Cerrar el forro",
+        "time": "07:09:00"
+      }
+    ]
+  },
+  {
+    "name": "Bolso tote floral",
+    "level": "Principiante",
+    "time": "Aproximadamente 3–5 horas",
+    "finishedSize": "16 x 22 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+    "techPack": [
+      {
+        "title": "Información de la tela",
+        "description": "Tela principal: 2 piezas de 16 × 24 inches cada una, Tela de forro: 2 piezas de 16 × 24 inches cada una"
+      },
+      {
+        "title": "Herramientas necesarias",
+        "description": "Máquina de coser, Agujas para máquina de coser adecuadas al grosor de la tela y la guata, Tijeras para tela, Tijeras corta-hilos, Regla y cinta métrica, Papel para patrones, Tiza de sastre o rotulador para tela, Alfileres o pinzas de costura, Aguja de coser a mano, Plancha y tabla de planchar, Descosedor, Prensatelas de doble arrastre (recomendado para acolchado)."
+      },
+      {
+        "title": "Técnicas necesarias",
+        "description": "Puntada recta, Pespunte"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Paso 1: Corte - Preparación",
+        "content": "Para hacer este bolso usaremos algunas técnicas de costura esenciales: la puntada recta estándar, el pespunte al canto y el pespunte. Une las asas con un pespunte al canto y un pespunte. Para dar forma a las esquinas: corta las esquinas y cose los bordes.\nPrimero, prepara la tela principal y la de forro, descarga e imprime nuestro patrón del bolso.\nLuego, marca y recorta un triángulo en las esquinas inferiores del patrón.\nUsa el patrón del bolso para cortar 2 piezas principales y 2 de forro.\nEn cada esquina inferior, recorta un triángulo puntiagudo como se muestra.\nColoca las dos piezas principales (o de forro) derecho con derecho y sujétalas con alfileres a lo largo de los bordes exteriores.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Transfiere todas las muescas y marcas de alineación antes de cortar para facilitar el montaje del bolso exterior y el forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Paso 2: Coser las costuras inferiores",
+        "content": "Selecciona la puntada recta. Ajusta el dial de longitud de puntada en 2 para una puntada media equilibrada.\nJunta los bordes del triángulo inferior (derecho con derecho).\nAlinea los bordes de manera uniforme y cose una línea recta.\nRepite este proceso en las tres esquinas inferiores restantes.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Asegúrate de que los derechos estén enfrentados antes de coser, o las costuras quedarán visibles en el exterior del bolso."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Paso 3: Coser el bolso principal",
+        "content": "*Recuerda hacer la puntada de refuerzo al principio de cada costura para asegurar las puntadas.\nCose todo alrededor del bolso por la línea con alfileres, quitando los alfileres mientras avanzas.\nAl coser la parte inferior curva, deja la aguja clavada en la tela, levanta el prensatelas, gira la tela y sigue cosiendo.\nHaz también una puntada de refuerzo al final de la costura para asegurar las puntadas.",
+        "tip": {
+          "type": "warning",
+          "text": "Haz una puntada de refuerzo en ambos extremos de la abertura de volteo para evitar que la costura se abra más al voltear."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Paso 4: Coser el forro",
+        "content": "Cose el forro igual que el bolso principal, cosiendo las esquinas inferiores y todo alrededor.\nCose todo alrededor del bolso dejando sin coser un hueco de 10 cm (4\") en la parte inferior.",
+        "tip": {
+          "type": "warning",
+          "text": "Recorta con cuidado los márgenes de costura curvos sin cortar las puntadas para que el borde superior quede plano después de voltear."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Paso 5: Unir el bolso y el forro",
+        "content": "Este es el bolso principal terminado.\nEste es el forro, con el hueco sin coser en la parte inferior.\nVoltea el forro al derecho.\nIntroduce el forro en el bolso principal asegurándote de que las esquinas queden perfectamente alineadas.\nSujeta con alfileres todo alrededor de los bordes de la abertura del bolso y las asas para mantener las capas bien fijas.\nSujeta con alfileres las dos capas a lo largo de la abertura del bolso y las asas, tanto en la parte delantera como en la trasera.\nCose por estas líneas con alfileres.\nCose todo alrededor de la abertura y las asas, quitando los alfileres mientras avanzas.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Plancha bien el borde superior antes de hacer el pespunte para lograr un acabado limpio y profesional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Paso 6: Cerrar el hueco inferior del forro",
+        "content": "Dobla hacia adentro los bordes sin rematar del hueco de volteo y ciérralo con un pespunte al canto.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Mantén ambas asas exactamente del mismo largo para que el bolso terminado cuelgue de forma uniforme al llevarlo."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Paso 7: Planchado",
+        "content": "Lleva las costuras de la abertura y las asas hasta el mismo borde y luego plánchalas para fijar la forma.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Paso 8: Coser el asa",
+        "content": "Dobla hacia adentro 1 cm el borde sin rematar del asa y sujétalo con alfileres.\nDesliza el borde sin rematar del resto del asa dentro del extremo doblado que acabas de hacer.\nCose 2 líneas paralelas: pespunte al canto a 1 mm del borde y pespunte a 5 mm del borde.\nRecuerda hacer la puntada de refuerzo al principio y al final de las costuras.\nRecorta el hilo sobrante.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Paso 9: Pespunte al canto",
+        "content": "Haz un pespunte al canto a 1 mm del borde alrededor de la abertura del bolso y las asas.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobla el margen de costura de manera uniforme antes de coser para que la abertura cerrada se integre bien con el resto del forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Paso 1: Corte - Preparación",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Paso 2: Coser las piezas principales",
+        "time": "00:44:00"
+      },
+      {
+        "title": "Paso 3: Coser las piezas del forro",
+        "time": "01:12:00"
+      },
+      {
+        "title": "Paso 4: Coser el bolso",
+        "time": "01:37:00"
+      },
+      {
+        "title": "Paso 5: Pespunte",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Paso 6: Coser el asa",
+        "time": "03:50:00"
+      },
+      {
+        "title": "Paso 7: Cerrar la abertura",
+        "time": "04:39:00"
+      }
+    ]
+  },
+  {
+    "name": "Almohada cervical cómoda",
+    "level": "Principiante",
+    "time": "45-65 min",
+    "finishedSize": "11 x 13.5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Información de la tela",
+        "description": "Tela principal: 2 piezas de 16 × 14 inches cada una"
+      },
+      {
+        "title": "Herramientas necesarias",
+        "description": "Máquina de coser y agujas adecuadas para la tela, Tijeras para tela, Tijeras corta-hilos, Regla y cinta métrica, Papel para patrones, Tiza de sastre o rotulador para tela, Alfileres o pinzas de costura, Aguja de coser a mano para cerrar la abertura, Herramienta roma para voltear y rellenar, Descosedor, Materiales: tela suave, relleno de fibra e hilo de coser."
+      },
+      {
+        "title": "Técnicas necesarias",
+        "description": "Puntada recta"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Paso 1: Corte - Preparación",
+        "content": "Hoy vamos a coser una cómoda almohada cervical.\nNecesitarás tela principal, relleno y tijeras.\nTambién necesitarás alfileres o pinzas, una aguja pasacintas, un marcador de tela y una regla.\nPrepara el patrón de la almohada cervical con las medidas indicadas.\nColoca el patrón sobre la tela y traza el contorno.\nRecorta las dos piezas de la almohada por la línea marcada.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Transfiere las marcas de centro o de alineación del patrón antes de cortar para facilitar la unión de los bordes curvos al coser."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Paso 2: Coser los bordes",
+        "content": "Coloca las dos piezas de tela principal derecho con derecho y sujeta los bordes con alfileres.\nMarca una abertura de 6–8 cm a lo largo de la curva exterior para voltear y rellenar.\nEmpieza a coser desde un extremo de la abertura.\nCose 2–3 puntadas hacia adelante y luego haz una puntada de refuerzo para asegurar.\nSigue cosiendo a lo largo de los bordes, quitando los alfileres mientras avanzas.\nRecuerda hacer la puntada de refuerzo al final para asegurar.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Recuerda dejar sin coser la abertura de volteo y hacer la puntada de refuerzo en ambos extremos para que la costura quede segura al voltear."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Paso 3: Voltear al derecho",
+        "content": "Voltea la almohada al derecho por la abertura.\nRellena la almohada de manera uniforme con relleno de fibra hasta lograr la firmeza deseada.",
+        "tip": {
+          "type": "warning",
+          "text": "Recorta cerca de las costuras curvas sin cortar las puntadas, o la costura podría abrirse al voltear la almohada."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Paso 4: Cerrar la abertura",
+        "content": "Dobla los bordes sin rematar hacia adentro y alinéalos con cuidado.\nUsa una puntada invisible para cerrar la abertura.\nTira del hilo para tensarlo, haz un nudo y esconde la hebra.\n¡Y listo! Nuestra cómoda almohada cervical está terminada y lista para usar.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Usa una herramienta roma para voltear y empujar suavemente las secciones curvas sin dañar la tela."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Paso 1: Corte - Preparación",
+        "time": "00:16:00"
+      },
+      {
+        "title": "Paso 2: Coser la almohada",
+        "time": "00:39:00"
+      },
+      {
+        "title": "Paso 3: Recortar - Hacer piquetes",
+        "time": "01:19:00"
+      },
+      {
+        "title": "Paso 4: Voltear al derecho",
+        "time": "01:49:00"
+      },
+      {
+        "title": "Paso 5: Rellenar",
+        "time": "02:12:00"
+      },
+      {
+        "title": "Paso 6: Puntada invisible",
+        "time": "02:28:00"
+      }
+    ]
+  }
 ]

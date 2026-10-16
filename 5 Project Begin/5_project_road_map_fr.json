@@ -1,557 +1,589 @@
 [
-    {
-        "name": "Chouchou fleuri du quotidien",
-        "level": "Débutant",
-        "time": "15 min",
-        "finishedSize": "Diamètre extérieur : 6\". Épaisseur de l'anneau élastique : 2.75\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Tissu principal",
-                "description": "Coton tissé léger, satin, lin ou tissu recyclé"
-            },
-            {
-                "title": "Matériel nécessaire",
-                "description": "Coton tissé léger, satin, lin ou tissu recyclé\nUne bande de tissu de 27.5\" x 6\"\nBande élastique\nFil"
-            },
-            {
-                "title": "Techniques requises",
-                "description": "Point droit, Surpiqûre"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Étape 1 : Couper - Préparer",
-                "content": "Il vous faudra une longue bande de tissu, un morceau d'élastique et des ciseaux.\nIl vous faudra aussi des épingles ou des pinces, un passe-lacet, un marqueur pour tissu et une règle.\nLe tissu mesure 5 × 20 pouces (environ 12 × 50 cm). L'élastique mesure environ 7 pouces (18 cm) de long.\nPliez le tissu en deux, endroit contre endroit.\nMarquez une marge de couture de 1 cm le long du bord.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Utilisez un cutter rotatif et une règle pour garder les bords de la bande bien droits et obtenir un chouchou fini de forme régulière."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Étape 2 : Coudre le petit bord",
-                "content": "Alignez les deux petits bords, endroit contre endroit.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre et n'oubliez pas le point arrière à la fin pour sécuriser.\nOuvrez la couture et repassez-la à plat.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Assurez-vous que le tissu n'est pas vrillé avant de coudre les extrémités ensemble, sinon le chouchou fini aura une forme irrégulière."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Étape 3 : Coudre le grand bord",
-                "content": "Roulez la couche supérieure du tissu comme indiqué.\nEnroulez les deux bords de la couche inférieure autour du tissu roulé.\nAlignez les grands bords et fixez-les avec des épingles.\nCousez le long du grand bord au point droit.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre normalement et retirez les épingles au fur et à mesure.\nVeillez à ne pas coudre dans le tissu roulé à l'intérieur.\nTirez doucement le tissu roulé à l'intérieur pendant que vous cousez.\nLaissez une ouverture d'environ 5 cm (2 pouces).\nFaites un point arrière à la fin pour sécuriser.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Veillez à ne pas prendre accidentellement les couches intérieures du tissu dans la couture, sinon le tube ne pourra pas être retourné correctement."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Étape 4 : Retourner le tube",
-                "content": "Retournez le tube de tissu sur l'endroit par l'ouverture.\nLissez les bords du tissu et repassez-les à plat.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Tenez fermement les deux extrémités de l'élastique pendant l'enfilage pour éviter qu'une extrémité ne glisse à l'intérieur du tube de tissu."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Turn%20the%20tube.png"
-                ]
-            },
-            {
-                "number": 5,
-                "title": "Étape 5 : Insérer l'élastique",
-                "content": "Attachez l'élastique à un passe-lacet.\nEnfilez-le dans le tube de tissu.\nNouez fermement les deux extrémités ensemble.\nTirez doucement pour vérifier l'élasticité et le nœud.\nCoupez l'excédent en laissant environ 1 cm.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Tenez fermement les deux extrémités de l'élastique pendant l'enfilage pour éviter qu'une extrémité ne glisse à l'intérieur du tube de tissu."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 6,
-                "title": "Étape 6 : Fermer l'ouverture",
-                "content": "Rentrez les bords bruts à l'intérieur et alignez-les soigneusement.\nFaites un point arrière au début et à la fin pour sécuriser.\nSurpiquez près du bord pour fermer l'ouverture.\nCoupez les fils qui dépassent.\nAjustez le tissu pour répartir les fronces uniformément.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Tenez fermement les deux extrémités de l'élastique pendant l'enfilage pour éviter qu'une extrémité ne glisse à l'intérieur du tube de tissu."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Étape 1 : Couper - Préparer",
-                "time": "00:06:00"
-            },
-            {
-                "title": "Étape 2 : Coudre",
-                "time": "00:18:00"
-            },
-            {
-                "title": "Étape 3 : Insérer l'élastique",
-                "time": "03:25:00"
-            },
-            {
-                "title": "Étape 4 : Coudre",
-                "time": "04:03:00"
-            }
+  {
+    "name": "Chouchou fleuri du quotidien",
+    "level": "Débutant",
+    "time": "14-25 min",
+    "finishedSize": "5 x 5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informations sur le tissu",
+        "description": "Tissu principal : 1 bande mesurant 5 × 20 inches, Élastique : 1 morceau mesurant 7 inches de longueur"
+      },
+      {
+        "title": "Outils nécessaires",
+        "description": "Machine à coudre, Ciseaux à tissu, Mètre ruban / Règle, Craie de tailleur / Marqueur pour tissu, Épingles / Pinces à coudre, Épingle à nourrice, Aiguille à coudre à la main, Passe-lacet / Enfile-élastique"
+      },
+      {
+        "title": "Techniques requises",
+        "description": "Point droit\nSurpiqûre"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Étape 1 : Couper - Préparer",
+        "content": "Vous aurez besoin d'une longue bande de tissu, d'un morceau d'élastique et de ciseaux.\nVous aurez aussi besoin d'épingles ou de pinces, d'un passe-lacet, d'un marqueur pour tissu et d'une règle.\nLe tissu mesure 5 × 20 inches (environ 12 × 50 cm). L'élastique mesure environ 7 inches (18 cm) de long.\nPliez le tissu en deux, endroit contre endroit.\nMarquez une marge de couture de 1 cm le long du bord.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Utilisez un cutter rotatif et une règle pour garder les bords de la bande bien droits et obtenir un chouchou fini de forme régulière."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
         ]
-    },
-    {
-        "name": "Dessous-de-verre matelassé douillet",
-        "level": "Débutant",
-        "time": "15 min",
-        "finishedSize": "4\" x 4\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Tissu principal",
-                "description": "Coton, coton à patchwork, lin ou chutes de tissu recyclé"
-            },
-            {
-                "title": "Matériel nécessaire",
-                "description": "Coton, coton à patchwork, lin ou chutes de tissu recyclé\nOuate de rembourrage en polyester ou mousse de rembourrage\nAiguille à coudre à la main\nFil"
-            },
-            {
-                "title": "Techniques requises",
-                "description": "Point droit"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Étape 1 : Couper - Préparer",
-                "content": "Il vous faudra du tissu principal, du rembourrage et des ciseaux.\nIl vous faudra aussi des épingles ou des pinces, un passe-lacet, un marqueur pour tissu et une règle.\nCoupez 2 morceaux de tissu principal, chacun de 17 × 17 cm. La taille finie sera de 15 × 15 cm.\nVous pouvez ajuster la taille à votre tasse, mais assurez-vous que la taille de coupe est environ 2 cm plus grande en longueur et en largeur que la taille finie.\nSur l'envers du tissu, marquez une marge de couture de 1 cm le long des quatre bords.\nSur l'endroit, mesurez 5 cm (2 pouces) vers l'intérieur depuis chaque bord et dessinez un carré plus petit au centre.\nLaissez deux ouvertures sur le même côté des carrés intérieur et extérieur, chacune d'environ 4 cm de long.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Utilisez une règle à patchwork et un marqueur pour tissu pour que tous les côtés soient parfaitement d'équerre et obtenir un dessous-de-verre d'aspect plus professionnel."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Étape 2 : Coudre la pièce principale",
-                "content": "Placez les deux morceaux de tissu principal endroit contre endroit.\nFixez les quatre coins du tissu avec des épingles.\nAlignez le centre du pied-de-biche sur la ligne de couture.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long de la ligne marquée, n'oubliez pas le point arrière à la fin pour sécuriser la couture.\nQuand vous arrivez au coin, laissez l'aiguille plantée dans le tissu. Relevez ensuite le pied-de-biche, pivotez le tissu, abaissez le pied-de-biche et continuez à coudre.\nCoupez les coins soigneusement sans couper les points. Cela aide les coins à bien se placer une fois retournés sur l'endroit.\nRetournez le tissu sur l'endroit.\nSi les coins sont difficiles à retourner, poussez-les doucement avec une baguette ou un outil à bout rond. Attention à ne pas pousser trop fort ni à percer le tissu.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Les débutants oublient souvent de laisser une ouverture pour le retournement ou la font trop petite, ce qui rend difficile le retournement du dessous-de-verre sur l'endroit."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Étape 3 : Coudre le carré intérieur",
-                "content": "Surpiquez le long du carré intérieur en commençant par un point arrière pour sécuriser les points.\nCousez le carré intérieur de la même manière que le carré extérieur, en laissant une ouverture.\nCoupez les fils qui dépassent.\nMaintenant, rembourrez d'abord la petite zone carrée au centre. Il n'est pas nécessaire d'ajouter trop de rembourrage ici.\nCousez l'ouverture du carré intérieur pour la fermer.\nPuis, rembourrez la bordure extérieure par l'ouverture extérieure.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Ne tirez pas trop fort sur les coins, car cela peut étirer l'ouverture ou déformer le dessous-de-verre."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Étape 4 : Fermer l'ouverture",
-                "content": "Utilisez une aiguille à coudre à la main pour fermer l'ouverture le long du bord extérieur, en piquant l'aiguille depuis l'intérieur, entre les deux couches de tissu.\nSur le bord du tissu du dessus, faites un petit point de droite à gauche.\nFaites un point correspondant sur le tissu du dessous, juste en dessous.\nContinuez à piquer en alternant dessus et dessous jusqu'à ce que l'ouverture soit complètement fermée.\nTirez le fil pour rapprocher les bords du tissu.\nEnfin, arrêtez le fil avec un nœud, puis cachez la queue du fil à l'intérieur du tissu.\nRepassez doucement pour effacer toute trace de marqueur pour tissu et pour uniformiser la forme générale.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Le sur-rembourrage est une erreur fréquente qui peut faire vaciller le dessous-de-verre au lieu de le faire reposer à plat sur la table."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Étape 1 : Couper - Préparer",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Étape 2 : Coudre",
-                "time": "00:55:00"
-            },
-            {
-                "title": "Étape 3 : Retourner sur l'endroit",
-                "time": "02:34:00"
-            },
-            {
-                "title": "Étape 4 : Rembourrer",
-                "time": "02:58:00"
-            },
-            {
-                "title": "Étape 5 : Le détail du centre",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Étape 6 : Coudre à la main",
-                "time": "04:33:00"
-            }
+      },
+      {
+        "number": 2,
+        "title": "Étape 2 : Coudre le bord court",
+        "content": "Alignez les deux bords courts, endroit contre endroit.\nCousez 2–3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre vers l'avant et n'oubliez pas le point arrière à la fin pour sécuriser.\nOuvrez la couture et repassez-la à plat.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Vérifiez que le tissu n'est pas tordu avant de coudre les extrémités ensemble, sinon le chouchou fini aura une forme irrégulière."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
         ]
-    },
-    {
-        "name": "Porte-monnaie à fermeture éclair",
-        "level": "Débutant",
-        "time": "0,5 heure",
-        "finishedSize": "Environ 3.5\" x 3.9\" (personnalisable)",
-        "patternCutList": "",
-        "techPack": [
-            {
-                "title": "Tissu principal",
-                "description": "Coton, coton à patchwork, toile, lin ou tissu recyclé"
-            },
-            {
-                "title": "Matériel nécessaire",
-                "description": "Coton, coton à patchwork, toile, lin ou tissu recyclé\nDeux morceaux de tissu extérieur de 7.87 pouces x 3.54 pouces\nDeux morceaux de doublure de 7.87 pouces x 3.54 pouces\nFermeture éclair\nFil\nPinces à coudre ou épingles"
-            },
-            {
-                "title": "Techniques requises",
-                "description": "Point droit, Surpiqûre"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Étape 1 : Couper - Préparer",
-                "content": "Il vous faudra du tissu principal, de l'entoilage thermocollant, une fermeture éclair et des ciseaux.\nCoupez 2 morceaux de tissu principal et 2 morceaux d'entoilage, chacun de 10 × 8 pouces (environ 25 × 20 cm).\nThermocollez l'entoilage sur l'envers des morceaux de tissu principal.\nCoupez tout excédent d'entoilage autour des bords.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Superposez les couches de tissu et coupez-les ensemble pour que toutes les pièces de la pochette aient exactement la même taille."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 2,
-                "title": "Étape 2 : Coudre la fermeture éclair",
-                "content": "Pliez les deux morceaux de tissu en deux et repassez pour marquer un pli.\nPrenez la fermeture éclair en sandwich entre les couches de tissu et épinglez le long du ruban de la fermeture.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long des bords en retirant les épingles au fur et à mesure.\nN'oubliez pas le point arrière à la fin pour sécuriser.\nOuvrez les tissus et surpiquez le long du bord de la fermeture éclair.\nRépétez la même opération de l'autre côté de la fermeture éclair.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Assurez-vous que les deux côtés de la fermeture éclair sont bien alignés avant de coudre, sinon la pochette risque d'être vrillée ou irrégulière une fois terminée."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Étape 3 : Coudre le pourtour",
-                "content": "Ouvrez la fermeture éclair à moitié pour pouvoir retourner la pochette sur l'endroit plus tard.\nMarquez une ouverture de 2 à 3 pouces (5 à 7 cm) pour le retournement.\nAlignez les bords et épinglez tout autour des quatre côtés.\nAlignez le centre du pied-de-biche sur la ligne de couture.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long du bord, n'oubliez pas le point arrière à la fin pour sécuriser la couture.\nQuand vous arrivez au coin, laissez l'aiguille plantée dans le tissu. Relevez ensuite le pied-de-biche, pivotez le tissu, abaissez le pied-de-biche et continuez à coudre.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Repassez le tissu à l'écart de la fermeture éclair avant de surpiquer pour une finition plus nette et plus professionnelle."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Étape 4 : Retourner sur l'endroit",
-                "content": "Coupez les coins soigneusement sans couper les points. Cela aide les coins à bien se placer une fois retournés sur l'endroit.\nRetournez la pochette sur l'endroit par l'ouverture.\nSurpiquez près du bord pour fermer l'ouverture.\nEt voilà ! Notre pochette à fermeture éclair est terminée et prête à être utilisée !",
-                "tip": {
-                    "type": "warning",
-                    "text": "Ouvrez toujours la fermeture éclair avant de coudre la pochette, sinon il sera peut-être impossible de la retourner sur l'endroit."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Étape 1 : Couper - Préparer",
-                "time": "00:15:00"
-            },
-            {
-                "title": "Étape 2 : Coudre la fermeture éclair aux tissus",
-                "time": "01:21:00"
-            },
-            {
-                "title": "Étape 3 : Surpiqûre",
-                "time": "02:48:00"
-            },
-            {
-                "title": "Étape 4 : Assembler la pochette",
-                "time": "04:14:00"
-            },
-            {
-                "title": "Étape 5 : Retourner sur l'endroit",
-                "time": "06:44:00"
-            },
-            {
-                "title": "Étape 6 : Fermer la doublure",
-                "time": "07:09:00"
-            }
+      },
+      {
+        "number": 3,
+        "title": "Étape 3 : Coudre le bord long",
+        "content": "Roulez la couche supérieure du tissu comme indiqué.\nEnroulez les deux bords de la couche inférieure autour du tissu roulé.\nAlignez les bords longs et maintenez-les avec des épingles.\nCousez le long du bord long au point droit.\nCousez 2–3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre normalement et retirez les épingles au fur et à mesure.\nAttention à ne pas coudre dans le tissu roulé à l'intérieur.\nTirez doucement le tissu roulé vers l'intérieur pendant que vous cousez.\nLaissez une ouverture d'environ 5 cm (2 in).\nFaites un point arrière à la fin pour sécuriser.",
+        "tip": {
+          "type": "warning",
+          "text": "Attention à ne pas prendre accidentellement les couches de tissu intérieures dans la couture, car cela empêcherait de retourner correctement le tube."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
         ]
-    },
-    {
-        "name": "Sac cabas à fleurs",
-        "level": "Débutant",
-        "time": "1 heure",
-        "finishedSize": "12.2\" x 16.9\" x 3\"",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-        "techPack": [
-            {
-                "title": "Tissu principal",
-                "description": "Tissu tissé ou tissu recyclé"
-            },
-            {
-                "title": "Matériel nécessaire",
-                "description": "Tissu tissé ou tissu recyclé\nLargeur 59\" : 0.75 yard\nLargeur 45\" : 0.75 yard\nSac extérieur : 2 pièces (selon le patron)\nDoublure : 2 pièces (selon le patron)\nAnses : 2 pièces (selon le patron)\nToutes les pièces incluent une marge de couture de 0.4\" sauf indication contraire.\nFil à coudre assorti\nÉpingles ou pinces à coudre\nMarqueur pour tissu ou craie de tailleur\nMètre ruban\nCiseaux ou cutter rotatif\nFer à repasser et planche à repasser"
-            },
-            {
-                "title": "Techniques requises",
-                "description": "Point droit, Surpiqûre"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Étape 1 : Couper - Préparer",
-                "content": "Pour réaliser ce sac, nous utiliserons quelques techniques de couture essentielles : le point droit standard, la surpiqûre de bord et la surpiqûre. Assemblez les anses avec une surpiqûre de bord et une surpiqûre. Pour les coins en boîte : coupez les coins et cousez les bords ensemble.\nTout d'abord, préparez le tissu principal et la doublure, téléchargez et imprimez notre patron de sac.\nPuis, marquez et découpez un triangle aux coins inférieurs du patron.\nUtilisez le patron du sac pour couper 2 pièces principales et 2 pièces de doublure.\nÀ chaque coin inférieur, découpez un triangle pointu comme indiqué.\nPlacez les deux pièces principales (ou de doublure) endroit contre endroit et épinglez-les le long des bords extérieurs.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Reportez toutes les encoches et tous les repères d'alignement avant de couper pour faciliter l'assemblage du sac extérieur et de la doublure."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Étape 2 : Coudre les coutures du fond",
-                "content": "Sélectionnez le point droit. Réglez la molette de longueur de point sur 2 pour un point équilibré de longueur moyenne.\nRapprochez les bords du triangle du fond (endroit contre endroit).\nAlignez les bords uniformément et cousez une ligne droite en travers.\nRépétez cette opération pour les trois autres coins du fond.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Assurez-vous que les endroits sont bien face à face avant de coudre, sinon les coutures seront visibles à l'extérieur du sac."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Étape 3 : Coudre le sac principal",
-                "content": "*N'oubliez pas de faire un point arrière au début de chaque couture pour sécuriser vos points.\nCousez tout autour du sac le long de la ligne épinglée en retirant les épingles au fur et à mesure.\nQuand vous cousez le fond arrondi, laissez l'aiguille plantée dans le tissu, relevez le pied-de-biche, pivotez le tissu et continuez à coudre.\nFaites aussi un point arrière à la fin de la couture pour sécuriser vos points.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Faites un point arrière aux deux extrémités de l'ouverture de retournement pour éviter que la couture ne s'ouvre davantage pendant le retournement."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Étape 4 : Coudre la doublure",
-                "content": "Cousez la doublure exactement comme le sac principal en cousant les coins du fond et tout le pourtour.\nCousez tout autour du sac en laissant un espace de 10 cm (4\") non cousu en bas.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Crantez soigneusement les marges de couture arrondies sans couper les points pour aider le bord supérieur à bien se placer après le retournement."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 5,
-                "title": "Étape 5 : Assembler le sac et la doublure",
-                "content": "Voici le sac principal terminé.\nVoici la doublure, avec l'espace laissé non cousu en bas.\nRetournez la doublure sur l'endroit.\nInsérez la doublure dans le sac principal en veillant à ce que les coins soient parfaitement alignés.\nÉpinglez tout autour des bords de l'ouverture du sac et des anses pour bien maintenir les couches en place.\nÉpinglez les deux couches ensemble le long de l'ouverture du sac et des anses, devant et derrière le sac.\nCousez le long de ces lignes épinglées.\nCousez tout autour de l'ouverture et des anses en retirant les épingles au fur et à mesure.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Repassez soigneusement le bord supérieur avant de surpiquer pour une finition nette et professionnelle."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 6,
-                "title": "Étape 6 : Fermer l'ouverture de la doublure du fond",
-                "content": "Repliez les bords bruts de l'ouverture de retournement vers l'intérieur et faites une surpiqûre de bord pour fermer.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Gardez les deux anses exactement de la même longueur pour que le cabas fini pende bien droit une fois porté."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 7,
-                "title": "Étape 7 : Repassage",
-                "content": "Roulez les coutures de l'ouverture et des anses jusqu'au bord, puis repassez à plat pour fixer la forme.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde avec le reste de la doublure."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 8,
-                "title": "Étape 8 : Coudre l'anse",
-                "content": "Repliez le bord brut de l'anse vers l'intérieur sur 1 cm et épinglez en place.\nGlissez le bord brut de l'autre anse à l'intérieur de l'extrémité repliée que vous venez de faire.\nCousez 2 lignes parallèles : surpiqûre de bord à 1 mm du bord et surpiqûre à 5 mm du bord.\nN'oubliez pas le point arrière au début et à la fin de vos coutures.\nCoupez les fils qui dépassent.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde avec le reste de la doublure."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 9,
-                "title": "Étape 9 : Surpiqûre de bord",
-                "content": "Faites une surpiqûre de bord à 1 mm du bord tout autour de l'ouverture du sac et des anses.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde avec le reste de la doublure."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Étape 1 : Couper - Préparer",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Étape 2 : Coudre les pièces principales",
-                "time": "00:44:00"
-            },
-            {
-                "title": "Étape 3 : Coudre les pièces de doublure",
-                "time": "01:12:00"
-            },
-            {
-                "title": "Étape 4 : Coudre le sac",
-                "time": "01:37:00"
-            },
-            {
-                "title": "Étape 5 : Surpiqûre",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Étape 6 : Coudre l'anse",
-                "time": "03:50:00"
-            },
-            {
-                "title": "Étape 7 : Fermer l'ouverture",
-                "time": "04:39:00"
-            }
+      },
+      {
+        "number": 4,
+        "title": "Étape 5 : Insérer l'élastique",
+        "content": "Attachez l'élastique à un passe-lacet.\nFaites-le passer dans le tube de tissu.\nNouez solidement les deux extrémités ensemble.\nTirez doucement pour vérifier l'élasticité et le nœud.\nCoupez l'excédent en laissant environ 1 cm.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Tenez fermement les deux extrémités de l'élastique pendant l'enfilage pour éviter qu'une extrémité ne glisse à l'intérieur du tube de tissu."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
         ]
-    },
-    {
-        "name": "Oreiller de voyage confort",
-        "level": "Débutant",
-        "time": "30 min",
-        "finishedSize": "11.75\" x 11.75\"",
-        "patternCutList": "",
-        "techPack": [
-            {
-                "title": "Tissu principal",
-                "description": "Tissu tissé ou tissu recyclé"
-            },
-            {
-                "title": "Matériel nécessaire",
-                "description": "Tissu tissé ou tissu recyclé\nLargeur 59\" : 0.5 yard\nLargeur 45\" : 0.5 yard\nCorps de l'oreiller de voyage : 2 pièces (selon le patron)\nToutes les pièces incluent une marge de couture de 0.4\".\nOuate de rembourrage en polyester\nFil à coudre assorti\nÉpingles ou pinces à coudre\nMarqueur pour tissu ou craie de tailleur\nCiseaux ou cutter rotatif\nOutil à retourner ou baguette\nAiguille à coudre à la main\nFer à repasser et planche à repasser"
-            },
-            {
-                "title": "Techniques requises",
-                "description": "Point droit"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Étape 1 : Couper - Préparer",
-                "content": "Aujourd'hui, nous allons coudre un oreiller de voyage confortable.\nIl vous faudra du tissu principal, du rembourrage et des ciseaux.\nIl vous faudra aussi des épingles ou des pinces, un passe-lacet, un marqueur pour tissu et une règle.\nPréparez le patron de l'oreiller de voyage aux dimensions indiquées.\nPlacez le patron sur le tissu et tracez le contour.\nDécoupez les deux pièces de l'oreiller le long de la ligne marquée.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Reportez les repères de centre ou d'alignement du patron avant de couper pour faciliter l'assemblage des bords arrondis pendant la couture."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 2,
-                "title": "Étape 2 : Coudre le long des bords",
-                "content": "Placez les deux morceaux de tissu principal endroit contre endroit et épinglez le pourtour.\nMarquez une ouverture de 6 à 8 cm le long de la courbe extérieure pour le retournement et le rembourrage.\nCommencez à coudre depuis une extrémité de l'ouverture.\nCousez 2 à 3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long des bords en retirant les épingles au fur et à mesure.\nN'oubliez pas le point arrière à la fin pour sécuriser.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "N'oubliez pas de laisser l'ouverture de retournement non cousue et de faire un point arrière aux deux extrémités pour que la couture reste solide pendant le retournement."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 3,
-                "title": "Étape 3 : Retourner sur l'endroit",
-                "content": "Retournez l'oreiller sur l'endroit par l'ouverture.\nRembourrez l'oreiller uniformément avec de la ouate de rembourrage jusqu'à obtenir la fermeté souhaitée.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Crantez près des coutures arrondies sans couper les points, sinon la couture risque de se déchirer au retournement de l'oreiller."
-                },
-                "patternCutListImage": []
-            },
-            {
-                "number": 4,
-                "title": "Étape 4 : Fermer l'ouverture",
-                "content": "Repliez les bords bruts vers l'intérieur et alignez-les soigneusement.\nUtilisez un point invisible pour fermer l'ouverture.\nSerrez bien le fil, faites un nœud et cachez la queue du fil.\nEt voilà ! Notre oreiller de voyage confortable est terminé et prêt à être utilisé !",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Utilisez un outil à retourner à bout rond pour dégager doucement les sections arrondies sans abîmer le tissu."
-                },
-                "patternCutListImage": []
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Étape 1 : Couper - Préparer",
-                "time": "00:16:00"
-            },
-            {
-                "title": "Étape 2 : Coudre l'oreiller",
-                "time": "00:39:00"
-            },
-            {
-                "title": "Étape 3 : Rogner - Cranter",
-                "time": "01:19:00"
-            },
-            {
-                "title": "Étape 4 : Retourner sur l'endroit",
-                "time": "01:49:00"
-            },
-            {
-                "title": "Étape 5 : Rembourrer",
-                "time": "02:12:00"
-            },
-            {
-                "title": "Étape 6 : Point invisible",
-                "time": "02:28:00"
-            }
+      },
+      {
+        "number": 5,
+        "title": "Étape 6 : Fermer l'ouverture",
+        "content": "Rentrez les bords bruts à l'intérieur et alignez-les proprement.\nFaites un point arrière au début et à la fin pour sécuriser.\nSurpiquez près du bord pour fermer l'ouverture.\nCoupez les fils qui dépassent.\nAjustez le tissu pour que les fronces soient réparties uniformément.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Tenez fermement les deux extrémités de l'élastique pendant l'enfilage pour éviter qu'une extrémité ne glisse à l'intérieur du tube de tissu."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
         ]
-    }
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Étape 1 : Couper - Préparer",
+        "time": "00:06:00"
+      },
+      {
+        "title": "Étape 2 : Coudre",
+        "time": "00:18:00"
+      },
+      {
+        "title": "Étape 3 : Insérer l'élastique",
+        "time": "03:25:00"
+      },
+      {
+        "title": "Étape 4 : Coudre",
+        "time": "04:03:00"
+      }
+    ]
+  },
+  {
+    "name": "Sous-verre rembourré douillet",
+    "level": "Débutant",
+    "time": "25-40 min",
+    "finishedSize": "6 x 6 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informations sur le tissu",
+        "description": "Tissu principal : 2 pièces mesurant 17 × 17 cm chacune"
+      },
+      {
+        "title": "Outils nécessaires",
+        "description": "Machine à coudre, Aiguille pour machine à coudre, Ciseaux à tissu, Coupe-fil, Règle ou règle de patchwork, Craie de tailleur ou feutre pour tissu, Épingles à coudre ou pinces à coudre, Retourne-angle, Fer à repasser et planche à repasser, Découseur"
+      },
+      {
+        "title": "Techniques requises",
+        "description": "Point droit"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Étape 1 : Couper - Préparer",
+        "content": "Vous aurez besoin du tissu principal, de ouate de rembourrage et de ciseaux.\nVous aurez aussi besoin d'épingles ou de pinces, d'un passe-lacet, d'un marqueur pour tissu et d'une règle.\nCoupez 2 pièces de tissu principal mesurant chacune 17 × 17 cm. La taille finie sera de 15 × 15 cm.\nVous pouvez ajuster la taille à votre tasse, mais veillez à ce que la taille de coupe soit environ 2 cm plus grande en longueur et en largeur que la taille finie.\nSur l'envers du tissu, marquez une marge de couture de 1 cm le long des quatre bords.\nSur l'endroit, mesurez 5 cm (2 inches) vers l'intérieur depuis chaque bord et dessinez un carré plus petit au centre.\nLaissez deux ouvertures du même côté des carrés intérieur et extérieur, d'environ 4 cm chacune.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Utilisez une règle de patchwork et un marqueur pour tissu pour garder tous les côtés parfaitement d'équerre et obtenir un sous-verre fini plus professionnel."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Étape 2 : Coudre la pièce principale",
+        "content": "Placez les deux pièces de tissu principal endroit contre endroit.\nÉpinglez les quatre coins du tissu.\nAlignez le centre du pied-de-biche sur la ligne de couture.\nCousez 2–3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long de la ligne marquée, et n'oubliez pas le point arrière à la fin pour sécuriser la couture.\nLorsque vous arrivez au coin, laissez l'aiguille plantée dans le tissu. Relevez ensuite le pied-de-biche, pivotez le tissu, abaissez le pied-de-biche et continuez à coudre.\nCoupez les coins avec soin sans entailler les points. Cela aide les coins à mieux se coucher une fois retournés sur l'endroit.\nRetournez le tissu sur l'endroit.\nSi les coins sont difficiles à retourner, poussez-les doucement avec une baguette ou un outil à retourner à bout rond. Attention à ne pas pousser trop fort ni à percer le tissu.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Les débutants oublient souvent de laisser une ouverture de retournement ou la font trop petite, ce qui rend difficile le retournement du sous-verre sur l'endroit."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Étape 3 : Coudre le carré intérieur",
+        "content": "Surpiquez le long du carré intérieur, en commençant par un point arrière pour sécuriser les points.\nCousez le carré intérieur de la même manière que le carré extérieur, en laissant une ouverture.\nCoupez les fils qui dépassent.\nRembourrez d'abord la petite zone carrée au centre. Inutile d'y mettre trop de ouate.\nCousez l'ouverture du carré intérieur pour la fermer\nPuis, rembourrez la bordure extérieure par l'ouverture extérieure,",
+        "tip": {
+          "type": "warning",
+          "text": "Ne tirez pas trop fort sur les coins, car cela pourrait étirer l'ouverture ou déformer le sous-verre."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Étape 4 : Fermer l'ouverture",
+        "content": "Utilisez une aiguille à coudre à la main pour fermer l'ouverture le long du bord extérieur, en faisant ressortir l'aiguille entre les deux épaisseurs de tissu.\nSur le bord du tissu du dessus, faites un petit point de droite à gauche.\nFaites un point correspondant sur le tissu du dessous, juste en dessous.\nContinuez les points en alternant dessus et dessous jusqu'à ce que l'ouverture soit complètement fermée.\nTirez le fil pour rapprocher les bords du tissu\nEnfin, arrêtez le fil avec un nœud, puis cachez le bout du fil à l'intérieur du tissu.\nRepassez doucement pour effacer toute trace de marqueur pour tissu et pour uniformiser la forme générale.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Trop rembourrer est une erreur fréquente qui peut faire vaciller le sous-verre au lieu de le laisser bien à plat sur la table."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Étape 1 : Couper - Préparer",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Étape 2 : Coudre",
+        "time": "00:55:00"
+      },
+      {
+        "title": "Étape 3 : Retourner sur l'endroit",
+        "time": "02:34:00"
+      },
+      {
+        "title": "Étape 4 : Rembourrer",
+        "time": "02:58:00"
+      },
+      {
+        "title": "Étape 5 : Le détail central",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Étape 6 : Coudre à la main",
+        "time": "04:33:00"
+      }
+    ]
+  },
+  {
+    "name": "Porte-monnaie à fermeture éclair",
+    "level": "Débutant",
+    "time": "45-70 min",
+    "finishedSize": "4 x 7 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informations sur le tissu",
+        "description": "Tissu principal : 2 pièces mesurant 10 × 8 inches chacune, Entoilage thermocollant : 2 pièces mesurant 10 × 8 inches chacune, Fermeture éclair : 1 pièce mesurant 7 inches de longueur"
+      },
+      {
+        "title": "Outils nécessaires",
+        "description": "Machine à coudre et aiguilles pour machine à coudre adaptées, Pied-de-biche standard et pied pour fermeture à glissière, Ciseaux à tissu et coupe-fil, Règle et mètre ruban, Papier à patron, Craie de tailleur ou feutre pour tissu, Épingles à coudre ou pinces à coudre, Outil à retourner à bout rond, Fer à repasser et planche à repasser, Découseur, Aiguille à coudre à la main si l'ouverture de retournement est fermée au point invisible, Matériaux : Tissu extérieur, tissu de doublure, fermeture éclair, fil à coudre et entoilage thermocollant ou ouatine fine en option."
+      },
+      {
+        "title": "Techniques requises",
+        "description": "Point droit, Surpiqûre"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Étape 1 : Couper - Préparer",
+        "content": "Vous aurez besoin du tissu principal, d'entoilage thermocollant, d'une fermeture éclair et de ciseaux.\nCoupez 2 pièces de tissu principal et 2 pièces d'entoilage, chacune mesurant 10 × 8 inches (environ 25 × 20 cm).\nThermocollez l'entoilage sur l'envers des pièces de tissu principal.\nCoupez l'excédent d'entoilage autour des bords.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Superposez les épaisseurs de tissu et coupez-les ensemble pour que toutes les pièces de la pochette aient exactement la même taille."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Étape 2 : Coudre la fermeture éclair",
+        "content": "Pliez les deux pièces de tissu en deux et repassez pour marquer un pli.\nPlacez la fermeture éclair en sandwich entre les épaisseurs de tissu et épinglez le long du ruban de la fermeture.\nCousez 2–3 points vers l'avant, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long des bords en retirant les épingles au fur et à mesure.\nN'oubliez pas le point arrière à la fin pour sécuriser.\nOuvrez les tissus et surpiquez le long du bord de la fermeture éclair.\nRépétez le même processus pour l'autre côté de la fermeture éclair.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Vérifiez que les deux côtés de la fermeture éclair sont bien alignés avant de coudre, sinon la pochette risque d'être tordue ou irrégulière une fois finie."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Étape 3 : Coudre le pourtour",
+        "content": "Ouvrez la fermeture éclair à moitié pour pouvoir retourner la pochette sur l'endroit plus tard.\nMarquez une ouverture de retournement de 2–3 inch (5–7 cm).\nAlignez les bords et épinglez sur les quatre côtés.\nAlignez le centre du pied-de-biche sur la ligne de couture.\nCousez 2–3 points, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long du bord, et n'oubliez pas le point arrière à la fin pour sécuriser la couture.\nLorsque vous arrivez au coin, laissez l'aiguille plantée dans le tissu. Relevez ensuite le pied-de-biche, pivotez le tissu, abaissez le pied-de-biche et continuez à coudre.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Repassez le tissu à l'écart de la fermeture éclair avant de surpiquer pour une finition plus nette et professionnelle."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Étape 4 : Retourner sur l'endroit",
+        "content": "Coupez les coins avec soin sans entailler les points. Cela aide les coins à mieux se coucher une fois retournés sur l'endroit.\nRetournez la pochette sur l'endroit par l'ouverture.\nSurpiquez près du bord pour fermer l'ouverture.\nEt voilà ! Notre pochette à fermeture éclair est finie et prête à être utilisée !",
+        "tip": {
+          "type": "warning",
+          "text": "Ouvrez toujours la fermeture éclair avant de fermer la pochette à la couture, sinon il pourrait être impossible de la retourner sur l'endroit."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Étape 1 : Couper - Préparer",
+        "time": "00:15:00"
+      },
+      {
+        "title": "Étape 2 : Coudre la fermeture éclair aux tissus",
+        "time": "01:21:00"
+      },
+      {
+        "title": "Étape 3 : Surpiqûre",
+        "time": "02:48:00"
+      },
+      {
+        "title": "Étape 4 : Assembler la pochette",
+        "time": "04:14:00"
+      },
+      {
+        "title": "Étape 5 : Retourner sur l'endroit",
+        "time": "06:44:00"
+      },
+      {
+        "title": "Étape 6 : Fermer la doublure",
+        "time": "07:09:00"
+      }
+    ]
+  },
+  {
+    "name": "Sac cabas fleuri",
+    "level": "Débutant",
+    "time": "Environ 3–5 heures",
+    "finishedSize": "16 x 22 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+    "techPack": [
+      {
+        "title": "Informations sur le tissu",
+        "description": "Tissu principal : 2 pièces mesurant 16 × 24 inches chacune, Tissu de doublure : 2 pièces mesurant 16 × 24 inches chacune"
+      },
+      {
+        "title": "Outils nécessaires",
+        "description": "Machine à coudre, Aiguilles pour machine à coudre adaptées à l'épaisseur du tissu et de la ouatine, Ciseaux à tissu, Coupe-fil, Règle et mètre ruban, Papier à patron, Craie de tailleur ou feutre pour tissu, Épingles à coudre ou pinces à coudre, Aiguille à coudre à la main, Fer à repasser et planche à repasser, Découseur, Pied à double entraînement (recommandé pour le quilting)."
+      },
+      {
+        "title": "Techniques requises",
+        "description": "Point droit, Surpiqûre"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Étape 1 : Couper - Préparer",
+        "content": "Pour réaliser ce sac, nous allons utiliser quelques techniques de couture essentielles : le point droit standard, la surpiqûre de bord et la surpiqûre. Assemblez les anses avec une surpiqûre de bord et une surpiqûre. Former les coins : coupez les coins et cousez les bords ensemble\nTout d'abord, préparez le tissu principal et la doublure, téléchargez et imprimez notre patron de sac\nEnsuite, marquez et découpez un triangle dans les coins inférieurs du patron\nUtilisez le patron du sac pour couper 2 pièces principales et 2 pièces de doublure\nÀ chaque coin inférieur, découpez un triangle pointu comme indiqué\nPlacez les deux pièces principales (et de doublure) endroit contre endroit, et épinglez-les le long des bords extérieurs",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Reportez tous les crans et repères d'alignement avant de couper pour faciliter l'assemblage du sac extérieur et de la doublure."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Étape 2 : Coudre les coutures du fond",
+        "content": "Sélectionnez le réglage du point droit. Réglez la molette de longueur de point sur 2 pour un point équilibré de longueur moyenne\nRapprochez les bords du triangle du fond (endroits face à face)\nAlignez les bords uniformément et cousez une ligne droite\nRépétez ce processus pour les trois autres coins du fond",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Vérifiez que les endroits sont bien face à face avant de coudre, sinon les coutures seront visibles à l'extérieur du sac."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Étape 3 : Coudre le sac principal",
+        "content": "*N'oubliez pas de faire un point arrière au début de chaque couture pour sécuriser vos points\nCousez tout autour du sac le long de la ligne épinglée, en retirant les épingles au fur et à mesure\nLorsque vous cousez le fond arrondi, laissez l'aiguille plantée dans le tissu, relevez le pied-de-biche, pivotez le tissu et continuez à coudre\nFaites aussi un point arrière à la fin de la couture pour sécuriser vos points",
+        "tip": {
+          "type": "warning",
+          "text": "Faites un point arrière aux deux extrémités de l'ouverture de retournement pour éviter que la couture ne s'ouvre davantage pendant le retournement."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Étape 4 : Coudre la doublure",
+        "content": "Cousez la doublure exactement comme le sac principal en cousant les coins du fond et tout le pourtour\nCousez tout autour du sac en laissant un espace non cousu de 10cm (4\") en bas",
+        "tip": {
+          "type": "warning",
+          "text": "Crantez soigneusement les marges de couture arrondies sans entailler les points pour aider le bord supérieur à bien se coucher après le retournement."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Étape 5 : Assembler le sac et la doublure",
+        "content": "Voici le sac principal terminé\nVoici la doublure, avec l'espace laissé non cousu en bas\nRetournez la doublure sur l'endroit\nInsérez la doublure dans le sac principal en veillant à ce que les coins soient parfaitement alignés\nÉpinglez tout autour des bords de l'ouverture du sac et des anses pour bien maintenir les épaisseurs en place\nÉpinglez les deux épaisseurs ensemble le long de l'ouverture du sac et des anses, devant et dos\nCousez le long de ces lignes épinglées\nCousez tout autour de l'ouverture et des anses en retirant les épingles au fur et à mesure",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Repassez bien le bord supérieur avant de surpiquer pour obtenir une finition nette et professionnelle."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Étape 6 : Fermer l'ouverture de la doublure du fond",
+        "content": "Repliez les bords bruts de l'ouverture de retournement vers l'intérieur et fermez par une surpiqûre de bord",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Gardez les deux anses exactement à la même longueur pour que le cabas fini pende bien droit une fois porté."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Étape 7 : Repassage",
+        "content": "Roulez les coutures de l'ouverture et des anses jusqu'au bord même, puis repassez à plat pour fixer la forme",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde proprement dans le reste de la doublure."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Étape 8 : Coudre l'anse",
+        "content": "Repliez le bord brut de l'anse vers l'intérieur sur 1cm et épinglez-le en place\nGlissez le bord brut de l'autre extrémité de l'anse dans l'extrémité repliée que vous venez de faire\nCousez 2 lignes parallèles : surpiqûre de bord à 1mm du bord et surpiqûre à 5mm du bord\nN'oubliez pas le point arrière au début et à la fin de vos coutures\nCoupez les fils qui dépassent",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde proprement dans le reste de la doublure."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Étape 9 : Surpiqûre de bord",
+        "content": "Faites une surpiqûre de bord à 1mm du bord tout autour de l'ouverture du sac et des anses",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Repliez la marge de couture uniformément avant de coudre pour que l'ouverture fermée se fonde proprement dans le reste de la doublure."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Étape 1 : Couper - Préparer",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Étape 2 : Coudre les pièces principales",
+        "time": "00:44:00"
+      },
+      {
+        "title": "Étape 3 : Coudre les pièces de doublure",
+        "time": "01:12:00"
+      },
+      {
+        "title": "Étape 4 : Coudre le sac",
+        "time": "01:37:00"
+      },
+      {
+        "title": "Étape 5 : Surpiqûre",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Étape 6 : Coudre l'anse",
+        "time": "03:50:00"
+      },
+      {
+        "title": "Étape 7 : Fermer l'ouverture",
+        "time": "04:39:00"
+      }
+    ]
+  },
+  {
+    "name": "Coussin de nuque confort",
+    "level": "Débutant",
+    "time": "45-65 min",
+    "finishedSize": "11 x 13.5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informations sur le tissu",
+        "description": "Tissu principal : 2 pièces mesurant 16 × 14 inches chacune"
+      },
+      {
+        "title": "Outils nécessaires",
+        "description": "Machine à coudre et aiguilles adaptées au tissu, Ciseaux à tissu, Coupe-fil, Règle et mètre ruban, Papier à patron, Craie de tailleur ou feutre pour tissu, Épingles à coudre ou pinces à coudre, Aiguille à coudre à la main pour fermer l'ouverture, Outil à retourner et à rembourrer à bout rond, Découseur, Matériaux : Tissu doux, ouate de rembourrage et fil à coudre."
+      },
+      {
+        "title": "Techniques requises",
+        "description": "Point droit"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Étape 1 : Couper - Préparer",
+        "content": "Aujourd'hui, nous allons coudre un coussin de nuque confort.\nVous aurez besoin du tissu principal, de ouate de rembourrage et de ciseaux.\nVous aurez aussi besoin d'épingles ou de pinces, d'un passe-lacet, d'un marqueur pour tissu et d'une règle.\nPréparez le patron du coussin de nuque aux dimensions indiquées.\nPlacez le patron sur le tissu et tracez le contour.\nDécoupez les deux pièces du coussin le long de la ligne tracée.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Reportez les repères de centre ou d'alignement du patron avant de couper pour faciliter l'assemblage des bords arrondis pendant la couture."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Étape 2 : Coudre le long des bords",
+        "content": "Placez les deux pièces de tissu principal endroit contre endroit et épinglez le pourtour.\nMarquez une ouverture de 6–8 cm le long de la courbe extérieure pour le retournement et le rembourrage.\nCommencez à coudre depuis une extrémité de l'ouverture.\nCousez 2–3 points vers l'avant, puis faites un point arrière pour sécuriser.\nContinuez à coudre le long des bords en retirant les épingles au fur et à mesure.\nN'oubliez pas le point arrière à la fin pour sécuriser.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "N'oubliez pas de laisser l'ouverture de retournement non cousue et de faire un point arrière aux deux extrémités pour que la couture reste solide pendant le retournement."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Étape 3 : Retourner sur l'endroit",
+        "content": "Retournez le coussin sur l'endroit par l'ouverture.\nRembourrez le coussin uniformément avec de la ouate de rembourrage jusqu'à obtenir la fermeté souhaitée.",
+        "tip": {
+          "type": "warning",
+          "text": "Crantez près des coutures arrondies sans entailler les points, sinon la couture risque de se déchirer lors du retournement du coussin."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Étape 4 : Fermer l'ouverture",
+        "content": "Repliez les bords bruts vers l'intérieur et alignez-les proprement.\nUtilisez un point invisible pour fermer l'ouverture.\nTirez bien le fil, faites un nœud et cachez le bout du fil.\nEt voilà ! Notre coussin de nuque confort est fini et prêt à être utilisé !",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Utilisez un outil à retourner à bout rond pour repousser doucement les parties arrondies sans abîmer le tissu."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Étape 1 : Couper - Préparer",
+        "time": "00:16:00"
+      },
+      {
+        "title": "Étape 2 : Coudre le coussin",
+        "time": "00:39:00"
+      },
+      {
+        "title": "Étape 3 : Tailler - Cranter",
+        "time": "01:19:00"
+      },
+      {
+        "title": "Étape 4 : Retourner sur l'endroit",
+        "time": "01:49:00"
+      },
+      {
+        "title": "Étape 5 : Rembourrer",
+        "time": "02:12:00"
+      },
+      {
+        "title": "Étape 6 : Point invisible",
+        "time": "02:28:00"
+      }
+    ]
+  }
 ]

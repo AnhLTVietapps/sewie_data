@@ -2,21 +2,21 @@
     {
         "name": "Scrunchie floreale per tutti i giorni",
         "level": "Principiante",
-        "time": "15 min",
-        "finishedSize": "Diametro esterno: 6\". Spessore dell'anello elastico: 2.75\"",
+        "time": "14-25 min",
+        "finishedSize": "5 x 5 in",
         "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
         "techPack": [
             {
-                "title": "Tessuto principale",
-                "description": "Cotone leggero non elasticizzato, raso, lino o tessuto riciclato"
+                "title": "Informazioni sul tessuto",
+                "description": "Tessuto principale: 1 striscia da 5 × 20 inches, Elastico: 1 pezzo lungo 7 inches"
             },
             {
-                "title": "Materiali necessari",
-                "description": "Cotone leggero non elasticizzato, raso, lino o tessuto riciclato\nUna striscia di tessuto da 27.5\" x 6\"\nFascia elastica\nFilo"
+                "title": "Strumenti necessari",
+                "description": "Macchina da cucire, Forbici per tessuti, Metro / Righello, Gesso da sarto / Pennarello per tessuti, Spilli / Clip da cucito, Spilla da balia, Ago da cucire a mano, Passanastro / Passaelastico"
             },
             {
                 "title": "Tecniche richieste",
-                "description": "Punto dritto, Impuntura"
+                "description": "Punto dritto\nImpuntura"
             }
         ],
         "showCustomSize": false,
@@ -29,10 +29,10 @@
             {
                 "number": 1,
                 "title": "Passaggio 1: Taglio - Preparazione",
-                "content": "Ti serviranno una lunga striscia di tessuto, un pezzo di elastico e delle forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nIl tessuto misura 5 × 20 inches (circa 12 × 50 cm). L'elastico è lungo circa 7 inches (18 cm).\nPiega il tessuto a metà, dritto contro dritto.\nSegna un margine di cucitura da 1 cm lungo il bordo.",
+                "content": "Ti serviranno una lunga striscia di tessuto, un pezzo di elastico e delle forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nIl tessuto misura 5 × 20 inches (circa 12 × 50 cm). L'elastico è lungo circa 7 inches (18 cm).\nPiega il tessuto a metà, dritto contro dritto.\nSegna un margine di cucitura di 1 cm lungo il bordo.",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Usa una taglierina rotativa e un righello per mantenere dritti i bordi della striscia e ottenere uno scrunchie finito di forma regolare."
+                    "text": "Usa una taglierina rotativa e un righello per mantenere dritti i bordi della striscia e ottenere uno scrunchie finito dalla forma regolare."
                 },
                 "patternCutListImage": [
                     "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
@@ -40,55 +40,51 @@
             },
             {
                 "number": 2,
-                "title": "Passaggio 2: Cuci il lato corto",
-                "content": "Allinea i due lati corti, dritto contro dritto.\nCuci 2–3 punti, poi esegui un punto indietro per fissare.\nContinua a cucire in avanti e ricorda di eseguire un punto indietro alla fine per fissare.\nApri la cucitura e stirala in piano.",
+                "title": "Passaggio 2: Cucire il bordo corto",
+                "content": "Allinea i due bordi corti sul dritto\nCuci 2–3 punti, poi fai un punto indietro per fissare.\nContinua a cucire in avanti e ricordati di fare il punto indietro alla fine per fissare\nApri la cucitura e stirala piatta.",
                 "tip": {
                     "type": "common_mistake",
                     "text": "Assicurati che il tessuto non sia attorcigliato prima di cucire insieme le estremità, altrimenti lo scrunchie finito avrà una forma irregolare."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
+                ]
             },
             {
                 "number": 3,
-                "title": "Passaggio 3: Cuci il lato lungo",
-                "content": "Arrotola lo strato superiore di tessuto come mostrato.\nAvvolgi i due bordi dello strato inferiore attorno al tessuto arrotolato.\nAllinea i lati lunghi e fissali con gli spilli.\nCuci lungo il lato lungo con un punto dritto.\nCuci 2–3 punti, poi esegui un punto indietro per fissare.\nContinua a cucire in avanti come al solito e rimuovi gli spilli mentre cuci.\nFai attenzione a non cucire il tessuto arrotolato all'interno.\nTira delicatamente il tessuto arrotolato verso l'interno mentre cuci.\nLascia un'apertura di circa 5 cm (2 in).\nEsegui un punto indietro alla fine per fissare.",
+                "title": "Passaggio 3: Cucire il bordo lungo",
+                "content": "Arrotola lo strato superiore di tessuto come mostrato.\nAvvolgi i due bordi dello strato inferiore attorno al tessuto arrotolato.\nAllinea i bordi lunghi e fissali con gli spilli.\nCuci lungo il bordo lungo con un punto dritto.\nCuci 2–3 punti, poi fai un punto indietro per fissare.\nContinua a cucire normalmente e togli gli spilli man mano che cuci.\nFai attenzione a non cucire sul tessuto arrotolato all'interno.\nTira delicatamente il tessuto arrotolato verso l'interno mentre cuci.\nLascia un'apertura di circa 5 cm (2 inches).\nFai un punto indietro alla fine per fissare.",
                 "tip": {
                     "type": "warning",
-                    "text": "Fai attenzione a non prendere accidentalmente gli strati interni di tessuto nella cucitura, perché ciò impedirebbe al tubo di rivoltarsi correttamente."
+                    "text": "Fai attenzione a non prendere accidentalmente gli strati interni di tessuto nella cucitura, altrimenti il tubo non si rivolta correttamente."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
+                ]
             },
             {
                 "number": 4,
-                "title": "Passaggio 4: Rivolta il tubo",
-                "content": "Rivolta il tubo di tessuto sul dritto attraverso l'apertura.\nLiscia i bordi del tessuto e stirali in piano.",
+                "title": "Passaggio 5: Inserire l'elastico",
+                "content": "Attacca l'elastico a un passanastro.\nTiralo attraverso il tubo di tessuto.\nLega bene insieme le due estremità.\nTira delicatamente per controllare l'elasticità e il nodo.\nRifila l'eccesso, lasciando circa 1 cm.",
                 "tip": {
                     "type": "common_mistake",
                     "text": "Tieni ben ferme entrambe le estremità dell'elastico mentre lo infili, per evitare che un'estremità scivoli di nuovo dentro il tubo di tessuto."
                 },
                 "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Turn%20the%20tube.png"
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
                 ]
             },
             {
                 "number": 5,
-                "title": "Passaggio 5: Inserisci l'elastico",
-                "content": "Attacca l'elastico a un passanastro.\nTiralo attraverso il tubo di tessuto.\nAnnoda bene insieme le due estremità.\nTira delicatamente per controllare l'elasticità e il nodo.\nTaglia l'eccedenza, lasciando circa 1 cm.",
+                "title": "Passaggio 6: Chiudere l'apertura",
+                "content": "Ripiega i bordi vivi all'interno e allineali con cura.\nFai un punto indietro all'inizio e alla fine per fissare.\nFai un'impuntura vicino al bordo per chiudere l'apertura.\nRifila il filo in eccesso.\nSistema il tessuto in modo che le arricciature siano distribuite uniformemente.",
                 "tip": {
                     "type": "common_mistake",
                     "text": "Tieni ben ferme entrambe le estremità dell'elastico mentre lo infili, per evitare che un'estremità scivoli di nuovo dentro il tubo di tessuto."
                 },
-                "patternCutListImage": []
-            },
-            {
-                "number": 6,
-                "title": "Passaggio 6: Chiudi l'apertura",
-                "content": "Ripiega i bordi vivi verso l'interno e allineali con cura.\nEsegui un punto indietro all'inizio e alla fine per fissare.\nEsegui un'impuntura vicino al bordo per chiudere l'apertura.\nTaglia il filo in eccesso.\nSistema il tessuto in modo che le arricciature siano distribuite uniformemente.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Tieni ben ferme entrambe le estremità dell'elastico mentre lo infili, per evitare che un'estremità scivoli di nuovo dentro il tubo di tessuto."
-                },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
+                ]
             }
         ],
         "timelines": [
@@ -113,17 +109,17 @@
     {
         "name": "Sottobicchiere imbottito accogliente",
         "level": "Principiante",
-        "time": "15 min",
-        "finishedSize": "4\" x 4\"",
+        "time": "25-40 min",
+        "finishedSize": "6 x 6 in",
         "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
         "techPack": [
             {
-                "title": "Tessuto principale",
-                "description": "Cotone, cotone da patchwork, lino o ritagli di tessuto riciclato"
+                "title": "Informazioni sul tessuto",
+                "description": "Tessuto principale: 2 pezzi da 17 × 17 cm ciascuno"
             },
             {
-                "title": "Materiali necessari",
-                "description": "Cotone, cotone da patchwork, lino o ritagli di tessuto riciclato\nOvatta in poliestere o imbottitura in schiuma\nAgo per cucire a mano\nFilo"
+                "title": "Strumenti necessari",
+                "description": "Macchina da cucire, Ago per macchina da cucire, Forbici per tessuti, Tagliafilo, Righello o righello da patchwork, Gesso da sarto o pennarello per tessuti, Spilli da cucito o clip da cucito, Gira-angoli, Ferro da stiro e asse da stiro, Scucitore"
             },
             {
                 "title": "Tecniche richieste",
@@ -140,10 +136,10 @@
             {
                 "number": 1,
                 "title": "Passaggio 1: Taglio - Preparazione",
-                "content": "Ti serviranno tessuto principale, imbottitura e forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nTaglia 2 pezzi di tessuto principale, ciascuno da 17 × 17 cm. La misura finita sarà di 15 × 15 cm.\nPuoi adattare la misura alla tua tazza, ma assicurati che la misura di taglio sia circa 2 cm più grande in lunghezza e larghezza rispetto alla misura finita.\nSul rovescio del tessuto, segna un margine di cucitura da 1 cm lungo tutti e quattro i bordi.\nSul dritto, misura 5 cm (2 inches) verso l'interno da ciascun bordo e disegna un quadrato più piccolo al centro.\nLascia due aperture sullo stesso lato dei quadrati interno ed esterno, ciascuna lunga circa 4 cm.",
+                "content": "Ti serviranno il tessuto principale, l'imbottitura e delle forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nTaglia 2 pezzi di tessuto principale, ciascuno da 17 × 17 cm. La misura finita sarà 15 × 15 cm.\nPuoi adattare la misura alla tua tazza, ma assicurati che la misura di taglio sia circa 2 cm più grande in lunghezza e larghezza rispetto alla misura finita.\nSul rovescio del tessuto, segna un margine di cucitura di 1 cm lungo tutti e quattro i bordi.\nSul dritto, misura 5 cm (2 inches) verso l'interno da ciascun bordo e disegna un quadrato più piccolo al centro.\nLascia due aperture sullo stesso lato dei quadrati interno ed esterno, ciascuna lunga circa 4 cm.",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Usa un righello da patchwork e un pennarello per tessuti per mantenere tutti i lati perfettamente quadrati e ottenere un sottobicchiere finito dall'aspetto più professionale."
+                    "text": "Usa un righello da patchwork e un pennarello per tessuti per mantenere tutti i lati perfettamente squadrati e ottenere un sottobicchiere finito più professionale."
                 },
                 "patternCutListImage": [
                     "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
@@ -151,11 +147,11 @@
             },
             {
                 "number": 2,
-                "title": "Passaggio 2: Cuci il pezzo principale",
-                "content": "Posiziona i due pezzi di tessuto principale dritto contro dritto.\nFissa con gli spilli tutti e quattro gli angoli del tessuto.\nAllinea il centro del piedino con la linea di cucitura.\nCuci 2–3 punti, poi esegui un punto indietro per fissare.\nContinua a cucire lungo la linea segnata e ricorda di eseguire un punto indietro alla fine per fissare la cucitura.\nQuando raggiungi l'angolo, lascia l'ago abbassato nel tessuto. Poi solleva il piedino, ruota il tessuto, abbassa il piedino e continua a cucire.\nTaglia con cura gli angoli senza intaccare i punti. Questo aiuta gli angoli a restare più piatti quando il lavoro viene rivoltato sul dritto.\nRivolta il tessuto sul dritto.\nSe gli angoli sono difficili da rivoltare, spingili delicatamente verso l'esterno con una bacchetta o uno strumento smussato. Fai attenzione a non spingere troppo forte o a forare il tessuto.",
+                "title": "Passaggio 2: Cucire il pezzo principale",
+                "content": "Metti i due pezzi di tessuto principale dritto contro dritto.\nFissa tutti e quattro gli angoli del tessuto con gli spilli.\nAllinea il centro del piedino con la linea di cucitura.\nCuci 2–3 punti, poi fai un punto indietro per fissare.\nContinua a cucire lungo la linea segnata, ricordati di fare il punto indietro alla fine per fissare la cucitura.\nQuando raggiungi l'angolo, lascia l'ago abbassato nel tessuto. Poi solleva il piedino, ruota il tessuto, abbassa il piedino e continua a cucire.\nRifila gli angoli con cura senza tagliare i punti. Questo aiuta gli angoli ad appiattirsi meglio quando rivoltati sul dritto.\nRivolta il tessuto sul dritto.\nSe gli angoli sono difficili da rivoltare, spingili delicatamente con una bacchetta o uno strumento smussato. Fai attenzione a non spingere troppo forte o a bucare il tessuto.",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "I principianti spesso dimenticano di lasciare un'apertura per rivoltare o la fanno troppo piccola, rendendo difficile rivoltare il sottobicchiere sul dritto."
+                    "text": "I principianti spesso dimenticano di lasciare un'apertura di rivoltamento o la fanno troppo piccola, rendendo difficile rivoltare il sottobicchiere sul dritto."
                 },
                 "patternCutListImage": [
                     "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
@@ -164,23 +160,27 @@
             },
             {
                 "number": 3,
-                "title": "Passaggio 3: Cuci il quadrato interno",
-                "content": "Esegui un'impuntura lungo il quadrato interno, iniziando con un punto indietro per fissare i punti.\nCuci il quadrato interno allo stesso modo del quadrato esterno, lasciando un'apertura.\nTaglia il filo in eccesso.\nOra imbottisci prima la piccola area quadrata al centro. Non è necessario aggiungere troppa imbottitura qui.\nCuci chiudendo l'apertura del quadrato interno.\nPoi imbottisci il bordo esterno attraverso l'apertura esterna.",
+                "title": "Passaggio 3: Cucire il quadrato interno",
+                "content": "Fai un'impuntura lungo il quadrato interno, iniziando con un punto indietro per fissare i punti.\nCuci il quadrato interno come quello esterno, lasciando un'apertura.\nRifila il filo in eccesso.\nOra imbottisci prima la piccola area quadrata al centro. Non serve aggiungere troppa imbottitura qui.\nCuci chiusa l'apertura del quadrato interno\nPoi imbottisci il bordo esterno attraverso l'apertura esterna,",
                 "tip": {
                     "type": "warning",
                     "text": "Non tirare gli angoli con troppa forza, perché potresti allargare l'apertura o deformare la forma del sottobicchiere."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
+                ]
             },
             {
                 "number": 4,
-                "title": "Passaggio 4: Chiudi l'apertura",
-                "content": "Usa un ago per cucire a mano per chiudere l'apertura lungo il bordo esterno, facendo uscire l'ago da tra i due strati di tessuto.\nSul bordo del tessuto superiore, esegui un piccolo punto da destra a sinistra.\nEsegui un punto corrispondente sul tessuto inferiore, direttamente sotto.\nContinua a eseguire i punti, alternando sopra e sotto, finché l'apertura non è completamente chiusa.\nTira il filo per avvicinare i bordi del tessuto.\nInfine, ferma il filo con un nodo, poi nascondi la coda del filo all'interno del tessuto.\nStira delicatamente per rimuovere eventuali segni del pennarello e per rendere la forma complessiva più regolare.",
+                "title": "Passaggio 4: Chiudere l'apertura",
+                "content": "Usa un ago da cucire a mano per chiudere l'apertura lungo il bordo esterno, facendo uscire l'ago da tra i due strati di tessuto.\nSul bordo del tessuto superiore, fai un piccolo punto da destra a sinistra.\nFai un punto corrispondente sul tessuto inferiore direttamente sotto.\nContinua a fare punti, alternando sopra e sotto, finché l'apertura non è completamente chiusa.\nTira il filo per avvicinare i bordi del tessuto\nInfine, ferma il filo con un nodo, poi nascondi la coda del filo dentro il tessuto.\nStira delicatamente per rimuovere eventuali segni del pennarello e per rendere la forma complessiva più regolare.",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Imbottire troppo è un errore comune e può far traballare il sottobicchiere invece di farlo appoggiare piatto sul tavolo."
+                    "text": "Imbottire troppo è un errore comune e può far traballare il sottobicchiere invece di farlo aderire piatto al tavolo."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
+                ]
             }
         ],
         "timelines": [
@@ -193,7 +193,7 @@
                 "time": "00:55:00"
             },
             {
-                "title": "Passaggio 3: Rivolta sul dritto",
+                "title": "Passaggio 3: Rivoltamento sul dritto",
                 "time": "02:34:00"
             },
             {
@@ -201,7 +201,7 @@
                 "time": "02:58:00"
             },
             {
-                "title": "Passaggio 5: Il dettaglio centrale",
+                "title": "Passaggio 5: Dettaglio centrale",
                 "time": "03:18:00"
             },
             {
@@ -213,17 +213,17 @@
     {
         "name": "Portamonete con cerniera",
         "level": "Principiante",
-        "time": "0,5 ore",
-        "finishedSize": "Circa 3.5\" x 3.9\" (personalizzabile)",
-        "patternCutList": "",
+        "time": "45-70 min",
+        "finishedSize": "4 x 7 in",
+        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
         "techPack": [
             {
-                "title": "Tessuto principale",
-                "description": "Cotone, cotone da patchwork, canvas, lino o tessuto riciclato"
+                "title": "Informazioni sul tessuto",
+                "description": "Tessuto principale: 2 pezzi da 10 × 8 inches ciascuno, Tela termoadesiva: 2 pezzi da 10 × 8 inches ciascuno, Cerniera: 1 pezzo lungo 7 inches"
             },
             {
-                "title": "Materiali necessari",
-                "description": "Cotone, cotone da patchwork, canvas, lino o tessuto riciclato\nDue pezzi di tessuto esterno da 7.87 inches x 3.54 inches\nDue pezzi di fodera da 7.87 inches x 3.54 inches\nCerniera\nFilo\nClip da cucito o spilli"
+                "title": "Strumenti necessari",
+                "description": "Macchina da cucire e aghi adatti per macchina da cucire, Piedino standard e piedino per cerniere, Forbici per tessuti e tagliafilo, Righello e metro, Carta per cartamodelli, Gesso da sarto o pennarello per tessuti, Spilli da cucito o clip da cucito, Strumento smussato per rivoltare, Ferro da stiro e asse da stiro, Scucitore, Ago da cucire a mano se si chiude l'apertura di rivoltamento con un punto invisibile, Materiali: Tessuto esterno, tessuto di fodera, cerniera, filo da cucire e tela termoadesiva o ovatta sottile facoltativa."
             },
             {
                 "title": "Tecniche richieste",
@@ -240,42 +240,50 @@
             {
                 "number": 1,
                 "title": "Passaggio 1: Taglio - Preparazione",
-                "content": "Ti serviranno tessuto principale, tela termoadesiva, una cerniera e delle forbici.\nTaglia 2 pezzi di tessuto principale e 2 pezzi di tela, ciascuno da 10 × 8 inches (circa 25 × 20 cm).\nStira la tela termoadesiva sul rovescio dei pezzi di tessuto principale.\nTaglia via la tela in eccesso lungo i bordi.",
+                "content": "Ti serviranno il tessuto principale, la tela termoadesiva, una cerniera e delle forbici.\nTaglia 2 pezzi di tessuto principale e 2 pezzi di tela, ciascuno da 10 × 8 inches (circa 25 × 20 cm).\nStira la tela sul rovescio dei pezzi di tessuto principale.\nRifila la tela in eccesso lungo i bordi.",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Sovrapponi gli strati di tessuto e tagliali insieme per assicurarti che tutti i pezzi del borsellino abbiano esattamente la stessa misura."
+                    "text": "Sovrapponi gli strati di tessuto e tagliali insieme per assicurarti che tutti i pezzi della pochette abbiano esattamente la stessa misura."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
+                ]
             },
             {
                 "number": 2,
-                "title": "Passaggio 2: Cuci la cerniera",
-                "content": "Piega a metà i due pezzi di tessuto e stirali per creare una piega.\nInserisci la cerniera tra gli strati di tessuto (a sandwich) e fissa con gli spilli lungo il nastro della cerniera.\nCuci 2–3 punti in avanti, poi esegui un punto indietro per fissare.\nContinua a cucire lungo i bordi, rimuovendo gli spilli mentre procedi.\nRicorda di eseguire un punto indietro alla fine per fissare.\nApri i tessuti ed esegui un'impuntura lungo il bordo della cerniera.\nRipeti lo stesso procedimento per l'altro lato della cerniera.",
+                "title": "Passaggio 2: Cucire la cerniera",
+                "content": "Piega i due pezzi di tessuto a metà e stirali per creare una piega.\nMetti la cerniera a sandwich tra gli strati di tessuto e fissa con gli spilli lungo il nastro della cerniera.\nCuci 2–3 punti in avanti, poi fai un punto indietro per fissare.\nContinua a cucire lungo i bordi, togliendo gli spilli man mano.\nRicordati di fare il punto indietro alla fine per fissare.\nApri i tessuti e fai un'impuntura lungo il bordo della cerniera.\nRipeti lo stesso procedimento per l'altro lato della cerniera.",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Assicurati che entrambi i lati della cerniera siano allineati uniformemente prima di cucire, altrimenti il borsellino potrebbe risultare attorcigliato o irregolare una volta finito."
+                    "text": "Assicurati che entrambi i lati della cerniera siano allineati in modo uniforme prima di cucire, altrimenti la pochette potrebbe risultare storta o irregolare una volta finita."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
+                ]
             },
             {
                 "number": 3,
-                "title": "Passaggio 3: Cuci lungo i bordi",
-                "content": "Apri la cerniera a metà così potrai rivoltare il borsellino sul dritto in seguito.\nSegna un'apertura di 2–3 inch (5–7 cm) per rivoltare.\nAllinea i bordi e fissa con gli spilli lungo tutti e quattro i lati.\nAllinea il centro del piedino con la linea di cucitura.\nCuci 2–3 punti, poi esegui un punto indietro per fissare.\nContinua a cucire lungo il bordo e ricorda di eseguire un punto indietro alla fine per fissare la cucitura.\nQuando raggiungi l'angolo, lascia l'ago abbassato nel tessuto. Poi solleva il piedino, ruota il tessuto, abbassa il piedino e continua a cucire.",
+                "title": "Passaggio 3: Cucire lungo i bordi",
+                "content": "Apri la cerniera a metà così potrai rivoltare la pochette sul dritto in seguito.\nSegna un'apertura di 2–3 inches (5–7 cm) per il rivoltamento.\nAllinea i bordi e fissa con gli spilli lungo tutti e quattro i lati.\nAllinea il centro del piedino con la linea di cucitura.\nCuci 2–3 punti, poi fai un punto indietro per fissare.\nContinua a cucire lungo il bordo, ricordati di fare il punto indietro alla fine per fissare la cucitura.\nQuando raggiungi l'angolo, lascia l'ago abbassato nel tessuto. Poi solleva il piedino, ruota il tessuto, abbassa il piedino e continua a cucire.",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Stira il tessuto lontano dalla cerniera prima dell'impuntura per una finitura più pulita e professionale."
+                    "text": "Stira il tessuto lontano dalla cerniera prima di fare l'impuntura per una finitura più pulita e professionale."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
+                ]
             },
             {
                 "number": 4,
-                "title": "Passaggio 4: Rivolta sul dritto",
-                "content": "Taglia con cura gli angoli senza intaccare i punti. Questo aiuta gli angoli a restare più piatti quando il lavoro viene rivoltato sul dritto.\nRivolta il borsellino sul dritto attraverso l'apertura.\nEsegui un'impuntura vicino al bordo per chiudere l'apertura.\nEcco fatto! Il nostro borsellino con cerniera è finito e pronto da usare!",
+                "title": "Passaggio 4: Rivoltare sul dritto",
+                "content": "Rifila gli angoli con cura senza tagliare i punti. Questo aiuta gli angoli ad appiattirsi meglio quando rivoltati sul dritto.\nRivolta la pochette sul dritto attraverso l'apertura.\nFai un'impuntura vicino al bordo per chiudere l'apertura.\nEcco fatto! La nostra pochette con cerniera è finita e pronta all'uso!",
                 "tip": {
                     "type": "warning",
-                    "text": "Apri sempre la cerniera prima di cucire chiuso il borsellino, altrimenti potrebbe essere impossibile rivoltarlo sul dritto."
+                    "text": "Apri sempre la cerniera prima di cucire chiusa la pochette, altrimenti potrebbe essere impossibile rivoltarla sul dritto."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
+                ]
             }
         ],
         "timelines": [
@@ -284,7 +292,7 @@
                 "time": "00:15:00"
             },
             {
-                "title": "Passaggio 2: Cuci la cerniera ai tessuti",
+                "title": "Passaggio 2: Cucire la cerniera ai tessuti",
                 "time": "01:21:00"
             },
             {
@@ -292,15 +300,15 @@
                 "time": "02:48:00"
             },
             {
-                "title": "Passaggio 4: Cuci insieme il borsellino",
+                "title": "Passaggio 4: Cucire insieme la pochette",
                 "time": "04:14:00"
             },
             {
-                "title": "Passaggio 5: Rivolta sul dritto",
+                "title": "Passaggio 5: Rivoltamento sul dritto",
                 "time": "06:44:00"
             },
             {
-                "title": "Passaggio 6: Cuci chiusa la fodera",
+                "title": "Passaggio 6: Chiudere la fodera",
                 "time": "07:09:00"
             }
         ]
@@ -308,21 +316,21 @@
     {
         "name": "Shopper floreale",
         "level": "Principiante",
-        "time": "1 ora",
-        "finishedSize": "12.2\" x 16.9\" x 3\"",
+        "time": "Circa 3–5 ore",
+        "finishedSize": "16 x 22 in",
         "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
         "techPack": [
             {
-                "title": "Tessuto principale",
-                "description": "Tessuto non elasticizzato o tessuto riciclato"
+                "title": "Informazioni sul tessuto",
+                "description": "Tessuto principale: 2 pezzi da 16 × 24 inches ciascuno, Tessuto di fodera: 2 pezzi da 16 × 24 inches ciascuno"
             },
             {
-                "title": "Materiali necessari",
-                "description": "Tessuto non elasticizzato o tessuto riciclato\nAltezza 59\": 0.75 yd\nAltezza 45\": 0.75 yd\nBorsa esterna: 2 pezzi (secondo il cartamodello)\nFodera: 2 pezzi (secondo il cartamodello)\nManici: 2 pezzi (secondo il cartamodello)\nTutti i pezzi includono un margine di cucitura da 0.4\" salvo diversa indicazione.\nFilo da cucito in tinta\nSpilli o clip da cucito\nPennarello per tessuti o gesso da sarto\nMetro da sarta\nForbici o taglierina rotativa\nFerro da stiro e asse da stiro"
+                "title": "Strumenti necessari",
+                "description": "Macchina da cucire, Aghi per macchina da cucire adatti al tessuto e allo spessore dell'ovatta, Forbici per tessuti, Tagliafilo, Righello e metro, Carta per cartamodelli, Gesso da sarto o pennarello per tessuti, Spilli da cucito o clip da cucito, Ago da cucire a mano, Ferro da stiro e asse da stiro, Scucitore, Piedino walking (consigliato per il quilting)."
             },
             {
                 "title": "Tecniche richieste",
-                "description": "Punto dritto, Impuntura"
+                "description": "Punto dritto,Impuntura"
             }
         ],
         "showCustomSize": false,
@@ -335,10 +343,10 @@
             {
                 "number": 1,
                 "title": "Passaggio 1: Taglio - Preparazione",
-                "content": "Per realizzare questa borsa useremo alcune tecniche di cucito essenziali: il punto dritto standard, l'impuntura a filo e l'impuntura. Unisci i manici con un'impuntura a filo e un'impuntura. Per dare forma agli angoli: taglia gli angoli e cuci insieme i bordi.\nPer prima cosa, prepara il tessuto principale e la fodera, scarica e stampa il nostro cartamodello della borsa.\nPoi segna e ritaglia un triangolo negli angoli inferiori del cartamodello.\nUsa il cartamodello della borsa per tagliare 2 pezzi principali e 2 pezzi di fodera.\nIn ciascun angolo inferiore, ritaglia un triangolo appuntito come mostrato.\nPosiziona i due pezzi principali (di fodera) dritto contro dritto e fissali con gli spilli lungo i bordi esterni.",
+                "content": "Per realizzare questa borsa useremo alcune tecniche di cucito essenziali: il punto dritto standard, l'impuntura a filo e l'impuntura. Unisci i manici con un'impuntura a filo e un'impuntura. Angoli scatolati: taglia gli angoli e cuci insieme i bordi\nPer prima cosa, prepara il tessuto principale e quello di fodera, scarica e stampa il nostro cartamodello della borsa\nPoi segna e ritaglia un triangolo agli angoli inferiori del cartamodello\nUsa il cartamodello della borsa per tagliare 2 pezzi principali e 2 pezzi di fodera\nA ciascun angolo inferiore, ritaglia un triangolo appuntito come mostrato\nMetti i due pezzi principali (/di fodera) dritto contro dritto e fissali con gli spilli lungo i bordi esterni",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Trasferisci tutti i segni di intaglio e di allineamento prima di tagliare per facilitare l'assemblaggio della borsa esterna e della fodera."
+                    "text": "Riporta tutte le tacche e i segni di allineamento prima di tagliare per facilitare l'assemblaggio della borsa esterna e della fodera."
                 },
                 "patternCutListImage": [
                     "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
@@ -349,83 +357,99 @@
             },
             {
                 "number": 2,
-                "title": "Passaggio 2: Cuci le cuciture inferiori",
-                "content": "Seleziona il punto dritto. Imposta la manopola della lunghezza del punto su 2 per un punto equilibrato di media lunghezza.\nUnisci i bordi del triangolo inferiore (dritti rivolti l'uno verso l'altro).\nAllinea uniformemente i bordi e cuci una linea dritta.\nRipeti questo procedimento per i tre angoli inferiori rimanenti.",
+                "title": "Passaggio 2: Cucire le cuciture del fondo",
+                "content": "Seleziona l'impostazione del punto dritto. Imposta la manopola della lunghezza punto su 2 per un punto equilibrato di media lunghezza\nAvvicina i bordi del triangolo inferiore (dritti a contatto)\nAllinea i bordi in modo uniforme e cuci una linea dritta\nRipeti il procedimento per gli altri tre angoli inferiori",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Assicurati che i dritti siano rivolti l'uno verso l'altro prima di cucire, altrimenti le cuciture saranno visibili all'esterno della borsa."
+                    "text": "Assicurati che i dritti siano a contatto tra loro prima di cucire, altrimenti le cuciture saranno visibili all'esterno della borsa."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
+                ]
             },
             {
                 "number": 3,
-                "title": "Passaggio 3: Cuci la borsa principale",
-                "content": "*Ricorda di eseguire un punto indietro all'inizio di ogni cucitura per fissare i punti.\nCuci tutto intorno alla borsa lungo la linea con gli spilli, rimuovendoli mentre procedi.\nQuando cuci il fondo curvo, lascia l'ago abbassato nel tessuto, solleva il piedino, ruota il tessuto e continua a cucire.\nEsegui un punto indietro anche alla fine della cucitura per fissare i punti.",
+                "title": "Passaggio 3: Cucire la borsa principale",
+                "content": "*Ricordati di fare il punto indietro all'inizio di ogni cucitura per fissare i punti\nCuci tutto intorno alla borsa lungo la linea spillata, togliendo gli spilli man mano\nQuando cuci il fondo curvo, lascia l'ago abbassato nel tessuto, solleva il piedino, ruota il tessuto e continua a cucire\nFai il punto indietro anche alla fine della cucitura per fissare i punti",
                 "tip": {
                     "type": "warning",
-                    "text": "Esegui un punto indietro a entrambe le estremità dell'apertura di rivoltatura per evitare che la cucitura si apra ulteriormente durante la rivoltatura."
+                    "text": "Fai il punto indietro a entrambe le estremità dell'apertura di rivoltamento per evitare che la cucitura si apra ulteriormente durante il rivoltamento."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
+                ]
             },
             {
                 "number": 4,
-                "title": "Passaggio 4: Cuci la fodera",
-                "content": "Cuci la fodera esattamente come la borsa principale, cucendo gli angoli inferiori e tutto intorno.\nCuci tutto intorno alla borsa, lasciando un tratto di 10cm (4\") non cucito sul fondo.",
+                "title": "Passaggio 4: Cucire la fodera",
+                "content": "Cuci la fodera esattamente come la borsa principale, cucendo gli angoli inferiori e tutto intorno\nCuci tutto intorno alla borsa, lasciando un'apertura non cucita di 10 cm (4\") sul fondo",
                 "tip": {
                     "type": "warning",
-                    "text": "Taglia con cura i margini di cucitura curvi senza intaccare la cucitura, per aiutare il bordo superiore a restare piatto dopo la rivoltatura."
+                    "text": "Taglia con cura i margini di cucitura curvi senza tagliare la cucitura per aiutare il bordo superiore ad appiattirsi dopo il rivoltamento."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
+                ]
             },
             {
                 "number": 5,
-                "title": "Passaggio 5: Unisci borsa e fodera",
-                "content": "Ecco la borsa principale finita.\nEcco la fodera, con il tratto non cucito lasciato sul fondo.\nRivolta la fodera sul dritto.\nInserisci la fodera nella borsa principale, assicurandoti che gli angoli siano perfettamente allineati.\nFissa con gli spilli tutto intorno ai bordi dell'apertura della borsa e dei manici per tenere saldamente in posizione gli strati.\nFissa insieme i due strati lungo l'apertura della borsa e i manici, sia sul davanti che sul retro della borsa.\nCuci lungo queste linee con gli spilli.\nCuci tutto intorno all'apertura e ai manici, rimuovendo gli spilli mentre procedi.",
+                "title": "Passaggio 5: Unire borsa e fodera",
+                "content": "Ecco la borsa principale finita\nEcco la fodera, con l'apertura lasciata non cucita sul fondo\nRivolta la fodera sul dritto\nInserisci la fodera nella borsa principale, assicurandoti che gli angoli siano perfettamente allineati\nFissa con gli spilli tutto intorno ai bordi dell'apertura della borsa e dei manici per tenere fermi gli strati\nSpilla insieme i due strati lungo l'apertura della borsa e i manici sia sul davanti che sul retro della borsa\nCuci lungo queste linee spillate\nCuci tutto intorno all'apertura e ai manici, togliendo gli spilli man mano",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Stira bene il bordo superiore prima dell'impuntura per ottenere una finitura pulita e dall'aspetto professionale."
+                    "text": "Stira bene il bordo superiore prima di fare l'impuntura per ottenere una finitura pulita e professionale."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
+                ]
             },
             {
                 "number": 6,
-                "title": "Passaggio 6: Chiudi l'apertura sul fondo della fodera",
-                "content": "Ripiega verso l'interno i bordi vivi dell'apertura di rivoltatura e chiudila con un'impuntura a filo.",
+                "title": "Passaggio 6: Chiudere l'apertura sul fondo della fodera",
+                "content": "Piega verso l'interno i bordi vivi dell'apertura di rivoltamento e chiudila con un'impuntura a filo",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Mantieni entrambi i manici esattamente della stessa lunghezza così la shopper finita pende in modo uniforme quando la porti."
+                    "text": "Mantieni entrambi i manici esattamente della stessa lunghezza così la shopper finita penderà in modo uniforme quando la porti."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+                ]
             },
             {
                 "number": 7,
                 "title": "Passaggio 7: Stiratura",
-                "content": "Porta le cuciture dell'apertura e dei manici fino al bordo, poi stira in piano per fissare la forma.",
+                "content": "Porta le cuciture dell'apertura e dei manici fino al bordo, poi stira piatto per fissare la forma",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Ripiega uniformemente il margine di cucitura prima di cucire così l'apertura chiusa si integra bene con il resto della fodera."
+                    "text": "Piega il margine di cucitura in modo uniforme prima di cucire così l'apertura chiusa si fonde bene con il resto della fodera."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+                ]
             },
             {
                 "number": 8,
-                "title": "Passaggio 8: Cucitura del manico",
-                "content": "Ripiega il bordo vivo del manico verso l'interno di 1cm e fissalo con uno spillo.\nInserisci il bordo vivo del manico rimanente dentro l'estremità piegata che hai appena creato.\nCuci 2 linee parallele: impuntura a filo a 1mm dal bordo e impuntura a 5mm dal bordo.\nRicorda di eseguire un punto indietro all'inizio e alla fine delle cuciture.\nTaglia il filo in eccesso.",
+                "title": "Passaggio 8: Cucire il manico",
+                "content": "Piega verso l'interno di 1 cm il bordo vivo del manico e fissalo con uno spillo\nFai scorrere il bordo vivo del manico rimanente dentro l'estremità piegata che hai appena creato\nCuci 2 linee parallele: impuntura a filo a 1 mm dal bordo e impuntura a 5 mm dal bordo\nRicordati di fare il punto indietro all'inizio e alla fine delle cuciture\nRifila il filo in eccesso",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Ripiega uniformemente il margine di cucitura prima di cucire così l'apertura chiusa si integra bene con il resto della fodera."
+                    "text": "Piega il margine di cucitura in modo uniforme prima di cucire così l'apertura chiusa si fonde bene con il resto della fodera."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
+                ]
             },
             {
                 "number": 9,
                 "title": "Passaggio 9: Impuntura a filo",
-                "content": "Esegui un'impuntura a filo a 1mm dal bordo intorno all'apertura della borsa e ai manici.",
+                "content": "Fai un'impuntura a filo a 1 mm dal bordo lungo l'apertura della borsa e i manici",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Ripiega uniformemente il margine di cucitura prima di cucire così l'apertura chiusa si integra bene con il resto della fodera."
+                    "text": "Piega il margine di cucitura in modo uniforme prima di cucire così l'apertura chiusa si fonde bene con il resto della fodera."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
+                ]
             }
         ],
         "timelines": [
@@ -434,15 +458,15 @@
                 "time": "00:14:00"
             },
             {
-                "title": "Passaggio 2: Cuci i pezzi principali",
+                "title": "Passaggio 2: Cucire i pezzi principali",
                 "time": "00:44:00"
             },
             {
-                "title": "Passaggio 3: Cuci i pezzi di fodera",
+                "title": "Passaggio 3: Cucire i pezzi della fodera",
                 "time": "01:12:00"
             },
             {
-                "title": "Passaggio 4: Cuci la borsa",
+                "title": "Passaggio 4: Cucire la borsa",
                 "time": "01:37:00"
             },
             {
@@ -450,11 +474,11 @@
                 "time": "03:18:00"
             },
             {
-                "title": "Passaggio 6: Cuci il manico",
+                "title": "Passaggio 6: Cucire il manico",
                 "time": "03:50:00"
             },
             {
-                "title": "Passaggio 7: Cuci chiusa l'apertura",
+                "title": "Passaggio 7: Chiudere l'apertura",
                 "time": "04:39:00"
             }
         ]
@@ -462,17 +486,17 @@
     {
         "name": "Cuscino comfort per il collo",
         "level": "Principiante",
-        "time": "30 min",
-        "finishedSize": "11.75\" x 11.75\"",
-        "patternCutList": "",
+        "time": "45-65 min",
+        "finishedSize": "11 x 13.5 in",
+        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
         "techPack": [
             {
-                "title": "Tessuto principale",
-                "description": "Tessuto non elasticizzato o tessuto riciclato"
+                "title": "Informazioni sul tessuto",
+                "description": "Tessuto principale: 2 pezzi da 16 × 14 inches ciascuno"
             },
             {
-                "title": "Materiali necessari",
-                "description": "Tessuto non elasticizzato o tessuto riciclato\nAltezza 59\": 0.5 yd\nAltezza 45\": 0.5 yd\nCorpo del cuscino per il collo: 2 pezzi (secondo il cartamodello)\nTutti i pezzi includono un margine di cucitura da 0.4\".\nOvatta in poliestere\nFilo da cucito in tinta\nSpilli o clip da cucito\nPennarello per tessuti o gesso da sarto\nForbici o taglierina rotativa\nStrumento per rivoltare o bacchetta\nAgo per cucire a mano\nFerro da stiro e asse da stiro"
+                "title": "Strumenti necessari",
+                "description": "Macchina da cucire e aghi adatti al tessuto, Forbici per tessuti, Tagliafilo, Righello e metro, Carta per cartamodelli, Gesso da sarto o pennarello per tessuti, Spilli da cucito o clip da cucito, Ago da cucire a mano per chiudere l'apertura, Strumento smussato per rivoltare e imbottire, Scucitore, Materiali: Tessuto morbido, imbottitura in fibra e filo da cucire."
             },
             {
                 "title": "Tecniche richieste",
@@ -489,42 +513,50 @@
             {
                 "number": 1,
                 "title": "Passaggio 1: Taglio - Preparazione",
-                "content": "Oggi cuciremo un cuscino comfort per il collo.\nTi serviranno tessuto principale, imbottitura e forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nPrepara il cartamodello del cuscino per il collo nelle dimensioni indicate.\nPosiziona il cartamodello sul tessuto e traccia il contorno.\nRitaglia i due pezzi del cuscino lungo la linea segnata.",
+                "content": "Oggi cuciamo un cuscino comfort per il collo.\nTi serviranno il tessuto principale, l'imbottitura e delle forbici.\nTi serviranno anche spilli o clip, un passanastro, un pennarello per tessuti e un righello.\nPrepara il cartamodello del cuscino per il collo nelle dimensioni indicate.\nPosiziona il cartamodello sul tessuto e traccia il contorno.\nRitaglia i due pezzi del cuscino lungo la linea segnata.",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Trasferisci eventuali segni di centro o di allineamento dal cartamodello prima di tagliare per facilitare l'accoppiamento dei bordi curvi durante la cucitura."
+                    "text": "Riporta eventuali segni di centro o di allineamento dal cartamodello prima di tagliare per facilitare l'abbinamento dei bordi curvi durante la cucitura."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
+                ]
             },
             {
                 "number": 2,
-                "title": "Passaggio 2: Cuci lungo i bordi",
-                "content": "Posiziona i due pezzi di tessuto principale dritto contro dritto e fissa con gli spilli lungo i bordi.\nSegna un'apertura di 6–8 cm lungo la curva esterna per rivoltare e imbottire.\nInizia a cucire da un'estremità dell'apertura.\nCuci 2–3 punti in avanti, poi esegui un punto indietro per fissare.\nContinua a cucire lungo i bordi, rimuovendo gli spilli mentre procedi.\nRicorda di eseguire un punto indietro alla fine per fissare.",
+                "title": "Passaggio 2: Cucire lungo i bordi",
+                "content": "Metti i due pezzi di tessuto principale dritto contro dritto e fissa con gli spilli lungo i bordi.\nSegna un'apertura di 6–8 cm lungo la curva esterna per il rivoltamento e l'imbottitura.\nInizia a cucire da un'estremità dell'apertura.\nCuci 2–3 punti in avanti, poi fai un punto indietro per fissare.\nContinua a cucire lungo i bordi, togliendo gli spilli man mano.\nRicordati di fare il punto indietro alla fine per fissare.",
                 "tip": {
                     "type": "common_mistake",
-                    "text": "Ricorda di lasciare l'apertura di rivoltatura non cucita ed eseguire un punto indietro a entrambe le estremità così la cucitura resta salda durante la rivoltatura."
+                    "text": "Ricordati di lasciare l'apertura di rivoltamento non cucita e di fare il punto indietro a entrambe le estremità così la cucitura resta sicura durante il rivoltamento."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
+                ]
             },
             {
                 "number": 3,
-                "title": "Passaggio 3: Rivolta sul dritto",
-                "content": "Rivolta il cuscino sul dritto attraverso l'apertura.\nImbottisci il cuscino in modo uniforme con l'ovatta fino a raggiungere la consistenza desiderata.",
+                "title": "Passaggio 3: Rivoltare sul dritto",
+                "content": "Rivolta il cuscino sul dritto attraverso l'apertura.\nImbottisci il cuscino in modo uniforme con l'imbottitura in fibra fino a raggiungere la consistenza desiderata.",
                 "tip": {
                     "type": "warning",
-                    "text": "Taglia vicino alle cuciture curve senza intaccare la cucitura, altrimenti la cucitura potrebbe aprirsi quando il cuscino viene rivoltato."
+                    "text": "Taglia vicino alle cuciture curve senza tagliare la cucitura, altrimenti la cucitura potrebbe aprirsi quando il cuscino viene rivoltato."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
+                ]
             },
             {
                 "number": 4,
-                "title": "Passaggio 4: Chiudi l'apertura",
-                "content": "Ripiega i bordi vivi verso l'interno e allineali con cura.\nUsa un punto invisibile per chiudere l'apertura.\nTira bene il filo, fai un nodo e nascondi la coda del filo.\nEcco fatto! Il nostro cuscino comfort per il collo è finito e pronto da usare!",
+                "title": "Passaggio 4: Chiudere l'apertura",
+                "content": "Piega i bordi vivi verso l'interno e allineali con cura.\nUsa un punto invisibile per chiudere l'apertura.\nTira bene il filo, fai un nodo e nascondi la coda del filo.\nEcco fatto! Il nostro cuscino comfort per il collo è finito e pronto all'uso!",
                 "tip": {
                     "type": "pro_tip",
-                    "text": "Usa uno strumento per rivoltare smussato per spingere delicatamente verso l'esterno le sezioni curve senza danneggiare il tessuto."
+                    "text": "Usa uno strumento smussato per rivoltare per spingere delicatamente le sezioni curve senza danneggiare il tessuto."
                 },
-                "patternCutListImage": []
+                "patternCutListImage": [
+                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
+                ]
             }
         ],
         "timelines": [
@@ -533,15 +565,15 @@
                 "time": "00:16:00"
             },
             {
-                "title": "Passaggio 2: Cuci il cuscino",
+                "title": "Passaggio 2: Cucire il cuscino",
                 "time": "00:39:00"
             },
             {
-                "title": "Passaggio 3: Rifinisci - Taglia",
+                "title": "Passaggio 3: Rifilare - Tagliare",
                 "time": "01:19:00"
             },
             {
-                "title": "Passaggio 4: Rivolta sul dritto",
+                "title": "Passaggio 4: Rivoltamento sul dritto",
                 "time": "01:49:00"
             },
             {
