@@ -1,589 +1,589 @@
 [
-    {
-        "name": "Scrunchie Floral do Dia a Dia",
-        "level": "Iniciante",
-        "time": "14-25 min",
-        "finishedSize": "5 x 5 in",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Informações sobre o tecido",
-                "description": "Tecido principal: 1 tira medindo 5 × 20 inches, Elástico: 1 peça medindo 7 inches de comprimento"
-            },
-            {
-                "title": "Ferramentas necessárias",
-                "description": "Máquina de costura, Tesoura para tecido, Fita métrica / Régua, Giz de alfaiate / Marcador de tecido, Alfinetes / Presilhas, Alfinete de segurança, Agulha de costura à mão, Agulha passa-fita"
-            },
-            {
-                "title": "Técnicas Necessárias",
-                "description": "Costura reta\nPesponto"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Etapa 1: Corte – Preparação",
-                "content": "Você vai precisar de uma tira longa de tecido, um pedaço de elástico e tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nO tecido mede 5 × 20 inches (cerca de 12 × 50 cm). O elástico tem cerca de 7 inches (18 cm) de comprimento.\nDobre o tecido ao meio, direito com direito.\nMarque uma margem de costura de 1 cm ao longo da borda.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Use um cortador circular e uma régua para manter as bordas da tira retas e garantir que o scrunchie pronto tenha um formato uniforme."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Etapa 2: Costurar a Borda Curta",
-                "content": "Alinhe as duas bordas curtas com o direito para cima\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando para frente e lembre-se de fazer o ponto de retrocesso no final para arrematar\nAbra a costura e passe o ferro para achatá-la.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Certifique-se de que o tecido não esteja torcido antes de costurar as pontas, ou o scrunchie pronto terá um formato irregular."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Etapa 3: Costurar a Borda Longa",
-                "content": "Enrole a camada superior do tecido como mostrado.\nEnvolva as duas bordas da camada inferior em volta do tecido enrolado.\nAlinhe as bordas longas e prenda com alfinetes.\nCosture ao longo da borda longa usando um ponto reto.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando para frente como de costume e remova os alfinetes à medida que costura.\nCuidado para não costurar o tecido enrolado que está dentro.\nPuxe delicadamente o tecido enrolado para dentro enquanto costura.\nDeixe uma abertura de cerca de 5 cm (2 in).\nFaça um ponto de retrocesso no final para arrematar.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Cuidado para não prender acidentalmente as camadas internas do tecido na costura, pois isso impedirá que o tubo seja virado corretamente."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
-                ]
-            },
-            {
-                "number": 4,
-                "title": "Etapa 5: Inserir o Elástico",
-                "content": "Prenda o elástico em uma agulha passa-fita.\nPuxe-o através do tubo de tecido.\nAmarre bem as duas pontas.\nPuxe delicadamente para verificar a elasticidade e o nó.\nApare o excesso, deixando cerca de 1 cm.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Segure bem as duas pontas do elástico enquanto o enfia para evitar que uma ponta escorregue de volta para dentro do tubo de tecido."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
-                ]
-            },
-            {
-                "number": 5,
-                "title": "Etapa 6: Fechar a Abertura",
-                "content": "Dobre as bordas cruas para dentro e alinhe-as com cuidado.\nFaça um ponto de retrocesso no início e no fim para arrematar.\nFaça um pesponto rente à borda para fechar a abertura.\nApare o excesso de linha.\nAjuste o tecido para que os franzidos fiquem distribuídos uniformemente.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Segure bem as duas pontas do elástico enquanto o enfia para evitar que uma ponta escorregue de volta para dentro do tubo de tecido."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
-                ]
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Etapa 1: Corte – Preparação",
-                "time": "00:06:00"
-            },
-            {
-                "title": "Etapa 2: Costurar",
-                "time": "00:18:00"
-            },
-            {
-                "title": "Etapa 3: Inserir o Elástico",
-                "time": "03:25:00"
-            },
-            {
-                "title": "Etapa 4: Costurar",
-                "time": "04:03:00"
-            }
+  {
+    "name": "Everyday Floral Scrunchie",
+    "level": "Iniciante",
+    "time": "14-25 min",
+    "finishedSize": "5 x 5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informações sobre o tecido",
+        "description": "Tecido principal: 1 tira medindo 5 × 20 inches, Elástico: 1 peça medindo 7 inches de comprimento"
+      },
+      {
+        "title": "Ferramentas necessárias",
+        "description": "Máquina de costura, Tesoura para tecido, Fita métrica / Régua, Giz de alfaiate / Marcador de tecido, Alfinetes / Presilhas, Alfinete de segurança, Agulha de costura à mão, Agulha passa-fita"
+      },
+      {
+        "title": "Técnicas Necessárias",
+        "description": "Costura reta\nPesponto"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Everyday%20Floral%20Scrunchie.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Everyday%20Floral%20Scrunchie.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Everyday%20Floral%20Scrunchie/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Etapa 1: Corte – Preparação",
+        "content": "Você vai precisar de uma tira longa de tecido, um pedaço de elástico e tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nO tecido mede 5 × 20 inches (cerca de 12 × 50 cm). O elástico tem cerca de 7 inches (18 cm) de comprimento.\nDobre o tecido ao meio, direito com direito.\nMarque uma margem de costura de 1 cm ao longo da borda.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Use um cortador circular e uma régua para manter as bordas da tira retas e garantir que o scrunchie pronto tenha um formato uniforme."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
         ]
-    },
-    {
-        "name": "Porta-copo Acolchoado Aconchegante",
-        "level": "Iniciante",
-        "time": "25-40 min",
-        "finishedSize": "6 x 6 in",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Informações sobre o tecido",
-                "description": "Tecido principal: 2 peças medindo 17 × 17 cm cada"
-            },
-            {
-                "title": "Ferramentas necessárias",
-                "description": "Máquina de costura, Agulha para máquina de costura, Tesoura para tecido, Tesoura corta-fios, Régua ou régua para patchwork, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Virador de cantos, Ferro e tábua de passar, Abridor de costura"
-            },
-            {
-                "title": "Técnicas Necessárias",
-                "description": "Costura reta"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Etapa 1: Corte – Preparação",
-                "content": "Você vai precisar do tecido principal, do enchimento e de tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nCorte 2 peças do tecido principal, cada uma medindo 17 × 17 cm. O tamanho final será de 15 × 15 cm.\nVocê pode ajustar o tamanho para a sua caneca, mas certifique-se de que o tamanho do corte seja cerca de 2 cm maior no comprimento e na largura do que o tamanho final.\nNo avesso do tecido, marque uma margem de costura de 1 cm ao longo das quatro bordas.\nNo direito, meça 5 cm (2 inches) para dentro a partir de cada borda e desenhe um quadrado menor no centro.\nDeixe duas aberturas no mesmo lado dos quadrados interno e externo, cada uma com cerca de 4 cm de comprimento.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Use uma régua para patchwork e um marcador de tecido para manter todos os lados perfeitamente quadrados e obter um porta-copo mais profissional."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Etapa 2: Costurar a Peça Principal",
-                "content": "Coloque as duas peças do tecido principal direito com direito.\nPrenda os quatro cantos do tecido com alfinetes.\nAlinhe o centro do pé calcador com a linha de costura.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo da linha marcada, lembrando de fazer o ponto de retrocesso no final para arrematar a costura.\nAo chegar ao canto, deixe a agulha abaixada no tecido. Levante o pé calcador, gire o tecido, abaixe o pé calcador e continue costurando.\nApare os cantos com cuidado sem cortar os pontos. Isso ajuda os cantos a ficarem mais retos ao virar para o direito.\nVire o tecido para o direito.\nSe os cantos forem difíceis de virar, empurre-os delicadamente com um palito ou uma ferramenta romba. Cuidado para não empurrar com muita força nem furar o tecido.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Iniciantes costumam esquecer de deixar uma abertura para virar ou a fazem pequena demais, o que dificulta virar o porta-copo para o direito."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Etapa 3: Costurar o Quadrado Interno",
-                "content": "Faça um pesponto ao longo do quadrado interno, começando com um ponto de retrocesso para arrematar os pontos.\nCosture o quadrado interno da mesma forma que o quadrado externo, deixando uma abertura.\nApare o excesso de linha.\nAgora, vamos encher primeiro a pequena área quadrada no centro. Não é preciso colocar muito enchimento aqui.\nCosture a abertura do quadrado interno para fechá-la\nEm seguida, encha a borda externa pela abertura externa,",
-                "tip": {
-                    "type": "warning",
-                    "text": "Não puxe os cantos com muita força, pois isso pode alargar a abertura ou deformar o porta-copo."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
-                ]
-            },
-            {
-                "number": 4,
-                "title": "Etapa 4: Fechar a Abertura",
-                "content": "Use uma agulha de costura à mão para fechar a abertura ao longo da borda externa, trazendo a agulha de baixo para cima entre as duas camadas de tecido.\nNa borda do tecido de cima, dê um ponto pequeno da direita para a esquerda.\nDê um ponto correspondente no tecido de baixo, logo abaixo.\nContinue dando pontos, alternando entre cima e baixo, até a abertura estar completamente fechada.\nPuxe a linha para unir as bordas do tecido\nPor fim, arremate a linha com um nó e esconda a ponta da linha dentro do tecido.\nPasse o ferro delicadamente para remover qualquer marca do marcador de tecido e ajudar o formato geral a ficar mais uniforme.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Encher demais é um erro comum e pode fazer o porta-copo balançar em vez de ficar firme sobre a mesa."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
-                ]
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Etapa 1: Corte – Preparação",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Etapa 2: Costurar",
-                "time": "00:55:00"
-            },
-            {
-                "title": "Etapa 3: Virar para o Direito",
-                "time": "02:34:00"
-            },
-            {
-                "title": "Etapa 4: Encher",
-                "time": "02:58:00"
-            },
-            {
-                "title": "Etapa 5: O Detalhe Central",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Etapa 6: Costura à Mão",
-                "time": "04:33:00"
-            }
+      },
+      {
+        "number": 2,
+        "title": "Etapa 2: Costurar a Borda Curta",
+        "content": "Alinhe as duas bordas curtas com o direito para cima\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando para frente e lembre-se de fazer o ponto de retrocesso no final para arrematar\nAbra a costura e passe o ferro para achatá-la.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Certifique-se de que o tecido não esteja torcido antes de costurar as pontas, ou o scrunchie pronto terá um formato irregular."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
         ]
-    },
-    {
-        "name": "Porta-moedas com Zíper",
-        "level": "Iniciante",
-        "time": "45-70 min",
-        "finishedSize": "4 x 7 in",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Informações sobre o tecido",
-                "description": "Tecido principal: 2 peças medindo 10 × 8 inches cada, Entretela termocolante: 2 peças medindo 10 × 8 inches cada, Zíper: 1 peça medindo 7 inches de comprimento"
-            },
-            {
-                "title": "Ferramentas necessárias",
-                "description": "Máquina de costura e agulhas adequadas para a máquina, Pé calcador padrão e pé calcador para zíper, Tesoura para tecido e tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Ferramenta romba para virar, Ferro e tábua de passar, Abridor de costura, Agulha de costura à mão se for fechar a abertura com ponto invisível, Materiais: Tecido externo, tecido do forro, zíper, linha de costura e entretela termocolante ou manta acrílica fina opcional."
-            },
-            {
-                "title": "Técnicas Necessárias",
-                "description": "Costura reta, pesponto"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Etapa 1: Corte – Preparação",
-                "content": "Você vai precisar do tecido principal, de entretela termocolante, de um zíper e de tesoura.\nCorte 2 peças do tecido principal e 2 peças de entretela, cada uma medindo 10 × 8 inches (cerca de 25 × 20 cm).\nCole a entretela no avesso das peças do tecido principal.\nApare qualquer excesso de entretela nas bordas.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Empilhe as camadas de tecido e corte-as juntas para garantir que todas as peças do porta-moedas tenham exatamente o mesmo tamanho."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Etapa 2: Costurar o Zíper",
-                "content": "Dobre as duas peças de tecido ao meio e passe o ferro para criar um vinco.\nColoque o zíper entre as camadas de tecido e prenda com alfinetes ao longo da fita do zíper.\nCosture 2–3 pontos para frente e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo das bordas, removendo os alfinetes à medida que avança.\nLembre-se de fazer o ponto de retrocesso no final para arrematar.\nAbra os tecidos e faça um pesponto ao longo da borda do zíper.\nRepita o mesmo processo para o outro lado do zíper.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Certifique-se de que os dois lados do zíper estejam alinhados uniformemente antes de costurar, caso contrário o porta-moedas pode ficar torcido ou irregular."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Etapa 3: Costurar ao Redor das Bordas",
-                "content": "Abra o zíper até a metade para poder virar o porta-moedas para o direito depois.\nMarque uma abertura de 2–3 inch (5–7 cm) para virar.\nAlinhe as bordas e prenda com alfinetes nos quatro lados.\nAlinhe o centro do pé calcador com a linha de costura.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo da borda, lembrando de fazer o ponto de retrocesso no final para arrematar a costura.\nAo chegar ao canto, deixe a agulha abaixada no tecido. Levante o pé calcador, gire o tecido, abaixe o pé calcador e continue costurando.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Passe o tecido para longe do zíper antes de fazer o pesponto para um acabamento mais limpo e profissional."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
-                ]
-            },
-            {
-                "number": 4,
-                "title": "Etapa 4: Virar para o Direito",
-                "content": "Apare os cantos com cuidado sem cortar os pontos. Isso ajuda os cantos a ficarem mais retos ao virar para o direito.\nVire o porta-moedas para o direito pela abertura.\nFaça um pesponto rente à borda para fechar a abertura.\nE pronto! Nosso porta-moedas com zíper está finalizado e pronto para usar!",
-                "tip": {
-                    "type": "warning",
-                    "text": "Abra sempre o zíper antes de costurar o porta-moedas, caso contrário pode ser impossível virá-lo para o direito."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
-                ]
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Etapa 1: Corte – Preparação",
-                "time": "00:15:00"
-            },
-            {
-                "title": "Etapa 2: Costurar o Zíper nos Tecidos",
-                "time": "01:21:00"
-            },
-            {
-                "title": "Etapa 3: Pesponto",
-                "time": "02:48:00"
-            },
-            {
-                "title": "Etapa 4: Costurar o Porta-moedas",
-                "time": "04:14:00"
-            },
-            {
-                "title": "Etapa 5: Virar para o Direito",
-                "time": "06:44:00"
-            },
-            {
-                "title": "Etapa 6: Costurar o Forro",
-                "time": "07:09:00"
-            }
+      },
+      {
+        "number": 3,
+        "title": "Etapa 3: Costurar a Borda Longa",
+        "content": "Enrole a camada superior do tecido como mostrado.\nEnvolva as duas bordas da camada inferior em volta do tecido enrolado.\nAlinhe as bordas longas e prenda com alfinetes.\nCosture ao longo da borda longa usando um ponto reto.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando para frente como de costume e remova os alfinetes à medida que costura.\nCuidado para não costurar o tecido enrolado que está dentro.\nPuxe delicadamente o tecido enrolado para dentro enquanto costura.\nDeixe uma abertura de cerca de 5 cm (2 in).\nFaça um ponto de retrocesso no final para arrematar.",
+        "tip": {
+          "type": "warning",
+          "text": "Cuidado para não prender acidentalmente as camadas internas do tecido na costura, pois isso impedirá que o tubo seja virado corretamente."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
         ]
-    },
-    {
-        "name": "Bolsa Tote Floral",
-        "level": "Iniciante",
-        "time": "Aproximadamente 3–5 horas",
-        "finishedSize": "16 x 22 in",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-        "techPack": [
-            {
-                "title": "Informações sobre o tecido",
-                "description": "Tecido principal: 2 peças medindo 16 × 24 inches cada, Tecido do forro: 2 peças medindo 16 × 24 inches cada"
-            },
-            {
-                "title": "Ferramentas necessárias",
-                "description": "Máquina de costura, Agulhas para máquina de costura adequadas ao tecido e à espessura da manta, Tesoura para tecido, Tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Agulha de costura à mão, Ferro e tábua de passar, Abridor de costura, Pé calcador de duplo transporte (recomendado para patchwork)."
-            },
-            {
-                "title": "Técnicas Necessárias",
-                "description": "Costura reta,pesponto"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Etapa 1: Corte – Preparação",
-                "content": "Para fazer esta bolsa, usaremos algumas técnicas essenciais de costura: o ponto reto padrão, o pesponto de borda e o pesponto. Una as alças com um pesponto de borda e um pesponto. Cantos encaixados: corte os cantos e costure as bordas juntas\nPrimeiro, prepare o tecido principal e o do forro, baixe e imprima o molde da nossa bolsa\nEm seguida, marque e recorte um triângulo nos cantos inferiores do molde\nUse o molde da bolsa para cortar 2 peças principais e 2 peças do forro\nEm cada canto inferior, recorte um triângulo pontiagudo como mostrado\nColoque as duas peças principais (do forro) direito com direito e prenda-as com alfinetes ao longo das bordas externas",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Transfira todos os piques e marcas de alinhamento antes de cortar para facilitar a montagem da bolsa externa e do forro."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Etapa 2: Costurar as Costuras Inferiores",
-                "content": "Selecione a configuração de ponto reto. Ajuste o seletor de comprimento do ponto para 2 para um ponto equilibrado de comprimento médio\nJunte as bordas do triângulo inferior (direitos voltados um para o outro)\nAlinhe as bordas uniformemente e costure uma linha reta\nRepita este processo para os três cantos inferiores restantes",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Certifique-se de que os direitos estejam voltados um para o outro antes de costurar, ou as costuras ficarão visíveis do lado de fora da bolsa."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Etapa 3: Costurar a Bolsa Principal",
-                "content": "*Lembre-se de fazer o ponto de retrocesso no início de cada costura para arrematar os pontos\nCosture ao redor de toda a bolsa ao longo da linha marcada com alfinetes, removendo os alfinetes à medida que avança\nAo costurar o fundo curvo, deixe a agulha abaixada no tecido, levante o pé calcador, gire o tecido e continue costurando\nFaça também um ponto de retrocesso no final da costura para arrematar os pontos",
-                "tip": {
-                    "type": "warning",
-                    "text": "Faça o ponto de retrocesso nas duas extremidades da abertura para evitar que a costura abra mais durante a virada."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
-                ]
-            },
-            {
-                "number": 4,
-                "title": "Etapa 4: Costurar o Forro",
-                "content": "Costure o forro exatamente como a bolsa principal, costurando os cantos inferiores e ao redor\nCosture ao redor de toda a bolsa, deixando um vão de 10cm (4\") sem costurar na parte inferior",
-                "tip": {
-                    "type": "warning",
-                    "text": "Corte as margens de costura curvas com cuidado sem atingir a costura para ajudar a borda superior a ficar reta após a virada."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
-                ]
-            },
-            {
-                "number": 5,
-                "title": "Etapa 5: Unir a Bolsa e o Forro",
-                "content": "Aqui está a bolsa principal pronta\nAqui está o forro, com o vão deixado sem costurar na parte inferior\nVire o forro para o direito\nInsira o forro na bolsa principal, garantindo que os cantos estejam perfeitamente alinhados\nPrenda com alfinetes ao redor das bordas da abertura da bolsa e das alças para segurar as camadas firmemente no lugar\nPrenda as duas camadas juntas ao longo da abertura da bolsa e das alças, na frente e atrás da bolsa\nCosture ao longo dessas linhas marcadas com alfinetes\nCosture ao redor de toda a abertura e das alças, removendo os alfinetes à medida que avança",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Passe bem a borda superior antes do pesponto para obter um acabamento limpo e profissional."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
-                ]
-            },
-            {
-                "number": 6,
-                "title": "Etapa 6: Fechar o Vão Inferior do Forro",
-                "content": "Dobre as bordas cruas da abertura para dentro e faça um pesponto de borda para fechar",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Mantenha as duas alças exatamente do mesmo comprimento para que a bolsa pronta fique equilibrada ao ser carregada."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
-                ]
-            },
-            {
-                "number": 7,
-                "title": "Etapa 7: Passar a Ferro",
-                "content": "Enrole as costuras da abertura e das alças até a borda e passe o ferro para definir o formato",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
-                ]
-            },
-            {
-                "number": 8,
-                "title": "Etapa 8: Costurar a Alça",
-                "content": "Dobre a borda crua da alça 1cm para dentro e prenda com alfinete\nDeslize a borda crua da alça restante para dentro da ponta dobrada que você acabou de fazer\nCosture 2 linhas paralelas: pesponto de borda a 1mm da borda e pesponto a 5mm da borda\nLembre-se de fazer o ponto de retrocesso no início e no fim das costuras\nApare o excesso de linha",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
-                ]
-            },
-            {
-                "number": 9,
-                "title": "Etapa 9: Pesponto de Borda",
-                "content": "Faça um pesponto de borda a 1mm da borda ao redor da abertura da bolsa e das alças",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
-                ]
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Etapa 1: Corte – Preparação",
-                "time": "00:14:00"
-            },
-            {
-                "title": "Etapa 2: Costurar as Peças Principais",
-                "time": "00:44:00"
-            },
-            {
-                "title": "Etapa 3: Costurar as Peças do Forro",
-                "time": "01:12:00"
-            },
-            {
-                "title": "Etapa 4: Costurar a Bolsa",
-                "time": "01:37:00"
-            },
-            {
-                "title": "Etapa 5: Pesponto",
-                "time": "03:18:00"
-            },
-            {
-                "title": "Etapa 6: Costurar a Alça",
-                "time": "03:50:00"
-            },
-            {
-                "title": "Etapa 7: Fechar a Abertura",
-                "time": "04:39:00"
-            }
+      },
+      {
+        "number": 4,
+        "title": "Etapa 5: Inserir o Elástico",
+        "content": "Prenda o elástico em uma agulha passa-fita.\nPuxe-o através do tubo de tecido.\nAmarre bem as duas pontas.\nPuxe delicadamente para verificar a elasticidade e o nó.\nApare o excesso, deixando cerca de 1 cm.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Segure bem as duas pontas do elástico enquanto o enfia para evitar que uma ponta escorregue de volta para dentro do tubo de tecido."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
         ]
-    },
-    {
-        "name": "Travesseiro de Pescoço Confortável",
-        "level": "Iniciante",
-        "time": "45-65 min",
-        "finishedSize": "11 x 13.5 in",
-        "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
-        "techPack": [
-            {
-                "title": "Informações sobre o tecido",
-                "description": "Tecido principal: 2 peças medindo 16 × 14 inches cada"
-            },
-            {
-                "title": "Ferramentas necessárias",
-                "description": "Máquina de costura e agulhas adequadas ao tecido, Tesoura para tecido, Tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Agulha de costura à mão para fechar a abertura, Ferramenta romba para virar e encher, Abridor de costura, Materiais: Tecido macio, enchimento de fibra e linha de costura."
-            },
-            {
-                "title": "Técnicas Necessárias",
-                "description": "Ponto reto"
-            }
-        ],
-        "showCustomSize": false,
-        "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
-        "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
-        "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
-        "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
-        "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
-        "steps": [
-            {
-                "number": 1,
-                "title": "Etapa 1: Corte – Preparação",
-                "content": "Hoje, vamos costurar um travesseiro de pescoço confortável.\nVocê vai precisar do tecido principal, do enchimento e de tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nPrepare o molde do travesseiro de pescoço nas dimensões indicadas.\nColoque o molde sobre o tecido e contorne o desenho.\nRecorte as duas peças do travesseiro ao longo da linha marcada.",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Transfira quaisquer marcas de centro ou alinhamento do molde antes de cortar para facilitar o encaixe das bordas curvas durante a costura."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
-                ]
-            },
-            {
-                "number": 2,
-                "title": "Etapa 2: Costurar ao Longo das Bordas",
-                "content": "Coloque as duas peças do tecido principal direito com direito e prenda com alfinetes ao redor das bordas.\nMarque uma abertura de 6–8 cm ao longo da curva externa para virar e encher.\nComece a costurar por uma das pontas da abertura.\nCosture 2–3 pontos para frente e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo das bordas, removendo os alfinetes à medida que avança.\nLembre-se de fazer o ponto de retrocesso no final para arrematar.",
-                "tip": {
-                    "type": "common_mistake",
-                    "text": "Lembre-se de deixar a abertura sem costurar e fazer o ponto de retrocesso nas duas pontas para que a costura fique firme durante a virada."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
-                ]
-            },
-            {
-                "number": 3,
-                "title": "Etapa 3: Virar para o Direito",
-                "content": "Vire o travesseiro para o direito pela abertura.\nEncha o travesseiro uniformemente com enchimento de fibra até atingir a firmeza desejada.",
-                "tip": {
-                    "type": "warning",
-                    "text": "Corte rente às costuras curvas sem atingir os pontos, ou a costura pode abrir quando o travesseiro for virado."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
-                ]
-            },
-            {
-                "number": 4,
-                "title": "Etapa 4: Fechar a Abertura",
-                "content": "Dobre as bordas cruas para dentro e alinhe-as com cuidado.\nUse um ponto invisível para fechar a abertura.\nPuxe bem a linha, dê um nó e esconda a ponta da linha.\nE pronto! Nosso travesseiro de pescoço confortável está finalizado e pronto para usar!",
-                "tip": {
-                    "type": "pro_tip",
-                    "text": "Use uma ferramenta romba para virar e empurrar delicadamente as seções curvas sem danificar o tecido."
-                },
-                "patternCutListImage": [
-                    "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
-                ]
-            }
-        ],
-        "timelines": [
-            {
-                "title": "Etapa 1: Corte – Preparação",
-                "time": "00:16:00"
-            },
-            {
-                "title": "Etapa 2: Costurar o Travesseiro",
-                "time": "00:39:00"
-            },
-            {
-                "title": "Etapa 3: Aparar – Cortar",
-                "time": "01:19:00"
-            },
-            {
-                "title": "Etapa 4: Virar para o Direito",
-                "time": "01:49:00"
-            },
-            {
-                "title": "Etapa 5: Encher",
-                "time": "02:12:00"
-            },
-            {
-                "title": "Etapa 6: Ponto Invisível",
-                "time": "02:28:00"
-            }
+      },
+      {
+        "number": 5,
+        "title": "Etapa 6: Fechar a Abertura",
+        "content": "Dobre as bordas cruas para dentro e alinhe-as com cuidado.\nFaça um ponto de retrocesso no início e no fim para arrematar.\nFaça um pesponto rente à borda para fechar a abertura.\nApare o excesso de linha.\nAjuste o tecido para que os franzidos fiquem distribuídos uniformemente.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Segure bem as duas pontas do elástico enquanto o enfia para evitar que uma ponta escorregue de volta para dentro do tubo de tecido."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
         ]
-    }
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Etapa 1: Corte – Preparação",
+        "time": "00:06:00"
+      },
+      {
+        "title": "Etapa 2: Costurar",
+        "time": "00:18:00"
+      },
+      {
+        "title": "Etapa 3: Inserir o Elástico",
+        "time": "03:25:00"
+      },
+      {
+        "title": "Etapa 4: Costurar",
+        "time": "04:03:00"
+      }
+    ]
+  },
+  {
+    "name": "Cozy Puffed Coaster",
+    "level": "Iniciante",
+    "time": "25-40 min",
+    "finishedSize": "6 x 6 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informações sobre o tecido",
+        "description": "Tecido principal: 2 peças medindo 17 × 17 cm cada"
+      },
+      {
+        "title": "Ferramentas necessárias",
+        "description": "Máquina de costura, Agulha para máquina de costura, Tesoura para tecido, Tesoura corta-fios, Régua ou régua para patchwork, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Virador de cantos, Ferro e tábua de passar, Abridor de costura"
+      },
+      {
+        "title": "Técnicas Necessárias",
+        "description": "Costura reta"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Cozy%20Puffed%20Coaster.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Cozy%20Puffed%20Coaster.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Cozy%20Puffed%20Coaster%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Cozy%20Puffed%20Coaster/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Etapa 1: Corte – Preparação",
+        "content": "Você vai precisar do tecido principal, do enchimento e de tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nCorte 2 peças do tecido principal, cada uma medindo 17 × 17 cm. O tamanho final será de 15 × 15 cm.\nVocê pode ajustar o tamanho para a sua caneca, mas certifique-se de que o tamanho do corte seja cerca de 2 cm maior no comprimento e na largura do que o tamanho final.\nNo avesso do tecido, marque uma margem de costura de 1 cm ao longo das quatro bordas.\nNo direito, meça 5 cm (2 inches) para dentro a partir de cada borda e desenhe um quadrado menor no centro.\nDeixe duas aberturas no mesmo lado dos quadrados interno e externo, cada uma com cerca de 4 cm de comprimento.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Use uma régua para patchwork e um marcador de tecido para manter todos os lados perfeitamente quadrados e obter um porta-copo mais profissional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Etapa 2: Costurar a Peça Principal",
+        "content": "Coloque as duas peças do tecido principal direito com direito.\nPrenda os quatro cantos do tecido com alfinetes.\nAlinhe o centro do pé calcador com a linha de costura.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo da linha marcada, lembrando de fazer o ponto de retrocesso no final para arrematar a costura.\nAo chegar ao canto, deixe a agulha abaixada no tecido. Levante o pé calcador, gire o tecido, abaixe o pé calcador e continue costurando.\nApare os cantos com cuidado sem cortar os pontos. Isso ajuda os cantos a ficarem mais retos ao virar para o direito.\nVire o tecido para o direito.\nSe os cantos forem difíceis de virar, empurre-os delicadamente com um palito ou uma ferramenta romba. Cuidado para não empurrar com muita força nem furar o tecido.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Iniciantes costumam esquecer de deixar uma abertura para virar ou a fazem pequena demais, o que dificulta virar o porta-copo para o direito."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(2).png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Etapa 3: Costurar o Quadrado Interno",
+        "content": "Faça um pesponto ao longo do quadrado interno, começando com um ponto de retrocesso para arrematar os pontos.\nCosture o quadrado interno da mesma forma que o quadrado externo, deixando uma abertura.\nApare o excesso de linha.\nAgora, vamos encher primeiro a pequena área quadrada no centro. Não é preciso colocar muito enchimento aqui.\nCosture a abertura do quadrado interno para fechá-la\nEm seguida, encha a borda externa pela abertura externa,",
+        "tip": {
+          "type": "warning",
+          "text": "Não puxe os cantos com muita força, pois isso pode alargar a abertura ou deformar o porta-copo."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Etapa 4: Fechar a Abertura",
+        "content": "Use uma agulha de costura à mão para fechar a abertura ao longo da borda externa, trazendo a agulha de baixo para cima entre as duas camadas de tecido.\nNa borda do tecido de cima, dê um ponto pequeno da direita para a esquerda.\nDê um ponto correspondente no tecido de baixo, logo abaixo.\nContinue dando pontos, alternando entre cima e baixo, até a abertura estar completamente fechada.\nPuxe a linha para unir as bordas do tecido\nPor fim, arremate a linha com um nó e esconda a ponta da linha dentro do tecido.\nPasse o ferro delicadamente para remover qualquer marca do marcador de tecido e ajudar o formato geral a ficar mais uniforme.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Encher demais é um erro comum e pode fazer o porta-copo balançar em vez de ficar firme sobre a mesa."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Etapa 1: Corte – Preparação",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Etapa 2: Costurar",
+        "time": "00:55:00"
+      },
+      {
+        "title": "Etapa 3: Virar para o Direito",
+        "time": "02:34:00"
+      },
+      {
+        "title": "Etapa 4: Encher",
+        "time": "02:58:00"
+      },
+      {
+        "title": "Etapa 5: O Detalhe Central",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Etapa 6: Costura à Mão",
+        "time": "04:33:00"
+      }
+    ]
+  },
+  {
+    "name": "Zip Coin Purse",
+    "level": "Iniciante",
+    "time": "45-70 min",
+    "finishedSize": "4 x 7 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informações sobre o tecido",
+        "description": "Tecido principal: 2 peças medindo 10 × 8 inches cada, Entretela termocolante: 2 peças medindo 10 × 8 inches cada, Zíper: 1 peça medindo 7 inches de comprimento"
+      },
+      {
+        "title": "Ferramentas necessárias",
+        "description": "Máquina de costura e agulhas adequadas para a máquina, Pé calcador padrão e pé calcador para zíper, Tesoura para tecido e tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Ferramenta romba para virar, Ferro e tábua de passar, Abridor de costura, Agulha de costura à mão se for fechar a abertura com ponto invisível, Materiais: Tecido externo, tecido do forro, zíper, linha de costura e entretela termocolante ou manta acrílica fina opcional."
+      },
+      {
+        "title": "Técnicas Necessárias",
+        "description": "Costura reta, pesponto"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Zip%20Coin%20Purse.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Zip%20Coin%20Purse.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Zip%20Coin%20Purse%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Zip%20Coin%20Purse/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Etapa 1: Corte – Preparação",
+        "content": "Você vai precisar do tecido principal, de entretela termocolante, de um zíper e de tesoura.\nCorte 2 peças do tecido principal e 2 peças de entretela, cada uma medindo 10 × 8 inches (cerca de 25 × 20 cm).\nCole a entretela no avesso das peças do tecido principal.\nApare qualquer excesso de entretela nas bordas.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Empilhe as camadas de tecido e corte-as juntas para garantir que todas as peças do porta-moedas tenham exatamente o mesmo tamanho."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Etapa 2: Costurar o Zíper",
+        "content": "Dobre as duas peças de tecido ao meio e passe o ferro para criar um vinco.\nColoque o zíper entre as camadas de tecido e prenda com alfinetes ao longo da fita do zíper.\nCosture 2–3 pontos para frente e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo das bordas, removendo os alfinetes à medida que avança.\nLembre-se de fazer o ponto de retrocesso no final para arrematar.\nAbra os tecidos e faça um pesponto ao longo da borda do zíper.\nRepita o mesmo processo para o outro lado do zíper.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Certifique-se de que os dois lados do zíper estejam alinhados uniformemente antes de costurar, caso contrário o porta-moedas pode ficar torcido ou irregular."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Etapa 3: Costurar ao Redor das Bordas",
+        "content": "Abra o zíper até a metade para poder virar o porta-moedas para o direito depois.\nMarque uma abertura de 2–3 inch (5–7 cm) para virar.\nAlinhe as bordas e prenda com alfinetes nos quatro lados.\nAlinhe o centro do pé calcador com a linha de costura.\nCosture 2–3 pontos e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo da borda, lembrando de fazer o ponto de retrocesso no final para arrematar a costura.\nAo chegar ao canto, deixe a agulha abaixada no tecido. Levante o pé calcador, gire o tecido, abaixe o pé calcador e continue costurando.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Passe o tecido para longe do zíper antes de fazer o pesponto para um acabamento mais limpo e profissional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Etapa 4: Virar para o Direito",
+        "content": "Apare os cantos com cuidado sem cortar os pontos. Isso ajuda os cantos a ficarem mais retos ao virar para o direito.\nVire o porta-moedas para o direito pela abertura.\nFaça um pesponto rente à borda para fechar a abertura.\nE pronto! Nosso porta-moedas com zíper está finalizado e pronto para usar!",
+        "tip": {
+          "type": "warning",
+          "text": "Abra sempre o zíper antes de costurar o porta-moedas, caso contrário pode ser impossível virá-lo para o direito."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Etapa 1: Corte – Preparação",
+        "time": "00:15:00"
+      },
+      {
+        "title": "Etapa 2: Costurar o Zíper nos Tecidos",
+        "time": "01:21:00"
+      },
+      {
+        "title": "Etapa 3: Pesponto",
+        "time": "02:48:00"
+      },
+      {
+        "title": "Etapa 4: Costurar o Porta-moedas",
+        "time": "04:14:00"
+      },
+      {
+        "title": "Etapa 5: Virar para o Direito",
+        "time": "06:44:00"
+      },
+      {
+        "title": "Etapa 6: Costurar o Forro",
+        "time": "07:09:00"
+      }
+    ]
+  },
+  {
+    "name": "Floral Tote Bag",
+    "level": "Iniciante",
+    "time": "Aproximadamente 3–5 horas",
+    "finishedSize": "16 x 22 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+    "techPack": [
+      {
+        "title": "Informações sobre o tecido",
+        "description": "Tecido principal: 2 peças medindo 16 × 24 inches cada, Tecido do forro: 2 peças medindo 16 × 24 inches cada"
+      },
+      {
+        "title": "Ferramentas necessárias",
+        "description": "Máquina de costura, Agulhas para máquina de costura adequadas ao tecido e à espessura da manta, Tesoura para tecido, Tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Agulha de costura à mão, Ferro e tábua de passar, Abridor de costura, Pé calcador de duplo transporte (recomendado para patchwork)."
+      },
+      {
+        "title": "Técnicas Necessárias",
+        "description": "Costura reta,pesponto"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Floral_Tote_Bag.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Floral%20Tote%20Bag.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Floral%20Tote%20Bag%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Floral%20Tote%20Bag/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Etapa 1: Corte – Preparação",
+        "content": "Para fazer esta bolsa, usaremos algumas técnicas essenciais de costura: o ponto reto padrão, o pesponto de borda e o pesponto. Una as alças com um pesponto de borda e um pesponto. Cantos encaixados: corte os cantos e costure as bordas juntas\nPrimeiro, prepare o tecido principal e o do forro, baixe e imprima o molde da nossa bolsa\nEm seguida, marque e recorte um triângulo nos cantos inferiores do molde\nUse o molde da bolsa para cortar 2 peças principais e 2 peças do forro\nEm cada canto inferior, recorte um triângulo pontiagudo como mostrado\nColoque as duas peças principais (do forro) direito com direito e prenda-as com alfinetes ao longo das bordas externas",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Transfira todos os piques e marcas de alinhamento antes de cortar para facilitar a montagem da bolsa externa e do forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(2).png",
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(3).png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Etapa 2: Costurar as Costuras Inferiores",
+        "content": "Selecione a configuração de ponto reto. Ajuste o seletor de comprimento do ponto para 2 para um ponto equilibrado de comprimento médio\nJunte as bordas do triângulo inferior (direitos voltados um para o outro)\nAlinhe as bordas uniformemente e costure uma linha reta\nRepita este processo para os três cantos inferiores restantes",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Certifique-se de que os direitos estejam voltados um para o outro antes de costurar, ou as costuras ficarão visíveis do lado de fora da bolsa."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Etapa 3: Costurar a Bolsa Principal",
+        "content": "*Lembre-se de fazer o ponto de retrocesso no início de cada costura para arrematar os pontos\nCosture ao redor de toda a bolsa ao longo da linha marcada com alfinetes, removendo os alfinetes à medida que avança\nAo costurar o fundo curvo, deixe a agulha abaixada no tecido, levante o pé calcador, gire o tecido e continue costurando\nFaça também um ponto de retrocesso no final da costura para arrematar os pontos",
+        "tip": {
+          "type": "warning",
+          "text": "Faça o ponto de retrocesso nas duas extremidades da abertura para evitar que a costura abra mais durante a virada."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Etapa 4: Costurar o Forro",
+        "content": "Costure o forro exatamente como a bolsa principal, costurando os cantos inferiores e ao redor\nCosture ao redor de toda a bolsa, deixando um vão de 10cm (4\") sem costurar na parte inferior",
+        "tip": {
+          "type": "warning",
+          "text": "Corte as margens de costura curvas com cuidado sem atingir a costura para ajudar a borda superior a ficar reta após a virada."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Etapa 5: Unir a Bolsa e o Forro",
+        "content": "Aqui está a bolsa principal pronta\nAqui está o forro, com o vão deixado sem costurar na parte inferior\nVire o forro para o direito\nInsira o forro na bolsa principal, garantindo que os cantos estejam perfeitamente alinhados\nPrenda com alfinetes ao redor das bordas da abertura da bolsa e das alças para segurar as camadas firmemente no lugar\nPrenda as duas camadas juntas ao longo da abertura da bolsa e das alças, na frente e atrás da bolsa\nCosture ao longo dessas linhas marcadas com alfinetes\nCosture ao redor de toda a abertura e das alças, removendo os alfinetes à medida que avança",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Passe bem a borda superior antes do pesponto para obter um acabamento limpo e profissional."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Etapa 6: Fechar o Vão Inferior do Forro",
+        "content": "Dobre as bordas cruas da abertura para dentro e faça um pesponto de borda para fechar",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Mantenha as duas alças exatamente do mesmo comprimento para que a bolsa pronta fique equilibrada ao ser carregada."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Etapa 7: Passar a Ferro",
+        "content": "Enrole as costuras da abertura e das alças até a borda e passe o ferro para definir o formato",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Etapa 8: Costurar a Alça",
+        "content": "Dobre a borda crua da alça 1cm para dentro e prenda com alfinete\nDeslize a borda crua da alça restante para dentro da ponta dobrada que você acabou de fazer\nCosture 2 linhas paralelas: pesponto de borda a 1mm da borda e pesponto a 5mm da borda\nLembre-se de fazer o ponto de retrocesso no início e no fim das costuras\nApare o excesso de linha",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Etapa 9: Pesponto de Borda",
+        "content": "Faça um pesponto de borda a 1mm da borda ao redor da abertura da bolsa e das alças",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Dobre a margem de costura uniformemente antes de costurar para que a abertura fechada se misture bem com o restante do forro."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Etapa 1: Corte – Preparação",
+        "time": "00:14:00"
+      },
+      {
+        "title": "Etapa 2: Costurar as Peças Principais",
+        "time": "00:44:00"
+      },
+      {
+        "title": "Etapa 3: Costurar as Peças do Forro",
+        "time": "01:12:00"
+      },
+      {
+        "title": "Etapa 4: Costurar a Bolsa",
+        "time": "01:37:00"
+      },
+      {
+        "title": "Etapa 5: Pesponto",
+        "time": "03:18:00"
+      },
+      {
+        "title": "Etapa 6: Costurar a Alça",
+        "time": "03:50:00"
+      },
+      {
+        "title": "Etapa 7: Fechar a Abertura",
+        "time": "04:39:00"
+      }
+    ]
+  },
+  {
+    "name": "Comfort Neck Pillow",
+    "level": "Iniciante",
+    "time": "45-65 min",
+    "finishedSize": "11 x 13.5 in",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
+    "techPack": [
+      {
+        "title": "Informações sobre o tecido",
+        "description": "Tecido principal: 2 peças medindo 16 × 14 inches cada"
+      },
+      {
+        "title": "Ferramentas necessárias",
+        "description": "Máquina de costura e agulhas adequadas ao tecido, Tesoura para tecido, Tesoura corta-fios, Régua e fita métrica, Papel para moldes, Giz de alfaiate ou caneta para tecido, Alfinetes ou presilhas, Agulha de costura à mão para fechar a abertura, Ferramenta romba para virar e encher, Abridor de costura, Materiais: Tecido macio, enchimento de fibra e linha de costura."
+      },
+      {
+        "title": "Técnicas Necessárias",
+        "description": "Ponto reto"
+      }
+    ],
+    "showCustomSize": false,
+    "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Comfort%20Neck%20Pillow.pdf",
+    "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Comfort%20Neck%20Pillow.png",
+    "video": "https://may.sewie.cloud/Practice_Video_New/Comfort%20Neck%20Pillow%20Tiny/master.m3u8",
+    "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/master.m3u8",
+    "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Comfort%20Neck%20Pillow/thumb.webp",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Etapa 1: Corte – Preparação",
+        "content": "Hoje, vamos costurar um travesseiro de pescoço confortável.\nVocê vai precisar do tecido principal, do enchimento e de tesoura.\nVocê também vai precisar de alfinetes ou presilhas, uma agulha passa-fita, um marcador de tecido e uma régua.\nPrepare o molde do travesseiro de pescoço nas dimensões indicadas.\nColoque o molde sobre o tecido e contorne o desenho.\nRecorte as duas peças do travesseiro ao longo da linha marcada.",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Transfira quaisquer marcas de centro ou alinhamento do molde antes de cortar para facilitar o encaixe das bordas curvas durante a costura."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Etapa 2: Costurar ao Longo das Bordas",
+        "content": "Coloque as duas peças do tecido principal direito com direito e prenda com alfinetes ao redor das bordas.\nMarque uma abertura de 6–8 cm ao longo da curva externa para virar e encher.\nComece a costurar por uma das pontas da abertura.\nCosture 2–3 pontos para frente e faça um ponto de retrocesso para arrematar.\nContinue costurando ao longo das bordas, removendo os alfinetes à medida que avança.\nLembre-se de fazer o ponto de retrocesso no final para arrematar.",
+        "tip": {
+          "type": "common_mistake",
+          "text": "Lembre-se de deixar a abertura sem costurar e fazer o ponto de retrocesso nas duas pontas para que a costura fique firme durante a virada."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Etapa 3: Virar para o Direito",
+        "content": "Vire o travesseiro para o direito pela abertura.\nEncha o travesseiro uniformemente com enchimento de fibra até atingir a firmeza desejada.",
+        "tip": {
+          "type": "warning",
+          "text": "Corte rente às costuras curvas sem atingir os pontos, ou a costura pode abrir quando o travesseiro for virado."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Etapa 4: Fechar a Abertura",
+        "content": "Dobre as bordas cruas para dentro e alinhe-as com cuidado.\nUse um ponto invisível para fechar a abertura.\nPuxe bem a linha, dê um nó e esconda a ponta da linha.\nE pronto! Nosso travesseiro de pescoço confortável está finalizado e pronto para usar!",
+        "tip": {
+          "type": "pro_tip",
+          "text": "Use uma ferramenta romba para virar e empurrar delicadamente as seções curvas sem danificar o tecido."
+        },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
+        ]
+      }
+    ],
+    "timelines": [
+      {
+        "title": "Etapa 1: Corte – Preparação",
+        "time": "00:16:00"
+      },
+      {
+        "title": "Etapa 2: Costurar o Travesseiro",
+        "time": "00:39:00"
+      },
+      {
+        "title": "Etapa 3: Aparar – Cortar",
+        "time": "01:19:00"
+      },
+      {
+        "title": "Etapa 4: Virar para o Direito",
+        "time": "01:49:00"
+      },
+      {
+        "title": "Etapa 5: Encher",
+        "time": "02:12:00"
+      },
+      {
+        "title": "Etapa 6: Ponto Invisível",
+        "time": "02:28:00"
+      }
+    ]
+  }
 ]
