@@ -46,7 +46,9 @@
           "type": "common_mistake",
           "text": "Make sure the fabric is not twisted before sewing the ends together, or the finished scrunchie will have an uneven shape."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
+        ]
       },
       {
         "number": 3,
@@ -56,39 +58,33 @@
           "type": "warning",
           "text": "Be careful not to accidentally catch the inner fabric layers in the seam, as this will prevent the tube from turning correctly."
         },
-        "patternCutListImage": []
-      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
+        ]
+      }
       {
         "number": 4,
-        "title": "Step 4: Turn the Tube",
-        "content": "Turn the fabric tube right side out through the opening.\nSmooth the fabric edges and press them flat.",
-        "tip": {
-          "type": "common_mistake",
-          "text": "Hold both elastic ends securely while threading to prevent one end from slipping back inside the fabric tube."
-        },
-        "patternCutListImage": [
-          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Turn%20the%20tube.png"
-        ]
-      },
-      {
-        "number": 5,
         "title": "Step 5: Insert the Elastic",
         "content": "Attach the elastic to a bodkin.\nPull it through the fabric tube.\nTie both ends together tightly.\nGently pull to check the stretch and knot.\nTrim the excess, leaving about 1 cm.",
         "tip": {
           "type": "common_mistake",
           "text": "Hold both elastic ends securely while threading to prevent one end from slipping back inside the fabric tube."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
+        ]
       },
       {
-        "number": 6,
+        "number": 5,
         "title": "Step 6: Close the opening",
         "content": "Tuck the raw edges inside and align them neatly.\nBackstitch at the beginning and end to secure.\nTopstitch close to the edge to close the opening.\nTrim the excess thread.\nAdjust the fabric so the gathers are evenly distributed.",
         "tip": {
           "type": "common_mistake",
           "text": "Hold both elastic ends securely while threading to prevent one end from slipping back inside the fabric tube."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
+        ]
       }
     ],
     "timelines": [
@@ -170,7 +166,9 @@
           "type": "warning",
           "text": "Do not pull the corners too aggressively, as this can stretch the opening or distort the shape of the coaster."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
+        ]
       },
       {
         "number": 4,
@@ -180,7 +178,9 @@
           "type": "common_mistake",
           "text": "Overstuffing is a common mistake and can cause the coaster to wobble instead of sitting flat on a table."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
+        ]
       }
     ],
     "timelines": [
@@ -215,7 +215,7 @@
     "level": "Beginner",
     "time": "45-70 min",
     "finishedSize": "4 x 7 in",
-    "patternCutList": "",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Fabric Info",
@@ -245,7 +245,9 @@
           "type": "pro_tip",
           "text": "Stack the fabric layers and cut them together to ensure all pouch pieces are exactly the same size."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
+        ]
       },
       {
         "number": 2,
@@ -255,7 +257,9 @@
           "type": "common_mistake",
           "text": "Make sure both zipper sides are aligned evenly before stitching, otherwise the pouch may become twisted or uneven when finished."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
+        ]
       },
       {
         "number": 3,
@@ -265,7 +269,9 @@
           "type": "pro_tip",
           "text": "Press the fabric away from the zipper before topstitching for a cleaner and more professional finish."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
+        ]
       },
       {
         "number": 4,
@@ -275,7 +281,9 @@
           "type": "warning",
           "text": "Always open the zipper before sewing the pouch closed, otherwise it may be impossible to turn the pouch right side out."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
+        ]
       }
     ],
     "timelines": [
@@ -355,7 +363,9 @@
           "type": "common_mistake",
           "text": "Make sure the right sides are facing each other before sewing, or the seams will be visible on the outside of the bag."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
+        ]
       },
       {
         "number": 3,
@@ -365,7 +375,9 @@
           "type": "warning",
           "text": "Backstitch at both ends of the turning opening to prevent the seam from opening further during turning."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
+        ]
       },
       {
         "number": 4,
@@ -375,7 +387,9 @@
           "type": "warning",
           "text": "Clip the curved seam allowances carefully without cutting into the stitching to help the top edge lie flat after turning."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
+        ]
       },
       {
         "number": 5,
@@ -385,7 +399,9 @@
           "type": "pro_tip",
           "text": "Press the top edge thoroughly before topstitching to achieve a clean, professional-looking finish."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
+        ]
       },
       {
         "number": 6,
@@ -395,7 +411,9 @@
           "type": "pro_tip",
           "text": "Keep both straps exactly the same length so the finished tote hangs evenly when carried."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
       },
       {
         "number": 7,
@@ -405,7 +423,9 @@
           "type": "common_mistake",
           "text": "Fold the seam allowance evenly before stitching so the closed opening blends neatly with the rest of the lining."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
+        ]
       },
       {
         "number": 8,
@@ -415,7 +435,9 @@
           "type": "common_mistake",
           "text": "Fold the seam allowance evenly before stitching so the closed opening blends neatly with the rest of the lining."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
+        ]
       },
       {
         "number": 9,
@@ -425,7 +447,9 @@
           "type": "common_mistake",
           "text": "Fold the seam allowance evenly before stitching so the closed opening blends neatly with the rest of the lining."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
+        ]
       }
     ],
     "timelines": [
@@ -464,7 +488,7 @@
     "level": "Beginner",
     "time": "45-65 min",
     "finishedSize": "11 x 13.5 in",
-    "patternCutList": "",
+    "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Fabric Info",
@@ -494,7 +518,9 @@
           "type": "pro_tip",
           "text": "Transfer any center or alignment marks from the pattern before cutting to make matching the curved edges easier during sewing."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
+        ]
       },
       {
         "number": 2,
@@ -504,7 +530,9 @@
           "type": "common_mistake",
           "text": "Remember to leave the turning opening unsewn and backstitch at both ends so the seam stays secure during turning."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
+        ]
       },
       {
         "number": 3,
@@ -514,7 +542,9 @@
           "type": "warning",
           "text": "Clip close to the curved seams without cutting through the stitching, or the seam may split when the pillow is turned."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
+        ]
       },
       {
         "number": 4,
@@ -524,7 +554,9 @@
           "type": "pro_tip",
           "text": "Use a blunt turning tool to gently push out the curved sections without damaging the fabric."
         },
-        "patternCutListImage": []
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
+        ]
       }
     ],
     "timelines": [
