@@ -171,114 +171,69 @@
           "timelines": []
         },
         {
-          "name": "Upcycled Denim Dog Toy",
-          "level": "Beginner",
-          "time": "15 minutes",
-          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
-            },
-            {
-              "title": "Filling",
-              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Bone Template",
-              "content": "Download and prepare the dog bone template. The template is placed on a fold through the center so both sides of the bone are symmetrical. Cut the template to size and scale it up or down if you want to make the toy larger or smaller.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Choose the finished size based on your dog's size. A larger dog may need a larger template and a wider turning opening."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Denim",
-              "content": "Open the side seam of the jeans or prepare two pieces of heavy-weight fabric. Place the bone template on the fabric fold, pin it in place, and cut out two matching bone shapes.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Include denim pockets or existing seams if desired. These details can add visual interest and create a tougher toy."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Layer and Pin the Pieces",
-              "content": "Unfold both bone pieces and place them right sides together. Align the edges carefully, then pin or clip the layers in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the right sides are facing each other before sewing so the finished toy turns out with the correct side facing outward."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew Around the Bone",
-              "content": "Stitch around the edge of the bone using a 1/4\" (6 mm) seam allowance. Leave an opening of approximately 2\" (5 cm) near the center of the bone's shank for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not sew the opening closed. For a larger bone, adjust the opening size so there is enough space to turn the toy right side out."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Finish the Raw Edges",
-              "content": "Finish the seam allowance around the sewn edges with a serger or overlocker to help prevent fraying. If you do not have a serger, sew a zigzag stitch around the raw edges.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a stitch that secures the raw denim edges without trimming too close to the construction seam."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Turn and Shape the Toy",
-              "content": "Turn the bone right side out through the opening in the center. Use a knitting needle or turning tool to gently push out the curved edges and shape the ends of the bone. Press the toy flat.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Push out the curves gently to avoid poking through the seam, especially when using a pointed turning tool."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Stuff the Bone",
-              "content": "Fill the toy with poly-fill stuffing, pushing the filling firmly into both rounded ends and through the center. Adjust the firmness based on your dog's size and how vigorously they play. Add an optional squeaker while stuffing if desired.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Dogs that shake and toss toys may benefit from a firmer stuffing, while a softer fill can work well for gentler chewers."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Close the Opening",
-              "content": "Close the turning gap after stuffing. For a tightly stuffed toy, use doubled strong thread and a ladder stitch for a secure, less visible closure. For a more lightly stuffed toy, fold the raw edges inward and machine stitch across the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Make the closing stitches secure, as this opening can come under repeated stress during chewing, shaking, and fetching."
-              }
-            }
-          ],
-          "timelines": []
-        },
+  "name": "Upcycled Denim Dog Toy",
+  "level": "Beginner",
+  "time": "15 minutes",
+  "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
+    },
+    {
+      "title": "Filling",
+      "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
+    },
+    {
+      "title": "Tools & Notions",
+      "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
+    },
+    {
+      "title": "Pattern & Sizing",
+      "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew",
+      "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
+      "tip": {
+        "type": "warning",
+        "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew",
+      "time": "00:51:00"
+    }
+  ]
+},
         {
           "name": "The Everyday Dog Leash",
           "level": "Beginner",
@@ -22547,115 +22502,70 @@
           ],
           "timelines": []
         },
-        {
-          "name": "Upcycled Denim Dog Toy",
-          "level": "Beginner",
-          "time": "15 minutes",
-          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
-            },
-            {
-              "title": "Filling",
-              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Bone Template",
-              "content": "Download and prepare the dog bone template. The template is placed on a fold through the center so both sides of the bone are symmetrical. Cut the template to size and scale it up or down if you want to make the toy larger or smaller.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Choose the finished size based on your dog's size. A larger dog may need a larger template and a wider turning opening."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Denim",
-              "content": "Open the side seam of the jeans or prepare two pieces of heavy-weight fabric. Place the bone template on the fabric fold, pin it in place, and cut out two matching bone shapes.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Include denim pockets or existing seams if desired. These details can add visual interest and create a tougher toy."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Layer and Pin the Pieces",
-              "content": "Unfold both bone pieces and place them right sides together. Align the edges carefully, then pin or clip the layers in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the right sides are facing each other before sewing so the finished toy turns out with the correct side facing outward."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew Around the Bone",
-              "content": "Stitch around the edge of the bone using a 1/4\" (6 mm) seam allowance. Leave an opening of approximately 2\" (5 cm) near the center of the bone's shank for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not sew the opening closed. For a larger bone, adjust the opening size so there is enough space to turn the toy right side out."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Finish the Raw Edges",
-              "content": "Finish the seam allowance around the sewn edges with a serger or overlocker to help prevent fraying. If you do not have a serger, sew a zigzag stitch around the raw edges.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a stitch that secures the raw denim edges without trimming too close to the construction seam."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Turn and Shape the Toy",
-              "content": "Turn the bone right side out through the opening in the center. Use a knitting needle or turning tool to gently push out the curved edges and shape the ends of the bone. Press the toy flat.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Push out the curves gently to avoid poking through the seam, especially when using a pointed turning tool."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Stuff the Bone",
-              "content": "Fill the toy with poly-fill stuffing, pushing the filling firmly into both rounded ends and through the center. Adjust the firmness based on your dog's size and how vigorously they play. Add an optional squeaker while stuffing if desired.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Dogs that shake and toss toys may benefit from a firmer stuffing, while a softer fill can work well for gentler chewers."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Close the Opening",
-              "content": "Close the turning gap after stuffing. For a tightly stuffed toy, use doubled strong thread and a ladder stitch for a secure, less visible closure. For a more lightly stuffed toy, fold the raw edges inward and machine stitch across the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Make the closing stitches secure, as this opening can come under repeated stress during chewing, shaking, and fetching."
-              }
-            }
-          ],
-          "timelines": []
-        },
+       {
+  "name": "Upcycled Denim Dog Toy",
+  "level": "Beginner",
+  "time": "15 minutes",
+  "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
+    },
+    {
+      "title": "Filling",
+      "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
+    },
+    {
+      "title": "Tools & Notions",
+      "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
+    },
+    {
+      "title": "Pattern & Sizing",
+      "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew",
+      "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
+      "tip": {
+        "type": "warning",
+        "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew",
+      "time": "00:51:00"
+    }
+  ]
+},
         {
           "name": "The Everyday Dog Leash",
           "level": "Beginner",
