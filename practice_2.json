@@ -817,154 +817,99 @@
           "timelines": []
         },
         {
-          "name": "Sunny Pup Cap",
-          "level": "Beginner",
-          "time": "45 minutes",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
-            },
-            {
-              "title": "Visor Support",
-              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
-            },
-            {
-              "title": "Securing Strap",
-              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose and Prepare the Pattern",
-              "content": "Choose the size group that best matches your dog and prepare the head and visor pattern pieces. Cut both pattern pieces on the fold as indicated so each piece opens into its complete symmetrical shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print the pattern at actual size or 100% scale and check the test square before cutting your fabric."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Fabric Pieces",
-              "content": "Cut two head pieces and two visor pieces from your chosen fabric. One set will form the outer layer and the other will create the lining.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep each pattern piece aligned with the fabric fold. Cutting away from the fold can create an incomplete or asymmetrical cap."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Outer Head",
-              "content": "Take the outer head piece and sew the center top seam to create the rounded shape of the cap.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Sew smoothly along the curved top seam to help the finished cap sit neatly around your dog's head."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Head Lining",
-              "content": "Repeat the same center top seam on the lining head piece.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the outer head and lining pieces are sewn in the same orientation so they align correctly when joined."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Join the Head Layers",
-              "content": "Place the outer head and lining right sides together. Sew around the outer edges, leaving the section where the head will attach to the visor open. Turn the head section right side out.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not close the visor attachment edge. This opening is needed to join the visor and finish the lining neatly."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Prepare the Visor Support",
-              "content": "Cut a piece of waterproof cardboard, thin plastic, or another lightweight rigid material to fit inside the visor shape. Thick fabric can also be used instead of a separate insert.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the support slightly smaller than the finished visor edge so it does not interfere with the seam."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew the Visor",
-              "content": "Place the two visor pieces right sides together and sew around the outer curved edges, leaving the edge that will attach to the head open. Turn the visor right side out, inserting the chosen support between the layers if using one.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the attachment edge open and make sure the visor support lies flat without shifting toward the seam."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Visor",
-              "content": "With right sides facing together, sew the outer layer of the visor to the outer layer of the head section.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Match the center points of the visor and cap opening first, then work outward to keep the visor evenly positioned."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish the Inner Visor Edge",
-              "content": "Sew a ribbon along the loose edge of the inner visor layer. Then topstitch or hand sew the loose edge of the ribbon to the loose edge of the head lining to close and finish the join.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the ribbon smooth as you sew so the finished seam lies flat inside the cap."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Topstitch the Cap",
-              "content": "Optionally edge-stitch around the cap to flatten the seams and give the finished cap a cleaner shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a consistent distance from the edge for a neat decorative finish."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Add the Elastic Strap",
-              "content": "Attach an elastic securing strap using a length that fits your dog's head comfortably. Adjust the strap placement and length to suit your dog's individual head shape.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not make the elastic too tight. The cap should stay secure without creating pressure or restricting your dog's movement."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Check the Fit",
-              "content": "Place the finished cap on your dog and check that the head section sits comfortably, the visor shades the eyes without blocking vision, and the elastic holds the cap securely in place.",
-              "tip": {
-                "type": "warning",
-                "text": "Always supervise your dog while wearing the cap and adjust or remove it if the fit causes discomfort or affects normal movement."
-              }
-            }
-          ],
-          "timelines": []
-        },
+  "name": "Sunny Pup Cap",
+  "level": "Beginner",
+  "time": "45 minutes",
+  "finishedSize": "Available in all sizes",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+    },
+    {
+      "title": "Visor Support",
+      "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+    },
+    {
+      "title": "Securing Strap",
+      "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+    },
+    {
+      "title": "Pattern & Sizing",
+      "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+    },
+    {
+      "title": "Tools & Notions",
+      "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+    }
+  ],
+  "showCustomSize": true,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the Brim",
+      "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the Cap",
+      "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Add the Elastic",
+      "content": "Sew the elastic around the edge of the cap for a snug fit.",
+      "tip": {
+        "type": "warning",
+        "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew the brim",
+      "time": "00:54:00"
+    },
+    {
+      "title": "Step 3: Sew the cap",
+      "time": "02:01:00"
+    },
+    {
+      "title": "Step 4: Add the elastic",
+      "time": "04:43:00"
+    }
+  ]
+},
         {
           "name": "Cat Nap Hammock",
           "level": "Beginner",
@@ -23145,154 +23090,99 @@
           "timelines": []
         },
         {
-          "name": "Sunny Pup Cap",
-          "level": "Beginner",
-          "time": "45 minutes",
-          "finishedSize": "Available in all sizes",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
-            },
-            {
-              "title": "Visor Support",
-              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
-            },
-            {
-              "title": "Securing Strap",
-              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
-            },
-            {
-              "title": "Pattern & Sizing",
-              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
-            },
-            {
-              "title": "Tools & Notions",
-              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Choose and Prepare the Pattern",
-              "content": "Choose the size group that best matches your dog and prepare the head and visor pattern pieces. Cut both pattern pieces on the fold as indicated so each piece opens into its complete symmetrical shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print the pattern at actual size or 100% scale and check the test square before cutting your fabric."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cut the Fabric Pieces",
-              "content": "Cut two head pieces and two visor pieces from your chosen fabric. One set will form the outer layer and the other will create the lining.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep each pattern piece aligned with the fabric fold. Cutting away from the fold can create an incomplete or asymmetrical cap."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Outer Head",
-              "content": "Take the outer head piece and sew the center top seam to create the rounded shape of the cap.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Sew smoothly along the curved top seam to help the finished cap sit neatly around your dog's head."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Head Lining",
-              "content": "Repeat the same center top seam on the lining head piece.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure the outer head and lining pieces are sewn in the same orientation so they align correctly when joined."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Join the Head Layers",
-              "content": "Place the outer head and lining right sides together. Sew around the outer edges, leaving the section where the head will attach to the visor open. Turn the head section right side out.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not close the visor attachment edge. This opening is needed to join the visor and finish the lining neatly."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Prepare the Visor Support",
-              "content": "Cut a piece of waterproof cardboard, thin plastic, or another lightweight rigid material to fit inside the visor shape. Thick fabric can also be used instead of a separate insert.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the support slightly smaller than the finished visor edge so it does not interfere with the seam."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Sew the Visor",
-              "content": "Place the two visor pieces right sides together and sew around the outer curved edges, leaving the edge that will attach to the head open. Turn the visor right side out, inserting the chosen support between the layers if using one.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the attachment edge open and make sure the visor support lies flat without shifting toward the seam."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Visor",
-              "content": "With right sides facing together, sew the outer layer of the visor to the outer layer of the head section.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Match the center points of the visor and cap opening first, then work outward to keep the visor evenly positioned."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish the Inner Visor Edge",
-              "content": "Sew a ribbon along the loose edge of the inner visor layer. Then topstitch or hand sew the loose edge of the ribbon to the loose edge of the head lining to close and finish the join.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep the ribbon smooth as you sew so the finished seam lies flat inside the cap."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Topstitch the Cap",
-              "content": "Optionally edge-stitch around the cap to flatten the seams and give the finished cap a cleaner shape.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a consistent distance from the edge for a neat decorative finish."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Add the Elastic Strap",
-              "content": "Attach an elastic securing strap using a length that fits your dog's head comfortably. Adjust the strap placement and length to suit your dog's individual head shape.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not make the elastic too tight. The cap should stay secure without creating pressure or restricting your dog's movement."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Check the Fit",
-              "content": "Place the finished cap on your dog and check that the head section sits comfortably, the visor shades the eyes without blocking vision, and the elastic holds the cap securely in place.",
-              "tip": {
-                "type": "warning",
-                "text": "Always supervise your dog while wearing the cap and adjust or remove it if the fit causes discomfort or affects normal movement."
-              }
-            }
-          ],
-          "timelines": []
-        },
+  "name": "Sunny Pup Cap",
+  "level": "Beginner",
+  "time": "45 minutes",
+  "finishedSize": "Available in all sizes",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+    },
+    {
+      "title": "Visor Support",
+      "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+    },
+    {
+      "title": "Securing Strap",
+      "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+    },
+    {
+      "title": "Pattern & Sizing",
+      "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+    },
+    {
+      "title": "Tools & Notions",
+      "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+    }
+  ],
+  "showCustomSize": true,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the Brim",
+      "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the Cap",
+      "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Add the Elastic",
+      "content": "Sew the elastic around the edge of the cap for a snug fit.",
+      "tip": {
+        "type": "warning",
+        "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew the brim",
+      "time": "00:54:00"
+    },
+    {
+      "title": "Step 3: Sew the cap",
+      "time": "02:01:00"
+    },
+    {
+      "title": "Step 4: Add the elastic",
+      "time": "04:43:00"
+    }
+  ]
+},
         {
           "name": "Witchy Pup Costume",
           "level": "Beginner",
