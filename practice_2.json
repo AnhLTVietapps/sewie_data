@@ -8829,123 +8829,126 @@
           ]
         },
         {
-          "name": "Rainbow Applique Skirt",
-          "level": "Beginner",
-          "time": "1.5 hours",
-          "finishedSize": "Fits ages 2-4 years",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Plain cotton fabric in assorted pastel rainbow shades"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
-            }
-          ],
-          "showCustomSize": true,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the English Paper Piecing Templates",
-              "content": "Glue the rainbow arch pattern pieces onto thin card or paper and cut them out accurately. Trace the templates onto the reverse side of the fabric pieces, allowing approximately 0.20 inches seam allowance around each shape. The traced line will become the stitching line for the English Paper Piecing process.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use lightweight cardstock for the templates so the shapes hold their form while still being easy to remove later."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cover the First Rainbow Arch Template",
-              "content": "Attach the first paper arch template to the wrong side of the fabric using a few small dots of water-based glue. Cut around the shape, leaving at least a 0.20 inches seam allowance. Fold the seam allowance over the paper template and tack it in place through the paper.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Using too much glue can make the paper template difficult to remove after stitching."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Build the Rainbow Arches",
-              "content": "Position the first arch inside the second arch, covering the inner seam allowance. Secure temporarily with light tacking or glue and stitch the pieces together using a small whip stitch. Remove the tacking stitches and paper template from the completed inner arch. Continue adding each remaining arch in the same manner until the rainbow is complete.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep whip stitches small and close to the folded edge so very little thread is visible from the front."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Finish and Press the Rainbow Blocks",
-              "content": "Fold and tack the outer edges of the final rainbow arch. Press each completed rainbow carefully while leaving the remaining paper templates in place to maintain the shape. Make a total of five rainbow motifs.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not remove all paper templates before pressing or the rainbow arches may lose their crisp shape."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Attach the Rainbows to the Lower Skirt Panel",
-              "content": "Cut a strip of plain cotton measuring 4.72 x 31.50 inches. Arrange the five rainbow motifs evenly along the lower edge of the strip, starting from the center and leaving approximately 1.77 inches between each rainbow. Whip stitch the rainbows in place, leaving the lower edge open so the remaining paper templates can be removed afterward.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Uneven spacing between the rainbows can make the finished skirt look unbalanced."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Join the Upper and Lower Skirt Sections",
-              "content": "Cut a contrasting cotton strip measuring 5.91 x 31.50 inches. Stitch this strip to the upper edge of the rainbow panel with right sides together. Press the seam allowance upward and topstitch close to the seam to keep it flat.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the seam before topstitching to achieve a cleaner transition between the two skirt sections."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Bind the Hem Edge",
-              "content": "Use a 1.18 inches wide contrasting fabric strip to bind the lower raw edge of the skirt panel. Fold the binding neatly around the edge and stitch in place to create a clean and durable hem finish.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the binding width consistent around the hem to prevent wavy or uneven edges."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Create the Elastic Waist Channel",
-              "content": "Fold the upper edge of the skirt toward the outside by 0.20 inches and then again by 0.98 inches. Press thoroughly and topstitch close to the lower folded edge to form a casing for the elastic.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stitching the channel too narrow may prevent the elastic from feeding through smoothly."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Insert the Elastic",
-              "content": "Thread a length of narrow elastic through the waistband channel using a safety pin attached to one end. Leave both elastic ends free until the final fitting adjustment is completed.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Attach a safety pin to the elastic end to guide it through the channel without twisting."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Sew the Back Seam and Finish the Waistband",
-              "content": "Fold the skirt right sides together and pin the back seam. Stitch from the hem upward. Before reaching the waistband, adjust the elastic to the desired fit and secure the ends. Continue stitching over the elastic ends several times to anchor them firmly. Trim any excess elastic, finish the seam allowance with a zigzag stitch and turn the skirt right side out.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that the elastic lies flat inside the channel before securing the ends to avoid uncomfortable twisting."
-              }
-            }
-          ]
-        },
+  "name": "Rainbow Applique Skirt",
+  "level": "Beginner",
+  "time": "1.5 hours",
+  "finishedSize": "Fits ages 2-4 years",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Plain cotton fabric in assorted pastel rainbow shades"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
+    }
+  ],
+  "showCustomSize": true,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Assemble the Lower Skirt",
+      "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Make the Rainbow Appliqués",
+      "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Assemble the Skirt",
+      "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Add the Bottom Trim",
+      "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Attach the Waistband",
+      "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Insert the Elastic",
+      "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
+      "tip": {
+        "type": "warning",
+        "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:08:00"
+    },
+    {
+      "title": "Step 2: Sew the skirt",
+      "time": "01:06:00"
+    },
+    {
+      "title": "Step 3: Rainbow Applique",
+      "time": "01:35:00"
+    },
+    {
+      "title": "Step 4: Sew the skirt",
+      "time": "03:54:00"
+    },
+    {
+      "title": "Step 5: Bottom Tim",
+      "time": "04:53:00"
+    },
+    {
+      "title": "Step 6: Waistband",
+      "time": "05:49:00"
+    },
+    {
+      "title": "Step 7: Insert the Elastic",
+      "time": "06:47:00"
+    }
+  ]
+},
         {
           "name": "Reversible Sun Hat",
           "level": "Beginner",
@@ -24490,124 +24493,127 @@
             }
           ]
         },
-        {
-          "name": "Rainbow Applique Skirt",
-          "level": "Beginner",
-          "time": "1.5 hours",
-          "finishedSize": "Fits ages 2-4 years",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Plain cotton fabric in assorted pastel rainbow shades, plain white cotton fabric, and contrasting cotton fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "English Paper Piecing, Whip Stitching, Hand Applique, Topstitching, Elastic Waistband Construction, Channel Sewing, Zigzag Edge Finishing, Pressing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the English Paper Piecing Templates",
-              "content": "Glue the rainbow arch pattern pieces onto thin card or paper and cut them out accurately. Trace the templates onto the reverse side of the fabric pieces, allowing approximately 0.20 inches seam allowance around each shape. The traced line will become the stitching line for the English Paper Piecing process.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use lightweight cardstock for the templates so the shapes hold their form while still being easy to remove later."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Cover the First Rainbow Arch Template",
-              "content": "Attach the first paper arch template to the wrong side of the fabric using a few small dots of water-based glue. Cut around the shape, leaving at least a 0.20 inches seam allowance. Fold the seam allowance over the paper template and tack it in place through the paper.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Using too much glue can make the paper template difficult to remove after stitching."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Build the Rainbow Arches",
-              "content": "Position the first arch inside the second arch, covering the inner seam allowance. Secure temporarily with light tacking or glue and stitch the pieces together using a small whip stitch. Remove the tacking stitches and paper template from the completed inner arch. Continue adding each remaining arch in the same manner until the rainbow is complete.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Keep whip stitches small and close to the folded edge so very little thread is visible from the front."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Finish and Press the Rainbow Blocks",
-              "content": "Fold and tack the outer edges of the final rainbow arch. Press each completed rainbow carefully while leaving the remaining paper templates in place to maintain the shape. Make a total of five rainbow motifs.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not remove all paper templates before pressing or the rainbow arches may lose their crisp shape."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Attach the Rainbows to the Lower Skirt Panel",
-              "content": "Cut a strip of plain cotton measuring 4.72 x 31.50 inches. Arrange the five rainbow motifs evenly along the lower edge of the strip, starting from the center and leaving approximately 1.77 inches between each rainbow. Whip stitch the rainbows in place, leaving the lower edge open so the remaining paper templates can be removed afterward.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Uneven spacing between the rainbows can make the finished skirt look unbalanced."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Join the Upper and Lower Skirt Sections",
-              "content": "Cut a contrasting cotton strip measuring 5.91 x 31.50 inches. Stitch this strip to the upper edge of the rainbow panel with right sides together. Press the seam allowance upward and topstitch close to the seam to keep it flat.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the seam before topstitching to achieve a cleaner transition between the two skirt sections."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Bind the Hem Edge",
-              "content": "Use a 1.18 inches wide contrasting fabric strip to bind the lower raw edge of the skirt panel. Fold the binding neatly around the edge and stitch in place to create a clean and durable hem finish.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the binding width consistent around the hem to prevent wavy or uneven edges."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Create the Elastic Waist Channel",
-              "content": "Fold the upper edge of the skirt toward the outside by 0.20 inches and then again by 0.98 inches. Press thoroughly and topstitch close to the lower folded edge to form a casing for the elastic.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stitching the channel too narrow may prevent the elastic from feeding through smoothly."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Insert the Elastic",
-              "content": "Thread a length of narrow elastic through the waistband channel using a safety pin attached to one end. Leave both elastic ends free until the final fitting adjustment is completed.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Attach a safety pin to the elastic end to guide it through the channel without twisting."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Sew the Back Seam and Finish the Waistband",
-              "content": "Fold the skirt right sides together and pin the back seam. Stitch from the hem upward. Before reaching the waistband, adjust the elastic to the desired fit and secure the ends. Continue stitching over the elastic ends several times to anchor them firmly. Trim any excess elastic, finish the seam allowance with a zigzag stitch and turn the skirt right side out.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that the elastic lies flat inside the channel before securing the ends to avoid uncomfortable twisting."
-              }
-            }
-          ]
-        },
+       {
+  "name": "Rainbow Applique Skirt",
+  "level": "Beginner",
+  "time": "1.5 hours",
+  "finishedSize": "Fits ages 2-4 years",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Plain cotton fabric in assorted pastel rainbow shades"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
+    }
+  ],
+  "showCustomSize": true,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Assemble the Lower Skirt",
+      "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Make the Rainbow Appliqués",
+      "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Assemble the Skirt",
+      "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Add the Bottom Trim",
+      "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Attach the Waistband",
+      "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Insert the Elastic",
+      "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
+      "tip": {
+        "type": "warning",
+        "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:08:00"
+    },
+    {
+      "title": "Step 2: Sew the skirt",
+      "time": "01:06:00"
+    },
+    {
+      "title": "Step 3: Rainbow Applique",
+      "time": "01:35:00"
+    },
+    {
+      "title": "Step 4: Sew the skirt",
+      "time": "03:54:00"
+    },
+    {
+      "title": "Step 5: Bottom Tim",
+      "time": "04:53:00"
+    },
+    {
+      "title": "Step 6: Waistband",
+      "time": "05:49:00"
+    },
+    {
+      "title": "Step 7: Insert the Elastic",
+      "time": "06:47:00"
+    }
+  ]
+},
         {
           "name": "Betty Cotton Dress",
           "level": "Intermediate",
