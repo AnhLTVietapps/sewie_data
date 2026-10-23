@@ -171,69 +171,69 @@
           "timelines": []
         },
         {
-  "name": "Upcycled Denim Dog Toy",
-  "level": "Beginner",
-  "time": "15 minutes",
-  "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
-    },
-    {
-      "title": "Filling",
-      "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
-    },
-    {
-      "title": "Tools & Notions",
-      "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
-    },
-    {
-      "title": "Pattern & Sizing",
-      "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
-    },
-    {
-      "title": "Techniques Required",
-      "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
-    }
-  ],
-  "showCustomSize": false,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Sew",
-      "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
-      "tip": {
-        "type": "warning",
-        "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:12:00"
-    },
-    {
-      "title": "Step 2: Sew",
-      "time": "00:51:00"
-    }
-  ]
-},
+          "name": "Upcycled Denim Dog Toy",
+          "level": "Beginner",
+          "time": "15 minutes",
+          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
+            },
+            {
+              "title": "Filling",
+              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew",
+              "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
+              "tip": {
+                "type": "warning",
+                "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew",
+              "time": "00:51:00"
+            }
+          ]
+        },
         {
           "name": "The Everyday Dog Leash",
           "level": "Beginner",
@@ -817,99 +817,99 @@
           "timelines": []
         },
         {
-  "name": "Sunny Pup Cap",
-  "level": "Beginner",
-  "time": "45 minutes",
-  "finishedSize": "Available in all sizes",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
-    },
-    {
-      "title": "Visor Support",
-      "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
-    },
-    {
-      "title": "Securing Strap",
-      "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
-    },
-    {
-      "title": "Pattern & Sizing",
-      "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
-    },
-    {
-      "title": "Tools & Notions",
-      "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
-    },
-    {
-      "title": "Techniques Required",
-      "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
-    }
-  ],
-  "showCustomSize": true,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Sew the Brim",
-      "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
-      }
-    },
-    {
-      "number": 3,
-      "title": "Step 3: Sew the Cap",
-      "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
-      }
-    },
-    {
-      "number": 4,
-      "title": "Step 4: Add the Elastic",
-      "content": "Sew the elastic around the edge of the cap for a snug fit.",
-      "tip": {
-        "type": "warning",
-        "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:12:00"
-    },
-    {
-      "title": "Step 2: Sew the brim",
-      "time": "00:54:00"
-    },
-    {
-      "title": "Step 3: Sew the cap",
-      "time": "02:01:00"
-    },
-    {
-      "title": "Step 4: Add the elastic",
-      "time": "04:43:00"
-    }
-  ]
-},
+          "name": "Sunny Pup Cap",
+          "level": "Beginner",
+          "time": "45 minutes",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+            },
+            {
+              "title": "Visor Support",
+              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+            },
+            {
+              "title": "Securing Strap",
+              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the Brim",
+              "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the Cap",
+              "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Add the Elastic",
+              "content": "Sew the elastic around the edge of the cap for a snug fit.",
+              "tip": {
+                "type": "warning",
+                "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the brim",
+              "time": "00:54:00"
+            },
+            {
+              "title": "Step 3: Sew the cap",
+              "time": "02:01:00"
+            },
+            {
+              "title": "Step 4: Add the elastic",
+              "time": "04:43:00"
+            }
+          ]
+        },
         {
           "name": "Cat Nap Hammock",
           "level": "Beginner",
@@ -8829,126 +8829,126 @@
           ]
         },
         {
-  "name": "Rainbow Applique Skirt",
-  "level": "Beginner",
-  "time": "1.5 hours",
-  "finishedSize": "Fits ages 2-4 years",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "Plain cotton fabric in assorted pastel rainbow shades"
-    },
-    {
-      "title": "Materials Needed",
-      "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
-    },
-    {
-      "title": "Techniques Required",
-      "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
-    }
-  ],
-  "showCustomSize": true,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Assemble the Lower Skirt",
-      "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
-      }
-    },
-    {
-      "number": 3,
-      "title": "Step 3: Make the Rainbow Appliqués",
-      "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
-      }
-    },
-    {
-      "number": 4,
-      "title": "Step 4: Assemble the Skirt",
-      "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
-      "tip": {
-        "type": "common_mistake",
-        "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
-      }
-    },
-    {
-      "number": 5,
-      "title": "Step 5: Add the Bottom Trim",
-      "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
-      }
-    },
-    {
-      "number": 6,
-      "title": "Step 6: Attach the Waistband",
-      "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
-      }
-    },
-    {
-      "number": 7,
-      "title": "Step 7: Insert the Elastic",
-      "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
-      "tip": {
-        "type": "warning",
-        "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:08:00"
-    },
-    {
-      "title": "Step 2: Sew the skirt",
-      "time": "01:06:00"
-    },
-    {
-      "title": "Step 3: Rainbow Applique",
-      "time": "01:35:00"
-    },
-    {
-      "title": "Step 4: Sew the skirt",
-      "time": "03:54:00"
-    },
-    {
-      "title": "Step 5: Bottom Tim",
-      "time": "04:53:00"
-    },
-    {
-      "title": "Step 6: Waistband",
-      "time": "05:49:00"
-    },
-    {
-      "title": "Step 7: Insert the Elastic",
-      "time": "06:47:00"
-    }
-  ]
-},
+          "name": "Rainbow Applique Skirt",
+          "level": "Beginner",
+          "time": "1.5 hours",
+          "finishedSize": "Fits ages 2-4 years",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Plain cotton fabric in assorted pastel rainbow shades"
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Assemble the Lower Skirt",
+              "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Make the Rainbow Appliqués",
+              "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Assemble the Skirt",
+              "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Add the Bottom Trim",
+              "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Step 6: Attach the Waistband",
+              "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Step 7: Insert the Elastic",
+              "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
+              "tip": {
+                "type": "warning",
+                "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:08:00"
+            },
+            {
+              "title": "Step 2: Sew the skirt",
+              "time": "01:06:00"
+            },
+            {
+              "title": "Step 3: Rainbow Applique",
+              "time": "01:35:00"
+            },
+            {
+              "title": "Step 4: Sew the skirt",
+              "time": "03:54:00"
+            },
+            {
+              "title": "Step 5: Bottom Tim",
+              "time": "04:53:00"
+            },
+            {
+              "title": "Step 6: Waistband",
+              "time": "05:49:00"
+            },
+            {
+              "title": "Step 7: Insert the Elastic",
+              "time": "06:47:00"
+            }
+          ]
+        },
         {
           "name": "Reversible Sun Hat",
           "level": "Beginner",
@@ -11919,6 +11919,36 @@
                 "text": "Use matching thread and sew slowly around the hem for a neat and nearly invisible finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:19:00"
+            },
+            {
+              "title": "Step 2: Serge the edges",
+              "time": "00:26:00"
+            },
+            {
+              "title": "Step 3: Sew the side seams",
+              "time": "01:06:00"
+            },
+            {
+              "title": "Step 4: Sew the waistband",
+              "time": "02:16:00"
+            },
+            {
+              "title": "Step 5: Sew waistband to skirt",
+              "time": "05:00:00"
+            },
+            {
+              "title": "Step 6: Serge the waistband seam",
+              "time": "07:59:00"
+            },
+            {
+              "title": "Step 7: Sew the hem",
+              "time": "08:20:00"
+            }
           ]
         },
         {
@@ -14221,7 +14251,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Denim fabric (55.1 inches wide)"
+              "description": "66.9 inches denim fabric (55.1 inches wide)"
             },
             {
               "title": "Materials Needed",
@@ -19039,11 +19069,11 @@
             },
             {
               "title": "Materials Needed",
-              "description": "Main fabric\nLining fabric\nMatching thread\nSewing clips or pins"
+              "description": "Main fabric, lining fabric, matching thread, sewing clips or pins"
             },
             {
               "title": "Techniques Required",
-              "description": "Cutting, Double-Fold Hemming, Topstitching, Marking, Attaching Outer Pockets, Straight Stitching, Sewing Side Seams, Attaching a Circular Base, Sewing a Lining, Folding Straps, Topstitching Straps, Attaching Handles, Joining Lining to Outer Bag, Edge Stitching"
+              "description": "Cutting, double-fold hemming, topstitching, marking, attaching outer pockets, straight stitching, sewing side seams, attaching a circular base, sewing a lining, folding straps, topstitching straps, attaching handles, joining lining to outer bag, edge stitching"
             }
           ],
           "showCustomSize": false,
@@ -19287,6 +19317,32 @@
                 "text": "Press the opening flat before stitching to help the closure blend neatly into the pouch seam."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:15:00"
+            },
+            {
+              "title": "Step 2: Sew zipper to fabrics",
+              "time": "01:21:00"
+            },
+            {
+              "title": "Step 3: Topstitch",
+              "time": "02:48:00"
+            },
+            {
+              "title": "Step 4: Sew the pouch together",
+              "time": "04:14:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "06:44:00"
+            },
+            {
+              "title": "Step 6: Sew the lining closed",
+              "time": "07:09:00"
+            }
           ]
         },
         {
@@ -19395,6 +19451,44 @@
                 "type": "pro_tip",
                 "text": "Press the opening flat before stitching so the closure blends smoothly into the rest of the lining."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:13:00"
+            },
+            {
+              "title": "Step 2: Sew the Main Bag",
+              "time": "02:09:00"
+            },
+            {
+              "title": "Step 3: Sew the Lining",
+              "time": "04:26:00"
+            },
+            {
+              "title": "Step 4: Insert - Pin",
+              "time": "06:34:00"
+            },
+            {
+              "title": "Step 5: Sew layers together",
+              "time": "08:20:00"
+            },
+            {
+              "title": "Step 6: Turn right side out",
+              "time": "11:05:00"
+            },
+            {
+              "title": "Step 7: Sew the Straps",
+              "time": "12:03:00"
+            },
+            {
+              "title": "Step 8: Topstitch",
+              "time": "16:25:00"
+            },
+            {
+              "title": "Step 9: Sew the lining closed",
+              "time": "17:21:00"
             }
           ]
         },
@@ -19532,6 +19626,36 @@
                 "text": "Press the finished tote thoroughly to highlight the heart shape and patchwork design."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:10:00"
+            },
+            {
+              "title": "Step 2: Sew the heart halves",
+              "time": "01:24:00"
+            },
+            {
+              "title": "Step 3: Sew the straps",
+              "time": "02:26:00"
+            },
+            {
+              "title": "Step 4: Sew the straps to the bag",
+              "time": "08:02:00"
+            },
+            {
+              "title": "Step 5: Sew the bag",
+              "time": "11:28:00"
+            },
+            {
+              "title": "Step 6: Turn right side out",
+              "time": "16:43:00"
+            },
+            {
+              "title": "Step 7: Sew the lining closed",
+              "time": "17:10:00"
+            }
           ]
         },
         {
@@ -19604,6 +19728,28 @@
                 "type": "pro_tip",
                 "text": "Sew slowly around the curved edges and pivot frequently to maintain a smooth, symmetrical heart shape."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:13:00"
+            },
+            {
+              "title": "Step 2: Sew the strap",
+              "time": "00:48:00"
+            },
+            {
+              "title": "Step 3: Sew the zipper",
+              "time": "01:23:00"
+            },
+            {
+              "title": "Step 4: Sew the pouch",
+              "time": "04:04:00"
+            },
+            {
+              "title": "Step 5: Topstitch",
+              "time": "05:18:00"
             }
           ]
         },
@@ -19696,6 +19842,36 @@
                 "text": "Fold the seam allowance evenly before stitching so the closed opening blends neatly with the rest of the lining."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 2: Sew the main pieces",
+              "time": "00:44:00"
+            },
+            {
+              "title": "Step 3: Sew the lining pieces",
+              "time": "01:12:00"
+            },
+            {
+              "title": "Step 4: Sew the bag",
+              "time": "01:37:00"
+            },
+            {
+              "title": "Step 5: Topstitch",
+              "time": "03:18:00"
+            },
+            {
+              "title": "Step 6: Sew the strap",
+              "time": "03:50:00"
+            },
+            {
+              "title": "Step 7: Sew the opening closed",
+              "time": "04:39:00"
+            }
           ]
         },
         {
@@ -19768,6 +19944,28 @@
                 "type": "pro_tip",
                 "text": "Press the top edge before topstitching and keep the handles lifted away from the needle so they are not accidentally caught in the seam."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:10:00"
+            },
+            {
+              "title": "Step 2: Sew the outer bag",
+              "time": "01:04:00"
+            },
+            {
+              "title": "Step 3: Sew the lining",
+              "time": "02:32:00"
+            },
+            {
+              "title": "Step 4: Sew the straps",
+              "time": "03:05:00"
+            },
+            {
+              "title": "Step 5: Sew outer bag and lining",
+              "time": "05:16:00"
             }
           ]
         },
@@ -19895,6 +20093,28 @@
                 "type": "pro_tip",
                 "text": "Press the opening and flap edges before topstitching to create a smooth, even finish."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the outer bag",
+              "time": "01:07:00"
+            },
+            {
+              "title": "Step 3: Sew the lining",
+              "time": "03:08:00"
+            },
+            {
+              "title": "Step 4: Sew the strap",
+              "time": "04:31:00"
+            },
+            {
+              "title": "Step 5: Sew outer bag and lining",
+              "time": "06:10:00"
             }
           ]
         },
@@ -20041,6 +20261,40 @@
                 "text": "Check that the two snap components align correctly before setting them, because removing an incorrectly installed snap may damage the fabric."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the straps",
+              "time": "00:28:00"
+            },
+            {
+              "title": "Step 3: Sew straps to main piece",
+              "time": "02:07:00"
+            },
+            {
+              "title": "Step 4: Sew lining to main piece",
+              "time": "02:33:00"
+            },
+            {
+              "title": "Step 5: Shape the bag",
+              "time": "03:44:00"
+            },
+            {
+              "title": "Step 6: Sew the side seams",
+              "time": "06:55:00"
+            },
+            {
+              "title": "Step 7: Sew the bottom corners",
+              "time": "07:48:00"
+            },
+            {
+              "title": "Step 8: Attach the snap buttons",
+              "time": "09:24:00"
+            }
           ]
         },
         {
@@ -20158,6 +20412,52 @@
                 "type": "warning",
                 "text": "Make sure the zipper is sufficiently open before turning the bag, as forcing the bag through a small opening can strain the zipper and curved seams."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:24:00"
+            },
+            {
+              "title": "Step 2: Sew the zipper panel",
+              "time": "01:20:00"
+            },
+            {
+              "title": "Step 3: Sew the strap",
+              "time": "03:37:00"
+            },
+            {
+              "title": "Step 4: Sew the front slip pocket",
+              "time": "04:04:00"
+            },
+            {
+              "title": "Step 5: Sew the front bag pieces",
+              "time": "05:34:00"
+            },
+            {
+              "title": "Step 6: Sew the back bag pieces",
+              "time": "06:13:00"
+            },
+            {
+              "title": "Step 7: Sew the bag gussset",
+              "time": "06:41:00"
+            },
+            {
+              "title": "Step 8: Sew strap to bag gusset",
+              "time": "07:29:00"
+            },
+            {
+              "title": "Step 9: Sew zipper panel to gusset",
+              "time": "07:56:00"
+            },
+            {
+              "title": "Step 10: Sew main pieces to gusset",
+              "time": "09:20:00"
+            },
+            {
+              "title": "Step 11: Bind the Edges",
+              "time": "10:51:00"
             }
           ]
         },
@@ -22450,70 +22750,70 @@
           ],
           "timelines": []
         },
-       {
-  "name": "Upcycled Denim Dog Toy",
-  "level": "Beginner",
-  "time": "15 minutes",
-  "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
-    },
-    {
-      "title": "Filling",
-      "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
-    },
-    {
-      "title": "Tools & Notions",
-      "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
-    },
-    {
-      "title": "Pattern & Sizing",
-      "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
-    },
-    {
-      "title": "Techniques Required",
-      "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
-    }
-  ],
-  "showCustomSize": false,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Sew",
-      "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
-      "tip": {
-        "type": "warning",
-        "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:12:00"
-    },
-    {
-      "title": "Step 2: Sew",
-      "time": "00:51:00"
-    }
-  ]
-},
+        {
+          "name": "Upcycled Denim Dog Toy",
+          "level": "Beginner",
+          "time": "15 minutes",
+          "finishedSize": "Approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "2 pieces of denim or other heavy-weight fabric, each approximately 12\" × 6\" (31 × 15.5 cm). Recycled denim from old jeans works especially well. You can include existing pockets, seams, or other details from the jeans for a more interesting and durable toy."
+            },
+            {
+              "title": "Filling",
+              "description": "Poly-fill stuffing for shaping the toy. Adjust the amount of stuffing based on your dog's play style and size. An optional squeaker can be added inside while stuffing."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, scissors or a rotary cutter and cutting mat, ruler or measuring tape, iron and ironing board, sewing clips or pins, a sewing machine, and optionally a serger or overlocker. A heavier sewing needle may be helpful when stitching through thick denim seams."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "Use a dog bone template and cut 2 pieces on the fold to create matching bone shapes. The pattern can be scaled up or down to suit different dog sizes. The original finished toy measures approximately 10.5\" × 4.5\" × 2\" (27 × 11.5 × 5 cm)."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting on the fold, straight stitching with a 1/4\" (6 mm) seam allowance, finishing raw edges with a serger or zigzag stitch, turning through an opening, stuffing, and closing the turning gap with either a ladder stitch or machine stitching."
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Upcycled%20Denim%20Dog%20Toy.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Upcycled%20Denim%20Dog%20Toy.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Upcycled%20Denim%20Dog%20Toy%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Upcycled%20Denim%20Dog%20Toy/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the fabric flat and cut both pieces evenly. Make sure to leave the specified seam allowance around the bone shape."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew",
+              "content": "Place the 2 pieces right sides together and sew along the edge.\nTurn right side out, stuff and topstitch around the edge.",
+              "tip": {
+                "type": "warning",
+                "text": "Leave a small opening for turning and stuffing. Use tight stitches and reinforce the ends to help the toy hold together during play. Check the toy regularly and remove it if seams split or stuffing becomes exposed."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew",
+              "time": "00:51:00"
+            }
+          ]
+        },
         {
           "name": "The Everyday Dog Leash",
           "level": "Beginner",
@@ -23093,99 +23393,99 @@
           "timelines": []
         },
         {
-  "name": "Sunny Pup Cap",
-  "level": "Beginner",
-  "time": "45 minutes",
-  "finishedSize": "Available in all sizes",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
-    },
-    {
-      "title": "Visor Support",
-      "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
-    },
-    {
-      "title": "Securing Strap",
-      "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
-    },
-    {
-      "title": "Pattern & Sizing",
-      "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
-    },
-    {
-      "title": "Tools & Notions",
-      "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
-    },
-    {
-      "title": "Techniques Required",
-      "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
-    }
-  ],
-  "showCustomSize": true,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Sew the Brim",
-      "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
-      }
-    },
-    {
-      "number": 3,
-      "title": "Step 3: Sew the Cap",
-      "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
-      }
-    },
-    {
-      "number": 4,
-      "title": "Step 4: Add the Elastic",
-      "content": "Sew the elastic around the edge of the cap for a snug fit.",
-      "tip": {
-        "type": "warning",
-        "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:12:00"
-    },
-    {
-      "title": "Step 2: Sew the brim",
-      "time": "00:54:00"
-    },
-    {
-      "title": "Step 3: Sew the cap",
-      "time": "02:01:00"
-    },
-    {
-      "title": "Step 4: Add the elastic",
-      "time": "04:43:00"
-    }
-  ]
-},
+          "name": "Sunny Pup Cap",
+          "level": "Beginner",
+          "time": "45 minutes",
+          "finishedSize": "Available in all sizes",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Fabric for the outer cap and lining. The pattern includes two main pieces: the head section and the visor. Cut two pieces of each pattern on the fold to create the outer and lining layers."
+            },
+            {
+              "title": "Visor Support",
+              "description": "A piece of waterproof cardboard, thin plastic, another lightweight rigid material, or thick fabric can be placed between the visor layers to help the visor hold its shape."
+            },
+            {
+              "title": "Securing Strap",
+              "description": "Elastic can be used to create the securing strap. Adjust the length and placement to suit your dog's head shape and provide a comfortable fit."
+            },
+            {
+              "title": "Pattern & Sizing",
+              "description": "The cap pattern is available in three size groups: XS–S, M–L, and XL–XXL. Both the head and visor pattern pieces are cut on the fold. Print the selected pattern at the correct scale before cutting."
+            },
+            {
+              "title": "Tools & Notions",
+              "description": "Matching thread, fabric scissors, pins or sewing clips, ruler or measuring tape, fabric marker, elastic, iron and ironing board, and a sewing machine or hand-sewing needle."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting pattern pieces on the fold, sewing curved seams, joining outer fabric and lining with right sides together, turning pieces right side out, constructing a reinforced visor, attaching the visor to the cap, applying a ribbon or binding finish, topstitching, and attaching an elastic securing strap."
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Pets/Sunny%20Pup%20Cap.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Pet/Sunny%20Pup%20Cap.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Sunny%20Pup%20Cap%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Sunny%20Pup%20Cap/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nIn total, there are 4 pieces: 2 brim pieces, 1 cap piece and 1 lining piece.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Print the pattern at 100% scale and check the test square before cutting. Make sure to select the correct size for your dog's head."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the Brim",
+              "content": "Place the 2 brim pieces right sides together.\nSew along the curved edge to join them.\nTurn right side out, add the lining and stitch around the edge to secure.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Clip small notches along the curved seam allowance without cutting through the stitches. This helps the brim lie smoothly when turned right side out."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the Cap",
+              "content": "Fold the main cap piece and sew along the seams.\nRepeat with the lining piece.\nSew the brim securely to the cap.\nPlace the 2 cap pieces right sides together and sew around the edge.\nTurn right side out and topstitch around the edge.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Align the center points and seam lines before sewing the brim to the cap. Match the outer fabric and lining carefully to keep the finished cap symmetrical."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Add the Elastic",
+              "content": "Sew the elastic around the edge of the cap for a snug fit.",
+              "tip": {
+                "type": "warning",
+                "text": "Measure the elastic around your dog's head and adjust it for a secure but comfortable fit. Avoid making it too tight, and check that your dog can move and breathe freely."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the brim",
+              "time": "00:54:00"
+            },
+            {
+              "title": "Step 3: Sew the cap",
+              "time": "02:01:00"
+            },
+            {
+              "title": "Step 4: Add the elastic",
+              "time": "04:43:00"
+            }
+          ]
+        },
         {
           "name": "Witchy Pup Costume",
           "level": "Beginner",
@@ -23569,6 +23869,32 @@
                 "text": "Test the snap placement before attaching it permanently, as incorrectly installed snaps can be difficult to remove without damaging the fabric."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:10:00"
+            },
+            {
+              "title": "Step 2: Sew the bib",
+              "time": "00:45:00"
+            },
+            {
+              "title": "Step 3: Tim - Clip",
+              "time": "03:07:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "03:44:00"
+            },
+            {
+              "title": "Step 5: Ladder Stitch",
+              "time": "04:14:00"
+            },
+            {
+              "title": "Step 6: Attach snaps",
+              "time": "04:47:00"
+            }
           ]
         },
         {
@@ -23668,6 +23994,40 @@
                 "type": "pro_tip",
                 "text": "Press the top edge lightly after turning to help the cuff and lining sit neatly inside the stocking."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:21:00"
+            },
+            {
+              "title": "Step 2: Apply interfacing",
+              "time": "01:16:00"
+            },
+            {
+              "title": "Step 3: Sew the main stocking",
+              "time": "02:05:00"
+            },
+            {
+              "title": "Step 4: Sew the lining",
+              "time": "04:51:00"
+            },
+            {
+              "title": "Step 5: Sew the fur band",
+              "time": "07:33:00"
+            },
+            {
+              "title": "Step 6: Sew fur to the stocking",
+              "time": "08:07:00"
+            },
+            {
+              "title": "Step 7: Sew lining to the stocking",
+              "time": "10:18:00"
+            },
+            {
+              "title": "Step 8: Turn right side out",
+              "time": "12:04:00"
             }
           ]
         },
@@ -24493,127 +24853,127 @@
             }
           ]
         },
-       {
-  "name": "Rainbow Applique Skirt",
-  "level": "Beginner",
-  "time": "1.5 hours",
-  "finishedSize": "Fits ages 2-4 years",
-  "techPack": [
-    {
-      "title": "Main Fabric",
-      "description": "Plain cotton fabric in assorted pastel rainbow shades"
-    },
-    {
-      "title": "Materials Needed",
-      "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
-    },
-    {
-      "title": "Techniques Required",
-      "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
-    }
-  ],
-  "showCustomSize": true,
-  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
-  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
-  "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
-  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
-  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
-  "steps": [
-    {
-      "number": 1,
-      "title": "Step 1: Cut - Prepare",
-      "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
-      }
-    },
-    {
-      "number": 2,
-      "title": "Step 2: Assemble the Lower Skirt",
-      "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
-      }
-    },
-    {
-      "number": 3,
-      "title": "Step 3: Make the Rainbow Appliqués",
-      "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
-      }
-    },
-    {
-      "number": 4,
-      "title": "Step 4: Assemble the Skirt",
-      "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
-      "tip": {
-        "type": "common_mistake",
-        "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
-      }
-    },
-    {
-      "number": 5,
-      "title": "Step 5: Add the Bottom Trim",
-      "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
-      }
-    },
-    {
-      "number": 6,
-      "title": "Step 6: Attach the Waistband",
-      "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
-      "tip": {
-        "type": "pro_tip",
-        "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
-      }
-    },
-    {
-      "number": 7,
-      "title": "Step 7: Insert the Elastic",
-      "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
-      "tip": {
-        "type": "warning",
-        "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
-      }
-    }
-  ],
-  "timelines": [
-    {
-      "title": "Step 1: Cut - Prepare",
-      "time": "00:08:00"
-    },
-    {
-      "title": "Step 2: Sew the skirt",
-      "time": "01:06:00"
-    },
-    {
-      "title": "Step 3: Rainbow Applique",
-      "time": "01:35:00"
-    },
-    {
-      "title": "Step 4: Sew the skirt",
-      "time": "03:54:00"
-    },
-    {
-      "title": "Step 5: Bottom Tim",
-      "time": "04:53:00"
-    },
-    {
-      "title": "Step 6: Waistband",
-      "time": "05:49:00"
-    },
-    {
-      "title": "Step 7: Insert the Elastic",
-      "time": "06:47:00"
-    }
-  ]
-},
+        {
+          "name": "Rainbow Applique Skirt",
+          "level": "Beginner",
+          "time": "1.5 hours",
+          "finishedSize": "Fits ages 2-4 years",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Plain cotton fabric in assorted pastel rainbow shades"
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Plain cotton fabric in assorted pastel rainbow shades\nPlain white cotton fabric\nContrasting cotton fabric\nNarrow elastic\nWater-based glue stick\nThin paper or cardstock for EPP templates\nMatching sewing thread"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "English Paper Piecing\nWhip Stitching\nHand Applique\nTopstitching\nElastic Waistband Construction\nChannel Sewing\nZigzag Edge Finishing\nPressing"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Baby%20Clothing/Rainbow%20Applique%20Skirt.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Rainbow%20Applique%20Skirt%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Rainbow%20Applique%20Skirt/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "Place the pattern on the fabric and trace around the outline.\nAdd a 0.4\" seam allowance and cut along the outer line.\nCut 2 upper skirt pieces and 2 lower skirt pieces.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Transfer all pattern markings to the fabric before cutting. Keep matching pieces clearly labeled to avoid mixing up the upper and lower skirt sections."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Assemble the Lower Skirt",
+              "content": "Place the 2 lower skirt pieces right sides together.\nSew the side seams.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Align the side edges carefully and pin or clip them before sewing to keep the lower skirt seams even."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Make the Rainbow Appliqués",
+              "content": "Cut the rainbow pieces from different colored fabrics.\nCut 2 layers of each color.\nSew each fabric piece together to form individual appliqué pieces.\nTurn them right side out and press flat.\nLayer the pieces to form the rainbow shape.\nSew the layers together.\nSew the rainbow appliqué onto the skirt.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Arrange the rainbow arches in the correct color order before stitching. Use small, even stitches around the curves to keep the appliqué neat and secure."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Assemble the Skirt",
+              "content": "Place the 2 skirt pieces right sides together.\nSew the side seams.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Match the side seams of the upper and lower skirt sections before sewing to prevent the layers from shifting or twisting."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Add the Bottom Trim",
+              "content": "Place the trim along the bottom edge.\nSew it securely in place.\nFold the edge inward and stitch it down.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Pin the trim evenly along the hem and ease any extra fabric gradually around the curves to prevent puckering."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Step 6: Attach the Waistband",
+              "content": "Place the waistband around the top edge.\nSew it securely in place.\nFold the fabric inward to create the elastic casing.\nStitch it in place, leaving a small opening for the elastic.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the elastic casing wide enough for the elastic to pass through easily, and leave a clear opening for insertion."
+              }
+            },
+            {
+              "number": 7,
+              "title": "Step 7: Insert the Elastic",
+              "content": "Thread the elastic through the waistband.\nAdjust it to fit the waist.\nSew the two ends of the elastic together.\nClose the opening and finish the waistband.",
+              "tip": {
+                "type": "warning",
+                "text": "Check the elastic fit before closing the opening. Make sure the waistband is comfortable and not too tight, then secure the elastic ends firmly to prevent them from pulling apart."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:08:00"
+            },
+            {
+              "title": "Step 2: Sew the skirt",
+              "time": "01:06:00"
+            },
+            {
+              "title": "Step 3: Rainbow Applique",
+              "time": "01:35:00"
+            },
+            {
+              "title": "Step 4: Sew the skirt",
+              "time": "03:54:00"
+            },
+            {
+              "title": "Step 5: Bottom Tim",
+              "time": "04:53:00"
+            },
+            {
+              "title": "Step 6: Waistband",
+              "time": "05:49:00"
+            },
+            {
+              "title": "Step 7: Insert the Elastic",
+              "time": "06:47:00"
+            }
+          ]
+        },
         {
           "name": "Betty Cotton Dress",
           "level": "Intermediate",
@@ -24711,7 +25071,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton print fabric"
+              "description": "Cotton print fabric, 19.69 inches"
             },
             {
               "title": "Materials Needed",
@@ -24719,7 +25079,7 @@
             },
             {
               "title": "Techniques Required",
-              "description": "Pattern Cutting, Garment Construction, Straight Stitching, Elastic Channel Construction, Elastic Insertion, Bias Binding Application, Topstitching, Pressing, Edge Finishing"
+              "description": "Pattern Cutting\nGarment Construction\nStraight Stitching\nElastic Channel Construction\nElastic Insertion\nBias Binding Application\nTopstitching\nPressing\nEdge Finishing"
             }
           ],
           "showCustomSize": true,
@@ -26156,6 +26516,60 @@
                 "text": "Mark the facial features lightly before stitching or drawing to keep the expression balanced and centered."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:19:00"
+            },
+            {
+              "title": "Step 2: Sew the arms",
+              "time": "01:44:00"
+            },
+            {
+              "title": "Step 3: Sew the legs",
+              "time": "04:13:00"
+            },
+            {
+              "title": "Step 4: Tim- Clip",
+              "time": "06:08:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "06:42:00"
+            },
+            {
+              "title": "Step 6: Stuff the arms and legs",
+              "time": "07:13:00"
+            },
+            {
+              "title": "Step 7: Sew on the eyes and belly",
+              "time": "07:51:00"
+            },
+            {
+              "title": "Step 8: Sew all layers together",
+              "time": "10:49:00"
+            },
+            {
+              "title": "Step 9: Tim- Clip",
+              "time": "14:46:00"
+            },
+            {
+              "title": "Step 10: Turn right side out",
+              "time": "15:06:00"
+            },
+            {
+              "title": "Step 11: Stuff the frog",
+              "time": "15:31:00"
+            },
+            {
+              "title": "Step 12: Laddev stitch",
+              "time": "15:38:00"
+            },
+            {
+              "title": "Step 13: Draw frog's face",
+              "time": "16:19:00"
+            }
           ]
         },
         {
@@ -26300,6 +26714,64 @@
                 "type": "warning",
                 "text": "Ensure the safety eyes are securely attached before the plush is handled by children."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1.1: Cut the side body pieces",
+              "time": "00:24:00"
+            },
+            {
+              "title": "Step 1.2: Cut the belly and head gussets",
+              "time": "01:12:00"
+            },
+            {
+              "title": "Step 1.3: Cut the heart spikes",
+              "time": "02:11:00"
+            },
+            {
+              "title": "Step 1.4: Cut the heart patches",
+              "time": "03:08:00"
+            },
+            {
+              "title": "Step 2: Sew the heart spikes",
+              "time": "03:14:00"
+            },
+            {
+              "title": "Step 3: Shape the heart patches",
+              "time": "06:34:00"
+            },
+            {
+              "title": "Step 4: Sew heart patches to body",
+              "time": "08:54:00"
+            },
+            {
+              "title": "Step 5: Sew the body",
+              "time": "11:25:00"
+            },
+            {
+              "title": "Step 6: Stuffing the heart spikes",
+              "time": "25:48:00"
+            },
+            {
+              "title": "Step 7: Sew heart spikes to body",
+              "time": "26:12:00"
+            },
+            {
+              "title": "Step 8: Clip the curves",
+              "time": "28:19:00"
+            },
+            {
+              "title": "Step 9: Turn right side out",
+              "time": "28:47:00"
+            },
+            {
+              "title": "Step 10: Stuffing the dinosaur",
+              "time": "29:28:00"
+            },
+            {
+              "title": "Step 11: Ladder Stitch",
+              "time": "30:18:00"
             }
           ]
         },
@@ -26482,6 +26954,68 @@
                 "text": "Always ensure safety eyes are securely attached before giving the toy to a child."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:27:00"
+            },
+            {
+              "title": "Step 2: Sew heart to body",
+              "time": "01:23:00"
+            },
+            {
+              "title": "Step 3: Sew the body",
+              "time": "02:18:00"
+            },
+            {
+              "title": "Step 4: Sew the arms",
+              "time": "03:11:00"
+            },
+            {
+              "title": "Step 5: Sew the ears",
+              "time": "04:09:00"
+            },
+            {
+              "title": "Step 6: Sew the tusks",
+              "time": "05:26:00"
+            },
+            {
+              "title": "Step 7: Sew the trunk",
+              "time": "06:33:00"
+            },
+            {
+              "title": "Step 8: Sew the head",
+              "time": "08:00:00"
+            },
+            {
+              "title": "Step 9: Sew trunk & tusks to head",
+              "time": "11:36:00"
+            },
+            {
+              "title": "Step 10: Sew the head",
+              "time": "13:18:00"
+            },
+            {
+              "title": "Step 11: Sew it all together",
+              "time": "15:26:00"
+            },
+            {
+              "title": "Step 12: Turn right side out",
+              "time": "19:22:00"
+            },
+            {
+              "title": "Step 13: Stuffing",
+              "time": "20:11:00"
+            },
+            {
+              "title": "Step 14: Ladder Stitch",
+              "time": "20:51:00"
+            },
+            {
+              "title": "Step 15: Draw the eyes",
+              "time": "21:47:00"
+            }
           ]
         },
         {
@@ -26636,6 +27170,52 @@
                 "text": "If the plush is intended for a young child, use securely embroidered facial features instead of small buttons or beads."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 2: Sew the tail",
+              "time": "01:27:00"
+            },
+            {
+              "title": "Step 3: Sew the body",
+              "time": "02:19:00"
+            },
+            {
+              "title": "Step 4: Sew the ears",
+              "time": "10:54:00"
+            },
+            {
+              "title": "Step 5: Sew the head",
+              "time": "13:16:00"
+            },
+            {
+              "title": "Step 6: Sew the ears to the head",
+              "time": "20:56:00"
+            },
+            {
+              "title": "Step 7: Sew the head to the body",
+              "time": "22:14:00"
+            },
+            {
+              "title": "Step 8: Turn right side out",
+              "time": "23:07:00"
+            },
+            {
+              "title": "Step 9: Stuffing the dog",
+              "time": "23:40:00"
+            },
+            {
+              "title": "Step 10: Ladder stitch",
+              "time": "24:24:00"
+            },
+            {
+              "title": "Step 11: Draw dog's eyes",
+              "time": "25:01:00"
+            }
           ]
         },
         {
@@ -26646,7 +27226,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Yellow felt, orange felt, white felt, black felt, gingham fabric (optional), striped jersey fabric, and gold faux leather"
+              "description": "Yellow felt"
             },
             {
               "title": "Materials Needed",
@@ -34396,7 +34976,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton fabric (assorted patterned prints), coordinating white cotton fabric, and felt in navy, royal blue and pink"
+              "description": "Cotton fabric (assorted patterned prints)"
             },
             {
               "title": "Materials Needed",
@@ -34559,7 +35139,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Pink gingham fabric, lilac fabric, and pink and lilac felt"
+              "description": "Fabric (pink gingham and lilac)"
             },
             {
               "title": "Materials Needed",
@@ -38341,6 +38921,32 @@
                 "text": "Unevenly distributed filling can create lumps, so smooth and position the insert carefully before use."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Hem the short edges",
+              "time": "00:15:00"
+            },
+            {
+              "title": "Step 3: Fold & Sew the long edges",
+              "time": "00:54:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "02:25:00"
+            },
+            {
+              "title": "Step 5: Sew the cushion cover border",
+              "time": "02:42:00"
+            },
+            {
+              "title": "Step 6: Stuffing",
+              "time": "03:01:00"
+            }
           ]
         },
         {
@@ -38422,6 +39028,32 @@
                 "type": "pro_tip",
                 "text": "Keep the ladder stitches small and evenly spaced so the opening becomes nearly invisible after tightening the thread."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Sew the pillow",
+              "time": "00:39:00"
+            },
+            {
+              "title": "Step 3: Trim - Clip",
+              "time": "01:19:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "01:49:00"
+            },
+            {
+              "title": "Step 5: Stuff",
+              "time": "02:12:00"
+            },
+            {
+              "title": "Step 6: Ladder stitch",
+              "time": "02:28:00"
             }
           ]
         },
@@ -38549,7 +39181,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton fabric (pink, light blue, navy, mid blue)"
+              "description": "Cotton fabric: pink, light blue, navy, mid blue"
             },
             {
               "title": "Materials Needed",
@@ -38685,7 +39317,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Patterned cotton fabric, plain cotton fabric, and red cotton fabric"
+              "description": "Patterned cotton fabric, two fat quarters"
             },
             {
               "title": "Materials Needed",
@@ -40881,7 +41513,7 @@
               "description": "Pattern Tracing, Seam Finishing, Straight Stitching, Garment Assembly, Elastic Waistband Construction, Gathering, Lace Attachment"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Sweet%20Dreams%20Lounge%20Shorts.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Sweet%20Dreams%20Lounge%20Shorts.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Sweet%20Dreams%20Lounge%20Shorts%20Tiny/master.m3u8",
@@ -40959,6 +41591,52 @@
                 "type": "warning",
                 "text": "Avoid stretching the lace while sewing, as uneven tension can cause the hem to ripple or distort."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Overcast",
+              "time": "00:49:00"
+            },
+            {
+              "title": "Step 3: Sew the side seam",
+              "time": "01:33:00"
+            },
+            {
+              "title": "Step 4: Sew the inseams",
+              "time": "02:12:00"
+            },
+            {
+              "title": "Step 5: Sew the crotch seam",
+              "time": "02:48:00"
+            },
+            {
+              "title": "Step 6: Sew the waistband",
+              "time": "06:02:00"
+            },
+            {
+              "title": "Step 7: Insert and sew the elastic",
+              "time": "09:05:00"
+            },
+            {
+              "title": "Step 8: Sew the opening closed",
+              "time": "10:49:00"
+            },
+            {
+              "title": "Step 9: Gather the eyelet trim",
+              "time": "11:37:00"
+            },
+            {
+              "title": "Step 10: Attach the ruffle",
+              "time": "14:27:00"
+            },
+            {
+              "title": "Step 11: Overcast the leg openings",
+              "time": "17:14:00"
             }
           ]
         },
@@ -41060,6 +41738,40 @@
                 "text": "Match the stitching line to the existing seam for a nearly invisible finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 2: Draw the Petals",
+              "time": "00:47:00"
+            },
+            {
+              "title": "Step 3: Sew",
+              "time": "02:12:00"
+            },
+            {
+              "title": "Step 4: Tim - Clip",
+              "time": "05:11:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "06:24:00"
+            },
+            {
+              "title": "Step 6: Stuffing",
+              "time": "06:44:00"
+            },
+            {
+              "title": "Step 7: Insert the Elastic",
+              "time": "07:21:00"
+            },
+            {
+              "title": "Step 8: Sew",
+              "time": "08:05:00"
+            }
           ]
         },
         {
@@ -41081,7 +41793,7 @@
               "description": "Pattern Cutting, Seam Allowance Marking, Overlocking, Strap Construction, Elastic Gathering, Straight Stitch Sewing, Side Seam Construction, Bias Binding Application, Edge Stitching, Narrow Hemming, Topstitching, Pressing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Tie-Strap%20Camisole%20Top.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Tie-Strap%20Camisole%20Top.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Tie-Strap%20Camisole%20Top%20Tiny/master.m3u8",
@@ -41177,6 +41889,48 @@
                 "type": "pro_tip",
                 "text": "Press the hem before stitching to keep the fold even and achieve a clean professional finish."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:20:00"
+            },
+            {
+              "title": "Step 2: Serge the edges",
+              "time": "00:44:00"
+            },
+            {
+              "title": "Step 3: Sew the straps",
+              "time": "01:25:00"
+            },
+            {
+              "title": "Step 4: Hem top edge & attach straps",
+              "time": "02:53:00"
+            },
+            {
+              "title": "Step 5: Secure the straps",
+              "time": "05:16:00"
+            },
+            {
+              "title": "Step 6: Hem the top edge",
+              "time": "05:37:00"
+            },
+            {
+              "title": "Step 7: Secure the straps",
+              "time": "06:28:00"
+            },
+            {
+              "title": "Step 8: Sew the side seams",
+              "time": "07:08:00"
+            },
+            {
+              "title": "Step 9: Sew the armholes",
+              "time": "07:49:00"
+            },
+            {
+              "title": "Step 10: See the hem",
+              "time": "11:02:00"
             }
           ]
         },
@@ -43521,6 +44275,24 @@
                 "text": "Attach a safety pin to the end of each cord to make threading through the casing faster and easier."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the casings",
+              "time": "01:56:00"
+            },
+            {
+              "title": "Step 3: Sew together",
+              "time": "02:46:00"
+            },
+            {
+              "title": "Step 4: Add drawstring",
+              "time": "06:13:00"
+            }
           ]
         },
         {
@@ -43602,6 +44374,32 @@
                 "type": "warning",
                 "text": "Double-check the snap placement before installing, as incorrectly attached snaps are difficult to remove without damaging the fabric."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:06:00"
+            },
+            {
+              "title": "Step 2: Sew Main & Lining",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 3: Tim & Insert Foam",
+              "time": "01:40:00"
+            },
+            {
+              "title": "Step 4: Close the Opening",
+              "time": "02:17:00"
+            },
+            {
+              "title": "Step 5: Topstitch the Edges",
+              "time": "03:28:00"
+            },
+            {
+              "title": "Step 6: Attach the Snap",
+              "time": "04:51:00"
             }
           ]
         },
@@ -43784,6 +44582,28 @@
                 "text": "Reinforce the handle with backstitching at each corner since it will bear the weight of the storage bin."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:23:00"
+            },
+            {
+              "title": "Step 2: Sew the main piece",
+              "time": "00:58:00"
+            },
+            {
+              "title": "Step 3: Sew the lining",
+              "time": "02:31:00"
+            },
+            {
+              "title": "Step 4: Sew the top binding",
+              "time": "02:36:00"
+            },
+            {
+              "title": "Step 5: Sew the strap handles",
+              "time": "05:04:00"
+            }
           ]
         },
         {
@@ -43884,6 +44704,32 @@
                 "text": "Press the upper edge before topstitching and keep a consistent distance from the edge for a clean, professional finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:13:00"
+            },
+            {
+              "title": "Step 2: Sew the lining",
+              "time": "00:48:00"
+            },
+            {
+              "title": "Step 3: Sew the main body",
+              "time": "03:40:00"
+            },
+            {
+              "title": "Step 4: Sew lining to main body",
+              "time": "03:49:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "06:08:00"
+            },
+            {
+              "title": "Step 6: Sew the opening closed",
+              "time": "06:33:00"
+            }
           ]
         },
         {
@@ -43894,7 +44740,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Printed cotton fabric and plain cotton fabric"
+              "description": "Printed cotton fabric"
             },
             {
               "title": "Materials Needed",
@@ -45822,6 +46668,32 @@
                 "text": "Avoid wrapping the center band too tightly, as it can distort the bow shape and flatten the fabric folds."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:06:00"
+            },
+            {
+              "title": "Step 2: Sew the 7.9\" x 15.7\" Piece",
+              "time": "00:52:00"
+            },
+            {
+              "title": "Step 3: Sew the 8.6\" x 11.8\" Piece",
+              "time": "02:32:00"
+            },
+            {
+              "title": "Step 4: Sew the 3.1\" x 4.7\" Piece",
+              "time": "04:47:00"
+            },
+            {
+              "title": "Step 5: Turn Right Side Out",
+              "time": "05:21:00"
+            },
+            {
+              "title": "Step 6: Form the Bow",
+              "time": "06:02:00"
+            }
           ]
         },
         {
@@ -45940,6 +46812,48 @@
                 "text": "Use matching thread and take small hand stitches when attaching the leaf for a cleaner, nearly invisible finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the apple body",
+              "time": "01:26:00"
+            },
+            {
+              "title": "Step 3: Clip the curves",
+              "time": "05:48:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "06:00:00"
+            },
+            {
+              "title": "Step 5: Sew the leaf",
+              "time": "06:26:00"
+            },
+            {
+              "title": "Step 6: Tim",
+              "time": "06:52:00"
+            },
+            {
+              "title": "Step 7: Tin right side out",
+              "time": "06:58:00"
+            },
+            {
+              "title": "Step 8: Drow the leaf veins",
+              "time": "07:09:00"
+            },
+            {
+              "title": "Step 9: Stuffing",
+              "time": "07:20:00"
+            },
+            {
+              "title": "Step 10: Running Stitch",
+              "time": "07:37:00"
+            }
           ]
         },
         {
@@ -46039,6 +46953,40 @@
                 "type": "pro_tip",
                 "text": "Lightly sketch the facial features first with a washable marker to ensure balanced placement before drawing permanently."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:22:00"
+            },
+            {
+              "title": "Step 2: Sew the cat head",
+              "time": "01:48:00"
+            },
+            {
+              "title": "Step 3: Tim - Clip",
+              "time": "04:02:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "04:26:00"
+            },
+            {
+              "title": "Step 5: Sew the body and head",
+              "time": "04:35:00"
+            },
+            {
+              "title": "Step 6: Turn right side out",
+              "time": "06:30:00"
+            },
+            {
+              "title": "Step 7: Topstich the bookmark",
+              "time": "07:08:00"
+            },
+            {
+              "title": "Step 8: Draw cat face",
+              "time": "10:18:00"
             }
           ]
         },
@@ -46167,6 +47115,52 @@
                 "text": "Pull the ladder stitches gently and evenly to create a smooth, professional-looking closure."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:09:00"
+            },
+            {
+              "title": "Step 2: Sew the Heart",
+              "time": "01:12:00"
+            },
+            {
+              "title": "Step 3: Tim - Clip",
+              "time": "03:57:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "04:26:00"
+            },
+            {
+              "title": "Step 5: Sew the Star",
+              "time": "04:36:00"
+            },
+            {
+              "title": "Step 6: Tim - Clip",
+              "time": "07:08:00"
+            },
+            {
+              "title": "Step 7: Turn right side out",
+              "time": "07:35:00"
+            },
+            {
+              "title": "Step 8: Stuff the Heart",
+              "time": "07:55:00"
+            },
+            {
+              "title": "Step 9: Ladder stitch",
+              "time": "08:17:00"
+            },
+            {
+              "title": "Step 10: Stuff the Star",
+              "time": "10:17:00"
+            },
+            {
+              "title": "Step 11: Ladder stitch",
+              "time": "10:39:00"
+            }
           ]
         },
         {
@@ -46177,7 +47171,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Fabric"
+              "description": "Main fabric pieces:\n1 piece measuring 9.8\" x 2.4\"\n1 piece measuring 8\" x 2.4\"\n1 piece measuring 2\" x 2.4\"\n1 piece measuring 1.6\" x 2.4\""
             },
             {
               "title": "Materials Needed",
@@ -46266,6 +47260,40 @@
                 "type": "pro_tip",
                 "text": "Use matching thread for a subtle finish or contrasting thread to highlight the decorative stitching."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:18:00"
+            },
+            {
+              "title": "Step 2: Sew key tab",
+              "time": "00:59:00"
+            },
+            {
+              "title": "Step 3: Tun right side out",
+              "time": "01:34:00"
+            },
+            {
+              "title": "Step 4: Sew the back and flap",
+              "time": "01:45:00"
+            },
+            {
+              "title": "Step 5: Sew the panel together",
+              "time": "02:47:00"
+            },
+            {
+              "title": "Step 6: Topstich the body",
+              "time": "05:53:00"
+            },
+            {
+              "title": "Step 7: Topstitch the top edge",
+              "time": "07:32:00"
+            },
+            {
+              "title": "Step 8: Topstitch the flap",
+              "time": "08:08:00"
             }
           ]
         },
@@ -46357,6 +47385,32 @@
                 "type": "pro_tip",
                 "text": "Keep the stitches small and evenly spaced for a cleaner and more professional finish."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:23:00"
+            },
+            {
+              "title": "Step 2: Sew the scarf",
+              "time": "00:34:00"
+            },
+            {
+              "title": "Step 3: Turn right side out",
+              "time": "01:32:00"
+            },
+            {
+              "title": "Step 4: Stuffing",
+              "time": "01:59:00"
+            },
+            {
+              "title": "Step 5: Ladder stitch",
+              "time": "02:14:00"
+            },
+            {
+              "title": "Step 6: Hand-sew the fold",
+              "time": "03:10:00"
             }
           ]
         },
@@ -46458,6 +47512,24 @@
                 "text": "Use matching thread and small ladder stitches to keep the attachment nearly invisible."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Sew the leaf cap",
+              "time": "01:09:00"
+            },
+            {
+              "title": "Step 3: Sew the strawberry",
+              "time": "04:14:00"
+            },
+            {
+              "title": "Step 4: Sew leaf cap to strawberry",
+              "time": "05:54:00"
+            }
           ]
         },
         {
@@ -46557,6 +47629,52 @@
                 "type": "common_mistake",
                 "text": "Double-check the snap placement before setting it, because snap fasteners are difficult to remove without damaging the fabric."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 2: Cut the lining",
+              "time": "01:57:00"
+            },
+            {
+              "title": "Step 3: Cut batting sheet",
+              "time": "02:31:00"
+            },
+            {
+              "title": "Step 4: Press the layers",
+              "time": "03:17:00"
+            },
+            {
+              "title": "Step 5: Sew main to batting (Quilt)",
+              "time": "03:38:00"
+            },
+            {
+              "title": "Step 6: Sew the exterior",
+              "time": "08:41:00"
+            },
+            {
+              "title": "Step 7: Sew the lining",
+              "time": "10:37:00"
+            },
+            {
+              "title": "Step 8: Sew main to lining",
+              "time": "12:42:00"
+            },
+            {
+              "title": "Step 9: Turn right side out",
+              "time": "15:09:00"
+            },
+            {
+              "title": "Step 10: Topstitch",
+              "time": "15:36:00"
+            },
+            {
+              "title": "Step 11: Attach snap",
+              "time": "17:32:00"
             }
           ]
         },
@@ -46684,6 +47802,44 @@
                 "type": "pro_tip",
                 "text": "Use matching thread and small ladder stitches so the lining opening becomes nearly invisible."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Sew the lining",
+              "time": "01:24:00"
+            },
+            {
+              "title": "Step 3: Sew the hat",
+              "time": "05:28:00"
+            },
+            {
+              "title": "Step 4: Insert the wire",
+              "time": "11:54:00"
+            },
+            {
+              "title": "Step 5: Make the top button",
+              "time": "14:12:00"
+            },
+            {
+              "title": "Step 6: Sew top button to hat",
+              "time": "17:33:00"
+            },
+            {
+              "title": "Step 7: Sew lining and hat together",
+              "time": "18:02:00"
+            },
+            {
+              "title": "Step 8: Turn right side out",
+              "time": "19:27:00"
+            },
+            {
+              "title": "Step 9: Ladder stitch",
+              "time": "19:56:00"
             }
           ]
         },
@@ -46891,7 +48047,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Assorted cotton fat quarters"
+              "description": "Cotton fabric, assorted fat quarters"
             },
             {
               "title": "Materials Needed",
@@ -47937,7 +49093,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Patterned fabric and coordinating fabric"
+              "description": "Patterned fabric"
             },
             {
               "title": "Materials Needed",
@@ -48260,7 +49416,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Brown striped cotton fabric, red Christmas print cotton fabric, cream square cotton fabric, white fleece fabric, and felt (white and mustard yellow)"
+              "description": "Brown striped cotton fabric"
             },
             {
               "title": "Materials Needed",
@@ -49311,6 +50467,40 @@
                 "text": "Before closing the openings, check that the elastic gathers are distributed evenly and that no section of the casing has been accidentally caught in the stitching."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:08:00"
+            },
+            {
+              "title": "Step 2: Sew the outer layer",
+              "time": "00:26:00"
+            },
+            {
+              "title": "Step 3: Sew the lining",
+              "time": "01:03:00"
+            },
+            {
+              "title": "Step 4: Sew outer layer and lining",
+              "time": "01:10:00"
+            },
+            {
+              "title": "Step 5: Make the fabric bow",
+              "time": "01:55:00"
+            },
+            {
+              "title": "Step 6: Attach the bow",
+              "time": "03:25:00"
+            },
+            {
+              "title": "Step 7: Sew the elastic casing",
+              "time": "03:38:00"
+            },
+            {
+              "title": "Step 8: Insert the elastic band",
+              "time": "04:26:00"
+            }
           ]
         },
         {
@@ -49411,6 +50601,44 @@
                 "text": "Keep the stitching line consistent on all four corners to create a balanced and symmetrical bowl cozy."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:17:00"
+            },
+            {
+              "title": "Step 2: Sew all layers",
+              "time": "00:51:00"
+            },
+            {
+              "title": "Step 3: Turn right side out",
+              "time": "03:16:00"
+            },
+            {
+              "title": "Step 4: Fold & Cut corners",
+              "time": "03:46:00"
+            },
+            {
+              "title": "Step 5: Pinch & Clip",
+              "time": "05:23:00"
+            },
+            {
+              "title": "Step 6: Sew clipped edges",
+              "time": "05:58:00"
+            },
+            {
+              "title": "Step 7: Turn wrong side out",
+              "time": "07:32:00"
+            },
+            {
+              "title": "Step 8: Sew edges again",
+              "time": "07:38:00"
+            },
+            {
+              "title": "Step 9: Turn right side out",
+              "time": "10:10:00"
+            }
           ]
         },
         {
@@ -49465,6 +50693,20 @@
                 "type": "warning",
                 "text": "Remove the threads slowly and evenly. Pulling too many threads at once can distort the fabric or damage the stitched border."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew inner square",
+              "time": "00:50:00"
+            },
+            {
+              "title": "Step 3: Fray Edges",
+              "time": "02:18:00"
             }
           ]
         },
@@ -49602,6 +50844,48 @@
                 "text": "If the project will be used by young children, avoid small buttons and use embroidered details instead to prevent choking hazards."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:13:00"
+            },
+            {
+              "title": "Step 2: Make the antennae",
+              "time": "00:46:00"
+            },
+            {
+              "title": "Step 3: Sew the butteifly",
+              "time": "01:53:00"
+            },
+            {
+              "title": "Step 4: Stuffing",
+              "time": "04:56:00"
+            },
+            {
+              "title": "Step 5: Ladder stitch",
+              "time": "05:11:00"
+            },
+            {
+              "title": "Step 6: Sew the floral appliques",
+              "time": "05:53:00"
+            },
+            {
+              "title": "Step 7: Sew the upper wing accents",
+              "time": "08:04:00"
+            },
+            {
+              "title": "Step 8: Attach the floral appliques",
+              "time": "10:04:00"
+            },
+            {
+              "title": "Step 9: Attach the upper wing accents",
+              "time": "12:31:00"
+            },
+            {
+              "title": "Step 10: Decorative stitches",
+              "time": "13:33:00"
+            }
           ]
         },
         {
@@ -49711,6 +50995,44 @@
                 "text": "Sew the final topstitching slowly and evenly to create a clean, professional-looking edge around the opening."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:15:00"
+            },
+            {
+              "title": "Step 2: Sew the hanging loop",
+              "time": "00:54:00"
+            },
+            {
+              "title": "Step 3: Quilt the mitt pieces",
+              "time": "01:32:00"
+            },
+            {
+              "title": "Step 4: Sew the mitt",
+              "time": "03:10:00"
+            },
+            {
+              "title": "Step 5: Sew the lining",
+              "time": "04:45:00"
+            },
+            {
+              "title": "Step 6: Sew hanging loop to lining",
+              "time": "07:02:00"
+            },
+            {
+              "title": "Step 7: Sew lining to outer mitt",
+              "time": "07:26:00"
+            },
+            {
+              "title": "Step 8: Turn right side out",
+              "time": "08:40:00"
+            },
+            {
+              "title": "Step 9: Topstitch",
+              "time": "09:08:00"
+            }
           ]
         },
         {
@@ -49792,6 +51114,20 @@
                 "type": "common_mistake",
                 "text": "Check that the gathers are distributed evenly around the entire cover instead of allowing excess fullness to collect in one area."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:07:00"
+            },
+            {
+              "title": "Step 2: Serge the edge",
+              "time": "00:38:00"
+            },
+            {
+              "title": "Step 3: Sew the elastic",
+              "time": "01:03:00"
             }
           ]
         },
@@ -49901,6 +51237,40 @@
                 "type": "warning",
                 "text": "Remove only the casing stitches and avoid cutting the fabric or opening the structural side seam."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:04:00"
+            },
+            {
+              "title": "Step 2: Sew the top band",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 3: Sew the main body",
+              "time": "00:50:00"
+            },
+            {
+              "title": "Step 4: Sew top band to body",
+              "time": "01:31:00"
+            },
+            {
+              "title": "Step 5: Sew top casing",
+              "time": "02:52:00"
+            },
+            {
+              "title": "Step 6: Sew bottom casing",
+              "time": "03:30:00"
+            },
+            {
+              "title": "Step 7: Sew the drowstrings",
+              "time": "04:48:00"
+            },
+            {
+              "title": "Step 8: Insert the drowstrings",
+              "time": "05:25:00"
             }
           ]
         },
@@ -51068,7 +52438,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Green cotton fabric and orange cotton fabric"
+              "description": "Green cotton fabric, 21.7\" x 43.3\""
             },
             {
               "title": "Materials Needed",
@@ -52421,7 +53791,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Wool-blend felt (cream, light blue, grey, mustard, orange, pink, dark blue, white)"
+              "description": "Felt, wool-blend: cream, light blue, grey, mustard, orange, pink, dark blue and white scraps"
             },
             {
               "title": "Materials Needed",
@@ -52539,7 +53909,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Cotton fabric (foliage print, green, red and gold spot print) and felt (white, black, brown, orange, red, cream)"
+              "description": "Fabric, cotton: foliage print, green, red and gold spot print, 2 fat quarters"
             },
             {
               "title": "Materials Needed",
@@ -52752,6 +54122,40 @@
                 "text": "Pin the small heart in place before stitching to prevent shifting and keep it centered on the larger heart."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:15:00"
+            },
+            {
+              "title": "Step 2: Sew large heart",
+              "time": "02:02:00"
+            },
+            {
+              "title": "Step 3: Sew small heart",
+              "time": "04:59:00"
+            },
+            {
+              "title": "Step 4: Trim - Clip",
+              "time": "07:52:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "09:12:00"
+            },
+            {
+              "title": "Step 6: Stuffing",
+              "time": "09:52:00"
+            },
+            {
+              "title": "Step 7: Topstitch large heart",
+              "time": "10:35:00"
+            },
+            {
+              "title": "Step 8: Join Hearts",
+              "time": "12:58:00"
+            }
           ]
         },
         {
@@ -52815,6 +54219,24 @@
                 "type": "pro_tip",
                 "text": "Position the bow at the center of the base and secure it with several stitches to prevent it from shifting during use."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew the base",
+              "time": "00:18:00"
+            },
+            {
+              "title": "Step 3: Sew the bow",
+              "time": "00:59:00"
+            },
+            {
+              "title": "Step 4: Attach the bow",
+              "time": "03:00:00"
             }
           ]
         },
@@ -52925,6 +54347,36 @@
                 "text": "Center the leaf before stitching so the finished strawberry looks balanced and symmetrical."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:13:00"
+            },
+            {
+              "title": "Step 2: Quilt the batting",
+              "time": "01:13:00"
+            },
+            {
+              "title": "Step 3: Sew the stem",
+              "time": "03:40:00"
+            },
+            {
+              "title": "Step 4: Sew the leaf",
+              "time": "04:24:00"
+            },
+            {
+              "title": "Step 5: Sew the strawberry",
+              "time": "06:30:00"
+            },
+            {
+              "title": "Step 6: Topstitch",
+              "time": "09:13:00"
+            },
+            {
+              "title": "Step 7: Sew on the leaf",
+              "time": "10:35:00"
+            }
           ]
         },
         {
@@ -52988,6 +54440,24 @@
                 "type": "common_mistake",
                 "text": "Hold both elastic ends securely while threading to prevent one end from slipping back inside the fabric tube."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:06:00"
+            },
+            {
+              "title": "Step 2: Sew",
+              "time": "00:18:00"
+            },
+            {
+              "title": "Step 3: Insert Elastic",
+              "time": "03:25:00"
+            },
+            {
+              "title": "Step 4: Sew",
+              "time": "04:03:00"
             }
           ]
         },
@@ -53070,6 +54540,32 @@
                 "type": "pro_tip",
                 "text": "Match the thread color to the fabric so the ladder stitch becomes virtually invisible after closing."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:14:00"
+            },
+            {
+              "title": "Step 2: Sew",
+              "time": "00:55:00"
+            },
+            {
+              "title": "Step 3: Turn right side out",
+              "time": "02:34:00"
+            },
+            {
+              "title": "Step 4: Stuff",
+              "time": "02:58:00"
+            },
+            {
+              "title": "Step 5: The center detail",
+              "time": "03:18:00"
+            },
+            {
+              "title": "Step 6: Hand sew",
+              "time": "04:33:00"
             }
           ]
         },
@@ -53162,6 +54658,20 @@
                 "text": "Press the sleeve before topstitching to achieve straighter stitching lines and a more professional finish."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew inner square",
+              "time": "00:50:00"
+            },
+            {
+              "title": "Step 3: Fray Edges",
+              "time": "02:18:00"
+            }
           ]
         },
         {
@@ -53172,7 +54682,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Main fabric and lining fabric"
+              "description": "Main fabric: one piece measuring 16\" x 16\""
             },
             {
               "title": "Materials Needed",
@@ -53244,6 +54754,32 @@
                 "text": "Make sure the folded sections remain even on both sides before stitching, as uneven folds can cause the organizer pockets to become misaligned."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:11:00"
+            },
+            {
+              "title": "Step 2: Sew the tie strings",
+              "time": "00:47:00"
+            },
+            {
+              "title": "Step 3: Sew the pen loops",
+              "time": "02:23:00"
+            },
+            {
+              "title": "Step 4: Sew the ties to the roll",
+              "time": "05:07:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "07:05:00"
+            },
+            {
+              "title": "Step 6: Topstitch",
+              "time": "07:26:00"
+            }
           ]
         },
         {
@@ -53251,7 +54787,6 @@
           "level": "Beginner",
           "time": "30 min",
           "finishedSize": "2.8\" x 31.5\"",
-          "mainFabric": "Woven or upcycled fabric",
           "techPack": [
             {
               "title": "Main Fabric",
@@ -53318,6 +54853,28 @@
                 "text": "Keep the ladder stitches small and evenly spaced so the seam becomes nearly invisible after tightening the thread."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:10:00"
+            },
+            {
+              "title": "Step 2: Sew the headband",
+              "time": "00:19:00"
+            },
+            {
+              "title": "Step 3: Trim",
+              "time": "01:26:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "01:36:00"
+            },
+            {
+              "title": "Step 5: Ladder stitch",
+              "time": "01:54:00"
+            }
           ]
         },
         {
@@ -53325,7 +54882,6 @@
           "level": "Beginner",
           "time": "30 min",
           "finishedSize": "2.8\" x 9.8\"",
-          "mainFabric": "Woven or upcycled fabric",
           "techPack": [
             {
               "title": "Main Fabric",
@@ -53410,6 +54966,36 @@
                 "text": "Use small, evenly spaced ladder stitches for a nearly invisible finish that blends seamlessly with the fabric."
               }
             }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:12:00"
+            },
+            {
+              "title": "Step 2: Sew the elastic strap",
+              "time": "00:40:00"
+            },
+            {
+              "title": "Step 3: Sew the eye mask",
+              "time": "01:28:00"
+            },
+            {
+              "title": "Step 4: Trim - Clip",
+              "time": "02:07:00"
+            },
+            {
+              "title": "Step 5: Turn right side out",
+              "time": "02:31:00"
+            },
+            {
+              "title": "Step 6: Stuff",
+              "time": "02:54:00"
+            },
+            {
+              "title": "Step 7: Ladder stitch",
+              "time": "03:15:00"
+            }
           ]
         },
         {
@@ -53491,6 +55077,32 @@
                 "type": "common_mistake",
                 "text": "Check that both sides of the bow are even before securing the centre thread, because the shape will be difficult to adjust after the centre band is attached."
               }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:21:00"
+            },
+            {
+              "title": "Step 2: Sew the main bow pieces",
+              "time": "01:08:00"
+            },
+            {
+              "title": "Step 3: Trim - Clip",
+              "time": "01:55:00"
+            },
+            {
+              "title": "Step 4: Turn right side out",
+              "time": "02:12:00"
+            },
+            {
+              "title": "Step 5: Sew the center tie",
+              "time": "02:28:00"
+            },
+            {
+              "title": "Step 6: Form the bow shape",
+              "time": "03:05:00"
             }
           ]
         },
@@ -54672,7 +56284,7 @@
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Fairytale prints (5 pieces, 16.93\" x 18.90\"), four coordinating prints (9.84\" x 13.78\"), pink fabric, white fabric, and felt (brown, red, purple, turquoise)"
+              "description": "Fabric for fairytale prints, 5 pieces, 16.93 inches x 18.90 inches"
             },
             {
               "title": "Materials Needed",
