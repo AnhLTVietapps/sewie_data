@@ -1,22 +1,22 @@
 [
   {
     "name": "Everyday Floral Scrunchie",
-    "level": "Cơ bản",
-    "time": "14-25 phút",
+    "level": "Người mới bắt đầu",
+    "time": "14-23 phút",
     "finishedSize": "5 x 5 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Thông tin vải",
-        "description": "Vải chính: 1 dải vải kích thước 5 × 20 inches, Chun: 1 đoạn dài 7 inches"
+        "description": "Vải chính: 1 dải vải kích thước 5 × 20 inch, Dây chun: 1 đoạn dài 7 inch"
       },
       {
         "title": "Dụng cụ cần thiết",
-        "description": "Máy may, Kéo cắt vải, Thước dây / Thước kẻ, Phấn may / Bút đánh dấu vải, Ghim / Kẹp vải, Kim băng, Kim khâu tay, Kim xỏ dây / Kim luồn chun"
+        "description": "Máy may, Kéo cắt vải, Thước dây / Thước thẳng, Phấn may / Bút đánh dấu vải, Ghim / Kẹp may, Ghim băng, Kim khâu tay, Dụng cụ luồn chun / Que luồn chun"
       },
       {
         "title": "Kỹ thuật cần dùng",
-        "description": "May đường thẳng\nMay diễu"
+        "description": "Đường may thẳng\nĐường may diễu"
       }
     ],
     "showCustomSize": false,
@@ -28,11 +28,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
-        "content": "Bạn cần một dải vải dài, một đoạn chun và kéo.\nBạn cũng cần ghim hoặc kẹp vải, kim xỏ dây, bút đánh dấu vải và thước.\nVải có kích thước 5 × 20 inches (khoảng 12 × 50 cm). Chun dài khoảng 7 inches (18 cm).\nGấp đôi vải lại, mặt phải úp vào nhau.\nĐánh dấu đường chừa đường may 1 cm dọc theo mép vải.",
+        "title": "Bước 1: Cắt - Chuẩn bị",
+        "content": "Bạn sẽ cần một dải vải dài, một đoạn chun và kéo.\nBạn cũng sẽ cần ghim hoặc kẹp, dụng cụ luồn chun, bút đánh dấu vải, thước.\nDải vải có kích thước 5 × 20 inch (khoảng 12 × 50 cm). Đoạn chun dài khoảng 7 inch (18 cm).\nGập đôi tấm vải, hai mặt phải úp vào nhau.\nĐánh dấu đường chừa đường may 1 cm dọc theo mép vải.",
         "tip": {
           "type": "pro_tip",
-          "text": "Dùng dao cắt vải tròn và thước để giữ mép dải vải luôn thẳng, giúp dây buộc tóc thành phẩm có dáng đều đẹp."
+          "text": "Dùng dao cắt tròn và thước để giữ các mép của dải vải thẳng, đảm bảo sản phẩm hoàn thiện có hình dạng đều đẹp."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
@@ -40,11 +40,11 @@
       },
       {
         "number": 2,
-        "title": "Bước 2: May mép ngắn",
-        "content": "Đặt hai mép ngắn khớp nhau, mặt phải úp vào nhau\nMay 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may tới và nhớ lại mũi ở cuối để cố định\nMở đường may ra và là phẳng.",
+        "title": "Bước 2: May cạnh ngắn",
+        "content": "Căn hai cạnh ngắn sao cho hai mặt phải úp vào nhau\nMay 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may về phía trước và nhớ lại mũi ở cuối để cố định\nMở đường may ra và là phẳng.",
         "tip": {
           "type": "common_mistake",
-          "text": "Đảm bảo vải không bị xoắn trước khi may hai đầu lại với nhau, nếu không dây buộc tóc thành phẩm sẽ bị méo dáng."
+          "text": "Hãy đảm bảo vải không bị xoắn trước khi may hai đầu lại với nhau, nếu không sản phẩm hoàn thiện sẽ có hình dạng không đều."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%202_%20Sew%20the%20Short%20Edge.png"
@@ -52,11 +52,11 @@
       },
       {
         "number": 3,
-        "title": "Bước 3: May mép dài",
-        "content": "Cuộn lớp vải trên lại như hình minh họa.\nQuấn hai mép của lớp vải dưới quanh phần vải đã cuộn.\nCăn thẳng các mép dài và cố định bằng ghim.\nMay dọc theo mép dài bằng đường may thẳng.\nMay 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may như bình thường và tháo ghim dần khi may.\nCẩn thận không may trúng phần vải đã cuộn bên trong.\nNhẹ nhàng kéo phần vải cuộn bên trong ra dần khi may.\nChừa một khoảng hở khoảng 5 cm (2 in).\nLại mũi ở cuối để cố định.",
+        "title": "Bước 3: May cạnh dài",
+        "content": "Cuộn lớp vải trên cùng như hình minh họa.\nCuộn hai mép của lớp vải dưới quanh phần vải đã cuộn.\nCăn thẳng các cạnh dài và cố định bằng ghim.\nMay dọc theo cạnh dài bằng đường may thẳng.\nMay 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may về phía trước như bình thường và tháo ghim ra trong khi may.\nCẩn thận không may vào phần vải đã cuộn ở bên trong.\nNhẹ nhàng kéo phần vải đã cuộn bên trong trong khi may.\nChừa một khe hở khoảng 5 cm (2 in).\nLại mũi ở cuối để cố định.\nLộn ống vải sang mặt phải qua khe hở.\nVuốt phẳng các mép vải và là phẳng.",
         "tip": {
           "type": "warning",
-          "text": "Cẩn thận không để các lớp vải bên trong vô tình bị kẹt vào đường may, vì như vậy sẽ không lộn được ống vải."
+          "text": "Cẩn thận không vô tình may trúng các lớp vải bên trong vào đường may, vì điều này sẽ khiến ống vải không lộn ra được đúng cách."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
@@ -64,11 +64,11 @@
       },
       {
         "number": 4,
-        "title": "Bước 5: Luồn chun",
-        "content": "Gắn chun vào kim xỏ dây.\nLuồn chun qua ống vải.\nBuộc chặt hai đầu chun lại với nhau.\nKéo nhẹ để kiểm tra độ co giãn và nút buộc.\nCắt bỏ phần thừa, chừa lại khoảng 1 cm.",
+        "title": "Bước 4: Luồn chun",
+        "content": "Gắn chun vào thước dây.\nLuồn chun qua ống vải.\nBuộc chặt hai đầu chun lại với nhau.\nKéo nhẹ để kiểm tra độ co giãn và nút buộc.\nCắt phần thừa, chừa lại khoảng 1 cm.",
         "tip": {
           "type": "common_mistake",
-          "text": "Giữ chắc cả hai đầu chun khi luồn để tránh một đầu bị tuột ngược vào trong ống vải."
+          "text": "Giữ chặt cả hai đầu chun trong khi luồn để tránh một đầu bị tuột trở lại vào trong ống vải."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
@@ -76,11 +76,11 @@
       },
       {
         "number": 5,
-        "title": "Bước 6: Đóng miệng hở",
-        "content": "Gập các mép vải thô vào trong và căn cho ngay ngắn.\nLại mũi ở đầu và cuối để cố định.\nMay diễu sát mép để đóng miệng hở.\nCắt bỏ chỉ thừa.\nChỉnh vải sao cho các nếp nhún phân bố đều.",
+        "title": "Bước 5: Khâu đóng khe hở",
+        "content": "Gập các mép vải thô vào trong và căn cho ngay ngắn.\nLại mũi ở đầu và cuối để cố định.\nMay diễu sát mép để đóng khe hở.\nCắt chỉ thừa.\nChỉnh vải sao cho các nếp nhún phân bố đều.",
         "tip": {
           "type": "common_mistake",
-          "text": "Giữ chắc cả hai đầu chun khi luồn để tránh một đầu bị tuột ngược vào trong ống vải."
+          "text": "Giữ chặt cả hai đầu chun trong khi luồn để tránh một đầu bị tuột trở lại vào trong ống vải."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
@@ -89,7 +89,7 @@
     ],
     "timelines": [
       {
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
+        "title": "Bước 1: Cắt - Chuẩn bị",
         "time": "00:06:00"
       },
       {
@@ -108,22 +108,22 @@
   },
   {
     "name": "Cozy Puffed Coaster",
-    "level": "Cơ bản",
+    "level": "Người mới bắt đầu",
     "time": "25-40 phút",
     "finishedSize": "6 x 6 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Thông tin vải",
-        "description": "Vải chính: 2 miếng vải, mỗi miếng kích thước 17 × 17 cm"
+        "description": "Vải chính: 2 miếng, mỗi miếng kích thước 17 × 17 cm"
       },
       {
         "title": "Dụng cụ cần thiết",
-        "description": "Máy may, Kim máy may, Kéo cắt vải, Kéo cắt chỉ, Thước kẻ hoặc thước may quilt, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp vải, Que lộn góc, Bàn là và cầu là, Dụng cụ tháo chỉ"
+        "description": "Máy may, Kim máy may, Kéo cắt vải, Kéo bấm chỉ, Thước thẳng hoặc thước chần bông, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp may, Dụng cụ lộn góc nhọn, Bàn là và cầu là, Dụng cụ tháo chỉ"
       },
       {
         "title": "Kỹ thuật cần dùng",
-        "description": "May đường thẳng"
+        "description": "Đường may thẳng"
       }
     ],
     "showCustomSize": false,
@@ -135,11 +135,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
-        "content": "Bạn cần vải chính, bông nhồi và kéo.\nBạn cũng cần ghim hoặc kẹp vải, kim xỏ dây, bút đánh dấu vải và thước.\nCắt 2 miếng vải chính, mỗi miếng kích thước 17 × 17 cm. Kích thước thành phẩm sẽ là 15 × 15 cm.\nBạn có thể điều chỉnh kích thước cho vừa với cốc của mình, nhưng nhớ kích thước cắt phải lớn hơn kích thước thành phẩm khoảng 2 cm cả chiều dài và chiều rộng.\nỞ mặt trái của vải, đánh dấu đường chừa đường may 1 cm dọc theo cả bốn mép.\nỞ mặt phải, đo vào trong 5 cm (2 inches) từ mỗi mép và vẽ một hình vuông nhỏ hơn ở giữa.\nChừa hai khoảng hở ở cùng một phía của hình vuông trong và hình vuông ngoài, mỗi khoảng dài khoảng 4 cm.",
+        "title": "Bước 1: Cắt - Chuẩn bị",
+        "content": "Bạn sẽ cần vải chính, bông nhồi và kéo.\nBạn cũng sẽ cần ghim hoặc kẹp, dụng cụ luồn chun, bút đánh dấu vải, thước.\nCắt 2 miếng vải chính, mỗi miếng kích thước 17 × 17 cm. Kích thước hoàn thiện sẽ là 15 × 15 cm.\nBạn có thể điều chỉnh kích thước cho vừa với chiếc cốc của mình, nhưng hãy đảm bảo kích thước cắt lớn hơn khoảng 2 cm ở cả chiều dài và chiều rộng so với kích thước hoàn thiện.\nỞ mặt trái của vải, đánh dấu đường chừa đường may 1 cm dọc theo cả bốn cạnh.\nỞ mặt phải, đo vào trong 5 cm (2 inch) từ mỗi cạnh và vẽ một hình vuông nhỏ hơn ở giữa.\nChừa hai khe hở trên cùng một cạnh của hình vuông trong và hình vuông ngoài, mỗi khe dài khoảng 4 cm.",
         "tip": {
           "type": "pro_tip",
-          "text": "Dùng thước may quilt và bút đánh dấu vải để giữ các cạnh thật vuông vắn, giúp miếng lót ly thành phẩm trông chuyên nghiệp hơn."
+          "text": "Dùng thước chần bông và bút đánh dấu vải để giữ tất cả các cạnh vuông vắn hoàn hảo, giúp đế lót cốc hoàn thiện trông chuyên nghiệp hơn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
@@ -147,11 +147,11 @@
       },
       {
         "number": 2,
-        "title": "Bước 2: May miếng vải chính",
-        "content": "Đặt hai miếng vải chính mặt phải úp vào nhau.\nCố định cả bốn góc vải bằng ghim.\nCăn giữa chân vịt thẳng với đường may đã đánh dấu.\nMay 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may theo đường đã đánh dấu, nhớ lại mũi ở cuối để cố định đường may.\nKhi tới góc, để kim cắm trong vải. Sau đó nâng chân vịt lên, xoay vải, hạ chân vịt xuống và may tiếp.\nCắt gọn các góc cẩn thận, không cắt phạm vào mũi may. Việc này giúp các góc phẳng đẹp hơn khi lộn mặt phải ra.\nLộn mặt phải của vải ra ngoài.\nNếu các góc khó lộn, nhẹ nhàng đẩy chúng ra bằng đũa hoặc dụng cụ đầu tù. Cẩn thận không đẩy quá mạnh kẻo đâm thủng vải.",
+        "title": "Bước 2: May miếng chính",
+        "content": "Đặt hai miếng vải chính úp mặt phải vào nhau.\nCố định cả bốn góc vải bằng ghim.\nCăn tâm của chân vịt thẳng với đường may.\nMay 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may dọc theo đường đã đánh dấu, nhớ lại mũi ở cuối để cố định đường may.\nKhi đến góc, hãy để kim cắm xuống vải. Sau đó nhấc chân vịt, xoay vải, hạ chân vịt xuống và tiếp tục may.\nCắt tỉa các góc cẩn thận, không cắt vào đường chỉ. Điều này giúp các góc nằm phẳng hơn khi lộn sang mặt phải.\nLộn vải sang mặt phải.\nNếu các góc khó lộn, hãy nhẹ nhàng đẩy chúng ra bằng đũa hoặc dụng cụ đầu tù. Cẩn thận không đẩy quá mạnh hoặc làm thủng vải.",
         "tip": {
           "type": "common_mistake",
-          "text": "Người mới thường quên chừa khe lộn mặt phải hoặc chừa quá nhỏ, khiến việc lộn miếng lót ly ra rất khó khăn."
+          "text": "Người mới bắt đầu thường quên chừa khe lộn hoặc chừa quá nhỏ, khiến việc lộn đế lót cốc sang mặt phải trở nên khó khăn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
@@ -160,11 +160,11 @@
       },
       {
         "number": 3,
-        "title": "Bước 3: May hình vuông trong",
-        "content": "May diễu dọc theo hình vuông trong, bắt đầu bằng một mũi lại để cố định.\nMay hình vuông trong giống như hình vuông ngoài, chừa một khoảng hở.\nCắt bỏ chỉ thừa.\nBây giờ, nhồi bông vào vùng vuông nhỏ ở giữa trước. Không cần nhồi quá nhiều bông ở đây.\nMay kín miệng hở của hình vuông trong\nSau đó, nhồi bông vào đường viền ngoài qua miệng hở phía ngoài,",
+        "title": "Bước 3: May hình vuông bên trong",
+        "content": "May diễu dọc theo hình vuông bên trong, bắt đầu bằng một mũi lại để cố định đường chỉ.\nMay hình vuông bên trong theo cách tương tự như hình vuông bên ngoài, chừa một khe hở.\nCắt chỉ thừa.\nBây giờ, hãy nhồi phần hình vuông nhỏ ở giữa trước. Bạn không cần nhồi quá nhiều bông ở phần này.\nKhâu đóng khe hở của hình vuông bên trong\nSau đó, nhồi phần viền bên ngoài qua khe hở bên ngoài,",
         "tip": {
           "type": "warning",
-          "text": "Không kéo các góc quá mạnh tay vì có thể làm giãn miệng hở hoặc méo dáng miếng lót ly."
+          "text": "Không kéo các góc quá mạnh, vì điều này có thể làm giãn khe hở hoặc làm biến dạng hình dáng của đế lót cốc."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
@@ -172,11 +172,11 @@
       },
       {
         "number": 4,
-        "title": "Bước 4: Đóng miệng hở",
-        "content": "Dùng kim khâu tay để khâu kín miệng hở dọc theo mép ngoài, đưa kim lên từ giữa hai lớp vải.\nỞ mép của lớp vải trên, khâu một mũi nhỏ từ phải sang trái.\nKhâu một mũi tương ứng trên lớp vải dưới, ngay phía bên dưới.\nTiếp tục khâu xen kẽ lớp trên và lớp dưới cho đến khi miệng hở được đóng kín hoàn toàn.\nKéo chỉ để hai mép vải khép lại với nhau\nCuối cùng, thắt nút chỉ rồi giấu đầu chỉ vào trong vải.\nLà nhẹ để xóa vết bút đánh dấu vải và giúp tổng thể trông đều đẹp hơn.",
+        "title": "Bước 4: Khâu đóng khe hở",
+        "content": "Dùng kim khâu tay để khâu đóng khe hở dọc theo mép ngoài, đưa kim lên từ giữa hai lớp vải.\nỞ mép của lớp vải trên, khâu một mũi nhỏ từ phải sang trái.\nKhâu một mũi tương ứng trên lớp vải dưới, ngay phía dưới.\nTiếp tục khâu các mũi, luân phiên trên và dưới, cho đến khi khe hở được đóng hoàn toàn.\nKéo chỉ để hai mép vải khép lại với nhau\nCuối cùng, thắt nút cố định chỉ, sau đó giấu đầu chỉ thừa vào bên trong vải.\nLà nhẹ để loại bỏ vết bút đánh dấu vải và giúp hình dáng tổng thể trông đều hơn.",
         "tip": {
           "type": "common_mistake",
-          "text": "Nhồi bông quá nhiều là lỗi thường gặp, khiến miếng lót ly bị cập kênh thay vì nằm phẳng trên bàn."
+          "text": "Nhồi quá nhiều bông là một lỗi thường gặp và có thể khiến đế lót cốc bị bấp bênh thay vì nằm phẳng trên bàn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%204_%20Close%20the%20opening.png"
@@ -185,7 +185,7 @@
     ],
     "timelines": [
       {
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
+        "title": "Bước 1: Cắt - Chuẩn bị",
         "time": "00:14:00"
       },
       {
@@ -193,11 +193,11 @@
         "time": "00:55:00"
       },
       {
-        "title": "Bước 3: Lộn mặt phải ra ngoài",
+        "title": "Bước 3: Lộn sang mặt phải",
         "time": "02:34:00"
       },
       {
-        "title": "Bước 4: Nhồi bông",
+        "title": "Bước 4: Nhồi",
         "time": "02:58:00"
       },
       {
@@ -212,22 +212,22 @@
   },
   {
     "name": "Zip Coin Purse",
-    "level": "Cơ bản",
+    "level": "Người mới bắt đầu",
     "time": "45-70 phút",
     "finishedSize": "4 x 7 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Thông tin vải",
-        "description": "Vải chính: 2 miếng vải, mỗi miếng kích thước 10 × 8 inches, Mếch dán: 2 miếng, mỗi miếng kích thước 10 × 8 inches, Dây kéo: 1 chiếc dài 7 inches"
+        "description": "Vải chính: 2 miếng, mỗi miếng kích thước 10 × 8 inch, Keo dựng dán nhiệt: 2 miếng, mỗi miếng kích thước 10 × 8 inch, Khóa kéo: 1 chiếc dài 7 inch"
       },
       {
         "title": "Dụng cụ cần thiết",
-        "description": "Máy may và kim máy may phù hợp, Chân vịt thường và chân vịt may dây kéo, Kéo cắt vải và kéo cắt chỉ, Thước kẻ và thước dây, Giấy vẽ rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp vải, Que lộn vải đầu tù, Bàn là và cầu là, Dụng cụ tháo chỉ, Kim khâu tay nếu đóng miệng hở bằng mũi khâu giấu mũi, Nguyên liệu: Vải ngoài, vải lót, dây kéo, chỉ may và mếch dán hoặc bông lót quilt mỏng (tùy chọn)."
+        "description": "Máy may và kim máy may phù hợp, Chân vịt thường và chân vịt tra khóa kéo, Kéo cắt vải và kéo bấm chỉ, Thước thẳng và thước dây, Giấy rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp may, Dụng cụ lộn đầu tù, Bàn là và cầu là, Dụng cụ tháo chỉ, Kim khâu tay nếu khâu đóng khe lộn bằng mũi khâu thang, Vật liệu: Vải mặt ngoài, vải lót, khóa kéo, chỉ may, và keo dựng dán nhiệt hoặc bông chần mỏng tùy chọn."
       },
       {
         "title": "Kỹ thuật cần dùng",
-        "description": "May đường thẳng, May diễu"
+        "description": "Đường may thẳng, Đường may diễu"
       }
     ],
     "showCustomSize": false,
@@ -239,11 +239,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
-        "content": "Bạn cần vải chính, mếch dán, một chiếc dây kéo và kéo.\nCắt 2 miếng vải chính và 2 miếng mếch dán, mỗi miếng kích thước 10 × 8 inches (khoảng 25 × 20 cm).\nÉp mếch dán vào mặt trái của các miếng vải chính.\nCắt bỏ phần mếch thừa quanh các mép.",
+        "title": "Bước 1: Cắt - Chuẩn bị",
+        "content": "Bạn sẽ cần vải chính, keo dựng dán nhiệt, một chiếc khóa kéo và kéo.\nCắt 2 miếng vải chính và 2 miếng keo dựng, mỗi miếng kích thước 10 × 8 inch (khoảng 25 × 20 cm).\nDán keo dựng lên mặt trái của các miếng vải chính bằng bàn là.\nCắt bỏ phần keo dựng thừa quanh các mép.",
         "tip": {
           "type": "pro_tip",
-          "text": "Xếp chồng các lớp vải rồi cắt cùng lúc để đảm bảo mọi miếng vải của ví có kích thước bằng nhau tuyệt đối."
+          "text": "Xếp chồng các lớp vải và cắt chúng cùng lúc để đảm bảo tất cả các miếng của túi đều có kích thước chính xác như nhau."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
@@ -251,11 +251,11 @@
       },
       {
         "number": 2,
-        "title": "Bước 2: May dây kéo vào vải",
-        "content": "Gấp đôi hai miếng vải lại và là để tạo nếp gấp.\nKẹp dây kéo giữa các lớp vải và ghim dọc theo dải vải của dây kéo.\nMay tới 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may dọc theo các mép, tháo ghim dần khi may.\nNhớ lại mũi ở cuối để cố định.\nMở vải ra và may diễu dọc theo mép dây kéo.\nLặp lại tương tự với mặt còn lại của dây kéo.",
+        "title": "Bước 2: May khóa kéo",
+        "content": "Gập đôi hai miếng vải và là để tạo nếp gấp.\nKẹp khóa kéo vào giữa các lớp vải và ghim dọc theo dải băng của khóa kéo.\nMay về phía trước 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may dọc theo các mép, tháo ghim ra trong khi may.\nNhớ lại mũi ở cuối để cố định.\nMở các tấm vải ra và may diễu dọc theo mép khóa kéo.\nLặp lại quy trình tương tự cho phía còn lại của khóa kéo.",
         "tip": {
           "type": "common_mistake",
-          "text": "Đảm bảo hai bên dây kéo được căn đều nhau trước khi may, nếu không ví thành phẩm có thể bị xoắn hoặc méo."
+          "text": "Hãy đảm bảo cả hai phía của khóa kéo được căn đều trước khi may, nếu không túi có thể bị xoắn hoặc không đều khi hoàn thiện."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
@@ -264,10 +264,10 @@
       {
         "number": 3,
         "title": "Bước 3: May quanh các mép",
-        "content": "Mở dây kéo ra một nửa để sau này lộn mặt phải ví ra ngoài được.\nĐánh dấu một khoảng hở 2–3 inch (5–7 cm) để lộn.\nCăn thẳng các mép và ghim quanh cả bốn cạnh.\nCăn giữa chân vịt thẳng với đường may.\nMay 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may dọc theo mép, nhớ lại mũi ở cuối để cố định đường may.\nKhi tới góc, để kim cắm trong vải. Sau đó nâng chân vịt lên, xoay vải, hạ chân vịt xuống và may tiếp.",
+        "content": "Mở khóa kéo một nửa để bạn có thể lộn túi sang mặt phải sau này.\nĐánh dấu một khe hở 2–3 inch (5–7 cm) để lộn.\nCăn các mép và ghim quanh cả bốn phía.\nCăn tâm của chân vịt thẳng với đường may.\nMay 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may dọc theo mép, nhớ lại mũi ở cuối để cố định đường may.\nKhi đến góc, hãy để kim cắm xuống vải. Sau đó nhấc chân vịt, xoay vải, hạ chân vịt xuống và tiếp tục may.",
         "tip": {
           "type": "pro_tip",
-          "text": "Là vải tránh xa dây kéo trước khi may diễu để đường may sạch đẹp và chuyên nghiệp hơn."
+          "text": "Hãy là vải tránh xa khóa kéo trước khi may diễu để có bề mặt hoàn thiện gọn gàng và chuyên nghiệp hơn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
@@ -275,11 +275,11 @@
       },
       {
         "number": 4,
-        "title": "Bước 4: Lộn mặt phải ra ngoài",
-        "content": "Cắt gọn các góc cẩn thận, không cắt phạm vào mũi may. Việc này giúp các góc phẳng đẹp hơn khi lộn mặt phải ra.\nLộn mặt phải của ví ra ngoài qua khe hở.\nMay diễu sát mép để đóng miệng hở.\nVậy là xong! Chiếc ví dây kéo của chúng ta đã hoàn thành và sẵn sàng sử dụng!",
+        "title": "Bước 4: Lộn sang mặt phải",
+        "content": "Cắt tỉa các góc cẩn thận, không cắt vào đường chỉ. Điều này giúp các góc nằm phẳng hơn khi lộn sang mặt phải.\nLộn túi sang mặt phải qua khe hở.\nMay diễu sát mép để đóng khe hở.\nVậy là xong! Túi khóa kéo của chúng ta đã hoàn thành và sẵn sàng để sử dụng!",
         "tip": {
           "type": "warning",
-          "text": "Luôn mở dây kéo trước khi may kín ví, nếu không bạn sẽ không thể lộn mặt phải ví ra ngoài được."
+          "text": "Luôn mở khóa kéo trước khi may đóng túi lại, nếu không có thể sẽ không thể lộn túi sang mặt phải được."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
@@ -288,11 +288,11 @@
     ],
     "timelines": [
       {
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
+        "title": "Bước 1: Cắt - Chuẩn bị",
         "time": "00:15:00"
       },
       {
-        "title": "Bước 2: May dây kéo vào vải",
+        "title": "Bước 2: May khóa kéo vào vải",
         "time": "01:21:00"
       },
       {
@@ -300,37 +300,37 @@
         "time": "02:48:00"
       },
       {
-        "title": "Bước 4: May ráp ví",
+        "title": "Bước 4: May ghép túi",
         "time": "04:14:00"
       },
       {
-        "title": "Bước 5: Lộn mặt phải ra ngoài",
+        "title": "Bước 5: Lộn sang mặt phải",
         "time": "06:44:00"
       },
       {
-        "title": "Bước 6: May kín vải lót",
+        "title": "Bước 6: Khâu đóng lớp lót",
         "time": "07:09:00"
       }
     ]
   },
   {
     "name": "Floral Tote Bag",
-    "level": "Cơ bản",
-    "time": "Khoảng 3–5 giờ",
+    "level": "Người mới bắt đầu",
+    "time": "180-295 phút (Khoảng 3-5 giờ)",
     "finishedSize": "16 x 22 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
     "techPack": [
       {
         "title": "Thông tin vải",
-        "description": "Vải chính: 2 miếng vải, mỗi miếng kích thước 16 × 24 inches, Vải lót: 2 miếng vải, mỗi miếng kích thước 16 × 24 inches"
+        "description": "Vải chính: 2 miếng, mỗi miếng kích thước 16 × 24 inch, Vải lót: 2 miếng, mỗi miếng kích thước 16 × 24 inch"
       },
       {
         "title": "Dụng cụ cần thiết",
-        "description": "Máy may, Kim máy may phù hợp với vải và độ dày bông lót, Kéo cắt vải, Kéo cắt chỉ, Thước kẻ và thước dây, Giấy vẽ rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp vải, Kim khâu tay, Bàn là và cầu là, Dụng cụ tháo chỉ, Chân vịt đi bộ (khuyên dùng khi may quilt)."
+        "description": "Máy may, Kim máy may phù hợp với độ dày của vải và bông chần, Kéo cắt vải, Kéo bấm chỉ, Thước thẳng và thước dây, Giấy rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp may, Kim khâu tay, Bàn là và cầu là, Dụng cụ tháo chỉ, Chân vịt bước (khuyên dùng cho chần bông)."
       },
       {
         "title": "Kỹ thuật cần dùng",
-        "description": "May đường thẳng,May diễu"
+        "description": "Đường may thẳng, Đường may diễu"
       }
     ],
     "showCustomSize": false,
@@ -342,11 +342,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
-        "content": "Để may chiếc túi này, chúng ta sẽ dùng một vài kỹ thuật may cơ bản: đường may thẳng tiêu chuẩn, may mí mép và may diễu. Nối các quai túi lại với nhau bằng một đường may mí mép và một đường may diễu. May hộp góc đáy: Cắt các góc và may các mép lại với nhau\nĐầu tiên, chuẩn bị vải chính & vải lót, tải về và in rập túi của chúng tôi\nSau đó, đánh dấu và cắt một hình tam giác ở các góc đáy của rập\nDùng rập túi để cắt 2 miếng vải chính và 2 miếng vải lót\nỞ mỗi góc đáy, cắt bỏ một hình tam giác nhọn như hình minh họa\nĐặt hai miếng vải chính (vải lót) mặt phải úp vào nhau và ghim dọc theo các mép ngoài",
+        "title": "Bước 1: Cắt - Chuẩn bị",
+        "content": "Để làm chiếc túi này, chúng ta sẽ sử dụng một vài kỹ thuật may thiết yếu: Đường may thẳng tiêu chuẩn, đường may sát mép và đường may diễu. Nối các quai túi lại với nhau bằng đường may sát mép và đường may diễu. Tạo góc đáy hộp: Cắt các góc và may các mép lại với nhau\nTrước tiên, hãy chuẩn bị vải chính và vải lót, tải xuống và in rập túi của chúng ta\nSau đó, đánh dấu và cắt bỏ một hình tam giác ở các góc dưới của rập\nDùng rập túi để cắt 2 miếng vải chính và 2 miếng vải lót\nỞ mỗi góc dưới, cắt bỏ một hình tam giác nhọn như hình minh họa\nĐặt hai miếng vải chính (/lót) úp mặt phải vào nhau, và ghim dọc theo các mép ngoài",
         "tip": {
           "type": "pro_tip",
-          "text": "Sang hết các dấu bấm và dấu căn chỉnh trước khi cắt để việc ráp thân túi và vải lót dễ dàng hơn."
+          "text": "Hãy chuyển tất cả các dấu khấc và dấu căn chỉnh trước khi cắt để việc lắp ráp phần túi ngoài và lớp lót dễ dàng hơn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
@@ -357,11 +357,11 @@
       },
       {
         "number": 2,
-        "title": "Bước 2: May các đường may đáy",
-        "content": "Chọn chế độ may đường thẳng. Vặn núm chỉnh độ dài mũi may về số 2 để có mũi may vừa phải, cân đối\nChập các mép của hình tam giác đáy lại với nhau (mặt phải úp vào nhau)\nCăn thẳng các mép và may một đường thẳng ngang qua\nLặp lại tương tự với ba góc đáy còn lại",
+        "title": "Bước 2: May các đường may ở đáy",
+        "content": "Chọn chế độ đường may thẳng. Đặt núm điều chỉnh độ dài mũi may ở mức 2 để có mũi may cân bằng, độ dài trung bình\nĐưa các mép của hình tam giác ở đáy lại với nhau (hai mặt phải úp vào nhau)\nCăn các mép cho đều và may một đường thẳng ngang qua\nLặp lại quy trình này cho ba góc đáy còn lại",
         "tip": {
           "type": "common_mistake",
-          "text": "Đảm bảo các mặt phải úp vào nhau trước khi may, nếu không đường may sẽ lộ ra mặt ngoài của túi."
+          "text": "Hãy đảm bảo hai mặt phải úp vào nhau trước khi may, nếu không các đường may sẽ bị lộ ra bên ngoài túi."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
@@ -369,11 +369,11 @@
       },
       {
         "number": 3,
-        "title": "Bước 3: May thân túi chính",
-        "content": "*Nhớ lại mũi ở đầu mỗi đường may để cố định mũi chỉ\nMay vòng quanh túi theo đường đã ghim, tháo ghim dần khi may\nKhi may phần đáy cong, để kim cắm trong vải, nâng chân vịt lên, xoay vải rồi may tiếp\nCuối đường may cũng lại mũi để cố định",
+        "title": "Bước 3: May túi chính",
+        "content": "*Nhớ lại mũi ở đầu mỗi đường may để cố định đường chỉ của bạn\nMay một vòng quanh túi dọc theo đường đã ghim, tháo ghim ra trong khi may\nKhi may phần đáy cong, hãy để kim cắm xuống vải, nhấc chân vịt, xoay vải và tiếp tục may\nCũng hãy lại mũi ở cuối đường may để cố định đường chỉ của bạn",
         "tip": {
           "type": "warning",
-          "text": "Lại mũi ở cả hai đầu của miệng hở lộn để đường may không bị bung thêm khi lộn."
+          "text": "Hãy lại mũi ở cả hai đầu của khe lộn để tránh đường may bị bung thêm trong khi lộn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
@@ -381,11 +381,11 @@
       },
       {
         "number": 4,
-        "title": "Bước 4: May vải lót",
-        "content": "May vải lót giống hệt thân túi chính bằng cách may các góc đáy rồi may vòng quanh\nMay vòng quanh túi, chừa một khoảng hở 10cm (4\") ở đáy không may",
+        "title": "Bước 4: May lớp lót",
+        "content": "May lớp lót giống hệt túi chính bằng cách may các góc đáy và may một vòng quanh\nMay một vòng quanh túi, chừa một khoảng hở 10cm (4\") không may ở đáy",
         "tip": {
           "type": "warning",
-          "text": "Bấm các đường cong của đường chừa đường may cẩn thận, không cắt phạm vào mũi chỉ để giúp mép trên phẳng đẹp sau khi lộn."
+          "text": "Hãy bấm các phần chừa đường may cong cẩn thận, không cắt vào đường may, để giúp mép trên nằm phẳng sau khi lộn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
@@ -393,11 +393,11 @@
       },
       {
         "number": 5,
-        "title": "Bước 5: Ráp thân túi và vải lót",
-        "content": "Đây là thân túi chính đã may xong\nĐây là vải lót, với khoảng hở chừa lại ở đáy chưa may\nLộn mặt phải của vải lót ra ngoài\nLồng vải lót vào trong thân túi chính, đảm bảo các góc khớp nhau hoàn hảo\nGhim vòng quanh các mép của miệng túi & quai để giữ các lớp vải chắc chắn\nGhim hai lớp vải lại với nhau dọc theo miệng túi và quai ở cả mặt trước và mặt sau của túi\nMay theo các đường đã ghim\nMay vòng quanh miệng túi và quai, tháo ghim dần khi may",
+        "title": "Bước 5: Ghép túi và lớp lót",
+        "content": "Đây là túi chính đã hoàn thành\nĐây là lớp lót, với khoảng hở được chừa không may ở đáy\nLộn lớp lót sang mặt phải\nLồng lớp lót vào trong túi chính, đảm bảo các góc được căn thẳng hoàn hảo\nGhim một vòng quanh các mép của miệng túi và quai để giữ các lớp cố định chắc chắn\nGhim hai lớp lại với nhau dọc theo miệng túi và quai ở cả mặt trước và mặt sau của túi\nMay dọc theo các đường đã ghim này\nMay một vòng quanh miệng túi và quai, tháo ghim ra trong khi may",
         "tip": {
           "type": "pro_tip",
-          "text": "Là kỹ mép trên trước khi may diễu để có đường may sạch đẹp, chuyên nghiệp."
+          "text": "Hãy là mép trên thật kỹ trước khi may diễu để đạt được bề mặt hoàn thiện gọn gàng, trông chuyên nghiệp."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
@@ -405,11 +405,11 @@
       },
       {
         "number": 6,
-        "title": "Bước 6: May kín khe hở ở đáy vải lót",
-        "content": "Gập các mép vải thô của lỗ lộn vào trong rồi may mí mép để đóng lại",
+        "title": "Bước 6: Khâu đóng khoảng hở ở đáy lớp lót",
+        "content": "Gập các mép vải thô của khe lộn vào trong và may sát mép để đóng lại",
         "tip": {
           "type": "pro_tip",
-          "text": "Giữ hai quai túi dài bằng nhau tuyệt đối để túi thành phẩm đeo lên vai cân đối."
+          "text": "Hãy giữ cả hai quai có độ dài chính xác như nhau để chiếc túi hoàn thiện treo đều khi mang."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
@@ -417,11 +417,11 @@
       },
       {
         "number": 7,
-        "title": "Bước 7: Là phẳng",
-        "content": "Lăn các đường may của miệng túi và quai ra sát mép, rồi là phẳng để định hình",
+        "title": "Bước 7: Là",
+        "content": "Cuộn các đường may của miệng túi và quai ra sát mép, sau đó là phẳng để định hình",
         "tip": {
           "type": "common_mistake",
-          "text": "Gập đều đường chừa đường may trước khi may để miệng hở sau khi đóng trông liền mạch với phần vải lót còn lại."
+          "text": "Hãy gập phần chừa đường may cho đều trước khi may để khe hở đã đóng hòa đều với phần còn lại của lớp lót."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
@@ -429,11 +429,11 @@
       },
       {
         "number": 8,
-        "title": "Bước 8: May quai túi",
-        "content": "Gập mép vải thô của quai vào trong 1cm rồi ghim cố định\nLuồn mép vải thô của đầu quai còn lại vào trong phần vừa gấp\nMay 2 đường song song: May mí mép cách mép 1mm & May diễu cách mép 5mm\nNhớ lại mũi ở đầu và cuối các đường may\nCắt bỏ chỉ thừa",
+        "title": "Bước 8: May quai",
+        "content": "Gập mép vải thô của quai vào trong 1cm và ghim cố định\nLuồn mép vải thô của quai còn lại vào bên trong đầu đã gập mà bạn vừa làm\nMay 2 đường song song: May sát mép cách mép 1mm và May diễu cách mép 5mm\nNhớ lại mũi ở đầu và cuối các đường may của bạn\nCắt chỉ thừa",
         "tip": {
           "type": "common_mistake",
-          "text": "Gập đều đường chừa đường may trước khi may để miệng hở sau khi đóng trông liền mạch với phần vải lót còn lại."
+          "text": "Hãy gập phần chừa đường may cho đều trước khi may để khe hở đã đóng hòa đều với phần còn lại của lớp lót."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
@@ -441,11 +441,11 @@
       },
       {
         "number": 9,
-        "title": "Bước 9: May mí viền",
-        "content": "May mí mép cách mép 1mm vòng quanh miệng túi và các quai",
+        "title": "Bước 9: May sát mép",
+        "content": "May sát mép cách mép 1mm quanh miệng túi và các quai",
         "tip": {
           "type": "common_mistake",
-          "text": "Gập đều đường chừa đường may trước khi may để miệng hở sau khi đóng trông liền mạch với phần vải lót còn lại."
+          "text": "Hãy gập phần chừa đường may cho đều trước khi may để khe hở đã đóng hòa đều với phần còn lại của lớp lót."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
@@ -454,15 +454,15 @@
     ],
     "timelines": [
       {
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
+        "title": "Bước 1: Cắt - Chuẩn bị",
         "time": "00:14:00"
       },
       {
-        "title": "Bước 2: May các miếng vải chính",
+        "title": "Bước 2: May các miếng chính",
         "time": "00:44:00"
       },
       {
-        "title": "Bước 3: May các miếng vải lót",
+        "title": "Bước 3: May các miếng lót",
         "time": "01:12:00"
       },
       {
@@ -474,33 +474,33 @@
         "time": "03:18:00"
       },
       {
-        "title": "Bước 6: May quai túi",
+        "title": "Bước 6: May quai",
         "time": "03:50:00"
       },
       {
-        "title": "Bước 7: May kín miệng hở",
+        "title": "Bước 7: Khâu đóng khe hở",
         "time": "04:39:00"
       }
     ]
   },
   {
     "name": "Comfort Neck Pillow",
-    "level": "Cơ bản",
-    "time": "45-65 phút",
+    "level": "Người mới bắt đầu",
+    "time": "40-65 phút",
     "finishedSize": "11 x 13.5 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
         "title": "Thông tin vải",
-        "description": "Vải chính: 2 miếng vải, mỗi miếng kích thước 16 × 14 inches"
+        "description": "Vải chính: 2 miếng, mỗi miếng kích thước 16 × 14 inch"
       },
       {
         "title": "Dụng cụ cần thiết",
-        "description": "Máy may và kim may phù hợp với vải, Kéo cắt vải, Kéo cắt chỉ, Thước kẻ và thước dây, Giấy vẽ rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp vải, Kim khâu tay để đóng miệng hở, Que lộn vải và nhồi bông đầu tù, Dụng cụ tháo chỉ, Nguyên liệu: Vải mềm, bông nhồi và chỉ may."
+        "description": "Máy may và kim phù hợp với vải, Kéo cắt vải, Kéo bấm chỉ, Thước thẳng và thước dây, Giấy rập, Phấn may hoặc bút đánh dấu vải, Ghim may hoặc kẹp may, Kim khâu tay để khâu đóng khe hở, Dụng cụ đầu tù để lộn và nhồi, Dụng cụ tháo chỉ, Vật liệu: Vải mềm, bông nhồi sợi, và chỉ may."
       },
       {
         "title": "Kỹ thuật cần dùng",
-        "description": "May đường thẳng"
+        "description": "Đường may thẳng"
       }
     ],
     "showCustomSize": false,
@@ -512,11 +512,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
-        "content": "Hôm nay, chúng ta sẽ may một chiếc gối kê cổ êm ái.\nBạn cần vải chính, bông nhồi và kéo.\nBạn cũng cần ghim hoặc kẹp vải, kim xỏ dây, bút đánh dấu vải và thước.\nChuẩn bị rập gối kê cổ theo kích thước như hình.\nĐặt rập lên vải và vẽ theo đường viền.\nCắt 2 miếng vải gối theo đường đã vẽ.",
+        "title": "Bước 1: Cắt - Chuẩn bị",
+        "content": "Hôm nay, chúng ta sẽ may một chiếc gối cổ thoải mái.\nBạn sẽ cần vải chính, bông nhồi và kéo.\nBạn cũng sẽ cần ghim hoặc kẹp, dụng cụ luồn chun, bút đánh dấu vải, thước.\nChuẩn bị rập gối cổ theo kích thước được hiển thị.\nĐặt rập lên vải và vẽ theo đường viền.\nCắt hai miếng gối dọc theo đường đã đánh dấu.",
         "tip": {
           "type": "pro_tip",
-          "text": "Sang các dấu giữa hoặc dấu căn chỉnh từ rập trước khi cắt để khi may các mép cong dễ khớp nhau hơn."
+          "text": "Hãy chuyển bất kỳ dấu tâm hoặc dấu căn chỉnh nào từ rập trước khi cắt để việc khớp các mép cong dễ dàng hơn khi may."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
@@ -525,10 +525,10 @@
       {
         "number": 2,
         "title": "Bước 2: May dọc theo các mép",
-        "content": "Đặt hai miếng vải chính mặt phải úp vào nhau và ghim quanh các mép.\nĐánh dấu một khoảng hở 6–8 cm dọc theo đường cong ngoài để lộn và nhồi bông.\nBắt đầu may từ một đầu của khoảng hở.\nMay tới 2–3 mũi, rồi lại mũi để cố định.\nTiếp tục may dọc theo các mép, tháo ghim dần khi may.\nNhớ lại mũi ở cuối để cố định.",
+        "content": "Đặt hai miếng vải chính úp mặt phải vào nhau và ghim quanh các mép.\nĐánh dấu một khe hở 6–8 cm dọc theo đường cong bên ngoài để lộn và nhồi.\nBắt đầu may từ một đầu của khe hở.\nMay về phía trước 2–3 mũi, sau đó lại mũi để cố định.\nTiếp tục may dọc theo các mép, tháo ghim ra trong khi may.\nNhớ lại mũi ở cuối để cố định.",
         "tip": {
           "type": "common_mistake",
-          "text": "Nhớ chừa miệng hở lộn không may và lại mũi ở cả hai đầu để đường may chắc chắn khi lộn."
+          "text": "Hãy nhớ chừa khe lộn không may và lại mũi ở cả hai đầu để đường may giữ chắc trong khi lộn."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
@@ -536,11 +536,11 @@
       },
       {
         "number": 3,
-        "title": "Bước 3: Lộn mặt phải ra ngoài",
-        "content": "Lộn mặt phải của gối ra ngoài qua miệng hở.\nNhồi bông vào gối thật đều cho đến khi đạt độ căng như ý.",
+        "title": "Bước 3: Lộn sang mặt phải",
+        "content": "Lộn gối sang mặt phải qua khe hở.\nNhồi gối đều bằng bông nhồi cho đến khi đạt độ cứng như mong muốn.",
         "tip": {
           "type": "warning",
-          "text": "Bấm sát các đường may cong nhưng không cắt phạm vào mũi chỉ, nếu không đường may có thể bị bung khi lộn gối."
+          "text": "Hãy bấm sát các đường may cong mà không cắt qua đường chỉ, nếu không đường may có thể bị rách khi lộn gối."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
@@ -548,11 +548,11 @@
       },
       {
         "number": 4,
-        "title": "Bước 4: Đóng miệng hở",
-        "content": "Gập các mép vải thô vào trong và căn cho ngay ngắn.\nDùng mũi khâu giấu mũi để đóng miệng hở.\nKéo chặt chỉ, thắt nút rồi giấu đầu chỉ.\nVậy là xong! Chiếc gối kê cổ êm ái của chúng ta đã hoàn thành và sẵn sàng sử dụng!",
+        "title": "Bước 4: Khâu đóng khe hở",
+        "content": "Gập các mép vải thô vào trong và căn cho ngay ngắn.\nDùng mũi khâu thang để khâu đóng khe hở.\nKéo chặt chỉ, thắt nút và giấu đầu chỉ thừa.\nVậy là xong! Gối cổ của chúng ta đã hoàn thành và sẵn sàng để sử dụng!",
         "tip": {
           "type": "pro_tip",
-          "text": "Dùng que lộn vải đầu tù để nhẹ nhàng đẩy các phần cong ra mà không làm hỏng vải."
+          "text": "Hãy dùng dụng cụ lộn đầu tù để nhẹ nhàng đẩy các phần cong ra mà không làm hỏng vải."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
@@ -561,7 +561,7 @@
     ],
     "timelines": [
       {
-        "title": "Bước 1: Cắt vải - Chuẩn bị",
+        "title": "Bước 1: Cắt - Chuẩn bị",
         "time": "00:16:00"
       },
       {
@@ -569,19 +569,19 @@
         "time": "00:39:00"
       },
       {
-        "title": "Bước 3: Tỉa - Bấm",
+        "title": "Bước 3: Cắt tỉa - Bấm góc",
         "time": "01:19:00"
       },
       {
-        "title": "Bước 4: Lộn mặt phải ra ngoài",
+        "title": "Bước 4: Lộn sang mặt phải",
         "time": "01:49:00"
       },
       {
-        "title": "Bước 5: Nhồi bông",
+        "title": "Bước 5: Nhồi",
         "time": "02:12:00"
       },
       {
-        "title": "Bước 6: Khâu giấu mũi",
+        "title": "Bước 6: Mũi khâu thang",
         "time": "02:28:00"
       }
     ]

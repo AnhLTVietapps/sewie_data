@@ -2,21 +2,21 @@
   {
     "name": "Everyday Floral Scrunchie",
     "level": "Anfänger",
-    "time": "14–25 Min.",
+    "time": "14-23 Min.",
     "finishedSize": "5 x 5 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
-        "title": "Stoffinformationen",
-        "description": "Hauptstoff: 1 Streifen mit den Maßen 5 × 20 inches, Gummiband: 1 Stück mit 7 inches Länge"
+        "title": "Stoffangaben",
+        "description": "Oberstoff: 1 Streifen, 5 × 20 Zoll; Gummiband: 1 Stück, 7 Zoll lang"
       },
       {
         "title": "Benötigte Werkzeuge",
-        "description": "Nähmaschine, Stoffschere, Maßband / Lineal, Schneiderkreide / Stoffmarker, Stecknadeln / Nähklammern, Sicherheitsnadel, Handnähnadel, Durchziehnadel / Gummiband-Einfädler"
+        "description": "Nähmaschine, Stoffschere, Maßband / Lineal, Schneiderkreide / Stoffmarkierstift, Stecknadeln / Stoffklammern, Sicherheitsnadel, Handnähnadel, Durchziehnadel / Gummibandeinzieher"
       },
       {
         "title": "Erforderliche Techniken",
-        "description": "Geradstich\nSteppnaht"
+        "description": "Geradstich\nAbsteppen"
       }
     ],
     "showCustomSize": false,
@@ -28,11 +28,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
-        "content": "Du brauchst einen langen Stoffstreifen, ein Stück Gummiband und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarker und ein Lineal.\nDer Stoff misst 5 × 20 inches (ca. 12 × 50 cm). Das Gummiband ist etwa 7 inches (18 cm) lang.\nLege den Stoff rechts auf rechts in der Mitte zusammen.\nMarkiere eine Nahtzugabe von 1 cm entlang der Kante.",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
+        "content": "Du brauchst einen langen Stoffstreifen, ein Stück Gummiband und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarkierstift und ein Lineal.\nDer Stoff misst 5 × 20 Zoll (ca. 12 × 50 cm). Das Gummiband ist ca. 7 Zoll (18 cm) lang.\nFalte den Stoff rechts auf rechts in der Hälfte.\nMarkiere entlang der Kante eine Nahtzugabe von 1 cm.",
         "tip": {
           "type": "pro_tip",
-          "text": "Verwende einen Rollschneider und ein Lineal, damit die Streifenkanten gerade bleiben und das fertige Scrunchie eine gleichmäßige Form bekommt."
+          "text": "Verwende einen Rollschneider und ein Lineal, damit die Kanten des Streifens gerade bleiben und das fertige Scrunchie eine gleichmäßige Form erhält."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%201_%20Cut%20-%20Prepare.png"
@@ -40,8 +40,8 @@
       },
       {
         "number": 2,
-        "title": "Schritt 2: Kurze Kante nähen",
-        "content": "Lege die beiden kurzen Kanten rechts auf rechts aufeinander.\nNähe 2–3 Stiche und verriegele dann.\nNähe weiter und verriegele auch am Ende.\nÖffne die Naht und bügele sie flach.",
+        "title": "Schritt 2: Die kurze Kante nähen",
+        "content": "Lege die beiden kurzen Kanten rechts auf rechts aufeinander\nNähe 2–3 Stiche und verriegle dann, um die Naht zu sichern.\nNähe weiter vorwärts und denke daran, am Ende zu verriegeln, um die Naht zu sichern\nÖffne die Naht und bügle sie flach.",
         "tip": {
           "type": "common_mistake",
           "text": "Achte darauf, dass der Stoff nicht verdreht ist, bevor du die Enden zusammennähst, sonst bekommt das fertige Scrunchie eine ungleichmäßige Form."
@@ -52,11 +52,11 @@
       },
       {
         "number": 3,
-        "title": "Schritt 3: Lange Kante nähen",
-        "content": "Rolle die obere Stofflage wie gezeigt.\nLege die beiden Kanten der unteren Lage um den gerollten Stoff.\nRichte die langen Kanten aus und stecke sie mit Stecknadeln fest.\nNähe entlang der langen Kante mit Geradstich.\nNähe 2–3 Stiche und verriegele dann.\nNähe wie gewohnt weiter und entferne die Stecknadeln beim Nähen.\nAchte darauf, nicht in den eingerollten Stoff innen zu nähen.\nZiehe den eingerollten Stoff beim Nähen vorsichtig nach innen.\nLasse eine Öffnung von ca. 5 cm (2 in).\nVerriegele am Ende.",
+        "title": "Schritt 3: Die lange Kante nähen",
+        "content": "Rolle die obere Stofflage wie gezeigt ein.\nWickle die beiden Kanten der unteren Lage um den eingerollten Stoff.\nLege die langen Kanten aufeinander und sichere sie mit Stecknadeln.\nNähe mit einem Geradstich entlang der langen Kante.\nNähe 2–3 Stiche und verriegle dann, um die Naht zu sichern.\nNähe wie gewohnt weiter vorwärts und entferne dabei die Stecknadeln.\nAchte darauf, nicht in den eingerollten Stoff im Inneren zu nähen.\nZiehe den eingerollten Stoff im Inneren beim Nähen vorsichtig heraus.\nLasse eine Öffnung von ca. 5 cm (2 Zoll).\nVerriegle am Ende, um die Naht zu sichern.\nWende den Stoffschlauch durch die Öffnung auf rechts.\nGlätte die Stoffkanten und bügle sie flach.",
         "tip": {
           "type": "warning",
-          "text": "Achte darauf, die inneren Stofflagen nicht versehentlich in der Naht mitzufassen, sonst lässt sich der Schlauch nicht richtig wenden."
+          "text": "Achte darauf, die inneren Stofflagen nicht versehentlich mit in die Naht zu fassen, da sich der Schlauch sonst nicht richtig wenden lässt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%203_%20Sew%20the%20Long%20Edge.png"
@@ -64,11 +64,11 @@
       },
       {
         "number": 4,
-        "title": "Schritt 5: Gummiband einziehen",
-        "content": "Befestige das Gummiband an einer Durchziehnadel.\nZiehe es durch den Stoffschlauch.\nVerknote beide Enden fest.\nZiehe vorsichtig, um Dehnung und Knoten zu prüfen.\nSchneide den Überschuss ab und lasse etwa 1 cm stehen.",
+        "title": "Schritt 4: Das Gummiband einziehen",
+        "content": "Befestige das Gummiband an einem Maßband.\nZiehe es durch den Stoffschlauch.\nKnote beide Enden fest zusammen.\nZiehe vorsichtig daran, um Dehnung und Knoten zu prüfen.\nKürze den Überschuss und lasse dabei ca. 1 cm stehen.",
         "tip": {
           "type": "common_mistake",
-          "text": "Halte beim Einziehen beide Gummibandenden gut fest, damit kein Ende in den Stoffschlauch zurückrutscht."
+          "text": "Halte beide Gummibandenden beim Einziehen gut fest, damit kein Ende in den Stoffschlauch zurückrutscht."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%204_%20Insert%20the%20Elastic.png"
@@ -76,11 +76,11 @@
       },
       {
         "number": 5,
-        "title": "Schritt 6: Öffnung schließen",
-        "content": "Schlage die offenen Kanten nach innen und richte sie sauber aus.\nVerriegele am Anfang und am Ende.\nSteppe kantennah ab, um die Öffnung zu schließen.\nSchneide überschüssigen Faden ab.\nVerteile den Stoff so, dass die Kräuselung gleichmäßig liegt.",
+        "title": "Schritt 5: Die Öffnung schließen",
+        "content": "Schlage die offenen Kanten nach innen ein und lege sie sauber aufeinander.\nVerriegle am Anfang und am Ende, um die Naht zu sichern.\nSteppe knappkantig entlang der Kante ab, um die Öffnung zu schließen.\nKürze den überschüssigen Faden.\nVerteile den Stoff so, dass die Raffungen gleichmäßig verteilt sind.",
         "tip": {
           "type": "common_mistake",
-          "text": "Halte beim Einziehen beide Gummibandenden gut fest, damit kein Ende in den Stoffschlauch zurückrutscht."
+          "text": "Halte beide Gummibandenden beim Einziehen gut fest, damit kein Ende in den Stoffschlauch zurückrutscht."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Scrunchie/Step%205_%20Close%20the%20opening.png"
@@ -89,7 +89,7 @@
     ],
     "timelines": [
       {
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
         "time": "00:06:00"
       },
       {
@@ -109,17 +109,17 @@
   {
     "name": "Cozy Puffed Coaster",
     "level": "Anfänger",
-    "time": "25–40 Min.",
+    "time": "25-40 Min.",
     "finishedSize": "6 x 6 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
-        "title": "Stoffinformationen",
-        "description": "Hauptstoff: 2 Teile mit je 17 × 17 cm"
+        "title": "Stoffangaben",
+        "description": "Oberstoff: 2 Stück à jeweils 17 × 17 cm"
       },
       {
         "title": "Benötigte Werkzeuge",
-        "description": "Nähmaschine, Nähmaschinennadel, Stoffschere, Fadenschere, Lineal oder Patchworklineal, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Nähklammern, Ecken- und Kantenformer, Bügeleisen und Bügelbrett, Nahttrenner"
+        "description": "Nähmaschine, Nähmaschinennadel, Stoffschere, Fadenschere, Lineal oder Patchworklineal, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Stoffklammern, Eckenformer, Bügeleisen und Bügelbrett, Nahttrenner"
       },
       {
         "title": "Erforderliche Techniken",
@@ -135,11 +135,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
-        "content": "Du brauchst Hauptstoff, Füllmaterial und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarker und ein Lineal.\nSchneide 2 Hauptstoffteile zu, jeweils 17 × 17 cm. Die fertige Größe beträgt 15 × 15 cm.\nDu kannst die Größe an deine Tasse anpassen, aber achte darauf, dass das Zuschnittmaß in Länge und Breite jeweils etwa 2 cm größer ist als das fertige Maß.\nMarkiere auf der linken Stoffseite eine Nahtzugabe von 1 cm entlang aller vier Kanten.\nMiss auf der rechten Seite von jeder Kante 5 cm (2 inches) nach innen und zeichne ein kleineres Quadrat in die Mitte.\nLasse zwei Öffnungen auf derselben Seite des inneren und äußeren Quadrats, jeweils etwa 4 cm lang.",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
+        "content": "Du brauchst Oberstoff, Füllmaterial und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarkierstift und ein Lineal.\nSchneide 2 Stück Oberstoff à jeweils 17 × 17 cm zu. Die fertige Größe beträgt 15 × 15 cm.\nDu kannst die Größe an deine Tasse anpassen, achte aber darauf, dass die Zuschnittgröße in Länge und Breite jeweils ca. 2 cm größer ist als die fertige Größe.\nMarkiere auf der linken Stoffseite entlang aller vier Kanten eine Nahtzugabe von 1 cm.\nMiss auf der rechten Seite von jeder Kante 5 cm (2 Zoll) nach innen und zeichne in der Mitte ein kleineres Quadrat.\nLasse an derselben Seite des inneren und des äußeren Quadrats jeweils zwei Öffnungen von ca. 4 cm Länge.",
         "tip": {
           "type": "pro_tip",
-          "text": "Verwende ein Patchworklineal und einen Stoffmarker, damit alle Seiten exakt rechtwinklig werden – für einen professionelleren Untersetzer."
+          "text": "Verwende ein Patchworklineal und einen Stoffmarkierstift, damit alle Seiten exakt quadratisch werden und der fertige Untersetzer professioneller aussieht."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%201_%20Cut%20-%20Prepare.png"
@@ -147,11 +147,11 @@
       },
       {
         "number": 2,
-        "title": "Schritt 2: Hauptteil nähen",
-        "content": "Lege die beiden Hauptstoffteile rechts auf rechts aufeinander.\nStecke alle vier Stoffecken mit Stecknadeln fest.\nRichte die Mitte des Nähfußes an der Nahtlinie aus.\nNähe 2–3 Stiche und verriegele dann.\nNähe weiter entlang der markierten Linie und verriegele am Ende.\nWenn du an der Ecke ankommst, lasse die Nadel im Stoff. Hebe dann den Nähfuß, drehe den Stoff, senke den Nähfuß und nähe weiter.\nSchneide die Ecken vorsichtig zurück, ohne in die Stiche zu schneiden. So liegen die Ecken nach dem Wenden flacher.\nWende den Stoff auf rechts.\nWenn sich die Ecken schwer wenden lassen, drücke sie vorsichtig mit einem Essstäbchen oder einem stumpfen Werkzeug heraus. Drücke nicht zu fest, um den Stoff nicht zu durchstoßen.",
+        "title": "Schritt 2: Das Hauptteil nähen",
+        "content": "Lege die beiden Stücke Oberstoff rechts auf rechts aufeinander.\nSichere alle vier Stoffecken mit Stecknadeln.\nRichte die Mitte des Nähfußes an der Nahtlinie aus.\nNähe 2–3 Stiche und verriegle dann, um die Naht zu sichern.\nNähe entlang der markierten Linie weiter und denke daran, am Ende zu verriegeln, um die Naht zu sichern.\nWenn du an einer Ecke ankommst, lasse die Nadel im Stoff stecken. Hebe dann den Nähfuß an, drehe den Stoff, senke den Nähfuß wieder ab und nähe weiter.\nSchneide die Ecken vorsichtig zurück, ohne in die Stiche zu schneiden. So liegen die Ecken nach dem Wenden flacher.\nWende den Stoff auf rechts.\nWenn sich die Ecken schwer wenden lassen, drücke sie vorsichtig mit einem Essstäbchen oder einem stumpfen Werkzeug heraus. Achte darauf, nicht zu fest zu drücken und den Stoff nicht zu durchstechen.",
         "tip": {
           "type": "common_mistake",
-          "text": "Anfänger vergessen oft die Wendeöffnung oder machen sie zu klein, sodass sich der Untersetzer nur schwer auf rechts wenden lässt."
+          "text": "Anfänger vergessen oft, eine Wendeöffnung zu lassen, oder machen sie zu klein, sodass sich der Untersetzer nur schwer auf rechts wenden lässt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%202_%20Sew%20the%20main%20piece(1).png",
@@ -160,11 +160,11 @@
       },
       {
         "number": 3,
-        "title": "Schritt 3: Inneres Quadrat nähen",
-        "content": "Steppe entlang des inneren Quadrats und verriegele zu Beginn.\nNähe das innere Quadrat genauso wie das äußere und lasse eine Öffnung.\nSchneide überschüssigen Faden ab.\nFülle nun zuerst den kleinen quadratischen Bereich in der Mitte. Hier brauchst du nicht zu viel Füllmaterial.\nNähe die Öffnung des inneren Quadrats zu.\nFülle dann den äußeren Rand durch die äußere Öffnung.",
+        "title": "Schritt 3: Das innere Quadrat nähen",
+        "content": "Steppe entlang des inneren Quadrats ab und verriegle zu Beginn, um die Stiche zu sichern.\nNähe das innere Quadrat genauso wie das äußere Quadrat und lasse dabei eine Öffnung.\nKürze den überschüssigen Faden.\nFülle nun zuerst den kleinen quadratischen Bereich in der Mitte. Du brauchst hier nicht zu viel Füllmaterial.\nNähe die Öffnung des inneren Quadrats zu\nFülle dann den äußeren Rand durch die äußere Öffnung,",
         "tip": {
           "type": "warning",
-          "text": "Ziehe nicht zu stark an den Ecken, sonst kann sich die Öffnung dehnen oder die Form des Untersetzers verziehen."
+          "text": "Ziehe nicht zu stark an den Ecken, da dies die Öffnung dehnen oder die Form des Untersetzers verziehen kann."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Cozy%20Puffed%20Coaster/Step%203_%20Sew%20the%20inner%20square.png"
@@ -172,8 +172,8 @@
       },
       {
         "number": 4,
-        "title": "Schritt 4: Öffnung schließen",
-        "content": "Schließe die Öffnung entlang der Außenkante mit einer Handnähnadel und stich dabei zwischen den beiden Stofflagen heraus.\nMache an der Kante des oberen Stoffs einen kleinen Stich von rechts nach links.\nSetze einen entsprechenden Stich in den unteren Stoff direkt darunter.\nStiche weiter abwechselnd oben und unten, bis die Öffnung vollständig geschlossen ist.\nZiehe den Faden an, um die Stoffkanten zusammenzubringen.\nVerknote den Faden zum Schluss und versenke das Fadenende im Stoff.\nBügele vorsichtig, um Markierungen zu entfernen und die Form gleichmäßiger wirken zu lassen.",
+        "title": "Schritt 4: Die Öffnung schließen",
+        "content": "Schließe die Öffnung entlang der Außenkante mit einer Handnähnadel und führe die Nadel dabei zwischen den beiden Stofflagen nach oben heraus.\nMache an der Kante des oberen Stoffes einen kleinen Stich von rechts nach links.\nMache einen entsprechenden Stich am unteren Stoff direkt darunter.\nMache abwechselnd oben und unten weitere Stiche, bis die Öffnung vollständig geschlossen ist.\nZiehe am Faden, um die Stoffkanten zusammenzuführen\nVerknote den Faden zum Schluss und versenke das Fadenende anschließend im Stoff.\nBügle das Stück vorsichtig, um Stoffmarkierungen zu entfernen und die Gesamtform gleichmäßiger wirken zu lassen.",
         "tip": {
           "type": "common_mistake",
           "text": "Zu viel Füllung ist ein häufiger Fehler und kann dazu führen, dass der Untersetzer wackelt, statt flach auf dem Tisch zu liegen."
@@ -185,7 +185,7 @@
     ],
     "timelines": [
       {
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
         "time": "00:14:00"
       },
       {
@@ -201,7 +201,7 @@
         "time": "02:58:00"
       },
       {
-        "title": "Schritt 5: Detail in der Mitte",
+        "title": "Schritt 5: Das Detail in der Mitte",
         "time": "03:18:00"
       },
       {
@@ -213,21 +213,21 @@
   {
     "name": "Zip Coin Purse",
     "level": "Anfänger",
-    "time": "45–70 Min.",
+    "time": "45-70 Min.",
     "finishedSize": "4 x 7 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
-        "title": "Stoffinformationen",
-        "description": "Hauptstoff: 2 Teile mit je 10 × 8 inches, Aufbügelbare Einlage: 2 Teile mit je 10 × 8 inches, Reißverschluss: 1 Stück mit 7 inches Länge"
+        "title": "Stoffangaben",
+        "description": "Oberstoff: 2 Stück à jeweils 10 × 8 Zoll, aufbügelbare Einlage: 2 Stück à jeweils 10 × 8 Zoll, Reißverschluss: 1 Stück, 7 Zoll lang"
       },
       {
         "title": "Benötigte Werkzeuge",
-        "description": "Nähmaschine und passende Nähmaschinennadeln, Standardnähfuß und Reißverschlussfuß, Stoffschere und Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Nähklammern, stumpfes Wendewerkzeug, Bügeleisen und Bügelbrett, Nahttrenner, Handnähnadel zum Schließen der Wendeöffnung mit Leiterstich, Materialien: Oberstoff, Futterstoff, Reißverschluss, Nähgarn und optional aufbügelbare Einlage oder dünnes Volumenvlies."
+        "description": "Nähmaschine und geeignete Nähmaschinennadeln, Standard-Nähfuß und Reißverschlussfuß, Stoffschere und Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Stoffklammern, stumpfes Wendewerkzeug, Bügeleisen und Bügelbrett, Nahttrenner, Handnähnadel, falls die Wendeöffnung mit einem Leiterstich geschlossen wird, Materialien: Außenstoff, Futterstoff, Reißverschluss, Nähgarn und optional aufbügelbare Einlage oder dünnes Volumenvlies."
       },
       {
         "title": "Erforderliche Techniken",
-        "description": "Geradstich, Steppnaht"
+        "description": "Geradstich, Absteppen"
       }
     ],
     "showCustomSize": false,
@@ -239,11 +239,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
-        "content": "Du brauchst Hauptstoff, aufbügelbare Einlage, einen Reißverschluss und eine Schere.\nSchneide 2 Hauptstoffteile und 2 Einlageteile zu, jeweils 10 × 8 inches (ca. 25 × 20 cm).\nBügele die Einlage auf die linke Seite der Hauptstoffteile.\nSchneide überschüssige Einlage an den Kanten ab.",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
+        "content": "Du brauchst Oberstoff, aufbügelbare Einlage, einen Reißverschluss und eine Schere.\nSchneide 2 Stück Oberstoff und 2 Stück Einlage à jeweils 10 × 8 Zoll (ca. 25 × 20 cm) zu.\nBügle die Einlage auf die linke Seite der Oberstoffstücke auf.\nSchneide überschüssige Einlage an den Kanten zurück.",
         "tip": {
           "type": "pro_tip",
-          "text": "Lege die Stofflagen übereinander und schneide sie gemeinsam zu, damit alle Beutelteile exakt gleich groß sind."
+          "text": "Staple die Stofflagen übereinander und schneide sie gemeinsam zu, damit alle Teile der Tasche exakt gleich groß sind."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%201_%20Cut%20-%20Prepare.png"
@@ -251,11 +251,11 @@
       },
       {
         "number": 2,
-        "title": "Schritt 2: Reißverschluss einnähen",
-        "content": "Falte die beiden Stoffteile in der Mitte und bügele den Bruch.\nLege den Reißverschluss zwischen die Stofflagen und stecke entlang des Reißverschlussbands fest.\nNähe 2–3 Stiche vorwärts und verriegele dann.\nNähe weiter entlang der Kanten und entferne die Stecknadeln dabei.\nVerriegele am Ende.\nKlappe die Stoffe auseinander und steppe entlang der Reißverschlusskante ab.\nWiederhole den Vorgang auf der anderen Seite des Reißverschlusses.",
+        "title": "Schritt 2: Den Reißverschluss einnähen",
+        "content": "Falte die beiden Stoffstücke in der Mitte und bügle sie, um eine Falte zu erzeugen.\nLege den Reißverschluss zwischen die Stofflagen und stecke ihn entlang des Reißverschlussbandes fest.\nNähe 2–3 Stiche vorwärts und verriegle dann, um die Naht zu sichern.\nNähe entlang der Kanten weiter und entferne dabei die Stecknadeln.\nDenke daran, am Ende zu verriegeln, um die Naht zu sichern.\nKlappe die Stoffe auf und steppe entlang der Reißverschlusskante ab.\nWiederhole denselben Vorgang für die andere Seite des Reißverschlusses.",
         "tip": {
           "type": "common_mistake",
-          "text": "Achte darauf, dass beide Reißverschlussseiten gleichmäßig ausgerichtet sind, sonst kann der Beutel verdreht oder ungleichmäßig werden."
+          "text": "Achte darauf, dass beide Seiten des Reißverschlusses gleichmäßig ausgerichtet sind, bevor du nähst, sonst kann die Tasche am Ende verdreht oder ungleichmäßig werden."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%202_%20Sew%20the%20zipper.png"
@@ -263,11 +263,11 @@
       },
       {
         "number": 3,
-        "title": "Schritt 3: Kanten rundum nähen",
-        "content": "Öffne den Reißverschluss zur Hälfte, damit du den Beutel später wenden kannst.\nMarkiere eine 2–3 inch (5–7 cm) lange Wendeöffnung.\nRichte die Kanten aus und stecke alle vier Seiten fest.\nRichte die Mitte des Nähfußes an der Nahtlinie aus.\nNähe 2–3 Stiche und verriegele dann.\nNähe weiter entlang der Kante und verriegele am Ende.\nWenn du an der Ecke ankommst, lasse die Nadel im Stoff. Hebe dann den Nähfuß, drehe den Stoff, senke den Nähfuß und nähe weiter.",
+        "title": "Schritt 3: Entlang der Kanten nähen",
+        "content": "Öffne den Reißverschluss zur Hälfte, damit du die Tasche später auf rechts wenden kannst.\nMarkiere eine Wendeöffnung von 2–3 Zoll (5–7 cm).\nLege die Kanten aufeinander und stecke alle vier Seiten fest.\nRichte die Mitte des Nähfußes an der Nahtlinie aus.\nNähe 2–3 Stiche und verriegle dann, um die Naht zu sichern.\nNähe entlang der Kante weiter und denke daran, am Ende zu verriegeln, um die Naht zu sichern.\nWenn du an einer Ecke ankommst, lasse die Nadel im Stoff stecken. Hebe dann den Nähfuß an, drehe den Stoff, senke den Nähfuß wieder ab und nähe weiter.",
         "tip": {
           "type": "pro_tip",
-          "text": "Bügele den Stoff vom Reißverschluss weg, bevor du absteppst – für ein saubereres, professionelleres Ergebnis."
+          "text": "Bügle den Stoff vor dem Absteppen vom Reißverschluss weg, für ein saubereres und professionelleres Ergebnis."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%203_%20Sew%20around%20the%20edges.png"
@@ -276,10 +276,10 @@
       {
         "number": 4,
         "title": "Schritt 4: Auf rechts wenden",
-        "content": "Schneide die Ecken vorsichtig zurück, ohne in die Stiche zu schneiden. So liegen die Ecken nach dem Wenden flacher.\nWende den Beutel durch die Öffnung auf rechts.\nSteppe kantennah ab, um die Öffnung zu schließen.\nUnd fertig! Unser Reißverschlussbeutel ist bereit zum Benutzen!",
+        "content": "Schneide die Ecken vorsichtig zurück, ohne in die Stiche zu schneiden. So liegen die Ecken nach dem Wenden flacher.\nWende die Tasche durch die Öffnung auf rechts.\nSteppe knappkantig entlang der Kante ab, um die Öffnung zu schließen.\nUnd das war's! Unsere Reißverschlusstasche ist fertig und einsatzbereit!",
         "tip": {
           "type": "warning",
-          "text": "Öffne den Reißverschluss immer, bevor du den Beutel zunähst, sonst lässt er sich später nicht mehr wenden."
+          "text": "Öffne den Reißverschluss immer, bevor du die Tasche zunähst, sonst ist es unter Umständen unmöglich, die Tasche auf rechts zu wenden."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Zip%20Coin%20Purse/Step%204_%20Turn%20right%20side%20out.png"
@@ -288,11 +288,11 @@
     ],
     "timelines": [
       {
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
         "time": "00:15:00"
       },
       {
-        "title": "Schritt 2: Reißverschluss annähen",
+        "title": "Schritt 2: Reißverschluss an die Stoffe nähen",
         "time": "01:21:00"
       },
       {
@@ -300,7 +300,7 @@
         "time": "02:48:00"
       },
       {
-        "title": "Schritt 4: Beutel zusammennähen",
+        "title": "Schritt 4: Die Tasche zusammennähen",
         "time": "04:14:00"
       },
       {
@@ -308,7 +308,7 @@
         "time": "06:44:00"
       },
       {
-        "title": "Schritt 6: Futter schließen",
+        "title": "Schritt 6: Das Futter zunähen",
         "time": "07:09:00"
       }
     ]
@@ -316,21 +316,21 @@
   {
     "name": "Floral Tote Bag",
     "level": "Anfänger",
-    "time": "Ca. 3–5 Stunden",
+    "time": "180-295 Min. (ca. 3-5 Stunden)",
     "finishedSize": "16 x 22 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
     "techPack": [
       {
-        "title": "Stoffinformationen",
-        "description": "Hauptstoff: 2 Teile mit je 16 × 24 inches, Futterstoff: 2 Teile mit je 16 × 24 inches"
+        "title": "Stoffangaben",
+        "description": "Oberstoff: 2 Stück à jeweils 16 × 24 Zoll, Futterstoff: 2 Stück à jeweils 16 × 24 Zoll"
       },
       {
         "title": "Benötigte Werkzeuge",
-        "description": "Nähmaschine, Nähmaschinennadeln passend zu Stoff und Volumenvliesdicke, Stoffschere, Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Nähklammern, Handnähnadel, Bügeleisen und Bügelbrett, Nahttrenner, Obertransportfuß (zum Quilten empfohlen)."
+        "description": "Nähmaschine, Nähmaschinennadeln, die für die Dicke von Stoff und Volumenvlies geeignet sind, Stoffschere, Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Stoffklammern, Handnähnadel, Bügeleisen und Bügelbrett, Nahttrenner, Obertransportfuß (zum Quilten empfohlen)."
       },
       {
         "title": "Erforderliche Techniken",
-        "description": "Geradstich, Steppnaht"
+        "description": "Geradstich,Absteppen"
       }
     ],
     "showCustomSize": false,
@@ -342,11 +342,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
-        "content": "Für diese Tasche verwenden wir einige grundlegende Nähtechniken: den normalen Geradstich, die Kantensteppnaht und die Steppnaht. Verbinde die Träger mit einer Kantensteppnaht und einer Steppnaht. Ecken abnähen: Schneide die Ecken aus und nähe die Kanten zusammen.\nBereite zuerst Haupt- und Futterstoff vor, lade unser Taschenschnittmuster herunter und drucke es aus.\nMarkiere und schneide dann an den unteren Ecken des Schnittmusters ein Dreieck aus.\nSchneide mit dem Taschenschnittmuster 2 Hauptteile und 2 Futterteile zu.\nSchneide an jeder unteren Ecke ein spitzes Dreieck aus, wie gezeigt.\nLege die beiden Hauptteile (bzw. Futterteile) rechts auf rechts und stecke sie entlang der Außenkanten fest.",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
+        "content": "Für diese Tasche verwenden wir einige grundlegende Nähtechniken: den Standard-Geradstich, knappkantiges Absteppen und Absteppen. Verbinde die Träger mit einer knappkantigen Naht und einer Steppnaht. Die Ecken abnähen (Boxecken): Schneide die Ecken zu und nähe die Kanten zusammen\nLege zuerst Ober- und Futterstoff bereit, lade unser Taschenschnittmuster herunter und drucke es aus\nMarkiere dann an den unteren Ecken des Schnittmusters ein Dreieck und schneide es aus\nSchneide mit dem Taschenschnittmuster 2 Oberteile und 2 Futterteile zu\nSchneide an jeder unteren Ecke ein spitzes Dreieck wie gezeigt aus\nLege die beiden Ober- (/Futter-)Teile rechts auf rechts aufeinander und stecke sie entlang der Außenkanten fest",
         "tip": {
           "type": "pro_tip",
-          "text": "Übertrage alle Knipse und Passzeichen vor dem Zuschneiden, um das Zusammensetzen von Außentasche und Futter zu erleichtern."
+          "text": "Übertrage alle Knipse und Markierungen zum Ausrichten vor dem Zuschneiden, damit sich Außentasche und Futter leichter zusammenfügen lassen."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%201_%20Cut%20-%20Prepare(1).png",
@@ -357,11 +357,11 @@
       },
       {
         "number": 2,
-        "title": "Schritt 2: Bodenecken nähen",
-        "content": "Wähle die Geradsticheinstellung. Stelle das Stichlängenrad auf 2 für einen ausgewogenen, mittellangen Stich.\nLege die Kanten des Bodendreiecks aufeinander (rechte Seiten innen).\nRichte die Kanten gleichmäßig aus und nähe eine gerade Linie darüber.\nWiederhole den Vorgang für die drei übrigen unteren Ecken.",
+        "title": "Schritt 2: Die Bodennähte nähen",
+        "content": "Stelle den Geradstich ein. Stelle die Stichlänge auf 2 ein, für einen ausgewogenen, mittellangen Stich\nLege die Kanten des unteren Dreiecks aufeinander (rechte Seiten innen)\nLege die Kanten gleichmäßig aufeinander und nähe eine gerade Linie darüber\nWiederhole diesen Vorgang für die drei übrigen unteren Ecken",
         "tip": {
           "type": "common_mistake",
-          "text": "Achte darauf, dass die rechten Seiten aufeinanderliegen, sonst sind die Nähte außen an der Tasche sichtbar."
+          "text": "Achte darauf, dass die rechten Seiten aufeinanderliegen, bevor du nähst, sonst sind die Nähte an der Außenseite der Tasche sichtbar."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%202_%20Sew%20the%20bottom%20seams.jpg"
@@ -369,11 +369,11 @@
       },
       {
         "number": 3,
-        "title": "Schritt 3: Außentasche nähen",
-        "content": "*Verriegele am Anfang jeder Naht, um die Stiche zu sichern.\nNähe entlang der gesteckten Linie ganz um die Tasche und entferne die Stecknadeln dabei.\nBeim Nähen des gebogenen Bodens: Lasse die Nadel im Stoff, hebe den Nähfuß, drehe den Stoff und nähe weiter.\nVerriegele auch am Ende der Naht.",
+        "title": "Schritt 3: Die Haupttasche nähen",
+        "content": "*Denke daran, am Anfang jeder Naht zu verriegeln, um deine Stiche zu sichern\nNähe entlang der gesteckten Linie rund um die Tasche und entferne dabei die Stecknadeln\nLasse beim Nähen des abgerundeten Bodens die Nadel im Stoff stecken, hebe den Nähfuß an, drehe den Stoff und nähe weiter\nVerriegle auch am Ende der Naht, um deine Stiche zu sichern",
         "tip": {
           "type": "warning",
-          "text": "Verriegele an beiden Enden der Wendeöffnung, damit sich die Naht beim Wenden nicht weiter öffnet."
+          "text": "Verriegle an beiden Enden der Wendeöffnung, damit sich die Naht beim Wenden nicht weiter öffnet."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%203_%20Sew%20around%20the%20edges.jpg"
@@ -381,11 +381,11 @@
       },
       {
         "number": 4,
-        "title": "Schritt 4: Futter nähen",
-        "content": "Nähe das Futter genau wie die Außentasche: nähe die unteren Ecken und dann ganz herum.\nNähe ganz um die Tasche und lasse unten eine 10 cm (4\") lange Lücke offen.",
+        "title": "Schritt 4: Das Futter nähen",
+        "content": "Nähe das Futter genau wie die Haupttasche, indem du die unteren Ecken und einmal rundherum nähst\nNähe rund um die Tasche und lasse dabei unten eine Lücke von 10 cm (4 Zoll) ungenäht",
         "tip": {
           "type": "warning",
-          "text": "Schneide die gebogenen Nahtzugaben vorsichtig ein, ohne in die Stiche zu schneiden, damit die Oberkante nach dem Wenden flach liegt."
+          "text": "Schneide die Nahtzugaben an den Rundungen vorsichtig ein, ohne in die Naht zu schneiden, damit die obere Kante nach dem Wenden flach liegt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%204_%20Sew%20the%20lining.jpg"
@@ -393,11 +393,11 @@
       },
       {
         "number": 5,
-        "title": "Schritt 5: Tasche und Futter verbinden",
-        "content": "Hier ist die fertige Außentasche.\nHier ist das Futter mit der offengelassenen Lücke unten.\nWende das Futter auf rechts.\nStecke das Futter in die Außentasche und richte die Ecken exakt aus.\nStecke rund um die Taschenöffnung und die Träger fest, um die Lagen zu fixieren.\nStecke die beiden Lagen entlang der Taschenöffnung und der Träger vorne und hinten zusammen.\nNähe entlang dieser gesteckten Linien.\nNähe ganz um die Öffnung und die Träger und entferne die Stecknadeln dabei.",
+        "title": "Schritt 5: Tasche und Futter zusammenfügen",
+        "content": "Hier ist die fertige Haupttasche\nHier ist das Futter, mit der unten ungenäht gelassenen Lücke\nWende das Futter auf rechts\nStecke das Futter in die Haupttasche und achte darauf, dass die Ecken exakt aufeinanderliegen\nStecke rund um die Kanten der Taschenöffnung und der Träger fest, um die Lagen sicher zu fixieren\nStecke die beiden Lagen entlang der Taschenöffnung und der Träger an Vorder- und Rückseite der Tasche zusammen\nNähe entlang dieser gesteckten Linien\nNähe rund um die Öffnung und die Träger und entferne dabei die Stecknadeln",
         "tip": {
           "type": "pro_tip",
-          "text": "Bügele die Oberkante gründlich, bevor du absteppst – für ein sauberes, professionelles Ergebnis."
+          "text": "Bügle die obere Kante vor dem Absteppen gründlich, für ein sauberes, professionell aussehendes Ergebnis."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%205_%20Join%20the%20bag%20and%20lining.png"
@@ -405,11 +405,11 @@
       },
       {
         "number": 6,
-        "title": "Schritt 6: Futterlücke am Boden schließen",
-        "content": "Schlage die offenen Kanten der Wendeöffnung nach innen und schließe sie mit einer Kantensteppnaht.",
+        "title": "Schritt 6: Die Lücke im Futterboden schließen",
+        "content": "Schlage die offenen Kanten der Wendeöffnung nach innen ein und steppe sie knappkantig zu",
         "tip": {
           "type": "pro_tip",
-          "text": "Halte beide Träger exakt gleich lang, damit die fertige Tasche beim Tragen gerade hängt."
+          "text": "Achte darauf, dass beide Träger exakt gleich lang sind, damit die fertige Tasche beim Tragen gleichmäßig hängt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
@@ -418,10 +418,10 @@
       {
         "number": 7,
         "title": "Schritt 7: Bügeln",
-        "content": "Lege die Öffnungs- und Trägernähte bis ganz an die Kante und bügele sie flach, um die Form zu fixieren.",
+        "content": "Rolle die Nähte an Öffnung und Trägern ganz an die Kante und bügle sie dann flach, um die Form zu fixieren",
         "tip": {
           "type": "common_mistake",
-          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig, damit sich die geschlossene Öffnung nahtlos ins Futter einfügt."
+          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig um, damit sich die geschlossene Öffnung sauber in das übrige Futter einfügt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%206%20%2B%207_%20Sew%20the%20bottom%20lining%20gap%20closed_.jpg"
@@ -429,11 +429,11 @@
       },
       {
         "number": 8,
-        "title": "Schritt 8: Träger nähen",
-        "content": "Falte die offene Kante des Trägers 1 cm nach innen und stecke sie fest.\nSchiebe die offene Kante des anderen Trägers in das gefaltete Ende.\nNähe 2 parallele Linien: Kantensteppnaht 1 mm von der Kante und Steppnaht 5 mm von der Kante.\nVerriegele am Anfang und Ende der Nähte.\nSchneide überschüssigen Faden ab.",
+        "title": "Schritt 8: Den Träger nähen",
+        "content": "Falte die offene Kante des Trägers 1 cm nach innen und stecke sie fest\nSchiebe die offene Kante des anderen Trägers in das eben gefaltete Ende hinein\nNähe 2 parallele Linien: knappkantig 1 mm von der Kante und absteppen 5 mm von der Kante\nDenke daran, am Anfang und am Ende deiner Nähte zu verriegeln\nKürze den überschüssigen Faden",
         "tip": {
           "type": "common_mistake",
-          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig, damit sich die geschlossene Öffnung nahtlos ins Futter einfügt."
+          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig um, damit sich die geschlossene Öffnung sauber in das übrige Futter einfügt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%208_%20Sewing%20the%20Strap.png"
@@ -441,11 +441,11 @@
       },
       {
         "number": 9,
-        "title": "Schritt 9: Kanten absteppen",
-        "content": "Steppe 1 mm von der Kante entfernt rund um die Taschenöffnung und die Träger mit einer Kantensteppnaht ab.",
+        "title": "Schritt 9: Knappkantig absteppen",
+        "content": "Steppe rund um die Taschenöffnung und die Träger 1 mm von der Kante entfernt knappkantig ab",
         "tip": {
           "type": "common_mistake",
-          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig, damit sich die geschlossene Öffnung nahtlos ins Futter einfügt."
+          "text": "Falte die Nahtzugabe vor dem Nähen gleichmäßig um, damit sich die geschlossene Öffnung sauber in das übrige Futter einfügt."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Floral%20Tote%20Bag/Step%209_%20Edge%20stitching.png"
@@ -454,19 +454,19 @@
     ],
     "timelines": [
       {
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
         "time": "00:14:00"
       },
       {
-        "title": "Schritt 2: Hauptteile nähen",
+        "title": "Schritt 2: Die Hauptteile nähen",
         "time": "00:44:00"
       },
       {
-        "title": "Schritt 3: Futterteile nähen",
+        "title": "Schritt 3: Die Futterteile nähen",
         "time": "01:12:00"
       },
       {
-        "title": "Schritt 4: Tasche nähen",
+        "title": "Schritt 4: Die Tasche nähen",
         "time": "01:37:00"
       },
       {
@@ -474,11 +474,11 @@
         "time": "03:18:00"
       },
       {
-        "title": "Schritt 6: Träger nähen",
+        "title": "Schritt 6: Den Träger nähen",
         "time": "03:50:00"
       },
       {
-        "title": "Schritt 7: Öffnung schließen",
+        "title": "Schritt 7: Die Öffnung zunähen",
         "time": "04:39:00"
       }
     ]
@@ -486,17 +486,17 @@
   {
     "name": "Comfort Neck Pillow",
     "level": "Anfänger",
-    "time": "45–65 Min.",
+    "time": "40-65 Min.",
     "finishedSize": "11 x 13.5 in",
     "patternCutList": "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png",
     "techPack": [
       {
-        "title": "Stoffinformationen",
-        "description": "Hauptstoff: 2 Teile mit je 16 × 14 inches"
+        "title": "Stoffangaben",
+        "description": "Oberstoff: 2 Stück à jeweils 16 × 14 Zoll"
       },
       {
         "title": "Benötigte Werkzeuge",
-        "description": "Nähmaschine und Nadeln passend zum Stoff, Stoffschere, Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Nähklammern, Handnähnadel zum Schließen der Öffnung, stumpfes Wende- und Füllwerkzeug, Nahttrenner, Materialien: Weicher Stoff, Füllwatte und Nähgarn."
+        "description": "Nähmaschine und für den Stoff geeignete Nadeln, Stoffschere, Fadenschere, Lineal und Maßband, Schnittmusterpapier, Schneiderkreide oder Stoffmarkierstift, Stecknadeln oder Stoffklammern, Handnähnadel zum Schließen der Öffnung, stumpfes Wende- und Füllwerkzeug, Nahttrenner, Materialien: weicher Stoff, Füllwatte und Nähgarn."
       },
       {
         "title": "Erforderliche Techniken",
@@ -512,11 +512,11 @@
     "steps": [
       {
         "number": 1,
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
-        "content": "Heute nähen wir ein bequemes Nackenkissen.\nDu brauchst Hauptstoff, Füllmaterial und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarker und ein Lineal.\nBereite das Nackenkissenschnittmuster in den angegebenen Maßen vor.\nLege das Schnittmuster auf den Stoff und zeichne die Kontur nach.\nSchneide die beiden Kissenteile entlang der markierten Linie zu.",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
+        "content": "Heute nähen wir ein bequemes Nackenkissen.\nDu brauchst Oberstoff, Füllmaterial und eine Schere.\nAußerdem brauchst du Stecknadeln oder Klammern, eine Durchziehnadel, einen Stoffmarkierstift und ein Lineal.\nBereite das Schnittmuster für das Nackenkissen in den gezeigten Maßen vor.\nLege das Schnittmuster auf den Stoff und zeichne die Kontur nach.\nSchneide die beiden Kissenteile entlang der markierten Linie aus.",
         "tip": {
           "type": "pro_tip",
-          "text": "Übertrage alle Mittel- oder Passzeichen vom Schnittmuster vor dem Zuschneiden, um die gebogenen Kanten beim Nähen leichter zusammenzufügen."
+          "text": "Übertrage vor dem Zuschneiden eventuelle Mittel- oder Ausrichtungsmarkierungen vom Schnittmuster, damit sich die geschwungenen Kanten beim Nähen leichter zusammenfügen lassen."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%201_%20Cut%20-%20Prepare.png"
@@ -524,11 +524,11 @@
       },
       {
         "number": 2,
-        "title": "Schritt 2: Kanten nähen",
-        "content": "Lege die beiden Hauptstoffteile rechts auf rechts und stecke sie rundum fest.\nMarkiere entlang der Außenkurve eine 6–8 cm lange Öffnung zum Wenden und Füllen.\nBeginne an einem Ende der Öffnung zu nähen.\nNähe 2–3 Stiche vorwärts und verriegele dann.\nNähe weiter entlang der Kanten und entferne die Stecknadeln dabei.\nVerriegele am Ende.",
+        "title": "Schritt 2: Entlang der Kanten nähen",
+        "content": "Lege die beiden Stücke Oberstoff rechts auf rechts aufeinander und stecke sie entlang der Kanten fest.\nMarkiere entlang der äußeren Rundung eine Öffnung von 6–8 cm zum Wenden und Füllen.\nBeginne an einem Ende der Öffnung zu nähen.\nNähe 2–3 Stiche vorwärts und verriegle dann, um die Naht zu sichern.\nNähe entlang der Kanten weiter und entferne dabei die Stecknadeln.\nDenke daran, am Ende zu verriegeln, um die Naht zu sichern.",
         "tip": {
           "type": "common_mistake",
-          "text": "Lasse die Wendeöffnung offen und verriegele an beiden Enden, damit die Naht beim Wenden sicher bleibt."
+          "text": "Denke daran, die Wendeöffnung ungenäht zu lassen und an beiden Enden zu verriegeln, damit die Naht beim Wenden sicher hält."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%202_%20Sew%20along%20the%20edges.png"
@@ -537,10 +537,10 @@
       {
         "number": 3,
         "title": "Schritt 3: Auf rechts wenden",
-        "content": "Wende das Kissen durch die Öffnung auf rechts.\nFülle das Kissen gleichmäßig mit Füllwatte, bis es die gewünschte Festigkeit hat.",
+        "content": "Wende das Kissen durch die Öffnung auf rechts.\nFülle das Kissen gleichmäßig mit Füllwatte, bis es die gewünschte Festigkeit erreicht.",
         "tip": {
           "type": "warning",
-          "text": "Schneide dicht an den gebogenen Nähten ein, ohne die Stiche zu durchtrennen, sonst kann die Naht beim Wenden aufplatzen."
+          "text": "Schneide dicht an den geschwungenen Nähten ein, ohne die Naht zu durchschneiden, sonst kann die Naht beim Wenden des Kissens aufreißen."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%203_%20Turn%20right%20side%20out.png"
@@ -548,11 +548,11 @@
       },
       {
         "number": 4,
-        "title": "Schritt 4: Öffnung schließen",
-        "content": "Schlage die offenen Kanten nach innen und richte sie sauber aus.\nSchließe die Öffnung mit einem Leiterstich.\nZiehe den Faden fest, verknote ihn und verstecke das Fadenende.\nUnd fertig! Unser bequemes Nackenkissen ist bereit zum Benutzen!",
+        "title": "Schritt 4: Die Öffnung schließen",
+        "content": "Falte die offenen Kanten nach innen und lege sie sauber aufeinander.\nSchließe die Öffnung mit einem Leiterstich.\nZiehe den Faden fest, verknote ihn und versenke das Fadenende.\nUnd das war's! Unser bequemes Nackenkissen ist fertig und einsatzbereit!",
         "tip": {
           "type": "pro_tip",
-          "text": "Verwende ein stumpfes Wendewerkzeug, um die gebogenen Bereiche vorsichtig herauszudrücken, ohne den Stoff zu beschädigen."
+          "text": "Verwende ein stumpfes Wendewerkzeug, um die geschwungenen Abschnitte vorsichtig herauszudrücken, ohne den Stoff zu beschädigen."
         },
         "patternCutListImage": [
           "https://may.sewie.cloud/Learning_New/Begin%20Projects/Comfort%20Neck%20Pillow/Step%204_%20Close%20the%20opening.png"
@@ -561,15 +561,15 @@
     ],
     "timelines": [
       {
-        "title": "Schritt 1: Zuschneiden – Vorbereiten",
+        "title": "Schritt 1: Zuschneiden - Vorbereiten",
         "time": "00:16:00"
       },
       {
-        "title": "Schritt 2: Kissen nähen",
+        "title": "Schritt 2: Das Kissen nähen",
         "time": "00:39:00"
       },
       {
-        "title": "Schritt 3: Zurückschneiden – Einschneiden",
+        "title": "Schritt 3: Zurückschneiden - Einschneiden",
         "time": "01:19:00"
       },
       {
