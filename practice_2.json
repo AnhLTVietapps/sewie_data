@@ -3765,7 +3765,7 @@
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Quilted%20Oven%20Mitt.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Quilted%20Oven%20Mitt.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Quilted%20Oven%20Mitt%20Tiny/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Quilted%20Oven%20Mitt/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Quilted%20Oven%20Mitt/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Quilted%20Oven%20Mitt/thumb.webp",
           "steps": [
@@ -11314,7 +11314,7 @@
       "description": "Cutting, Straight Stitching, Backstitching, Turning, Topstitching, Elastic Threading, Knot Tying, Trimming and Clipping Curves, Pleating and Gathering, Pressing, Hand Sewing."
     }
   ],
-  "showCustomSize": true,
+  "showCustomSize": false,
   "pdf": "",
   "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Halloween%20Scrunchie.png",
   "video": "https://may.sewie.cloud/Practice_Video_New/Halloween%20Scrunchie%20Tiny/master.m3u8",
@@ -11363,7 +11363,360 @@
       "time": "09:03:00"
     }
   ]
+},
+{
+  "name": "Tissue Box",
+  "level": "Beginner",
+  "time": "30 minutes",
+  "finishedSize": "6 x 6 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 4 pieces measuring 14 × 7 inches (about 36 × 18 cm), with fusible interfacing fused to the wrong side."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 4 pieces measuring 14 × 7 inches (about 36 × 18 cm).\nFusible interfacing, 4 pieces measuring 14 × 7 inches (about 36 × 18 cm).\nThread.\nScissors.\nPins.\nChalk.\nDrawstrings.\nPaper pattern."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Fusing interfacing, Cutting, Tracing, Marking, Pinning, Straight stitching, Backstitching, Pressing, Boxing corners, Turning, Trimming seam allowances"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%205/Tissue%20Box.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Tissue%20Box.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Tissue%20Box/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, fusible interfacing, thread, scissors, pins, chalk and drawstrings.\nCut 4 main fabric pieces and 4 interfacing pieces, each measuring 14 × 7 inches (about 36 × 18 cm).\nFuse the interfacing to the wrong side of the main fabric pieces.\nTrim off any excess interfacing around the edges.\nFold the paper pattern in half to cut a 6 × 6 cm corner square\nPlace the fabric pieces right sides together, trace it onto the fabric and cut along the lines."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sewing the box",
+      "content": "Mark 6 cm from each side of the top edge to leave the center opening for drawing tissues.\nPin around the center opening and sew along the edges to attach the lining.\nRemember to backstitch at the start and end to secure the seams.\nOpen the seam and press it flat.\nMake 1 more identical piece.\nAlign the side edges right sides together and pin securely.\nSew the side seams, remember to backstitch at the start and end to secure the seams.\nPinch and align the cut corners flat, pin them together and sew across to box the corners.\nRepeat the same process for the other piece.\nTurn one piece right side out, nest it inside the other piece and pin around the raw edges.\nSew around the outer edge to secure the lining and main fabric together before turning.\nTrim the seam allowance around the edge to reduce bulk.\nTurn the cover right side out through the opening."
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:15:00"
+    },
+    {
+      "title": "Step 2: Sewing the box",
+      "time": "02:29:00"
+    }
+  ]
+},
+{
+  "name": "Cable Organizer",
+  "level": "Beginner",
+  "time": "30 minutes",
+  "finishedSize": "3 x 5.5 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 2 outer panels measuring 3.5 × 6 inches (9 × 15 cm)."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 2 outer panels measuring 3.5 × 6 inches (9 × 15 cm).\nStrap fabric, 1 fabric strip measuring 1.5 × 4 inches (4 × 10 cm) for the strap.\nStiff interfacing, 1 piece measuring 3 × 5.5 inches (8 × 14 cm).\nThread.\nScissors.\nPins.\nChalk."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Straight stitching, Backstitching, Turning, Pinning, Topstitching, Inserting interfacing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%205/Cable%20Organizer.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Cable%20Organizer.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Cable%20Organizer/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, strap fabric, stiff interfacing, thread, scissors, pins and chalk.\nCut out 2 outer panels measuring 3.5 × 6 inches (9 × 15 cm), 1 piece of stiff interfacing measuring 3 × 5.5 inches (8 × 14 cm) and 1 fabric strip measuring 1.5 × 4 inches (4 × 10 cm) for the strap."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the cable organizer",
+      "content": "Place the two main panels right sides together.\nSew along three edges of the main fabric panels.\nRemember to backstitch at the start and end to secure the seams.\nTurn right side out, insert the stiff interfacing piece between the two main fabric panels and pin all around.\nInsert one end of the strap into the opening and pin securely.\nTopstitch around the edges to close the opening and secure the first end of the strap.\nWrap the strap across the front and topstitch the other end firmly in place.\nAnd that’s it! Your cute fabric cable organizer is ready to use!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:13:00"
+    },
+    {
+      "title": "Step 2: Sew the cable organizer",
+      "time": "00:20:00"
+    }
+  ]
+},
+{
+  "name": "Pot Holder",
+  "level": "Beginner",
+  "time": "30 minutes",
+  "finishedSize": "9 x 9 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 2 outer panels measuring 9.5 × 9.5 inches (about 24 × 24 cm)."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 2 outer panels measuring 9.5 × 9.5 inches (about 24 × 24 cm).\nBinding fabric, 2 fabric strips measuring 2 × 20 inches (5 × 50 cm) or 1 fabric strip measuring 2 × 40 inches (5 × 100 cm) for the outer binding and hanging loop.\nHeat-resistant batting, 2 pieces measuring 9.5 × 9.5 inches (about 24 × 24 cm).\nThread.\nThread snippers.\nPins.\nChalk."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Marking, Pinning, Topstitching, Trimming, Straight stitching, Backstitching, Binding application, Mitering corners, Turning, Loop construction"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Pot%20Holder.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Pot%20Holder/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, binding fabric, heat-resistant batting, thread, thread snippers, pins and chalk.\nCut out 2 outer panels and 2 heat-resistant batting pieces, each measuring 9.5 × 9.5 inches (about 24 × 24 cm) and mark the guidelines on 2 outer panels.\nCut 2 fabric strips measuring 2 × 20 inches (5 × 50 cm) or 1 fabric strip measuring 2 × 40 inches (5 × 100 cm) to make the outer binding and hanging loop."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sewing the pot holder",
+      "content": "Layer the outer fabric over the heat-resistant batting and pin them together.\nTopstitch grid lines across the outer panels to secure the batting layer.\nTrim off any excess batting around the edges.\nPlace the right sides together and sew around the edges.\nRemember to backstitch at the start and end to secure the seams.\nIf you have 2 strips, sew them together into one long strip.\nPlace binding fabric onto the pot holder and sew along the edge.\nFold mitered corners neatly as you reach each corner.\nFold the bias tape over to the back side to enclose the raw edges and pin securely all around.\nFold and sew the remaining binding tail into a tube.\nTurn the binding tube right side out.\nFold the end of the binding tape into a loop at the top corner.\nTopstitch around to secure everything neatly."
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:20:00"
+    },
+    {
+      "title": "Step 2: Sewing the pot holder",
+      "time": "00:44:00"
+    }
+  ]
+},
+{
+  "name": "Ghost Shaped Pouch",
+  "level": "Beginner",
+  "time": "30 minutes",
+  "finishedSize": "12 x 12 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main white fabric, 2 ghost panels cut according to the pattern."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main white fabric, 2 ghost panels cut according to the pattern.\nBlack lining fabric, 2 panels cut according to the pattern.\nEyes, 2 pieces cut according to the pattern.\nDrawstrings.\nThread.\nScissors.\nPins.\nChalk.\nGhost pattern."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron, Hot glue gun"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Pinning, Straight stitching, Backstitching, Clipping curves, Pressing, Turning, Topstitching, Gluing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Ghost%20Shaped%20Pouch.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Ghost%20Shaped%20Pouch/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main white fabric, black lining fabric, thread, scissors, pins, chalk and drawstrings.\nCut out 2 main white ghost panels, 2 black lining panels and the eyes according to the pattern."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sewing the mouth feature",
+      "content": "Place 1 main white fabric and 1 black lining right sides together, align the edges and pin around the mouth area.\nSew along the traced mouth line to attach the lining to the main panel.\nRemember to backstitch at the start and end to secure the seams.\nCarefully cut away the inner fabric inside the mouth stitching line.\nClip small slits along the curved seam allowance to ensure a clean, smooth turn.\nPush the black lining through the mouth opening to the back side.\nPress the mouth opening flat with an iron for a crisp edge."
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sewing the pouch",
+      "content": "Place the lining panels right sides together. Repeat with the main fabric panels, then pin around the edges.\nSew around the outer contour of the lining, leaving an opening for turning.\nPin the drawstrings inside the top corners, leaving the ends tucked neatly between the layers.\nSew around the entire outer contour of the ghost, taking care when stitching over the drawstring.\nRemember to backstitch at the start and end to secure the seams.\nClip the curved seam allowances and corners to reduce bulk.\nTurn the pouch right side out through the opening in the lining.\nGently push out all the curves and corners to shape the ghost.\nTopstitch close to the edge to close the opening.\nGlue the two eyes onto the face using a hot glue gun."
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:15:00"
+    },
+    {
+      "title": "Step 2: Sewing the mouth feature",
+      "time": "00:26:00"
+    },
+    {
+      "title": "Step 3: Sewing the pouch",
+      "time": "04:21:00"
+    }
+  ]
+},
+{
+  "name": "Bow Pillow",
+  "level": "Beginner",
+  "time": "45 minutes",
+  "finishedSize": "11 x 15 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 1 front panel, 2 back panels measuring 12 × 11 inches (30 × 28 cm) and 12 × 9.5 inches (30 × 24 cm), 4 ruffle strips measuring 39.5 × 2 inches (100 × 5 cm) or 1 long strip measuring 158 × 2 inches (400 × 5 cm), and 1 center band strip measuring 4 × 31.5 inches (10 × 80 cm)."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 1 front panel.\nMain fabric, 2 back panels measuring 12 × 11 inches (30 × 28 cm) and 12 × 9.5 inches (30 × 24 cm).\nMain fabric, 4 fabric strips measuring 39.5 × 2 inches (100 × 5 cm) or 1 long strip measuring 158 × 2 inches (400 × 5 cm) for the ruffles.\nMain fabric, 1 fabric strip measuring 4 × 31.5 inches (10 × 80 cm) for the center band.\nLining fabric, 2 pieces measuring 12 × 15 inches (30 × 38 cm).\nPolyester fiberfill stuffing.\nElastic band, roughly 13 inches (33 cm) long.\nThread.\nScissors.\nPins.\nMeasuring tape.\nChalk."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron, Safety pin or bodkin"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Folding, Pressing, Marking, Gathering, Pinning, Straight stitching, Backstitching, Topstitching, Clipping corners, Turning, Stuffing, Elastic threading, Bow shaping"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Bow%20Pillow.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Bow%20Pillow/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, lining fabric, polyester fiberfill stuffing, elastic band, thread, scissors, pins, measuring tape and chalk.\nCut 1 front panel, 2 lining pieces measuring 12 × 15 inches (30 × 38 cm) and 2 back panels measuring 12 × 11 inches (30 × 28 cm) and 12 × 9.5 inches (30 × 24 cm)\nFor the back panels, fold over 0.4 inches (1 cm) and press, then fold over 0.8 inches (2 cm) for the first panel and 1.6 inches (4 cm) for the second, press and mark.\nCut 4 fabric strips measuring 39.5 × 2 inches (100 × 5 cm) (or 1 long strip measuring 158 × 2 inches (400 × 5 cm)) for the ruffles.\nCut 1 fabric strip measuring 4 × 31.5 inches (10 × 80 cm) and 1 elastic band roughly 13 inches (33 cm) long for the center band."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the outer pillow cover",
+      "content": "If you cut 4 separate strips, join them right sides together to make one continuous long strip.\nFold the strip in half lengthwise with wrong sides together.\nSew a long gathering stitch along the raw edges, do not backstitch and leave long thread tails.\nThen gently pull the bobbin thread to gather into ruffles.\nPin the ruffles around the wrong side of the front panel, facing the raw edges outward.\nSew along the raw edges to secure the ruffles to the front panel.\nTopstitch along the marked fold lines of the two back panels.\nPlace the two back panels right sides together over the front panel, overlapping the hemmed edges.\nPin all around and sew along the four edges.\nRemember to backstitch at the start and end to secure the seams.\nClip the corner seam allowances and turn right side out through the back opening."
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the inner pillow insert",
+      "content": "Place the two lining pieces right sides together, mark an opening gap and sew all around the edges.\nTurn the insert right side out through the gap and stuff firmly with polyester fiberfill.\nInsert the filled pillow insert into the outer ruffled pillowcase."
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the center band",
+      "content": "Fold the 10 × 80 cm strip in half lengthwise with the right sides together.\nSew across one short end, leaving the other short end open for turning.\nSew along the long raw edge with a straight stitch.\nTurn the tube right side out through the open end and press flat with the seam aligned along the center back.\nMark two parallel chalk lines along the middle of the band to outline the elastic channel.\nTopstitch along these two marked guidelines using a straight stitch.\nThread the elastic band through the center channel using a safety pin or bodkin, then secure both ends.\nWrap the elasticated center band around the pillow and stitch the two short ends together to cinch it into a beautiful bow shape!\nAnd that’s it! Your adorable bow pillow is ready to accent your home!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:10:00"
+    },
+    {
+      "title": "Step 2: Sew the outer pillow cover",
+      "time": "00:42:00"
+    },
+    {
+      "title": "Step 3: Sew the inner pillow insert",
+      "time": "08:48:00"
+    },
+    {
+      "title": "Step 4: Sew the center band",
+      "time": "11:39:00"
+    }
+  ]
+},
+{
+  "name": "Tea cozy",
+  "level": "Beginner",
+  "time": "45 minutes",
+  "finishedSize": "11 x 15 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 2 outer pieces cut according to the pattern."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 2 outer pieces cut according to the pattern.\nLining fabric, 2 pieces cut according to the pattern.\nHeat-resistant batting, 2 pieces cut according to the pattern.\nBinding fabric, 2 long strips measuring 1.6 × 26 inches (4 × 66 cm) for the curved edge and 1.6 × 24 inches (4 × 61 cm) for the bottom opening.\nThread.\nThread snippers.\nPins.\nFabric marker.\nRuler.\nPattern template."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Marking, Pinning, Topstitching, Quilting, Backstitching, Trimming, Straight stitching, Binding application"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Tea%20cozy.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Tea%20cozy/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, binding fabric, lining fabric, heat-resistant batting, thread, thread snippers, pins, a fabric marker and a ruler\nPrepare the pattern template as shown, or easily adjust the size to fit your teapot.\nCut 2 outer pieces, 2 lining pieces and 2 heat-resistant batting pieces according to the pattern.\nMark a 1 cm seam allowance along the edge.\nDraw a diagonal grid pattern across the main fabric.\nCut 2 long strips measuring 1.6 × 26 inches (4 × 66 cm) for the curved edge and 1.6 × 24 inches (4 × 61 cm) for the bottom opening to make outer binding.\nIf you don't have enough fabric, cut square pieces, fold them diagonally, cut at a 45-degree angle to make long strips.\nSew them together and trim off any excess fabric."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the tea cozy",
+      "content": "Layer the main fabric, heat-resistant batting and lining fabric in that order, then pin them together securely.\nTopstitch along the grid lines across the outer panels to quilt the layers together.\nRemember to backstitch at the start and end to secure the seams.\nRepeat the same process for the second panel.\nTrim off any excess batting around the edges for neatness.\nPlace the two panels right sides together and pin them securely.\nSew around the curved sides and remember to backstitch at the start and end to secure the seams."
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the binding",
+      "content": "Place the binding fabric along the curved edge and pin them together.\nSew along the edge with a steady, straight stitch.\nFold the bias tape over to the back side to enclose the raw edges and pin securely all around.\nTopstitch around the folded edge to secure the binding neatly.\nRepeat the exact same binding steps for the bottom opening.\nBe careful when approaching the previous binding, gently fold it down and keep on sewing.\nSew the end of the binding.\nAnd that’s it! Your lovely tea cozy is finished and ready to use!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:26:00"
+    },
+    {
+      "title": "Step 2: Sew the tea cozy",
+      "time": "03:35:00"
+    },
+    {
+      "title": "Step 3: Sew the binding",
+      "time": "09:21:00"
+    }
+  ]
 }
+
+
+
+
+
 
       ]
     },
@@ -50224,7 +50577,7 @@
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Quilted%20Oven%20Mitt.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Quilted%20Oven%20Mitt.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Quilted%20Oven%20Mitt%20Tiny/master.m3u8",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Quilted%20Oven%20Mitt/master.m3u8",
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Quilted%20Oven%20Mitt/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Quilted%20Oven%20Mitt/thumb.webp",
           "steps": [
