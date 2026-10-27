@@ -10085,786 +10085,718 @@
   ]
 },
         {
-          "name": "Felt Easter Chicks",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "Approximately 2.4 inches tall x 2.4 inches wide",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Yellow felt"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Yellow felt\nOrange felt\nWhite felt\nBlack felt\nRibbon (optional)\nGingham fabric (optional)\nStriped jersey fabric\nWhite pom-pom\nGold faux leather\nOrange cord\nToy stuffing\nFabric glue\nMatching sewing thread"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Hand Sewing, Machine Sewing, Edge Stitching, Appliqué, Slip Stitching, Stuffing, Decorative Embellishment, Fabric Gluing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%201/Felt%20Easter%20Chicks.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%201/Felt%20Easter%20Chicks.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Easter%20Chicks/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut Out the Felt Pieces",
-              "content": "Using the templates, cut one front chick piece, one pair of back chick pieces, and one pair of wings from yellow felt. Cut one beak, one pair of heart-shaped feet, and one head feather piece from orange felt.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp embroidery scissors to keep the curved wing and feather edges smooth and accurate."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Facial Features",
-              "content": "Cut two eye shapes from white felt and two small pupil circles from black felt. Cut one small bag piece from gold faux leather and a 2.4 inches x 4.7 inches rectangle from striped jersey fabric for the bobble hat.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure both eyes are mirrored and evenly sized before attaching them to avoid an uneven expression."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Back Pieces",
-              "content": "Place the back chick pieces right sides together and stitch from the notch at the top down to the base. Attach the wings and head feather to the marked positions on the body.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the seam allowance consistent at 0.12 inches (3 mm) to ensure the front and back pieces align correctly later."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Join the Front and Back",
-              "content": "Center the front chick piece over the back section. Stitch from the top seam down to the side notch, pivot around the curves, and continue to the base notch. Repeat on the opposite side, leaving the lower back opening unstitched.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Clip tight curves before turning to help the rounded chick shape sit smoothly."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Turn and Stuff the Chick",
-              "content": "Turn the chick right side out and gently shape the seams. Fill the body firmly with toy stuffing, paying special attention to the corners and lower body. Close the opening with hand slip stitches.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Underfilling the body can make the chick collapse and lose its rounded shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Attach the Feet and Face",
-              "content": "Glue or stitch the feet to the base of the chick. Secure the white eye pieces to the face, then fold the beak in half, glue along the fold, and stitch or glue it beneath the eyes.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow any fabric glue to dry fully before handling to prevent pieces from shifting out of position."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Make the Mini Bag",
-              "content": "Fold and stitch the faux leather bag following the template markings. Turn it right side out. Tie knots at both ends of a 9.5 inches length of orange cord and secure the cord beneath the bag flap.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a leather needle or slightly longer stitch length when sewing faux leather to avoid perforating the material."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Create the Bobble Hat",
-              "content": "Fold the jersey rectangle by 0.4 inches along one long edge, then fold again and stitch. Join the short ends together to form a tube and stitch the remaining edge closed.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stretching the jersey while sewing can distort the hat shape and make it fit poorly."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish the Hat",
-              "content": "Gather the open end of the hat and secure it with stitches. Attach a small white pom-pom to the top.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use several passes of thread through the pom-pom to keep it securely attached during handling."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Add Final Decorations",
-              "content": "Place the hat over the head feathers and secure it with a few hand stitches. If making the female chick version, tie a gingham bow and attach it in front of the head feathers.",
-              "tip": {
-                "type": "warning",
-                "text": "If the decoration is intended for young children, securely stitch all embellishments instead of relying solely on glue."
-              }
-            }
-          ]
-        },
+  "name": "Felt Easter Chicks",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "Approximately 2.4 inches tall x 2.4 inches wide",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Yellow felt"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Yellow felt\nOrange felt\nWhite felt\nBlack felt\nRibbon (optional)\nGingham fabric (optional)\nToy stuffing\nFabric glue\nMatching sewing thread"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Hand Sewing, Machine Sewing, Edge Stitching, Appliqué, Slip Stitching, Stuffing, Decorative Embellishment, Fabric Gluing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%201/Felt%20Easter%20Chicks.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%201/Felt%20Easter%20Chicks.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Easter%20Chicks/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern pieces on the fabric and trace around them\nCut 0.4” outside the traced line for seam allowance\nIn total, we will have 2 side bodies, 1 front body, 4 wings, 2 combs, 2 feet, 1 beak, and 2 eyes",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use sharp embroidery scissors to keep the curved wing and feather edges smooth and accurate."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the wings",
+      "content": "Place two wing pieces right sides together. Sew around the curve, leaving the straight edge open\nRepeat with the other pieces. Now we have two wings like this",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Sew both wings the same way and leave the straight edge of each wing open, or the wings cannot be attached to the body later."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew wings to the body",
+      "content": "Place the wings on the front body piece, right sides together and baste in place",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Position both wings symmetrically and baste them securely, checking they mirror each other before the side bodies are sewn on."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the body",
+      "content": "Place one side body on the front body right sides together and sew one edge\nRepeat with the other side body and sew the remaining edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip tight curves before turning to help the rounded chick shape sit smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Stuffing",
+      "content": "Add stuffing a little at a time and shape it nicely",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Underfilling the body can make the chick collapse and lose its rounded shape."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Sew the opening closed",
+      "content": "Tuck the edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use small, evenly spaced ladder stitches and pull the thread gently so the closure is nearly invisible and does not pucker."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Sew the comb & the feet",
+      "content": "Place the two comb pieces right sides together and sew around the outer edge, leave a small gap unsewn for turning\nPlace the two foot pieces right sides together and sew around the outer edge, leave a small gap unsewn for turning\nClip the curves around the comb and feet, then turn them right side out",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Leave a small turning gap in both the comb and the feet, and clip the curves before turning so the small pieces lie smoothly."
+      }
+    },
+    {
+      "number": 8,
+      "title": "Step 8: Assemble the detail",
+      "content": "Glue the eyes, then sew the comb and the feet",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Position both eyes symmetrically and let the glue dry fully before sewing on the comb and feet, or the details may shift."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:13:00"
+    },
+    {
+      "title": "Step 2: Sew the wings",
+      "time": "01:01:00"
+    },
+    {
+      "title": "Step 3: Sew wings to the body",
+      "time": "01:32:00"
+    },
+    {
+      "title": "Step 4: Sew the body",
+      "time": "02:17:00"
+    },
+    {
+      "title": "Step 5: Stuffing",
+      "time": "03:19:00"
+    },
+    {
+      "title": "Step 6: Sew the opening closed",
+      "time": "03:33:00"
+    },
+    {
+      "title": "Step 7: Sew the comb & the feet",
+      "time": "03:45:00"
+    },
+    {
+      "title": "Step 8: Assemble the detail",
+      "time": "05:00:00"
+    }
+  ]
+},
+       {
+  "name": "Moon Sleep Set",
+  "level": "Intermediate",
+  "time": "1.5 hours",
+  "finishedSize": "Sleep mask: approximately 8 x 4 inches; Moon pillow: approximately 12 x 10 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Cotton fabric: pink, light blue, navy, mid blue"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Cotton fabric: pink, light blue, navy, mid blue.\nTurquoise spot bias binding, 0.79 inches x 23.62 inches.\nIron-on interfacing.\nElastic, 11.81 inches.\nWadding (batting).\nFibre filling.\nWhite tissue paper.\nEmbroidery thread: black, turquoise, pink, white.\nMatching sewing thread.\nFabric marker.\nPaper templates.\nPins.\nIron.\nScissors."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Machine Embroidery, Applique, Bias Binding Application, Curved Seam Sewing, Stuffing, Topstitching, Elastic Insertion, Free-Motion Embroidery"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Moon%20Sleep%20Set.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Moon%20Sleep%20Set.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Moon%20Sleep%20Set/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Draw along the outline of the prepared template\nDraw an outline 0.1\" away from the edge\nCut along the outline you just drew",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Label each fabric piece after cutting to avoid confusion when assembling multiple components."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the sleep mask",
+      "content": "Sew the two eye pieces onto the right side of the fabric\nUse an overcast stitch to sew around the edges of the eyes\nSew the eyelashes\nFold it in half and sew it to make the elastic strap for the sleep mask\nTurn it right side out, then insert the elastic strap\nSew the pieces together\nUse clips or pins to secure the two pieces of fabric together\nSew them together\nStuff it with cotton\nUse the remaining piece of fabric to sew the trim",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Misaligned facial features are difficult to correct once embroidery has been completed."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the moon pillow",
+      "content": "Mark an opening for stuffing\nSew the two pieces of fabric together\nTurn the right side out\nStuff the pillow with cotton\nSew the opening closed\nDecorate it with colored pens",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Mark the stuffing opening clearly before sewing, stuff the pillow evenly so the moon shape stays smooth, and close the opening with small, neat stitches."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:11:00"
+    },
+    {
+      "title": "Step 2: Sew the sleep mask",
+      "time": "00:41:00"
+    },
+    {
+      "title": "Step 3: Sew the moon pillow",
+      "time": "06:16:00"
+    }
+  ]
+},
         {
-          "name": "Moon Sleep Set",
-          "level": "Intermediate",
-          "time": "1.5 hours",
-          "finishedSize": "Sleep mask: approximately 8 x 4 inches; Moon pillow: approximately 12 x 10 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Cotton fabric: pink, light blue, navy, mid blue"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Cotton fabric: pink, light blue, navy, mid blue.\nTurquoise spot bias binding, 0.79 inches x 23.62 inches.\nIron-on interfacing.\nElastic, 11.81 inches.\nWadding (batting).\nFibre filling.\nWhite tissue paper.\nEmbroidery thread: black, turquoise, pink, white.\nMatching sewing thread.\nFabric marker.\nPaper templates.\nPins.\nIron.\nScissors."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Machine Embroidery, Applique, Bias Binding Application, Curved Seam Sewing, Stuffing, Topstitching, Elastic Insertion, Free-Motion Embroidery"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Moon%20Sleep%20Set.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Moon%20Sleep%20Set.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Moon%20Sleep%20Set/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare and Cut the Pattern Pieces",
-              "content": "Print and cut the sleep mask and moon pillow templates. Cut all fabric pieces according to the pattern, including front and back sections for both projects. Apply iron-on interfacing to the designated fabric pieces.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Label each fabric piece after cutting to avoid confusion when assembling multiple components."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Transfer the Facial Features",
-              "content": "Trace the eye, eyelash, cheek, and decorative details onto the fabric using the template markings. Position the features before stitching.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Misaligned facial features are difficult to correct once embroidery has been completed."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Applique Details",
-              "content": "Cut applique shapes for the eyelids, cheeks, moons, and decorative accents from contrasting fabrics. Fuse them to the front pieces using interfacing or applique adhesive.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press applique pieces in place before stitching to prevent shifting during embroidery."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Machine Embroider the Features",
-              "content": "Use machine embroidery or free-motion stitching to sew the eyelashes, eye outlines, stars, moon accents, and decorative sleeping motifs onto the fabric fronts.",
-              "tip": {
-                "type": "warning",
-                "text": "For very small applique pieces, place tissue paper beneath the fabric while stitching and tear it away after finishing."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Assemble the Sleep Mask Front",
-              "content": "Layer the completed sleep mask front with wadding and the backing fabric. Secure the layers with pins or temporary adhesive spray before stitching.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Quilting the layers lightly before assembly helps prevent shifting during use."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Insert the Elastic",
-              "content": "Position the elastic at each side of the sleep mask according to the pattern markings. Secure the ends with reinforcing stitches.",
-              "tip": {
-                "type": "warning",
-                "text": "Check the elastic is not twisted before stitching permanently."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Finish the Sleep Mask Edge",
-              "content": "Sew around the sleep mask perimeter and apply the bias binding around the curved edge for a neat and durable finish.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stretching the bias binding while sewing can cause the mask edge to ripple."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Prepare the Moon Pillow Front",
-              "content": "Create the moon face applique and embroidered details on the moon front piece. Stitch the eye, eyelash, cheek, stars, and decorative sleeping symbols before construction.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Complete all embroidery before assembling the pillow to keep stitching easier and more accurate."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Assemble the Moon Pillow",
-              "content": "Place the moon pillow front and back pieces right sides together. Sew around the curved outer edge, leaving an opening for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip the seam allowance around tight curves to help the crescent shape turn smoothly."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Turn and Stuff the Pillow",
-              "content": "Turn the moon pillow right side out and gently push out the crescent points. Fill evenly with fibre filling until the pillow feels soft yet supportive.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Overstuffing can distort the crescent shape and make the pillow appear bulky."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Close the Pillow Opening",
-              "content": "Hand stitch the turning gap closed using a ladder stitch or slip stitch. Shape the pillow as you sew to maintain smooth curves.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread and small stitches for an almost invisible closure."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Final Inspection and Finishing",
-              "content": "Check both the sleep mask and moon pillow for loose threads, uneven stuffing, or embroidery issues. Press lightly if needed and make any final adjustments.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final shaping step can leave the moon pillow looking asymmetrical."
-              }
-            }
-          ]
-        },
+  "name": "Heart Pocket Pillow",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "15.7 x 16.9 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Patterned cotton fabric, two fat quarters"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Patterned cotton fabric, two fat quarters.\nPlain cotton fabric, two fat quarters.\nPom-pom trim, 2 meters.\nAdhesive webbing, 11.97 inches x 7.87 inches.\nLightweight iron-on interfacing, 8.66 inches x 8.66 inches.\nRed cotton fabric, four strips measuring 3.54 inches x 17.72 inches.\nCushion stuffing, 500 g.\nMatching sewing thread.\nPins.\nPaper templates.\nIron.\nFabric scissors."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Pattern Matching, Curved Seam Sewing, Applique, Topstitching, Gathering and Pinning Trim, Cushion Construction, Turning and Stuffing, Edge Finishing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Heart%20Pocket%20Pillow.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Heart%20Pocket%20Pillow.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Pocket%20Pillow/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Draw along the outline of the prepared template\nDraw an outline 0.1\" away from the edge\nCut along the outline you just drew\nRepeat the same steps for the remaining piece",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align patterned fabrics carefully before cutting so the design remains balanced across the finished cushion."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the front side",
+      "content": "Place & sew the decorative trim along the outline of the heart\nFold the edge inward\nThen place it in the center of the second heart\nUse pins to secure it in place\nSew along the edge, close to the outer edge\nPlace the two right sides together, sew along the edge as shown in the video",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Pin the decorative trim securely along the heart outline, check it sits evenly, and clip around the curves so the heart lies flat before sewing close to the edge."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the pieces together",
+      "content": "Use a pen to mark the opening for stuffing\nSew along the marked line\nTurn it right side out, then stuff it with cotton\nSew the stuffing opening closed",
+      "tip": {
+        "type": "warning",
+        "text": "Clip curved seam allowances carefully without cutting into the stitching line."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:11:00"
+    },
+    {
+      "title": "Step 2: Sew the front side",
+      "time": "00:45:00"
+    },
+    {
+      "title": "Step 3: Sew the pieces together",
+      "time": "06:04:00"
+    }
+  ]
+},
+      {
+  "name": "Folded Fabric Basket",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "Small: 2.6\" x 2.6\" x 2.8\"\nMedium: 3.3\" x 3.3\" x 3.5\"\nLarge: 3.7\" x 3.7\" x 4.3\"",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Printed cotton fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Printed cotton fabric\nPlain cotton fabric\nMatching sewing thread\n4 buttons\nFabric marker or chalk\nPins or sewing clips"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Straight Stitching, Turning, Topstitching, Pressing, Folding, Button Attachment"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Storage/Folded%20Fabric%20Basket.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Storage/Folded%20Fabric%20Basket.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Folded%20Fabric%20Basket/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Cut 1 main fabric and 1 lining fabric measuring 16\" x 16\"",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Cut both squares exactly 16\" x 16\" and check they match, as uneven squares will make the basket sides uneven."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew lining & main piece",
+      "content": "Place the main fabric and lining right sides together. Sew all around the edges, leaving a 2” gap for turning\nTurn it right side out through the gap\nFold the edges of the opening inward and topstitch all the way around the edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Trim the corners diagonally before turning to reduce bulk and create crisp, sharp corners."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew to shape the basket",
+      "content": "Mark to divide each edge into 4 equal parts. Draw diagonal lines to connect corresponding points on adjacent edges\nOn one edge, pinch center mark and fold so two outer marks line up perfectly\nSew diagonally from the matched marks down to the fold\nRepeat the same steps for the remaining 3 edges",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Inaccurate marking can cause the basket sides to become uneven, so measure each fold carefully before stitching."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the inner bottom",
+      "content": "Turn it right side out and topstitch around the 4 bottom edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Press the folds before topstitching to help the basket hold its shape more neatly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Secure corners",
+      "content": "Secure the corners to the body\nusing fabric glue or a hand stitch",
+      "tip": {
+        "type": "warning",
+        "text": "Secure each corner at the same height and check the basket sits evenly before gluing or stitching, as uneven corners will make the basket tilt."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:14:00"
+    },
+    {
+      "title": "Step 2: Sew lining & main piece",
+      "time": "00:21:00"
+    },
+    {
+      "title": "Step 3: Sew to shape the basket",
+      "time": "01:28:00"
+    },
+    {
+      "title": "Step 4: Sew the inner bottom",
+      "time": "03:30:00"
+    }
+  ]
+},
+       {
+  "name": "Holiday Baby Bibs",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "7.9 inches x 13.8 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Brown striped cotton fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Brown striped cotton fabric.\nRed Christmas print cotton fabric.\nCream square cotton fabric.\nWhite fleece fabric.\nCotton batting.\nFelt: white and mustard yellow.\nBrown embroidery thread.\nSewing thread.\nPress studs or hook-and-loop tape.\nIron-on fusible webbing.\nAir-erasable fabric pen.\nGeneral sewing supplies."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Applique, Machine Sewing, Embroidery, Topstitching"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Holiday%20Baby%20Bibs.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Holiday%20Baby%20Bibs.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Holiday%20Baby%20Bibs%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the lining fabric then trace around it\nAdd a 0.4\" seam allowance around the shape and cut along the outer line\nCut the pattern into 3 pieces: the body, belly, and beak\nSimilarly, use the 3 pattern pieces to cut 3 fabric pieces: body, belly, and beak",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Cutting applique pieces without transferring placement marks can make assembly difficult later."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew front piece",
+      "content": "Place the two body pieces and the beak right sides together, then sew to secure them in place\nPlace the belly piece on the body piece, right sides together, then sew to secure it in place",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use a narrow zigzag stitch around applique edges for durability and a neat finish."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew front piece & lining",
+      "content": "Place the lining piece over the finished front piece, right sides together\nSew all the way around, leave a 2\" gap unsewn for turning",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use fleece as the backing layer to create a softer and more comfortable bib for babies."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Clip the curves",
+      "content": "Clip the curves around the entire piece",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip close to the stitching without cutting through it, and clip extra notches on tight curves so the bib turns smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Turn right side out",
+      "content": "Turn it right side out through the gap",
+      "tip": {
+        "type": "warning",
+        "text": "Do not force the bib through the gap, or the seams may stretch or tear."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Sew the opening closed",
+      "content": "Fold the raw edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use small, evenly spaced ladder stitches and pull the thread gently so the closure is nearly invisible."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew front piece",
+      "time": "00:52:00"
+    },
+    {
+      "title": "Step 3: Sew front piece & lining",
+      "time": "01:36:00"
+    },
+    {
+      "title": "Step 4: Clip the curves",
+      "time": "02:03:00"
+    },
+    {
+      "title": "Step 5: Turn right side out",
+      "time": "02:14:00"
+    },
+    {
+      "title": "Step 6: Sew the opening closed",
+      "time": "02:23:00"
+    }
+  ]
+},
         {
-          "name": "Heart Pocket Pillow",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "15.7 x 16.9 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Patterned cotton fabric, two fat quarters"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Patterned cotton fabric, two fat quarters.\nPlain cotton fabric, two fat quarters.\nPom-pom trim, 2 meters.\nAdhesive webbing, 11.97 inches x 7.87 inches.\nLightweight iron-on interfacing, 8.66 inches x 8.66 inches.\nRed cotton fabric, four strips measuring 3.54 inches x 17.72 inches.\nCushion stuffing, 500 g.\nMatching sewing thread.\nPins.\nPaper templates.\nIron.\nFabric scissors."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Pattern Matching, Curved Seam Sewing, Applique, Topstitching, Gathering and Pinning Trim, Cushion Construction, Turning and Stuffing, Edge Finishing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Heart%20Pocket%20Pillow.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Heart%20Pocket%20Pillow.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Pocket%20Pillow/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare and Cut the Fabric",
-              "content": "Print and cut the heart templates. Cut two large heart pieces from patterned cotton, two medium heart pieces from plain cotton, one small heart piece from patterned cotton, and four red cotton strips measuring 3.54 inches x 17.72 inches. Apply lightweight interfacing and adhesive webbing to the fabrics as indicated by the pattern.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Align patterned fabrics carefully before cutting so the design remains balanced across the finished cushion."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Create the Cushion Piping Border",
-              "content": "Join the red cotton strips end to end to create a continuous strip. Fold the strip lengthwise and wrap it around the pom-pom trim, pinning or tacking it securely in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Joining the strips with mismatched edges can create bulky sections that are difficult to sew smoothly."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Medium Heart Pocket",
-              "content": "Place the two medium heart pieces right sides together and sew around the curved edge, leaving a small opening for turning. Clip the seam allowance around curves, turn right side out, and press flat.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip curved seam allowances carefully without cutting into the stitching line."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Create the Heart Applique",
-              "content": "Apply adhesive webbing to the back of the small patterned heart. Position it in the center of the medium heart and fuse it in place with an iron.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Check the placement before fusing permanently, as repositioning after pressing is difficult."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Attach Decorative Pom-Pom Trim",
-              "content": "Sew pom-pom trim around the edge of the small applique heart. Stitch close to the trim tape to keep the pom-poms evenly spaced.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Allowing the trim to twist while sewing can make the pom-poms sit unevenly."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Create the Pocket Front",
-              "content": "Place one patterned large heart flat with the right side facing up. Position the completed medium heart on top and pin it in place. Stitch around the lower edge only, leaving the upper edge open to form a pocket.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Double-check that the pocket opening faces upward before sewing."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Outer Pom-Pom Trim",
-              "content": "Pin the prepared pom-pom trim around the edge of the large heart front piece with the pom-poms facing inward. Tack the trim in place around the entire perimeter.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the trim away from the seam allowance at tight curves to prevent bunching."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Assemble the Cushion",
-              "content": "Place the second large heart piece right sides together with the front piece. Pin securely and sew around the entire cushion edge, leaving an opening large enough for turning and stuffing.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Forgetting to leave a turning gap will require unpicking stitches later."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Clip and Turn the Cushion",
-              "content": "Trim excess seam allowance and clip all curved sections, especially around the top heart indentation and rounded edges. Turn the cushion right side out through the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not cut through the stitching when clipping curves or the seam may split after stuffing."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Stuff the Cushion",
-              "content": "Fill the cushion evenly with cushion stuffing, working the filling into the heart curves and corners until the shape is full and symmetrical.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Add stuffing gradually and massage it into place to avoid lumps."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Close the Opening",
-              "content": "Hand stitch the turning opening closed using a ladder stitch or slip stitch for an invisible finish.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread and small stitches to make the closure nearly invisible."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Final Shaping and Inspection",
-              "content": "Fluff the cushion, reshape the heart curves, and check that all seams, trim, and pocket edges are secure. Remove loose threads and make any final adjustments.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Uneven stuffing distribution can make one side of the heart appear larger than the other."
-              }
-            }
-          ]
-        },
+  "name": "Fabric Reindeer",
+  "level": "Beginner",
+  "time": "20 minutes",
+  "finishedSize": "8.7 inches x 9.4 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Patterned fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Patterned fabric.\nCoordinating fabric.\nBlack embroidery thread.\nCoordinating sewing thread.\nToy filling.\nRibbon.\nBell.\nWooden bead, 0.2 inches.\n0.4 inches seam allowance used throughout unless otherwise stated."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Soft Toy Sewing, Stuffing, Embroidery, Hand Sewing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Fabric%20Reindeer.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Fabric%20Reindeer.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Fabric%20Reindeer/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Fold the fabric in half, place the pattern on top, and trace around it\nAdd a 0.4” seam allowance around the shape and cut along the outer line\nIn total we should have 2 front antler pieces, 2 back antler pieces and 2 body pieces",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Print templates at 100% scale to ensure the finished toy matches the intended size."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew antlers to the body",
+      "content": "Place the front and back antlers on one body piece, right sides together and baste in place",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Embroidering the eyes after assembling the toy is much harder and can distort the fabric."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the body",
+      "content": "Repeat with the remaining antlers and body piece\nPlace two body pieces right sides together, align, and sew all around, leave a 2\" gap unsewn for turning",
+      "tip": {
+        "type": "warning",
+        "text": "Do not stitch the turning gap closed or the toy cannot be turned right side out."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Trim - Clip",
+      "content": "Trim the excess fabric and clip the curves",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Trim excess fabric and clip curves close to the stitching without cutting through it, so the antlers and body turn smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Turn right side out",
+      "content": "Turn it right side out through the gap",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use a blunt turning tool to push out corners without damaging the fabric."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Stuffing",
+      "content": "Stuff the body little by little, starting with the head",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Overstuffing can stretch the seams and distort the reindeer's shape."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Sew the opening closed",
+      "content": "Fold the raw edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Small hand stitches help create an almost invisible finish."
+      }
+    },
+    {
+      "number": 8,
+      "title": "Step 8: Decorations",
+      "content": "Tie a decorative fabric strip around the reindeer's neck",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Press the ribbon lightly before tying to achieve a crisp, professional bow."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew antlers to the body",
+      "time": "00:45:00"
+    },
+    {
+      "title": "Step 3: Sew the body",
+      "time": "02:01:00"
+    },
+    {
+      "title": "Step 4: Trim - Clip",
+      "time": "02:54:00"
+    },
+    {
+      "title": "Step 5: Turn right side out",
+      "time": "03:16:00"
+    },
+    {
+      "title": "Step 6: Stuffing",
+      "time": "03:37:00"
+    },
+    {
+      "title": "Step 7: Sew the opening closed",
+      "time": "03:52:00"
+    },
+    {
+      "title": "Step 8: Decorations",
+      "time": "04:43:00"
+    }
+  ]
+},
         {
-          "name": "Folded Fabric Basket",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "Small: 2.6\" x 2.6\" x 2.8\"\nMedium: 3.3\" x 3.3\" x 3.5\"\nLarge: 3.7\" x 3.7\" x 4.3\"",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Printed cotton fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Printed cotton fabric\nPlain cotton fabric\nMatching sewing thread\n4 buttons\nFabric marker or chalk\nPins or sewing clips"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Straight Stitching, Turning, Topstitching, Pressing, Folding, Button Attachment"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Storage/Folded%20Fabric%20Basket.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Storage/Folded%20Fabric%20Basket.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Folded%20Fabric%20Basket/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut and Sew the Fabric Square",
-              "content": "Cut one square from printed fabric and one square from plain fabric. For the large size, cut both squares at 11.8\" x 11.8\". Place the fabrics right sides together and sew around the edges using a 0.2-inch seam allowance, leaving an opening on one side for turning. Trim the corners, turn right side out, fold the raw edges of the opening inward, press, and topstitch around the entire square.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Trim the corners diagonally before turning to reduce bulk and create crisp, sharp corners."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Create the Fold Lines",
-              "content": "Fold the fabric square in half vertically and horizontally, pressing lightly to create two center crease lines. On the outside of the basket, mark the halfway point between the center and outer edge along each crease. Fold each corner diagonally from mark to mark and pin in place. Topstitch approximately 0.04 inch from the folded edge to create permanent creases.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Inaccurate marking can cause the basket sides to become uneven, so measure each fold carefully before stitching."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Form the Basket Shape",
-              "content": "Pinch one side of the square along the original pressed crease and pin a line from the corner of the base to the outer edge. Repeat on all four sides to form the basket walls. Topstitch along the pinned lines and flatten the corner pockets that are created.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the folds before topstitching to help the basket hold its shape more neatly."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Secure the Corner Flaps",
-              "content": "Fold down the corner flaps between the pockets. Sew a button through the flap and all fabric layers beneath it to secure the basket shape permanently. Repeat for all four corners to complete the origami box.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure the button placement is centered before sewing, as uneven placement can distort the shape of the finished box."
-              }
-            }
-          ]
-        },
-        {
-          "name": "Holiday Baby Bibs",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "7.9 inches x 13.8 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Brown striped cotton fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Brown striped cotton fabric.\nRed Christmas print cotton fabric.\nCream square cotton fabric.\nWhite fleece fabric.\nCotton batting.\nFelt: white and mustard yellow.\nBrown embroidery thread.\nSewing thread.\nPress studs or hook-and-loop tape.\nIron-on fusible webbing.\nAir-erasable fabric pen.\nGeneral sewing supplies."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Applique, Machine Sewing, Embroidery, Topstitching"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Holiday%20Baby%20Bibs.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Holiday%20Baby%20Bibs.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Holiday%20Baby%20Bibs%20Tiny/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Print and Cut the Templates",
-              "content": "Download and print the bib templates. Cut out the main bib shape and all applique pieces including the beard, face, hat, nose, and decorative details. Transfer any markings to the fabric.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Cutting applique pieces without transferring placement marks can make assembly difficult later."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Main Bib Pieces",
-              "content": "Cut the front and back bib sections from the selected fabrics. Cut matching fleece or batting pieces for added softness and absorbency.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use fleece as the backing layer to create a softer and more comfortable bib for babies."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Robin Bib Applique",
-              "content": "Fuse the applique pieces onto the bib front using fusible webbing. Position the robin body, wing, beak, and facial details according to the template before stitching them in place.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow the ironed applique to cool completely before moving it to prevent shifting."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Make the Santa Face",
-              "content": "Cut the Santa face, beard, hat, and nose pieces from the appropriate fabrics and felt. Layer the pieces according to the template and secure them with machine stitching.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a narrow zigzag stitch around applique edges for durability and a neat finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Embroider the Facial Features",
-              "content": "Embroider the eyes, smile, and any additional facial details using brown embroidery thread. Add decorative stitching where desired.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check facial feature placement carefully before stitching, as small adjustments greatly affect the final expression."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Attach the Nose and Hat Details",
-              "content": "Secure the felt nose and any hat embellishments to the Santa design. Topstitch around the hat and beard to add dimension and definition.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightly stuff the nose before attaching if you want a slightly raised three-dimensional effect."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Assemble the Bib",
-              "content": "Place the bib front and back pieces right sides together with the batting or fleece layer included. Stitch around the edge, leaving an opening for turning.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip curved seam allowances before turning to reduce bulk and help the bib lie flat."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Turn and Topstitch",
-              "content": "Turn the bib right side out through the opening. Press carefully, then topstitch around the entire edge to close the opening and secure all layers.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A matching thread color creates a clean professional finish around the bib edge."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Add the Fastening",
-              "content": "Attach press studs according to the manufacturer's instructions, or use hook-and-loop tape as an alternative fastening method.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure fasteners are securely attached because baby accessories receive frequent washing and use."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish and Inspect",
-              "content": "Trim any loose threads, check that all applique pieces are securely stitched, and give the bib a final press before use or gifting.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final inspection may leave loose threads that can unravel with repeated washing."
-              }
-            }
-          ]
-        },
-        {
-          "name": "Fabric Reindeer",
-          "level": "Beginner",
-          "time": "20 minutes",
-          "finishedSize": "8.7 inches x 9.4 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Patterned fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Patterned fabric.\nCoordinating fabric.\nBlack embroidery thread.\nCoordinating sewing thread.\nToy filling.\nRibbon.\nBell.\nWooden bead, 0.2 inches.\n0.2 inches seam allowance used throughout unless otherwise stated."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Soft Toy Sewing, Stuffing, Embroidery, Hand Sewing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Fabric%20Reindeer.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Fabric%20Reindeer.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Fabric%20Reindeer/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Template Pieces",
-              "content": "Download, print and cut out the reindeer templates. Cut one front and one back body piece from your chosen fabrics. Transfer all markings, including eye placement and opening guides, before sewing.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print templates at 100% scale to ensure the finished toy matches the intended size."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Embroider the Eyes",
-              "content": "Mark the eye positions on the front body piece and embroider them using doubled black embroidery thread. Keep the stitches small and even for a neat expression.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Embroidering the eyes after assembling the toy is much harder and can distort the fabric."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Body",
-              "content": "Place the front and back body pieces right sides together and stitch around the outer edge, leaving a gap for turning and stuffing. Reinforce the stitching around the antlers and legs.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not stitch the turning gap closed or the toy cannot be turned right side out."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Trim and Turn",
-              "content": "Trim the seam allowance and clip into curved areas. Turn the reindeer right side out through the opening and carefully shape the antlers, legs and tail.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a blunt turning tool to push out corners without damaging the fabric."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Stuff the Reindeer",
-              "content": "Fill the reindeer firmly with toy stuffing, working small amounts into the antlers, legs and neck before filling the body. Continue until the toy feels evenly padded.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Overstuffing can stretch the seams and distort the reindeer's shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Close the Opening",
-              "content": "Fold the raw edges of the opening inward and close the gap using a neat ladder stitch or slip stitch.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Small hand stitches help create an almost invisible finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Create the Neck Bow",
-              "content": "Cut a length of ribbon and tie it around the reindeer's neck. Form a neat bow and adjust the loops until they are even.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the ribbon lightly before tying to achieve a crisp, professional bow."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Bell",
-              "content": "Secure a small bell to the centre of the ribbon bow using matching thread. Stitch several times to ensure it is firmly attached.",
-              "tip": {
-                "type": "warning",
-                "text": "Decorative bells should be omitted when making toys for babies or very young children."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Add the Wooden Bead Nose",
-              "content": "Sew a 0.2 inches wooden bead onto the face to create the reindeer's nose. Position it centrally below the eyes and secure with multiple stitches.",
-              "tip": {
-                "type": "warning",
-                "text": "Small beads may present a choking hazard and should not be used on toys intended for infants."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish the Reindeer",
-              "content": "Check all seams, trim loose threads and adjust the stuffing if necessary. Shape the toy by hand and ensure all decorative elements are securely attached before displaying or gifting.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Give the finished toy a gentle squeeze and reshape the stuffing to achieve a smooth, even appearance."
-              }
-            }
-          ]
-        },
-        {
-          "name": "Bunny Bow Scrunchie",
-          "level": "Beginner",
-          "time": "20 minutes",
-          "finishedSize": "One adult or child-sized scrunchie with removable bunny ears",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Cotton fabric, assorted fat quarters"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Cotton fabric, assorted fat quarters.\nRound elastic cord.\nFabric glue."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Basic Sewing, Gathering, Slip Stitching, Knot Tying"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Bunny%20Bow%20Scrunchie/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut the Fabric Pieces",
-              "content": "Choose a cotton fat quarter and cut the required strips for the scrunchie band and bunny ear tie according to the template measurements.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightweight cotton creates softer gathers and is easier to tie into neat bunny ears."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Sew the Scrunchie Tube",
-              "content": "Fold the scrunchie strip lengthwise with right sides together and stitch along the long edge to create a fabric tube.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the seam allowance consistent to ensure the scrunchie gathers evenly."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn and Insert Elastic",
-              "content": "Turn the tube right side out and thread the round elastic through the casing. Secure the elastic ends together with a strong knot.",
-              "tip": {
-                "type": "warning",
-                "text": "Hold both ends of the elastic firmly while threading to prevent it slipping back into the tube."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Close the Scrunchie",
-              "content": "Tuck the raw fabric edges inside and close the opening using slip stitches or a small amount of fabric glue.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Hand stitching gives a cleaner finish than glue and creates a more durable scrunchie."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Create the Bunny Ears",
-              "content": "Cut and sew the bunny ear piece, then turn it right side out and press it flat. Shape the pointed ends neatly.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Trim excess seam allowance at the points before turning to reduce bulk."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Tie the Bunny Ears",
-              "content": "Wrap the ear piece around the scrunchie and tie it into an overhand knot, positioning the ears upright.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Tighten the knot gradually while shaping it with your fingers to keep it neat and symmetrical."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Adjust and Finish",
-              "content": "Arrange the gathers evenly around the scrunchie and adjust the ears until both sides match. Trim any loose threads.",
-              "tip": {
-                "type": "warning",
-                "text": "Avoid pulling the knot too tightly at once, as it can twist the fabric and distort the bunny ears."
-              }
-            }
-          ]
-        },
+  "name": "Bunny Bow Scrunchie",
+  "level": "Beginner",
+  "time": "20 minutes",
+  "finishedSize": "One adult or child-sized scrunchie with removable bunny ears",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Cotton fabric, assorted fat quarters"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Cotton fabric, assorted fat quarters.\nRound elastic cord.\nFabric glue."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Basic Sewing, Gathering, Slip Stitching, Knot Tying"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Bunny%20Bow%20Scrunchie/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Cut 1 fabric piece measuring 4.5” x 31.5”\nCut 2 pieces shaped like this for the bunny ears, measuring 3” x 10”",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Lightweight cotton creates softer gathers and is easier to tie into neat bunny ears."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Make the bunny ears",
+      "content": "Place the two bunny ear pieces right sides together, sew all the way around and leave a small gap for turning\nTrim away the excess fabric around the seam and clip the curves \nTurn it right side out through the gap",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Keep the seam allowance consistent to ensure the scrunchie gathers evenly."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the main piece",
+      "content": "Take the 4.5” x 31.5” piece, fold it in half widthwise, and sew the short open edges together\nTake the two long edges of the top layer and fold them toward the center\nBring the two long edges of the bottom layer up to completely wrap around that inner layer\nSew along the long edges of this outer layer. As you sew, pull the inner fabric out to continue sewing\nDo not sew all the way to the end. Leave a 2” opening\nTurn it right side out through the opening",
+      "tip": {
+        "type": "warning",
+        "text": "Hold both ends of the elastic firmly while threading to prevent it slipping back into the tube."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Insert the elastic cord",
+      "content": "Thread the elastic cord through the opening, tie a tight knot, and adjust the gathers evenly",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Hand stitching gives a cleaner finish than glue and creates a more durable scrunchie."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Sew the opening closed",
+      "content": "Fold the raw edges of the opening inward and sew it closed",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Trim excess seam allowance at the points before turning to reduce bulk."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Topstitch",
+      "content": "Topstitch all around the edges for a beautiful finish",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Tighten the knot gradually while shaping it with your fingers to keep it neat and symmetrical."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:09:00"
+    },
+    {
+      "title": "Step 2: Make the bunny ears",
+      "time": "00:24:00"
+    },
+    {
+      "title": "Step 3: Sew the main piece",
+      "time": "01:35:00"
+    },
+    {
+      "title": "Step 4: Insert the elastic cord",
+      "time": "03:26:00"
+    },
+    {
+      "title": "Step 5: Sew the opening closed",
+      "time": "04:06:00"
+    },
+    {
+      "title": "Step 6: Topstitch",
+      "time": "04:17:00"
+    }
+  ]
+},
         {
           "name": "Stocking Garland Set",
           "level": "Beginner",
@@ -27056,124 +26988,140 @@
             }
           ]
         },
-        {
-          "name": "Felt Easter Chicks",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "Approximately 2.4 inches tall x 2.4 inches wide",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Yellow felt"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Yellow felt\nOrange felt\nWhite felt\nBlack felt\nRibbon (optional)\nGingham fabric (optional)\nStriped jersey fabric\nWhite pom-pom\nGold faux leather\nOrange cord\nToy stuffing\nFabric glue\nMatching sewing thread"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Hand Sewing, Machine Sewing, Edge Stitching, Appliqué, Slip Stitching, Stuffing, Decorative Embellishment, Fabric Gluing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%201/Felt%20Easter%20Chicks.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%201/Felt%20Easter%20Chicks.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Easter%20Chicks/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut Out the Felt Pieces",
-              "content": "Using the templates, cut one front chick piece, one pair of back chick pieces, and one pair of wings from yellow felt. Cut one beak, one pair of heart-shaped feet, and one head feather piece from orange felt.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use sharp embroidery scissors to keep the curved wing and feather edges smooth and accurate."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Facial Features",
-              "content": "Cut two eye shapes from white felt and two small pupil circles from black felt. Cut one small bag piece from gold faux leather and a 2.4 inches x 4.7 inches rectangle from striped jersey fabric for the bobble hat.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Make sure both eyes are mirrored and evenly sized before attaching them to avoid an uneven expression."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Back Pieces",
-              "content": "Place the back chick pieces right sides together and stitch from the notch at the top down to the base. Attach the wings and head feather to the marked positions on the body.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the seam allowance consistent at 0.12 inches (3 mm) to ensure the front and back pieces align correctly later."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Join the Front and Back",
-              "content": "Center the front chick piece over the back section. Stitch from the top seam down to the side notch, pivot around the curves, and continue to the base notch. Repeat on the opposite side, leaving the lower back opening unstitched.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Clip tight curves before turning to help the rounded chick shape sit smoothly."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Turn and Stuff the Chick",
-              "content": "Turn the chick right side out and gently shape the seams. Fill the body firmly with toy stuffing, paying special attention to the corners and lower body. Close the opening with hand slip stitches.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Underfilling the body can make the chick collapse and lose its rounded shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Attach the Feet and Face",
-              "content": "Glue or stitch the feet to the base of the chick. Secure the white eye pieces to the face, then fold the beak in half, glue along the fold, and stitch or glue it beneath the eyes.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow any fabric glue to dry fully before handling to prevent pieces from shifting out of position."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Make the Mini Bag",
-              "content": "Fold and stitch the faux leather bag following the template markings. Turn it right side out. Tie knots at both ends of a 9.5 inches length of orange cord and secure the cord beneath the bag flap.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a leather needle or slightly longer stitch length when sewing faux leather to avoid perforating the material."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Create the Bobble Hat",
-              "content": "Fold the jersey rectangle by 0.4 inches along one long edge, then fold again and stitch. Join the short ends together to form a tube and stitch the remaining edge closed.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stretching the jersey while sewing can distort the hat shape and make it fit poorly."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Finish the Hat",
-              "content": "Gather the open end of the hat and secure it with stitches. Attach a small white pom-pom to the top.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use several passes of thread through the pom-pom to keep it securely attached during handling."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Add Final Decorations",
-              "content": "Place the hat over the head feathers and secure it with a few hand stitches. If making the female chick version, tie a gingham bow and attach it in front of the head feathers.",
-              "tip": {
-                "type": "warning",
-                "text": "If the decoration is intended for young children, securely stitch all embellishments instead of relying solely on glue."
-              }
-            }
-          ]
-        },
+       {
+  "name": "Felt Easter Chicks",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "Approximately 2.4 inches tall x 2.4 inches wide",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Yellow felt"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Yellow felt\nOrange felt\nWhite felt\nBlack felt\nRibbon (optional)\nGingham fabric (optional)\nToy stuffing\nFabric glue\nMatching sewing thread"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Hand Sewing, Machine Sewing, Edge Stitching, Appliqué, Slip Stitching, Stuffing, Decorative Embellishment, Fabric Gluing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%201/Felt%20Easter%20Chicks.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%201/Felt%20Easter%20Chicks.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Felt%20Easter%20Chicks/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Felt%20Easter%20Chicks/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern pieces on the fabric and trace around them\nCut 0.4” outside the traced line for seam allowance\nIn total, we will have 2 side bodies, 1 front body, 4 wings, 2 combs, 2 feet, 1 beak, and 2 eyes",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use sharp embroidery scissors to keep the curved wing and feather edges smooth and accurate."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the wings",
+      "content": "Place two wing pieces right sides together. Sew around the curve, leaving the straight edge open\nRepeat with the other pieces. Now we have two wings like this",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Sew both wings the same way and leave the straight edge of each wing open, or the wings cannot be attached to the body later."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew wings to the body",
+      "content": "Place the wings on the front body piece, right sides together and baste in place",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Position both wings symmetrically and baste them securely, checking they mirror each other before the side bodies are sewn on."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the body",
+      "content": "Place one side body on the front body right sides together and sew one edge\nRepeat with the other side body and sew the remaining edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip tight curves before turning to help the rounded chick shape sit smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Stuffing",
+      "content": "Add stuffing a little at a time and shape it nicely",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Underfilling the body can make the chick collapse and lose its rounded shape."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Sew the opening closed",
+      "content": "Tuck the edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use small, evenly spaced ladder stitches and pull the thread gently so the closure is nearly invisible and does not pucker."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Sew the comb & the feet",
+      "content": "Place the two comb pieces right sides together and sew around the outer edge, leave a small gap unsewn for turning\nPlace the two foot pieces right sides together and sew around the outer edge, leave a small gap unsewn for turning\nClip the curves around the comb and feet, then turn them right side out",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Leave a small turning gap in both the comb and the feet, and clip the curves before turning so the small pieces lie smoothly."
+      }
+    },
+    {
+      "number": 8,
+      "title": "Step 8: Assemble the detail",
+      "content": "Glue the eyes, then sew the comb and the feet",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Position both eyes symmetrically and let the glue dry fully before sewing on the comb and feet, or the details may shift."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:13:00"
+    },
+    {
+      "title": "Step 2: Sew the wings",
+      "time": "01:01:00"
+    },
+    {
+      "title": "Step 3: Sew wings to the body",
+      "time": "01:32:00"
+    },
+    {
+      "title": "Step 4: Sew the body",
+      "time": "02:17:00"
+    },
+    {
+      "title": "Step 5: Stuffing",
+      "time": "03:19:00"
+    },
+    {
+      "title": "Step 6: Sew the opening closed",
+      "time": "03:33:00"
+    },
+    {
+      "title": "Step 7: Sew the comb & the feet",
+      "time": "03:45:00"
+    },
+    {
+      "title": "Step 8: Assemble the detail",
+      "time": "05:00:00"
+    }
+  ]
+},
         {
           "name": "Nurse Doll",
           "level": "Intermediate",
@@ -38957,278 +38905,144 @@
             }
           ]
         },
-        {
-          "name": "Moon Sleep Set",
-          "level": "Intermediate",
-          "time": "1.5 hours",
-          "finishedSize": "Sleep mask: approximately 8 x 4 inches; Moon pillow: approximately 12 x 10 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Cotton fabric: pink, light blue, navy, mid blue"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Cotton fabric: pink, light blue, navy, mid blue.\nTurquoise spot bias binding, 0.79 inches x 23.62 inches.\nIron-on interfacing.\nElastic, 11.81 inches.\nWadding (batting).\nFibre filling.\nWhite tissue paper.\nEmbroidery thread: black, turquoise, pink, white.\nMatching sewing thread.\nFabric marker.\nPaper templates.\nPins.\nIron.\nScissors."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Machine Embroidery, Applique, Bias Binding Application, Curved Seam Sewing, Stuffing, Topstitching, Elastic Insertion, Free-Motion Embroidery"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Moon%20Sleep%20Set.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Moon%20Sleep%20Set.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Moon%20Sleep%20Set/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare and Cut the Pattern Pieces",
-              "content": "Print and cut the sleep mask and moon pillow templates. Cut all fabric pieces according to the pattern, including front and back sections for both projects. Apply iron-on interfacing to the designated fabric pieces.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Label each fabric piece after cutting to avoid confusion when assembling multiple components."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Transfer the Facial Features",
-              "content": "Trace the eye, eyelash, cheek, and decorative details onto the fabric using the template markings. Position the features before stitching.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Misaligned facial features are difficult to correct once embroidery has been completed."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Applique Details",
-              "content": "Cut applique shapes for the eyelids, cheeks, moons, and decorative accents from contrasting fabrics. Fuse them to the front pieces using interfacing or applique adhesive.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press applique pieces in place before stitching to prevent shifting during embroidery."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Machine Embroider the Features",
-              "content": "Use machine embroidery or free-motion stitching to sew the eyelashes, eye outlines, stars, moon accents, and decorative sleeping motifs onto the fabric fronts.",
-              "tip": {
-                "type": "warning",
-                "text": "For very small applique pieces, place tissue paper beneath the fabric while stitching and tear it away after finishing."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Assemble the Sleep Mask Front",
-              "content": "Layer the completed sleep mask front with wadding and the backing fabric. Secure the layers with pins or temporary adhesive spray before stitching.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Quilting the layers lightly before assembly helps prevent shifting during use."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Insert the Elastic",
-              "content": "Position the elastic at each side of the sleep mask according to the pattern markings. Secure the ends with reinforcing stitches.",
-              "tip": {
-                "type": "warning",
-                "text": "Check the elastic is not twisted before stitching permanently."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Finish the Sleep Mask Edge",
-              "content": "Sew around the sleep mask perimeter and apply the bias binding around the curved edge for a neat and durable finish.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Stretching the bias binding while sewing can cause the mask edge to ripple."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Prepare the Moon Pillow Front",
-              "content": "Create the moon face applique and embroidered details on the moon front piece. Stitch the eye, eyelash, cheek, stars, and decorative sleeping symbols before construction.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Complete all embroidery before assembling the pillow to keep stitching easier and more accurate."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Assemble the Moon Pillow",
-              "content": "Place the moon pillow front and back pieces right sides together. Sew around the curved outer edge, leaving an opening for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip the seam allowance around tight curves to help the crescent shape turn smoothly."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Turn and Stuff the Pillow",
-              "content": "Turn the moon pillow right side out and gently push out the crescent points. Fill evenly with fibre filling until the pillow feels soft yet supportive.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Overstuffing can distort the crescent shape and make the pillow appear bulky."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Close the Pillow Opening",
-              "content": "Hand stitch the turning gap closed using a ladder stitch or slip stitch. Shape the pillow as you sew to maintain smooth curves.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread and small stitches for an almost invisible closure."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Final Inspection and Finishing",
-              "content": "Check both the sleep mask and moon pillow for loose threads, uneven stuffing, or embroidery issues. Press lightly if needed and make any final adjustments.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final shaping step can leave the moon pillow looking asymmetrical."
-              }
-            }
-          ]
-        },
-        {
-          "name": "Heart Pocket Pillow",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "15.7 x 16.9 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Patterned cotton fabric, two fat quarters"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Patterned cotton fabric, two fat quarters.\nPlain cotton fabric, two fat quarters.\nPom-pom trim, 2 meters.\nAdhesive webbing, 11.97 inches x 7.87 inches.\nLightweight iron-on interfacing, 8.66 inches x 8.66 inches.\nRed cotton fabric, four strips measuring 3.54 inches x 17.72 inches.\nCushion stuffing, 500 g.\nMatching sewing thread.\nPins.\nPaper templates.\nIron.\nFabric scissors."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Pattern Matching, Curved Seam Sewing, Applique, Topstitching, Gathering and Pinning Trim, Cushion Construction, Turning and Stuffing, Edge Finishing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Heart%20Pocket%20Pillow.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Heart%20Pocket%20Pillow.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Pocket%20Pillow/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare and Cut the Fabric",
-              "content": "Print and cut the heart templates. Cut two large heart pieces from patterned cotton, two medium heart pieces from plain cotton, one small heart piece from patterned cotton, and four red cotton strips measuring 3.54 inches x 17.72 inches. Apply lightweight interfacing and adhesive webbing to the fabrics as indicated by the pattern.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Align patterned fabrics carefully before cutting so the design remains balanced across the finished cushion."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Create the Cushion Piping Border",
-              "content": "Join the red cotton strips end to end to create a continuous strip. Fold the strip lengthwise and wrap it around the pom-pom trim, pinning or tacking it securely in place.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Joining the strips with mismatched edges can create bulky sections that are difficult to sew smoothly."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Medium Heart Pocket",
-              "content": "Place the two medium heart pieces right sides together and sew around the curved edge, leaving a small opening for turning. Clip the seam allowance around curves, turn right side out, and press flat.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip curved seam allowances carefully without cutting into the stitching line."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Create the Heart Applique",
-              "content": "Apply adhesive webbing to the back of the small patterned heart. Position it in the center of the medium heart and fuse it in place with an iron.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Check the placement before fusing permanently, as repositioning after pressing is difficult."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Attach Decorative Pom-Pom Trim",
-              "content": "Sew pom-pom trim around the edge of the small applique heart. Stitch close to the trim tape to keep the pom-poms evenly spaced.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Allowing the trim to twist while sewing can make the pom-poms sit unevenly."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Create the Pocket Front",
-              "content": "Place one patterned large heart flat with the right side facing up. Position the completed medium heart on top and pin it in place. Stitch around the lower edge only, leaving the upper edge open to form a pocket.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Double-check that the pocket opening faces upward before sewing."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Outer Pom-Pom Trim",
-              "content": "Pin the prepared pom-pom trim around the edge of the large heart front piece with the pom-poms facing inward. Tack the trim in place around the entire perimeter.",
-              "tip": {
-                "type": "warning",
-                "text": "Keep the trim away from the seam allowance at tight curves to prevent bunching."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Assemble the Cushion",
-              "content": "Place the second large heart piece right sides together with the front piece. Pin securely and sew around the entire cushion edge, leaving an opening large enough for turning and stuffing.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Forgetting to leave a turning gap will require unpicking stitches later."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Clip and Turn the Cushion",
-              "content": "Trim excess seam allowance and clip all curved sections, especially around the top heart indentation and rounded edges. Turn the cushion right side out through the opening.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not cut through the stitching when clipping curves or the seam may split after stuffing."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Stuff the Cushion",
-              "content": "Fill the cushion evenly with cushion stuffing, working the filling into the heart curves and corners until the shape is full and symmetrical.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Add stuffing gradually and massage it into place to avoid lumps."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Close the Opening",
-              "content": "Hand stitch the turning opening closed using a ladder stitch or slip stitch for an invisible finish.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread and small stitches to make the closure nearly invisible."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Final Shaping and Inspection",
-              "content": "Fluff the cushion, reshape the heart curves, and check that all seams, trim, and pocket edges are secure. Remove loose threads and make any final adjustments.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Uneven stuffing distribution can make one side of the heart appear larger than the other."
-              }
-            }
-          ]
-        },
+       {
+  "name": "Moon Sleep Set",
+  "level": "Intermediate",
+  "time": "1.5 hours",
+  "finishedSize": "Sleep mask: approximately 8 x 4 inches; Moon pillow: approximately 12 x 10 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Cotton fabric: pink, light blue, navy, mid blue"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Cotton fabric: pink, light blue, navy, mid blue.\nTurquoise spot bias binding, 0.79 inches x 23.62 inches.\nIron-on interfacing.\nElastic, 11.81 inches.\nWadding (batting).\nFibre filling.\nWhite tissue paper.\nEmbroidery thread: black, turquoise, pink, white.\nMatching sewing thread.\nFabric marker.\nPaper templates.\nPins.\nIron.\nScissors."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Machine Embroidery, Applique, Bias Binding Application, Curved Seam Sewing, Stuffing, Topstitching, Elastic Insertion, Free-Motion Embroidery"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Moon%20Sleep%20Set.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Moon%20Sleep%20Set.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Moon%20Sleep%20Set/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Moon%20Sleep%20Set/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Draw along the outline of the prepared template\nDraw an outline 0.1\" away from the edge\nCut along the outline you just drew",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Label each fabric piece after cutting to avoid confusion when assembling multiple components."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the sleep mask",
+      "content": "Sew the two eye pieces onto the right side of the fabric\nUse an overcast stitch to sew around the edges of the eyes\nSew the eyelashes\nFold it in half and sew it to make the elastic strap for the sleep mask\nTurn it right side out, then insert the elastic strap\nSew the pieces together\nUse clips or pins to secure the two pieces of fabric together\nSew them together\nStuff it with cotton\nUse the remaining piece of fabric to sew the trim",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Misaligned facial features are difficult to correct once embroidery has been completed."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the moon pillow",
+      "content": "Mark an opening for stuffing\nSew the two pieces of fabric together\nTurn the right side out\nStuff the pillow with cotton\nSew the opening closed\nDecorate it with colored pens",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Mark the stuffing opening clearly before sewing, stuff the pillow evenly so the moon shape stays smooth, and close the opening with small, neat stitches."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:11:00"
+    },
+    {
+      "title": "Step 2: Sew the sleep mask",
+      "time": "00:41:00"
+    },
+    {
+      "title": "Step 3: Sew the moon pillow",
+      "time": "06:16:00"
+    }
+  ]
+},
+       {
+  "name": "Heart Pocket Pillow",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "15.7 x 16.9 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Patterned cotton fabric, two fat quarters"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Patterned cotton fabric, two fat quarters.\nPlain cotton fabric, two fat quarters.\nPom-pom trim, 2 meters.\nAdhesive webbing, 11.97 inches x 7.87 inches.\nLightweight iron-on interfacing, 8.66 inches x 8.66 inches.\nRed cotton fabric, four strips measuring 3.54 inches x 17.72 inches.\nCushion stuffing, 500 g.\nMatching sewing thread.\nPins.\nPaper templates.\nIron.\nFabric scissors."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Pattern Matching, Curved Seam Sewing, Applique, Topstitching, Gathering and Pinning Trim, Cushion Construction, Turning and Stuffing, Edge Finishing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Cushions/Heart%20Pocket%20Pillow.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Cushions/Heart%20Pocket%20Pillow.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Heart%20Pocket%20Pillow/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Pocket%20Pillow/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Draw along the outline of the prepared template\nDraw an outline 0.1\" away from the edge\nCut along the outline you just drew\nRepeat the same steps for the remaining piece",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align patterned fabrics carefully before cutting so the design remains balanced across the finished cushion."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the front side",
+      "content": "Place & sew the decorative trim along the outline of the heart\nFold the edge inward\nThen place it in the center of the second heart\nUse pins to secure it in place\nSew along the edge, close to the outer edge\nPlace the two right sides together, sew along the edge as shown in the video",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Pin the decorative trim securely along the heart outline, check it sits evenly, and clip around the curves so the heart lies flat before sewing close to the edge."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the pieces together",
+      "content": "Use a pen to mark the opening for stuffing\nSew along the marked line\nTurn it right side out, then stuff it with cotton\nSew the stuffing opening closed",
+      "tip": {
+        "type": "warning",
+        "text": "Clip curved seam allowances carefully without cutting into the stitching line."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:11:00"
+    },
+    {
+      "title": "Step 2: Sew the front side",
+      "time": "00:45:00"
+    },
+    {
+      "title": "Step 3: Sew the pieces together",
+      "time": "06:04:00"
+    }
+  ]
+},
         {
           "name": "Nordic Horse Pillows",
           "level": "Beginner",
@@ -44516,70 +44330,97 @@
             }
           ]
         },
-        {
-          "name": "Folded Fabric Basket",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "Small: 2.6\" x 2.6\" x 2.8\"\nMedium: 3.3\" x 3.3\" x 3.5\"\nLarge: 3.7\" x 3.7\" x 4.3\"",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Printed cotton fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Printed cotton fabric\nPlain cotton fabric\nMatching sewing thread\n4 buttons\nFabric marker or chalk\nPins or sewing clips"
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Straight Stitching, Turning, Topstitching, Pressing, Folding, Button Attachment"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Storage/Folded%20Fabric%20Basket.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Storage/Folded%20Fabric%20Basket.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Folded%20Fabric%20Basket/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut and Sew the Fabric Square",
-              "content": "Cut one square from printed fabric and one square from plain fabric. For the large size, cut both squares at 11.8\" x 11.8\". Place the fabrics right sides together and sew around the edges using a 0.2-inch seam allowance, leaving an opening on one side for turning. Trim the corners, turn right side out, fold the raw edges of the opening inward, press, and topstitch around the entire square.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Trim the corners diagonally before turning to reduce bulk and create crisp, sharp corners."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Create the Fold Lines",
-              "content": "Fold the fabric square in half vertically and horizontally, pressing lightly to create two center crease lines. On the outside of the basket, mark the halfway point between the center and outer edge along each crease. Fold each corner diagonally from mark to mark and pin in place. Topstitch approximately 0.04 inch from the folded edge to create permanent creases.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Inaccurate marking can cause the basket sides to become uneven, so measure each fold carefully before stitching."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Form the Basket Shape",
-              "content": "Pinch one side of the square along the original pressed crease and pin a line from the corner of the base to the outer edge. Repeat on all four sides to form the basket walls. Topstitch along the pinned lines and flatten the corner pockets that are created.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the folds before topstitching to help the basket hold its shape more neatly."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Secure the Corner Flaps",
-              "content": "Fold down the corner flaps between the pockets. Sew a button through the flap and all fabric layers beneath it to secure the basket shape permanently. Repeat for all four corners to complete the origami box.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure the button placement is centered before sewing, as uneven placement can distort the shape of the finished box."
-              }
-            }
-          ]
-        },
+       {
+  "name": "Folded Fabric Basket",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "Small: 2.6\" x 2.6\" x 2.8\"\nMedium: 3.3\" x 3.3\" x 3.5\"\nLarge: 3.7\" x 3.7\" x 4.3\"",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Printed cotton fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Printed cotton fabric\nPlain cotton fabric\nMatching sewing thread\n4 buttons\nFabric marker or chalk\nPins or sewing clips"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Straight Stitching, Turning, Topstitching, Pressing, Folding, Button Attachment"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Storage/Folded%20Fabric%20Basket.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Storage/Folded%20Fabric%20Basket.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Folded%20Fabric%20Basket/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Folded%20Fabric%20Basket/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Cut 1 main fabric and 1 lining fabric measuring 16\" x 16\"",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Cut both squares exactly 16\" x 16\" and check they match, as uneven squares will make the basket sides uneven."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew lining & main piece",
+      "content": "Place the main fabric and lining right sides together. Sew all around the edges, leaving a 2” gap for turning\nTurn it right side out through the gap\nFold the edges of the opening inward and topstitch all the way around the edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Trim the corners diagonally before turning to reduce bulk and create crisp, sharp corners."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew to shape the basket",
+      "content": "Mark to divide each edge into 4 equal parts. Draw diagonal lines to connect corresponding points on adjacent edges\nOn one edge, pinch center mark and fold so two outer marks line up perfectly\nSew diagonally from the matched marks down to the fold\nRepeat the same steps for the remaining 3 edges",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Inaccurate marking can cause the basket sides to become uneven, so measure each fold carefully before stitching."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the inner bottom",
+      "content": "Turn it right side out and topstitch around the 4 bottom edges",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Press the folds before topstitching to help the basket hold its shape more neatly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Secure corners",
+      "content": "Secure the corners to the body\nusing fabric glue or a hand stitch",
+      "tip": {
+        "type": "warning",
+        "text": "Secure each corner at the same height and check the basket sits evenly before gluing or stitching, as uneven corners will make the basket tilt."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:14:00"
+    },
+    {
+      "title": "Step 2: Sew lining & main piece",
+      "time": "00:21:00"
+    },
+    {
+      "title": "Step 3: Sew to shape the basket",
+      "time": "01:28:00"
+    },
+    {
+      "title": "Step 4: Sew the inner bottom",
+      "time": "03:30:00"
+    }
+  ]
+},
         {
           "name": "Wall Pocket Organizer",
           "level": "Beginner",
@@ -47824,96 +47665,113 @@
           ]
         },
         {
-          "name": "Bunny Bow Scrunchie",
-          "level": "Beginner",
-          "time": "20 minutes",
-          "finishedSize": "One adult or child-sized scrunchie with removable bunny ears",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Cotton fabric, assorted fat quarters"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Cotton fabric, assorted fat quarters.\nRound elastic cord.\nFabric glue."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Basic Sewing, Gathering, Slip Stitching, Knot Tying"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Bunny%20Bow%20Scrunchie/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Cut the Fabric Pieces",
-              "content": "Choose a cotton fat quarter and cut the required strips for the scrunchie band and bunny ear tie according to the template measurements.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightweight cotton creates softer gathers and is easier to tie into neat bunny ears."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Sew the Scrunchie Tube",
-              "content": "Fold the scrunchie strip lengthwise with right sides together and stitch along the long edge to create a fabric tube.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Keep the seam allowance consistent to ensure the scrunchie gathers evenly."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Turn and Insert Elastic",
-              "content": "Turn the tube right side out and thread the round elastic through the casing. Secure the elastic ends together with a strong knot.",
-              "tip": {
-                "type": "warning",
-                "text": "Hold both ends of the elastic firmly while threading to prevent it slipping back into the tube."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Close the Scrunchie",
-              "content": "Tuck the raw fabric edges inside and close the opening using slip stitches or a small amount of fabric glue.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Hand stitching gives a cleaner finish than glue and creates a more durable scrunchie."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Create the Bunny Ears",
-              "content": "Cut and sew the bunny ear piece, then turn it right side out and press it flat. Shape the pointed ends neatly.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Trim excess seam allowance at the points before turning to reduce bulk."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Tie the Bunny Ears",
-              "content": "Wrap the ear piece around the scrunchie and tie it into an overhand knot, positioning the ears upright.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Tighten the knot gradually while shaping it with your fingers to keep it neat and symmetrical."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Adjust and Finish",
-              "content": "Arrange the gathers evenly around the scrunchie and adjust the ears until both sides match. Trim any loose threads.",
-              "tip": {
-                "type": "warning",
-                "text": "Avoid pulling the knot too tightly at once, as it can twist the fabric and distort the bunny ears."
-              }
-            }
-          ]
-        },
+  "name": "Bunny Bow Scrunchie",
+  "level": "Beginner",
+  "time": "20 minutes",
+  "finishedSize": "One adult or child-sized scrunchie with removable bunny ears",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Cotton fabric, assorted fat quarters"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Cotton fabric, assorted fat quarters.\nRound elastic cord.\nFabric glue."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Basic Sewing, Gathering, Slip Stitching, Knot Tying"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Bunny%20Bow%20Scrunchie.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Bunny%20Bow%20Scrunchie/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Bunny%20Bow%20Scrunchie/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Cut 1 fabric piece measuring 4.5” x 31.5”\nCut 2 pieces shaped like this for the bunny ears, measuring 3” x 10”",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Lightweight cotton creates softer gathers and is easier to tie into neat bunny ears."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Make the bunny ears",
+      "content": "Place the two bunny ear pieces right sides together, sew all the way around and leave a small gap for turning\nTrim away the excess fabric around the seam and clip the curves \nTurn it right side out through the gap",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Keep the seam allowance consistent to ensure the scrunchie gathers evenly."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the main piece",
+      "content": "Take the 4.5” x 31.5” piece, fold it in half widthwise, and sew the short open edges together\nTake the two long edges of the top layer and fold them toward the center\nBring the two long edges of the bottom layer up to completely wrap around that inner layer\nSew along the long edges of this outer layer. As you sew, pull the inner fabric out to continue sewing\nDo not sew all the way to the end. Leave a 2” opening\nTurn it right side out through the opening",
+      "tip": {
+        "type": "warning",
+        "text": "Hold both ends of the elastic firmly while threading to prevent it slipping back into the tube."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Insert the elastic cord",
+      "content": "Thread the elastic cord through the opening, tie a tight knot, and adjust the gathers evenly",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Hand stitching gives a cleaner finish than glue and creates a more durable scrunchie."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Sew the opening closed",
+      "content": "Fold the raw edges of the opening inward and sew it closed",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Trim excess seam allowance at the points before turning to reduce bulk."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Topstitch",
+      "content": "Topstitch all around the edges for a beautiful finish",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Tighten the knot gradually while shaping it with your fingers to keep it neat and symmetrical."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:09:00"
+    },
+    {
+      "title": "Step 2: Make the bunny ears",
+      "time": "00:24:00"
+    },
+    {
+      "title": "Step 3: Sew the main piece",
+      "time": "01:35:00"
+    },
+    {
+      "title": "Step 4: Insert the elastic cord",
+      "time": "03:26:00"
+    },
+    {
+      "title": "Step 5: Sew the opening closed",
+      "time": "04:06:00"
+    },
+    {
+      "title": "Step 6: Topstitch",
+      "time": "04:17:00"
+    }
+  ]
+},
         {
           "name": "Dressed Bunny Dolls",
           "level": "Intermediate",
@@ -48870,123 +48728,139 @@
           ]
         },
         {
-          "name": "Fabric Reindeer",
-          "level": "Beginner",
-          "time": "20 minutes",
-          "finishedSize": "8.7 inches x 9.4 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Patterned fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Patterned fabric.\nCoordinating fabric.\nBlack embroidery thread.\nCoordinating sewing thread.\nToy filling.\nRibbon.\nBell.\nWooden bead, 0.2 inches.\n0.2 inches seam allowance used throughout unless otherwise stated."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Soft Toy Sewing, Stuffing, Embroidery, Hand Sewing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Fabric%20Reindeer.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Fabric%20Reindeer.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Fabric%20Reindeer/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Template Pieces",
-              "content": "Download, print and cut out the reindeer templates. Cut one front and one back body piece from your chosen fabrics. Transfer all markings, including eye placement and opening guides, before sewing.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Print templates at 100% scale to ensure the finished toy matches the intended size."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Embroider the Eyes",
-              "content": "Mark the eye positions on the front body piece and embroider them using doubled black embroidery thread. Keep the stitches small and even for a neat expression.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Embroidering the eyes after assembling the toy is much harder and can distort the fabric."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Sew the Body",
-              "content": "Place the front and back body pieces right sides together and stitch around the outer edge, leaving a gap for turning and stuffing. Reinforce the stitching around the antlers and legs.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not stitch the turning gap closed or the toy cannot be turned right side out."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Trim and Turn",
-              "content": "Trim the seam allowance and clip into curved areas. Turn the reindeer right side out through the opening and carefully shape the antlers, legs and tail.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a blunt turning tool to push out corners without damaging the fabric."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Stuff the Reindeer",
-              "content": "Fill the reindeer firmly with toy stuffing, working small amounts into the antlers, legs and neck before filling the body. Continue until the toy feels evenly padded.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Overstuffing can stretch the seams and distort the reindeer's shape."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Close the Opening",
-              "content": "Fold the raw edges of the opening inward and close the gap using a neat ladder stitch or slip stitch.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Small hand stitches help create an almost invisible finish."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Create the Neck Bow",
-              "content": "Cut a length of ribbon and tie it around the reindeer's neck. Form a neat bow and adjust the loops until they are even.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Press the ribbon lightly before tying to achieve a crisp, professional bow."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Attach the Bell",
-              "content": "Secure a small bell to the centre of the ribbon bow using matching thread. Stitch several times to ensure it is firmly attached.",
-              "tip": {
-                "type": "warning",
-                "text": "Decorative bells should be omitted when making toys for babies or very young children."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Add the Wooden Bead Nose",
-              "content": "Sew a 0.2 inches wooden bead onto the face to create the reindeer's nose. Position it centrally below the eyes and secure with multiple stitches.",
-              "tip": {
-                "type": "warning",
-                "text": "Small beads may present a choking hazard and should not be used on toys intended for infants."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish the Reindeer",
-              "content": "Check all seams, trim loose threads and adjust the stuffing if necessary. Shape the toy by hand and ensure all decorative elements are securely attached before displaying or gifting.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Give the finished toy a gentle squeeze and reshape the stuffing to achieve a smooth, even appearance."
-              }
-            }
-          ]
-        },
+  "name": "Fabric Reindeer",
+  "level": "Beginner",
+  "time": "20 minutes",
+  "finishedSize": "8.7 inches x 9.4 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Patterned fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Patterned fabric.\nCoordinating fabric.\nBlack embroidery thread.\nCoordinating sewing thread.\nToy filling.\nRibbon.\nBell.\nWooden bead, 0.2 inches.\n0.4 inches seam allowance used throughout unless otherwise stated."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Soft Toy Sewing, Stuffing, Embroidery, Hand Sewing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Fabric%20Reindeer.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Fabric%20Reindeer.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Fabric%20Reindeer/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Fabric%20Reindeer/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Fold the fabric in half, place the pattern on top, and trace around it\nAdd a 0.4” seam allowance around the shape and cut along the outer line\nIn total we should have 2 front antler pieces, 2 back antler pieces and 2 body pieces",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Print templates at 100% scale to ensure the finished toy matches the intended size."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew antlers to the body",
+      "content": "Place the front and back antlers on one body piece, right sides together and baste in place",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Embroidering the eyes after assembling the toy is much harder and can distort the fabric."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the body",
+      "content": "Repeat with the remaining antlers and body piece\nPlace two body pieces right sides together, align, and sew all around, leave a 2\" gap unsewn for turning",
+      "tip": {
+        "type": "warning",
+        "text": "Do not stitch the turning gap closed or the toy cannot be turned right side out."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Trim - Clip",
+      "content": "Trim the excess fabric and clip the curves",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Trim excess fabric and clip curves close to the stitching without cutting through it, so the antlers and body turn smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Turn right side out",
+      "content": "Turn it right side out through the gap",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use a blunt turning tool to push out corners without damaging the fabric."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Stuffing",
+      "content": "Stuff the body little by little, starting with the head",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Overstuffing can stretch the seams and distort the reindeer's shape."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Sew the opening closed",
+      "content": "Fold the raw edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Small hand stitches help create an almost invisible finish."
+      }
+    },
+    {
+      "number": 8,
+      "title": "Step 8: Decorations",
+      "content": "Tie a decorative fabric strip around the reindeer's neck",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Press the ribbon lightly before tying to achieve a crisp, professional bow."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew antlers to the body",
+      "time": "00:45:00"
+    },
+    {
+      "title": "Step 3: Sew the body",
+      "time": "02:01:00"
+    },
+    {
+      "title": "Step 4: Trim - Clip",
+      "time": "02:54:00"
+    },
+    {
+      "title": "Step 5: Turn right side out",
+      "time": "03:16:00"
+    },
+    {
+      "title": "Step 6: Stuffing",
+      "time": "03:37:00"
+    },
+    {
+      "title": "Step 7: Sew the opening closed",
+      "time": "03:52:00"
+    },
+    {
+      "title": "Step 8: Decorations",
+      "time": "04:43:00"
+    }
+  ]
+},
         {
           "name": "Snowman Pair",
           "level": "Beginner",
@@ -49193,123 +49067,113 @@
           ]
         },
         {
-          "name": "Holiday Baby Bibs",
-          "level": "Beginner",
-          "time": "0.5 hours",
-          "finishedSize": "7.9 inches x 13.8 inches",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Brown striped cotton fabric"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Brown striped cotton fabric.\nRed Christmas print cotton fabric.\nCream square cotton fabric.\nWhite fleece fabric.\nCotton batting.\nFelt: white and mustard yellow.\nBrown embroidery thread.\nSewing thread.\nPress studs or hook-and-loop tape.\nIron-on fusible webbing.\nAir-erasable fabric pen.\nGeneral sewing supplies."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Applique, Machine Sewing, Embroidery, Topstitching"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Holiday%20Baby%20Bibs.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Holiday%20Baby%20Bibs.png",
-          "video": "https://may.sewie.cloud/Practice_Video_New/Holiday%20Baby%20Bibs%20Tiny/master.m3u8",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Print and Cut the Templates",
-              "content": "Download and print the bib templates. Cut out the main bib shape and all applique pieces including the beard, face, hat, nose, and decorative details. Transfer any markings to the fabric.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Cutting applique pieces without transferring placement marks can make assembly difficult later."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Prepare the Main Bib Pieces",
-              "content": "Cut the front and back bib sections from the selected fabrics. Cut matching fleece or batting pieces for added softness and absorbency.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use fleece as the backing layer to create a softer and more comfortable bib for babies."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Robin Bib Applique",
-              "content": "Fuse the applique pieces onto the bib front using fusible webbing. Position the robin body, wing, beak, and facial details according to the template before stitching them in place.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow the ironed applique to cool completely before moving it to prevent shifting."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Make the Santa Face",
-              "content": "Cut the Santa face, beard, hat, and nose pieces from the appropriate fabrics and felt. Layer the pieces according to the template and secure them with machine stitching.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use a narrow zigzag stitch around applique edges for durability and a neat finish."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Embroider the Facial Features",
-              "content": "Embroider the eyes, smile, and any additional facial details using brown embroidery thread. Add decorative stitching where desired.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Check facial feature placement carefully before stitching, as small adjustments greatly affect the final expression."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Attach the Nose and Hat Details",
-              "content": "Secure the felt nose and any hat embellishments to the Santa design. Topstitch around the hat and beard to add dimension and definition.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightly stuff the nose before attaching if you want a slightly raised three-dimensional effect."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Assemble the Bib",
-              "content": "Place the bib front and back pieces right sides together with the batting or fleece layer included. Stitch around the edge, leaving an opening for turning.",
-              "tip": {
-                "type": "warning",
-                "text": "Clip curved seam allowances before turning to reduce bulk and help the bib lie flat."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Turn and Topstitch",
-              "content": "Turn the bib right side out through the opening. Press carefully, then topstitch around the entire edge to close the opening and secure all layers.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A matching thread color creates a clean professional finish around the bib edge."
-              }
-            },
-            {
-              "number": 9,
-              "title": "Add the Fastening",
-              "content": "Attach press studs according to the manufacturer's instructions, or use hook-and-loop tape as an alternative fastening method.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure fasteners are securely attached because baby accessories receive frequent washing and use."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Finish and Inspect",
-              "content": "Trim any loose threads, check that all applique pieces are securely stitched, and give the bib a final press before use or gifting.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final inspection may leave loose threads that can unravel with repeated washing."
-              }
-            }
-          ]
-        },
+  "name": "Holiday Baby Bibs",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "7.9 inches x 13.8 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Brown striped cotton fabric"
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Brown striped cotton fabric.\nRed Christmas print cotton fabric.\nCream square cotton fabric.\nWhite fleece fabric.\nCotton batting.\nFelt: white and mustard yellow.\nBrown embroidery thread.\nSewing thread.\nPress studs or hook-and-loop tape.\nIron-on fusible webbing.\nAir-erasable fabric pen.\nGeneral sewing supplies."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Applique, Machine Sewing, Embroidery, Topstitching"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Occasions/Holiday%20Baby%20Bibs.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Occasions/Holiday%20Baby%20Bibs.png",
+  "video": "https://may.sewie.cloud/Practice_Video_New/Holiday%20Baby%20Bibs%20Tiny/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Holiday%20Baby%20Bibs/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Place the pattern on the lining fabric then trace around it\nAdd a 0.4\" seam allowance around the shape and cut along the outer line\nCut the pattern into 3 pieces: the body, belly, and beak\nSimilarly, use the 3 pattern pieces to cut 3 fabric pieces: body, belly, and beak",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Cutting applique pieces without transferring placement marks can make assembly difficult later."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew front piece",
+      "content": "Place the two body pieces and the beak right sides together, then sew to secure them in place\nPlace the belly piece on the body piece, right sides together, then sew to secure it in place",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use a narrow zigzag stitch around applique edges for durability and a neat finish."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew front piece & lining",
+      "content": "Place the lining piece over the finished front piece, right sides together\nSew all the way around, leave a 2\" gap unsewn for turning",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use fleece as the backing layer to create a softer and more comfortable bib for babies."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Clip the curves",
+      "content": "Clip the curves around the entire piece",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Clip close to the stitching without cutting through it, and clip extra notches on tight curves so the bib turns smoothly."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Turn right side out",
+      "content": "Turn it right side out through the gap",
+      "tip": {
+        "type": "warning",
+        "text": "Do not force the bib through the gap, or the seams may stretch or tear."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Sew the opening closed",
+      "content": "Fold the raw edges inward and close the opening with a ladder stitch",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use small, evenly spaced ladder stitches and pull the thread gently so the closure is nearly invisible."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:12:00"
+    },
+    {
+      "title": "Step 2: Sew front piece",
+      "time": "00:52:00"
+    },
+    {
+      "title": "Step 3: Sew front piece & lining",
+      "time": "01:36:00"
+    },
+    {
+      "title": "Step 4: Clip the curves",
+      "time": "02:03:00"
+    },
+    {
+      "title": "Step 5: Turn right side out",
+      "time": "02:14:00"
+    },
+    {
+      "title": "Step 6: Sew the opening closed",
+      "time": "02:23:00"
+    }
+  ]
+},
         {
           "name": "Animal Mug Cosies",
           "level": "Beginner",
