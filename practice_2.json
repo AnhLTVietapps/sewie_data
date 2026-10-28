@@ -730,7 +730,10 @@
       "tip": {
         "type": "pro_tip",
         "text": "Measure your dog's neck loosely and allow enough room for the finished bandana to sit comfortably without feeling tight."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Reversible%20Pup%20Bandana/Step%201_%20Cut%20-%20Prepare.png"
+        ]
     },
     {
       "number": 2,
@@ -739,7 +742,10 @@
       "tip": {
         "type": "pro_tip",
         "text": "Using contrasting prints makes the reversible feature more noticeable and gives the bandana two distinct looks."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Reversible%20Pup%20Bandana/Step%202_%20Stitching%20the%20top%20edge%20.png"
+        ]
     },
     {
       "number": 3,
@@ -748,7 +754,10 @@
       "tip": {
         "type": "common_mistake",
         "text": "Fold each cuff twice by the same 1/4 inch and press before topstitching, so both cuff hems are the same width and lie flat."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Reversible%20Pup%20Bandana/Step%203_%20Hemming%20the%20cuffs%20.png"
+        ]
     },
     {
       "number": 4,
@@ -757,7 +766,10 @@
       "tip": {
         "type": "pro_tip",
         "text": "Start by matching the corners and center points, then add clips along the edges to keep the layers from shifting."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Reversible%20Pup%20Bandana/Step%204_%20Sew%20angles.png"
+        ]
     }
   ],
   "timelines": [
@@ -918,7 +930,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "Choose sturdy cotton, poplin, or duck fabric for better support. You can use two different fabrics to make the hammock reversible."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cat%20Nap%20Hammock/Step%201_%20Cut%20-%20Prepare%20(1).png",
+          "https://may.sewie.cloud/Image%20Pattern/Cat%20Nap%20Hammock/Step%201_%20Cut%20-%20Prepare%20(2).png"
+        ]
     },
     {
       "number": 2,
@@ -927,7 +943,10 @@
       "tip": {
         "type": "common_mistake",
         "text": "Only sew two opposite edges. The remaining raw edges will be enclosed inside the hammock arms."
-      }
+      },
+      "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cat%20Nap%20Hammock/Step%202_%20Sew%20the%20base.png",
+        ]
     },
     {
       "number": 3,
@@ -936,7 +955,10 @@
       "tip": {
         "type": "pro_tip",
         "text": "Press the seams carefully before topstitching to keep the base flat and give the hammock a neat finish."
-      }
+      },
+      "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cat%20Nap%20Hammock/Step%203_%20Attach%20the%20straps%20.png",
+        ]
     },
     {
       "number": 4,
@@ -945,7 +967,10 @@
       "tip": {
         "type": "warning",
         "text": "Backstitch several times over the folded strap end and check each hook is securely closed before letting a cat use the hammock."
-      }
+      },
+       "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cat%20Nap%20Hammock/Step%204_%20Attach%20hooks.png",
+        ]
     }
   ],
   "timelines": [
@@ -3776,7 +3801,10 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Cut all fabric pieces with the same grain direction to help the oven mitt keep its shape after quilting."
-              }
+              },
+                "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Quilted%20Oven%20Mitt/Step%201_%20Cut%20-%20Prepare%20(4).png"
+        ]
             },
             {
               "number": 2,
@@ -3785,7 +3813,11 @@
               "tip": {
                 "type": "pro_tip",
                 "text": "Press each fold before sewing to create a crisp, even hanging loop."
-              }
+              },
+               "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Quilted%20Oven%20Mitt/Step%202_%20Sew%20the%20oven%20mitt.png",
+          "https://may.sewie.cloud/Image%20Pattern/Quilted%20Oven%20Mitt/Step%202_%20Sew%20the%20oven%20mitt(1).png"
+        ]
             },
             {
               "number": 3,
@@ -11001,7 +11033,13 @@
       "tip": {
         "type": "pro_tip",
         "text": "Cut the letters carefully along the printed templates and keep them in order so HAPPY HALLOWEEN spells correctly when arranged."
-      }
+      },
+         "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Wall%20Banner/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Wall%20Banner/Step%201_%20Cut%20-%20Prepare-1.png",
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Wall%20Banner/Step%201_%20Cut%20-%20Prepare-2.png",
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Wall%20Banner/Step%201_%20Cut%20-%20Prepare-3.png",
+        ]
     },
     {
       "number": 2,
@@ -11010,7 +11048,10 @@
       "tip": {
         "type": "common_mistake",
         "text": "Keep the bias binding evenly aligned along the edge to prevent twisting after stitching."
-      }
+      },
+      "patternCutListImage": [
+        "https://may.sewie.cloud/Image%20Pattern/Halloween%20Wall%20Banner/Step%202_%20Sew%20-%20Assembling%20.png"
+      ]
     }
   ],
   "timelines": [
@@ -11233,6 +11274,11 @@
         "type": "common_mistake",
         "text": "Forgetting to transfer placement markings can make facial features and accessories difficult to position accurately."
       }
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Snowman%20Pair/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Snowman%20Pair/Step%201_%20Cut%20-%20Prepare%20(7).png"
+        ]
     },
     {
       "number": 2,
@@ -11242,6 +11288,10 @@
         "type": "pro_tip",
         "text": "Add stuffing gradually in small amounts to create a smooth rounded shape without lumps."
       }
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Snowman%20Pair/Step%202_%20Sew%20the%20body%20and%20head%20.png"
+        ]
     },
     {
       "number": 3,
@@ -11251,6 +11301,10 @@
         "type": "warning",
         "text": "Position the eyes, nose and mouth symmetrically and check the hat and scarf sit evenly before attaching them securely, as glued or sewn details are hard to move afterwards."
       }
+       ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Snowman%20Pair/Step%203_%20Sew%20the%20hat%20and%20details.png"
+        ]
     }
   ],
   "timelines": [
@@ -11301,7 +11355,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "A properly fitted scrunchie should allow you to comfortably slip about three fingers between the scrunchie and your dog's neck."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Scrunchie/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Scrunchie/Step%201_%20Cut%20-%20Prepare%20(4).png"
+        ]
     },
     {
       "number": 2,
@@ -11310,7 +11368,11 @@
       "tip": {
         "type": "common_mistake",
         "text": "Be careful not to sew into the rolled fabric inside while sewing the long edge, or the tube will be sewn shut and cannot be turned right side out."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Scrunchie/Step%202_%20Sew%20the%20scrunchie.png"
+          
+        ]
     },
     {
       "number": 3,
@@ -11319,7 +11381,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "Pleat the bat wings evenly and wrap the center band tightly so the wings sit symmetrically and do not slip."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Halloween%20Scrunchie/Step%203_%20Sew%20the%20bat%20wings.png"
+          
+        ]
     }
   ],
   "timelines": [
@@ -11370,12 +11436,20 @@
     {
       "number": 1,
       "title": "Step 1: Cut - Prepare",
-      "content": "You will need main fabric, fusible interfacing, thread, scissors, pins, chalk and drawstrings.\nCut 4 main fabric pieces and 4 interfacing pieces, each measuring 14 × 7 inches (about 36 × 18 cm).\nFuse the interfacing to the wrong side of the main fabric pieces.\nTrim off any excess interfacing around the edges.\nFold the paper pattern in half to cut a 6 × 6 cm corner square\nPlace the fabric pieces right sides together, trace it onto the fabric and cut along the lines."
+      "content": "You will need main fabric, fusible interfacing, thread, scissors, pins, chalk and drawstrings.\nCut 4 main fabric pieces and 4 interfacing pieces, each measuring 14 × 7 inches (about 36 × 18 cm).\nFuse the interfacing to the wrong side of the main fabric pieces.\nTrim off any excess interfacing around the edges.\nFold the paper pattern in half to cut a 6 × 6 cm corner square\nPlace the fabric pieces right sides together, trace it onto the fabric and cut along the lines.",
+       "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Tissue%20Box/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Tissue%20Box/Step%201_%20Cut%20-%20Prepare%20(3).png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sewing the box",
       "content": "Mark 6 cm from each side of the top edge to leave the center opening for drawing tissues.\nPin around the center opening and sew along the edges to attach the lining.\nRemember to backstitch at the start and end to secure the seams.\nOpen the seam and press it flat.\nMake 1 more identical piece.\nAlign the side edges right sides together and pin securely.\nSew the side seams, remember to backstitch at the start and end to secure the seams.\nPinch and align the cut corners flat, pin them together and sew across to box the corners.\nRepeat the same process for the other piece.\nTurn one piece right side out, nest it inside the other piece and pin around the raw edges.\nSew around the outer edge to secure the lining and main fabric together before turning.\nTrim the seam allowance around the edge to reduce bulk.\nTurn the cover right side out through the opening."
+      ,"patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Tissue%20Box/Step%202_%20Sew%20the%20box.png",
+          "https://may.sewie.cloud/Image%20Pattern/Tissue%20Box/Step%202_%20Sew%20the%20box(1).png"
+        ]
     }
   ],
   "timelines": [
@@ -11423,11 +11497,19 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main fabric, strap fabric, stiff interfacing, thread, scissors, pins and chalk.\nCut out 2 outer panels measuring 3.5 × 6 inches (9 × 15 cm), 1 piece of stiff interfacing measuring 3 × 5.5 inches (8 × 14 cm) and 1 fabric strip measuring 1.5 × 4 inches (4 × 10 cm) for the strap."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cable%20Organizer/Step%201_%20Cut%20-%20Prepare.png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sew the cable organizer",
       "content": "Place the two main panels right sides together.\nSew along three edges of the main fabric panels.\nRemember to backstitch at the start and end to secure the seams.\nTurn right side out, insert the stiff interfacing piece between the two main fabric panels and pin all around.\nInsert one end of the strap into the opening and pin securely.\nTopstitch around the edges to close the opening and secure the first end of the strap.\nWrap the strap across the front and topstitch the other end firmly in place.\nAnd that’s it! Your cute fabric cable organizer is ready to use!"
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Cable%20Organizer/Step%202_%20Sew%20the%20cable%20organizer.png"
+        ]
     }
   ],
   "timelines": [
@@ -11475,11 +11557,19 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main fabric, binding fabric, heat-resistant batting, thread, thread snippers, pins and chalk.\nCut out 2 outer panels and 2 heat-resistant batting pieces, each measuring 9.5 × 9.5 inches (about 24 × 24 cm) and mark the guidelines on 2 outer panels.\nCut 2 fabric strips measuring 2 × 20 inches (5 × 50 cm) or 1 fabric strip measuring 2 × 40 inches (5 × 100 cm) to make the outer binding and hanging loop."
+      ,  "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Pot%20Holder/Step%201_%20Cut%20-%20Prepare%20(5).png",
+          "https://may.sewie.cloud/Image%20Pattern/Pot%20Holder/Step%201_%20Cut%20-%20Prepare%20(6).png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sewing the pot holder",
       "content": "Layer the outer fabric over the heat-resistant batting and pin them together.\nTopstitch grid lines across the outer panels to secure the batting layer.\nTrim off any excess batting around the edges.\nPlace the right sides together and sew around the edges.\nRemember to backstitch at the start and end to secure the seams.\nIf you have 2 strips, sew them together into one long strip.\nPlace binding fabric onto the pot holder and sew along the edge.\nFold mitered corners neatly as you reach each corner.\nFold the bias tape over to the back side to enclose the raw edges and pin securely all around.\nFold and sew the remaining binding tail into a tube.\nTurn the binding tube right side out.\nFold the end of the binding tape into a loop at the top corner.\nTopstitch around to secure everything neatly."
+       ,  "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Pot%20Holder/Step%202_%20Sew%20the%20pot%20holder%20.png",
+          "https://may.sewie.cloud/Image%20Pattern/Pot%20Holder/Step%202_%20Sew%20the%20pot%20holder.png"
+        ]
     }
   ],
   "timelines": [
@@ -11527,16 +11617,30 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main white fabric, black lining fabric, thread, scissors, pins, chalk and drawstrings.\nCut out 2 main white ghost panels, 2 black lining panels and the eyes according to the pattern."
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ghost%20Shaped%20Pouch/Step%201_%20Cut%20-%20Prepare%20(1).png",
+          "https://may.sewie.cloud/Image%20Pattern/Ghost%20Shaped%20Pouch/Step%201_%20Cut%20-%20Prepare%20(2).png"
+        ]
+
     },
     {
       "number": 2,
       "title": "Step 2: Sewing the mouth feature",
       "content": "Place 1 main white fabric and 1 black lining right sides together, align the edges and pin around the mouth area.\nSew along the traced mouth line to attach the lining to the main panel.\nRemember to backstitch at the start and end to secure the seams.\nCarefully cut away the inner fabric inside the mouth stitching line.\nClip small slits along the curved seam allowance to ensure a clean, smooth turn.\nPush the black lining through the mouth opening to the back side.\nPress the mouth opening flat with an iron for a crisp edge."
+       ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ghost%20Shaped%20Pouch/Step%202_%20Sew%20the%20mouth%20feature%20.png"
+        ]
     },
     {
       "number": 3,
       "title": "Step 3: Sewing the pouch",
       "content": "Place the lining panels right sides together. Repeat with the main fabric panels, then pin around the edges.\nSew around the outer contour of the lining, leaving an opening for turning.\nPin the drawstrings inside the top corners, leaving the ends tucked neatly between the layers.\nSew around the entire outer contour of the ghost, taking care when stitching over the drawstring.\nRemember to backstitch at the start and end to secure the seams.\nClip the curved seam allowances and corners to reduce bulk.\nTurn the pouch right side out through the opening in the lining.\nGently push out all the curves and corners to shape the ghost.\nTopstitch close to the edge to close the opening.\nGlue the two eyes onto the face using a hot glue gun."
+       ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ghost%20Shaped%20Pouch/Step%203_%20Sew%20the%20pouch%20.png"
+        ]
     }
   ],
   "timelines": [
@@ -11588,21 +11692,41 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main fabric, lining fabric, polyester fiberfill stuffing, elastic band, thread, scissors, pins, measuring tape and chalk.\nCut 1 front panel, 2 lining pieces measuring 12 × 15 inches (30 × 38 cm) and 2 back panels measuring 12 × 11 inches (30 × 28 cm) and 12 × 9.5 inches (30 × 24 cm)\nFor the back panels, fold over 0.4 inches (1 cm) and press, then fold over 0.8 inches (2 cm) for the first panel and 1.6 inches (4 cm) for the second, press and mark.\nCut 4 fabric strips measuring 39.5 × 2 inches (100 × 5 cm) (or 1 long strip measuring 158 × 2 inches (400 × 5 cm)) for the ruffles.\nCut 1 fabric strip measuring 4 × 31.5 inches (10 × 80 cm) and 1 elastic band roughly 13 inches (33 cm) long for the center band."
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Bow%20Pillow/Step%201_%20Cut%20-%20Prepare-1.png",
+          "https://may.sewie.cloud/Image%20Pattern/Bow%20Pillow/Step%201_%20Cut%20-%20Prepare%20(3).png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sew the outer pillow cover",
       "content": "If you cut 4 separate strips, join them right sides together to make one continuous long strip.\nFold the strip in half lengthwise with wrong sides together.\nSew a long gathering stitch along the raw edges, do not backstitch and leave long thread tails.\nThen gently pull the bobbin thread to gather into ruffles.\nPin the ruffles around the wrong side of the front panel, facing the raw edges outward.\nSew along the raw edges to secure the ruffles to the front panel.\nTopstitch along the marked fold lines of the two back panels.\nPlace the two back panels right sides together over the front panel, overlapping the hemmed edges.\nPin all around and sew along the four edges.\nRemember to backstitch at the start and end to secure the seams.\nClip the corner seam allowances and turn right side out through the back opening."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Bow%20Pillow/Step%202_%20Sew%20the%20outer%20pillow%20cover.png"
+         
+        ]
     },
     {
       "number": 3,
       "title": "Step 3: Sew the inner pillow insert",
       "content": "Place the two lining pieces right sides together, mark an opening gap and sew all around the edges.\nTurn the insert right side out through the gap and stuff firmly with polyester fiberfill.\nInsert the filled pillow insert into the outer ruffled pillowcase."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Bow%20Pillow/Step%203_%20Sew%20the%20inner%20pillow%20insert.png"
+         
+        ]
     },
     {
       "number": 4,
       "title": "Step 4: Sew the center band",
       "content": "Fold the 10 × 80 cm strip in half lengthwise with the right sides together.\nSew across one short end, leaving the other short end open for turning.\nSew along the long raw edge with a straight stitch.\nTurn the tube right side out through the open end and press flat with the seam aligned along the center back.\nMark two parallel chalk lines along the middle of the band to outline the elastic channel.\nTopstitch along these two marked guidelines using a straight stitch.\nThread the elastic band through the center channel using a safety pin or bodkin, then secure both ends.\nWrap the elasticated center band around the pillow and stitch the two short ends together to cinch it into a beautiful bow shape!\nAnd that’s it! Your adorable bow pillow is ready to accent your home!"
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Bow%20Pillow/Step%204_%20Sew%20the%20center%20band%20.png"
+         
+        ]
     }
   ],
   "timelines": [
@@ -11658,16 +11782,28 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main fabric, binding fabric, lining fabric, heat-resistant batting, thread, thread snippers, pins, a fabric marker and a ruler\nPrepare the pattern template as shown, or easily adjust the size to fit your teapot.\nCut 2 outer pieces, 2 lining pieces and 2 heat-resistant batting pieces according to the pattern.\nMark a 1 cm seam allowance along the edge.\nDraw a diagonal grid pattern across the main fabric.\nCut 2 long strips measuring 1.6 × 26 inches (4 × 66 cm) for the curved edge and 1.6 × 24 inches (4 × 61 cm) for the bottom opening to make outer binding.\nIf you don't have enough fabric, cut square pieces, fold them diagonally, cut at a 45-degree angle to make long strips.\nSew them together and trim off any excess fabric."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Tea%20cozy/Step%201_%20Cut%20-%20Prepare%20(2).png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sew the tea cozy",
       "content": "Layer the main fabric, heat-resistant batting and lining fabric in that order, then pin them together securely.\nTopstitch along the grid lines across the outer panels to quilt the layers together.\nRemember to backstitch at the start and end to secure the seams.\nRepeat the same process for the second panel.\nTrim off any excess batting around the edges for neatness.\nPlace the two panels right sides together and pin them securely.\nSew around the curved sides and remember to backstitch at the start and end to secure the seams."
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Tea%20cozy/Step%202_%20Sew%20the%20tea%20cozy.png"
+        ]
     },
     {
       "number": 3,
       "title": "Step 3: Sew the binding",
       "content": "Place the binding fabric along the curved edge and pin them together.\nSew along the edge with a steady, straight stitch.\nFold the bias tape over to the back side to enclose the raw edges and pin securely all around.\nTopstitch around the folded edge to secure the binding neatly.\nRepeat the exact same binding steps for the bottom opening.\nBe careful when approaching the previous binding, gently fold it down and keep on sewing.\nSew the end of the binding.\nAnd that’s it! Your lovely tea cozy is finished and ready to use!"
+     ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Tea%20cozy/Step%203_%20Sew%20the%20binding.png"
+        ]
     }
   ],
   "timelines": [
@@ -11719,21 +11855,40 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need assorted cotton fabrics, decorative buttons, stuffing, thread, thread snippers, pins, a fabric marker, and a ruler.\nCut 10 diamond-shaped pieces in total according to the pattern.\nMark a seam allowance along the edges to connect the star pieces.\nCut a strip for the hanging loop."
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%201_%20Cut%20-%20Prepare(1).png",
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%201_%20Cut%20-%20Prepare%20(6).png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sew the star panels",
       "content": "Place the diamond pieces right sides together and align the edges precisely.\nSew along the marked line, remembering to backstitch at the start and end.\nPiece 5 diamond shapes together to form one star panel.\nOpen the seam and press it flat.\nRepeat the same process to make the second star panel."
+     ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%202_%20Sew%20the%20star%20panels.png"
+        ]
     },
     {
       "number": 3,
       "title": "Step 3: Sew the hanging loop",
       "content": "Fold the fabric strip as shown and press flat with an iron to create hanging loop.\nTopstitch along the edge to secure it."
+     ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%203_Sew%20the%20hanging%20loop.png"
+        ]
     },
     {
       "number": 4,
       "title": "Step 4: Finish",
       "content": "Place the star pieces right sides together, insert the hanging loop securely between the top star points, and leave a small opening for turning.\nSew around the edges, remembering to backstitch at the start and end.\nTurn the star right side out through the opening, and carefully push out the sharp points.\nStuff the star firmly with fiberfill.\nHand-sew the opening closed with a ladder stitch.\nFinally, sew a decorative button right in the center, pulling slightly to create a lovely tufted dimension.\nAnd that’s it! Your lovely hanging star ornament is finished and ready to use!"
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%204_%20Finish%20.png",
+           "https://may.sewie.cloud/Image%20Pattern/Star%20ornaments/Step%204_%20Finish%20(1).png"
+        ]
     }
   ],
   "timelines": [
@@ -11793,6 +11948,12 @@
         "type": "warning",
         "text": "Ensure templates are printed at 100% scale for accurate sizing."
       }
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%201_%20Cut%20-%20Prepare.png",
+           "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%201_%20Cut%20-%20Prepare-1.png",
+            "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%201_%20Cut%20-%20Prepare-2.png"
+        ]
     },
     {
       "number": 2,
@@ -11801,7 +11962,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "Use matching thread to create a clean and professional finish."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%202_%20Sew%20the%20pockets.png"
+          
+        ]
     },
     {
       "number": 3,
@@ -11810,7 +11975,11 @@
       "tip": {
         "type": "common_mistake",
         "text": "Do not backstitch the gathering stitches or cut the thread tails short, or the bobbin threads cannot be pulled to gather the ruffle evenly."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%203_%20Make%20the%20ruffles.png"
+          
+        ]
     },
     {
       "number": 4,
@@ -11819,7 +11988,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "Gather the skirt to the paper pattern width first, then trim the excess, so the skirt matches the pattern instead of ending up too narrow."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%204_%20Sew%20the%20skirt.png"
+          
+        ]
     },
     {
       "number": 5,
@@ -11828,7 +12001,11 @@
       "tip": {
         "type": "pro_tip",
         "text": "Align the center marks on both waistband strips and the gathered skirt top before sewing, so the waistband does not sit shifted to one side."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%205_%20Sew%20the%20waistband.png"
+          
+        ]
     },
     {
       "number": 6,
@@ -11837,7 +12014,12 @@
       "tip": {
         "type": "common_mistake",
         "text": "Do not skip clipping the curve allowance, or the bib curve will pucker after turning right side out."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%206_%20Sew%20the%20bib%20and%20waist%20ties.png",
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%206_%20Sew%20the%20bib%20and%20waist%20ties(1).png"
+          
+        ]
     },
     {
       "number": 7,
@@ -11846,7 +12028,11 @@
       "tip": {
         "type": "common_mistake",
         "text": "Do not sew the folded waistband ends completely shut, or the casing openings for threading the waist ties will be closed."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Ruffle%20Apron/Step%207_%20Assemble%20and%20finish.png",
+          
+        ]
     }
   ],
   "timelines": [
@@ -11908,6 +12094,12 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "Today, we’re going to sew a super cute fabric bunny plushie!\nYou will need floral cotton fabrics, felt, stuffing, thread, scissors, pins, embroidery thread and decorative buttons.\nCut 2 body pieces and 4 ear pieces (2 main fabric, 2 accent fabric) according to the pattern."
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%201_%20Cut%20-%20Prepare%20.png",
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%201_%20Cut%20-%20Prepare%20(1).png",
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%201_%20Cut%20-%20Prepare%20(3).png"
+        ]
     },
     {
       "number": 2,
@@ -11916,7 +12108,12 @@
       "tip": {
         "type": "common_mistake",
         "text": "Leaving too much wadding in the seam allowance can make the ears bulky and difficult to shape neatly."
-      }
+      } ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%202_%20Sew%20the%20ears%20.png"
+          
+        ]
+
     },
     {
       "number": 3,
@@ -11925,12 +12122,21 @@
       "tip": {
         "type": "pro_tip",
         "text": "Accurate darts help the bunny stand upright and create a rounded body shape."
-      }
+      },
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%203_%20Sew%20the%20body.png"
+          
+        ]
     },
     {
       "number": 4,
       "title": "Step 4: Embroider face & finish",
       "content": "Position the felt eyes and nose on the front body piece, then glue them securely.\nEmbroider the mouth and whiskers using black embroidery thread."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Easter%20Bunny/Step%204_%20Embroider%20face%20%26%20finish_.png"
+          
+        ]
     }
   ],
   "timelines": [
@@ -11968,7 +12174,7 @@
     }
   ],
   "showCustomSize": false,
-  "pdf": "",
+  "pdf": "https://may.sewie.cloud/PDF/Phase%205/Baby%20Head%20Protector.pdf",
   "preview": "https://may.sewie.cloud/Avatar/Phase%205/Baby%20Head%20Protector.png",
   "video": "https://may.sewie.cloud/Practice_Video_V3/Baby%20Head%20Protector/master.m3u8",
   "steps": [
@@ -11976,6 +12182,12 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need fabric for the back cushion and soft plush fabric for the head ring.\nYou’ll also need fiberfill, webbing straps, adjustable buckles, pins, scissors, and fabric chalk.\nCut 2 head ring pieces and 2 back cushion pieces according to the pattern."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%201_%20Cut%20-%20Prepare.png",
+          "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%201_%20Cut%20-%20Prepare(1).png",
+           "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%201_%20Cut%20-%20Prepare%20(5).png"
+        ]
     },
     {
       "number": 2,
@@ -11985,6 +12197,11 @@
         "type": "common_mistake",
         "text": "Clip the notches close to the stitching but do not cut through the stitches, or the ring seam will open when it is turned and stuffed."
       }
+       ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%202_%20Sew%20the%20head%20ring.png"
+        
+        ]
     },
     {
       "number": 3,
@@ -11994,11 +12211,21 @@
         "type": "pro_tip",
         "text": "Sew back and forth several times over each strap, as in the step, so the straps stay securely attached and do not pull loose."
       }
+      ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%203_%20Sew%20the%20back%20cushion.png"
+        
+        ]
     },
     {
       "number": 4,
       "title": "Step 4: Assemble",
       "content": "Securely stitch the plush head ring onto the top of the back cushion.\nAnd that’s it! Your adorable baby head and back protector is finished and ready to use!"
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Baby%20Head%20Protector/Step%204_%20Assemble.png"
+        
+        ]
     }
   ],
   "timelines": [
@@ -12052,16 +12279,28 @@
       "number": 1,
       "title": "Step 1: Cut - Prepare",
       "content": "You will need main fabric, lining fabric, a snap button fastener tool, snap buttons, sewing thread, pins, scissors, and paper pattern pieces.\nCut 2 pieces of main fabric and 2 pieces of lining for each of the 3 pattern pieces with a 3/8 inch (~1 cm) seam allowance."
+    ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Fabric%20Wallet/Step%201_%20Cut%20-%20Prepare.png"
+        ]
     },
     {
       "number": 2,
       "title": "Step 2: Sew the wallet base & pockets",
       "content": "Place the main base piece and lining right sides together and pin them securely.\nSew along the marked line, leaving a small opening at the bottom for turning. Remember to backstitch at both ends.\nClip the corners carefully to reduce bulk and make crisp corners.\nTurn the wallet right side out carefully through the opening.\nPress thoroughly with an iron to make all the edges crisp and flat.\nTopstitch along the edge to secure.\nRepeat the same sewing and turning process for the card pocket panels."
+     ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Fabric%20Wallet/Step%202_%20Sew%20the%20wallet%20base%20%26%20pockets.png"
+        ]
     },
     {
       "number": 3,
       "title": "Step 3: Assemble",
       "content": "Place the finished card pocket panels onto the main wallet base in the correct position.\nTopstitch along both sides close to the edge to secure them firmly.\nFold the bottom section upward as shown.\nTopstitch along both sides again to secure the folded layers in place.\nMark the precise positions for the snap button on the flap and the wallet body.\nInstall the snap button securely using the fastener tool.\nAnd that’s it! Your adorable fabric wallet is finished and ready to use!"
+     ,
+        "patternCutListImage": [
+          "https://may.sewie.cloud/Image%20Pattern/Fabric%20Wallet/Step%203_%20Assemble%20.png"
+        ]
     }
   ],
   "timelines": [
@@ -12078,17 +12317,100 @@
       "time": "04:21:00"
     }
   ]
+},
+{
+  "name": "Whimsical Fish Drawstring Bag",
+  "level": "Beginner",
+  "time": "1 hour",
+  "finishedSize": "Approx. 10 x 16 inches",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Patterned fabrics for the lower body, tail and fins, and solid fabric for the upper body and drawstring ties."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Patterned fabrics, 2 lower body pieces, 2 tail pieces and 4 fin pieces.\nSolid fabric, 2 upper body pieces and 2 drawstring strips measuring 1.5 × 20 inches (4 × 51 cm).\nLining fabric, 2 pieces.\nPaper pattern.\nSewing thread.\nPins or clips.\nScissors.\nBodkin.\nChalk."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Iron, Fabric scissors, Pins or clips, Bodkin, Chalk"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Marking, Pinning, Sewing, Backstitching, Trimming, Clipping curves and corners, Turning, Pressing, Topstitching, Sandwiching, Folding, Bag construction, Lining construction, Channel construction, Drawstring making, Threading and knotting"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Totes/Whimsical%20Fish%20Drawstring%20Bag.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Totes/Whimsical%20Fish%20Drawstring%20Bag.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Whimsical%20Fish%20Drawstring%20Bag/master.m3u8",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need different patterned fabrics for the lower body, tail and fins, solid fabric for the upper body and drawstring ties and lining fabric.\nYou’ll also need pins or clips, scissors, a bodkin and chalk.\nPrepare the paper pattern according to the dimensions as shown.\nCut 2 upper body pieces, 2 lower body pieces, 2 lining pieces, 2 tail pieces and 4 fin pieces, marking a 1 cm seam allowance along all edges, including the openings.\nCut 2 fabric strips measuring 1.5 × 20 inches (4 × 51 cm) to make the drawstring ties.",
+      "patternCutListImage": [
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%201_%20Cut%20-%20Prepare.png",
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%201_%20Cut%20-%20Prepare%20(2).png"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the tail, fins",
+      "content": "Place the 2 tail pieces right sides together and align the edges.\nSew around the edges and remember to backstitch at both ends.\nTrim the seam allowance around the edges to reduce bulk and carefully clip the curves and corners without cutting the stitches.\nTurn the pieces right side out through the opening, press them flat with an iron.\nRepeat the same steps to sew and make the 2 fins.",
+      "tip": {
+        "type": "warning",
+        "text": "Clip seam allowances carefully around curves without cutting into the stitching to help the fins and tail turn smoothly."
+      },
+      "patternCutListImage": [
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%202_%20Sew%20the%20tail%2C%20fins.png",
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%202_%20Sew%20the%20tail%2C%20fins(1).png"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the body",
+      "content": "Sandwich the finished fin between the upper and lower body panels, pin securely in place.\nSew along the marked line, backstitching at both ends to secure the seam.\nTopstitch along the seam to secure the fin in place.\nPosition the finished tail at the lower edge of the body and sew it securely in place.\nPlace the lining fabric and main body right sides together.\nSew along the top edge, then open the seam and press it flat with an iron.\nPlace the two pieces right sides together and pin them.\nFold the tail inward and tuck it safely out of the way to avoid stitching over it.\nMark a ⅝ inch (1.6 cm) gap from the top edge on the main body for the drawstring channel and mark an opening on the lining fabric.\nSew along the marked line, leaving the drawstring channel openings on the main body and the turning opening on the lining unsewn.\nBackstitch at the beginning and end of each seam to secure the stitches.\nTrim the seam allowance around the edge to reduce bulk.\nClip the curves and corners carefully, then turn the cover right side out through the opening.\nFold the raw edges of the lining opening inward and topstitch it closed.\nPush the lining inside the main body and arrange it neatly.\nMark the stitching lines for the drawstring channels on the exterior of the bag.\nTopstitch along the marked lines to form the channels, making sure the openings remain clear for threading the drawstrings.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Misaligned flap seams can cause uneven drawstring channels, so match the seams carefully before stitching."
+      },
+      "patternCutListImage": [
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%203_%20Sew%20the%20body(1).png",
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%203_%20Sew%20the%20body(2).png",
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%203_%20Sew%20the%20body(3).png"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Make drawstrings & assemble",
+      "content": "Fold each long fabric strip in half lengthwise, with the right side facing inward and press to create a crease.\nSew along the open side of the strap, turn right side out.\nThread the cords through the channels on both sides of the bag.\nTie secure knots at the ends of the drawstrings to prevent them from slipping back into the channels.",
+      "patternCutListImage": [
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%204_%20Make%20drawstrings%20%26%20assemble%20.png",
+        "https://may.sewie.cloud/Image%20Pattern/Whimsical%20Fish%20Drawstring%20Bag/Step%204_%20Make%20drawstrings%20%26%20assemble%20(1).png"
+      ]
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:24:00"
+    },
+    {
+      "title": "Step 2: Sew the tail, fins",
+      "time": "01:10:00"
+    },
+    {
+      "title": "Step 3: Sew the body",
+      "time": "05:04:00"
+    },
+    {
+      "title": "Step 4: Make drawstrings & assemble",
+      "time": "16:11:00"
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
-
 
       ]
     },
