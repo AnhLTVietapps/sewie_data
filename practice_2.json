@@ -10896,105 +10896,78 @@
   ]
 },
         {
-          "name": "Festive Felt Props",
-          "level": "Beginner",
-          "time": "25 minutes",
-          "finishedSize": "Various sizes depending on prop design",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Felt: red, white, brown, green"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Felt: red, white, brown, green.\nSequins: red and silver.\nIron-on interfacing.\nWooden skewers or craft sticks.\nFabric glue.\nEmbroidery thread.\nTissue paper.\nAir-erasable fabric pen.\nScissors.\n1/4 inch seam allowance used throughout unless otherwise stated."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Felt Craft, Embroidery, Applique, Hand Sewing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Templates",
-              "content": "Download and print the templates. Cut out all pattern pieces for the Santa hat, beard, reindeer antlers, Rudolph nose and speech bubble.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure templates are printed at 100% scale for accurate sizing."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Make the Santa Beard",
-              "content": "Cut the beard layers from white felt and interfacing. Layer the pieces together and stitch decorative swirls following the template markings.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread to create a clean and professional finish."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Santa Hat",
-              "content": "Cut the hat shape from red felt and sew the side seam. Add the white brim and decorative holly leaves before attaching the wooden stick.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Attaching embellishments after assembly can be more difficult and less neat."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Reindeer Antlers",
-              "content": "Cut two antler shapes from brown felt. Stitch together around the edges, leaving a small opening if additional stability is required.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightly stiffen the antlers with interfacing to help them keep their shape."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Make Rudolph's Nose",
-              "content": "Cut circular pieces from red felt and red sequined fabric. Stitch around the edge and secure onto a wooden skewer.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that sequins are firmly attached to avoid shedding during use."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Create the Speech Bubble",
-              "content": "Cut the speech bubble pieces from white felt and interfacing. Embroider or write a festive message before assembling.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Personalised messages make the props more memorable for party guests."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Handles",
-              "content": "Secure each completed felt design to a wooden skewer using fabric glue and additional stitching where necessary.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow glue to dry completely before handling the props."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Finish and Display",
-              "content": "Trim any loose threads and check all embellishments. Arrange the props together ready for festive photographs and celebrations.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final quality check may result in decorations loosening during use."
-              }
-            }
-          ]
-        },
+  "name": "Festive Felt Props",
+  "level": "Beginner",
+  "time": "25 minutes",
+  "finishedSize": "Various sizes depending on prop design",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Felt: red, white, dark brown, light brown, green."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Felt sheets: red, white, dark brown, light brown, green, cut into 2 red hat pieces, 2 white brim strips, 2 white circle pom-poms, 1 green holly leaf, 3 red berry dots, 4 dark brown antler pieces (2 pairs) and 2 light brown headband base pieces according to the pattern.\nPaper pattern.\nHot glue gun.\nThread.\nScissors.\nPins.\nFiberfill stuffing.\n1/4 inch seam allowance used throughout unless otherwise stated."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Felt Craft, Cutting, Pinning, Topstitching, Backstitching, Stuffing, Hot gluing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Festive%20Felt%20Props/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Prepare the Templates",
+      "content": "You will need felt sheets in red, white, dark brown, light brown, and green, plus a paper pattern, hot glue gun, thread, scissors, pins and stuffing.\nCut 2 red hat pieces, 2 white brim strips, 2 white circle pom-poms, 1 green holly leaf, and 3 red berry dots according to the pattern for santa hat.\nCut 4 dark brown antler pieces (2 pairs) and 2 light brown headband base pieces for the reindeer antlers.",
+      "tip": {
+        "type": "warning",
+        "text": "Ensure templates are printed at 100% scale for accurate sizing."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the santa hat",
+      "content": "Place the 2 red hat pieces together, pin, and topstitch along the sides, leaving a small opening at the bottom.\nRemember to backstitch at the start and end to secure the seams.\nStuff the hat lightly with fiberfill, then topstitch to close the opening.\nRepeat the same process for the white brim strips and the white circle pom-poms.\nSecure all pieces together with hot glue, then attach the green holly leaf and red berries onto the brim for a festive finish.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use matching thread to create a clean and professional finish."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: sew the reindeer antlers",
+      "content": "Place the 2 headband base pieces together, pin, topstitch along the sides leaving a small opening, stuff lightly with fiberfill, and topstitch to close.\nPlace 2 matching dark brown antler pieces together, pin, and topstitch close to the edge all around.\nSecure the antlers onto the headband base with hot glue.\nAnd that’s it! Your festive props are ready!",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Attaching embellishments after assembly can be more difficult and less neat."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Prepare the Templates",
+      "time": "00:14:00"
+    },
+    {
+      "title": "Step 2: Sew the santa hat",
+      "time": "00:30:00"
+    },
+    {
+      "title": "Step 3: sew the reindeer antlers",
+      "time": "05:02:00"
+    }
+  ]
+},
         {
   "name": "Halloween Wall Banner",
   "level": "Beginner",
@@ -11711,7 +11684,406 @@
       "time": "09:21:00"
     }
   ]
+},
+{
+  "name": "Star ornaments",
+  "level": "Beginner",
+  "time": "45 minutes",
+  "finishedSize": "8 x 10 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Assorted cotton fabrics, 10 diamond-shaped pieces cut according to the pattern."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Assorted cotton fabrics, 10 diamond-shaped pieces cut according to the pattern.\nFabric strip for the hanging loop.\nDecorative buttons.\nFiberfill stuffing.\nThread.\nThread snippers.\nPins.\nFabric marker.\nRuler.\nStar pattern."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Marking, Pinning, Piecing, Straight stitching, Backstitching, Pressing, Topstitching, Loop construction, Turning, Stuffing, Hand sewing, Ladder stitching, Button sewing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Star%20ornaments.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Star%20ornaments/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need assorted cotton fabrics, decorative buttons, stuffing, thread, thread snippers, pins, a fabric marker, and a ruler.\nCut 10 diamond-shaped pieces in total according to the pattern.\nMark a seam allowance along the edges to connect the star pieces.\nCut a strip for the hanging loop."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the star panels",
+      "content": "Place the diamond pieces right sides together and align the edges precisely.\nSew along the marked line, remembering to backstitch at the start and end.\nPiece 5 diamond shapes together to form one star panel.\nOpen the seam and press it flat.\nRepeat the same process to make the second star panel."
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the hanging loop",
+      "content": "Fold the fabric strip as shown and press flat with an iron to create hanging loop.\nTopstitch along the edge to secure it."
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Finish",
+      "content": "Place the star pieces right sides together, insert the hanging loop securely between the top star points, and leave a small opening for turning.\nSew around the edges, remembering to backstitch at the start and end.\nTurn the star right side out through the opening, and carefully push out the sharp points.\nStuff the star firmly with fiberfill.\nHand-sew the opening closed with a ladder stitch.\nFinally, sew a decorative button right in the center, pulling slightly to create a lovely tufted dimension.\nAnd that’s it! Your lovely hanging star ornament is finished and ready to use!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:15:00"
+    },
+    {
+      "title": "Step 2: Sew the star panels",
+      "time": "00:32:00"
+    },
+    {
+      "title": "Step 3: Sew the hanging loop",
+      "time": "03:44:00"
+    },
+    {
+      "title": "Step 4: Finish",
+      "time": "04:56:00"
+    }
+  ]
+},
+{
+  "name": "Ruffle Apron",
+  "level": "Beginner",
+  "time": "1 hour",
+  "finishedSize": "37 x 26 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Main fabric, 1 skirt piece, 2 pockets, 2 bib pieces, 2 shoulder ruffles, 2 waistband strips, 4 waist tie strips and ruffle strips, all cut according to the pattern."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 1 skirt piece, 2 pockets, 2 bib pieces and 2 shoulder ruffles cut according to the pattern.\nMain fabric, 2 waistband strips measuring 2 × 35.5 inches (5 × 90 cm).\nMain fabric, 4 waist tie strips measuring 2 × 55 inches (5 × 140 cm).\nMain fabric, ruffle strips measuring 3.2 inches (8 cm) wide with a total length of 240 inches (610 cm), joining several strips together if needed.\nPattern.\nThread.\nScissors.\nPins.\nChalk."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Folding, Pressing, Topstitching, Gathering, Trimming, Pinning, Straight stitching, Backstitching, Clipping notches, Turning, Marking, Sandwiching, Casing construction"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%205/Ruffle%20Apron.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Ruffle%20Apron.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Ruffle%20Apron/master.m3u8",
+  "videoPreview": "",
+  "videoPreviewImage": "",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, pattern, thread, scissors, pins and chalk.\nCut 1 main skirt piece, 2 pockets, 2 bib pieces and 2 shoulder ruffles according to the pattern.\nCut 2 waistband strips measuring 2 × 35.5 inches (5 × 90 cm), 4 waist tie strips measuring 2 × 55 inches (5 × 140 cm), and ruffle strips measuring 3.2 inches (8 cm) wide with a total length of 240 inches (610 cm), joining several strips together if needed.\nPrepare a paper pattern to check the skirt shape and trim the edges after gathering.",
+      "tip": {
+        "type": "warning",
+        "text": "Ensure templates are printed at 100% scale for accurate sizing."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the pockets",
+      "content": "Fold the top edge of the pocket down twice (5 mm then 2 cm) and press flat with an iron.\nTopstitch close to the inner folded edge to finish the pocket opening.\nSew a long gathering stitch along the curved bottom edge of each pocket.\nGently pull the gathering threads to shape the curved edges evenly.\nFold the remaining seam allowances inward and press to hold the shape.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use matching thread to create a clean and professional finish."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Make the ruffles",
+      "content": "Fold the long outer edge of each ruffle strip inward by 0.2 inches (~5 mm) twice.\nTopstitch along the folded edge to finish the hem.\nSew 2 parallel rows of long gathering stitches along the raw inner edge. Leave long thread tails without backstitching.\nGently pull the bobbin threads to gather the fabric evenly.\nRepeat the same process for all remaining ruffle strips.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Do not backstitch the gathering stitches or cut the thread tails short, or the bobbin threads cannot be pulled to gather the ruffle evenly."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Sew the skirt",
+      "content": "Sew 2 parallel rows of long gathering stitches along the top edge of the skirt.\nPull the gathering threads until the skirt matches the width of your prepared paper pattern.\nTrim any excess fabric from both sides to match the pattern.\nPin the prepared pockets onto the front of the skirt.\nThen topstitch closely along the edges to attach them.\nPlace the skirt and bottom ruffle right sides together, aligning the raw edges and pin in place.\nSew around, remembering to backstitch at the start and end.\nTopstitch on the right side to secure the ruffle.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Gather the skirt to the paper pattern width first, then trim the excess, so the skirt matches the pattern instead of ending up too narrow."
+      }
+    },
+    {
+      "number": 5,
+      "title": "Step 5: Sew the waistband",
+      "content": "Mark the center of both waistband strips and the gathered top edge of the skirt.\nSandwich the skirt top between the two waistband strips, aligning the center marks and pin securely.\nSew around the edges, remembering to backstitch at the start and end.\nPress the waistband strips upward flat with an iron.\nTopstitch along the waistband seam on the right side to secure the layers.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Align the center marks on both waistband strips and the gathered skirt top before sewing, so the waistband does not sit shifted to one side."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Step 6: Sew the bib and waist ties",
+      "content": "Place the 2 bib pieces right sides together and sew along the top curved edge.\nClip small notches into the curve allowance, turn right side out.\nTopstitch along the curved edge.\nPlace a shoulder ruffle between 2 waist tie strips, aligning the raw edges and pin in place.\nSew along the long edge to join the layers.\nRepeat the same process for the other shoulder strap.\nTopstitch along the edge to secure.\nPin the bib and shoulder straps in place as shown, then stitch to secure them.\nTopstitch along the remaining edges of the waistband ties.\nTrim the excess fabric at both ends, fold the edges neatly and topstitch to secure.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Do not skip clipping the curve allowance, or the bib curve will pucker after turning right side out."
+      }
+    },
+    {
+      "number": 7,
+      "title": "Step 7: Assemble and finish",
+      "content": "Align the center marks, placing the bib assembly right sides together with the skirt waistband.\nSew around the edges, remembering to backstitch at the start and end.\nFlip the pieces open and topstitch on the right side to secure the seam neatly.\nTrim the excess fabric at both ends, fold both outer ends of the waistband inward to form casing openings for threading the waist ties, then topstitch.\nAnd that’s it! Your charming ruffle apron is finished and ready to use!",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Do not sew the folded waistband ends completely shut, or the casing openings for threading the waist ties will be closed."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:16:00"
+    },
+    {
+      "title": "Step 2: Sew the pockets",
+      "time": "00:26:00"
+    },
+    {
+      "title": "Step 3: Make the ruffles",
+      "time": "01:49:00"
+    },
+    {
+      "title": "Step 4: Sew the skirt",
+      "time": "03:49:00"
+    },
+    {
+      "title": "Step 5: Sew the waistband",
+      "time": "08:46:00"
+    },
+    {
+      "title": "Step 6: Sew the bib and waist ties",
+      "time": "12:20:00"
+    },
+    {
+      "title": "Step 7: Assemble and finish",
+      "time": "20:10:00"
+    }
+  ]
+},
+{
+  "name": "Easter Bunny",
+  "level": "Beginner",
+  "time": "0.5 hours",
+  "finishedSize": "5 x 10 in",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Floral cotton fabrics, main fabric and accent fabric, 2 body pieces and 4 ear pieces (2 main fabric, 2 accent fabric) cut according to the pattern."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Floral cotton fabrics, main fabric and accent fabric, 2 body pieces and 4 ear pieces (2 main fabric, 2 accent fabric) cut according to the pattern.\nFelt, for the eyes and nose.\nFiberfill stuffing.\nThread.\nScissors.\nPins.\nEmbroidery thread, black, for the mouth and whiskers.\nDecorative buttons.\nPattern."
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Curve sewing, Backstitching, Turning, Stuffing, Folding, Topstitching, Dart sewing, Sandwiching, Clipping curves and corners, Ladder stitching, Gluing, Hand embroidery"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%201/Easter%20Bunny.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%201/Easter%20Bunny.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Easter%20Bunny/master.m3u8",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "Today, we’re going to sew a super cute fabric bunny plushie!\nYou will need floral cotton fabrics, felt, stuffing, thread, scissors, pins, embroidery thread and decorative buttons.\nCut 2 body pieces and 4 ear pieces (2 main fabric, 2 accent fabric) according to the pattern."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the ears",
+      "content": "Place 1 main ear piece and 1 accent ear piece right sides together.\nSew around the curved edge, leaving the bottom open.\nRemember to backstitch at the start and end to secure the seams.\nTurn right side out, push out the sharp points gently and add a tiny bit of stuffing.\nFold the bottom corners of the ears inward to create a natural curved shape.\nTopstitch along the edge to secure it in place.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Leaving too much wadding in the seam allowance can make the ears bulky and difficult to shape neatly."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the body",
+      "content": "Fold and sew the bottom darts on both body pieces to give the plushie volume.\nPlace the front and back body pieces right sides together, sandwiching the finished ears inside at the top.\nSew around the edge, leaving a small opening at the bottom for turning and backstitch securely.\nClip the curves and corners carefully, then turn the cover right side out through the opening.\nStuff the bunny firmly with polyester fiberfill.\nUse a ladder stitch to hand-sew the opening closed neatly.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Accurate darts help the bunny stand upright and create a rounded body shape."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Embroider face & finish",
+      "content": "Position the felt eyes and nose on the front body piece, then glue them securely.\nEmbroider the mouth and whiskers using black embroidery thread."
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:21:00"
+    },
+    {
+      "title": "Step 2: Sew the ears",
+      "time": "01:05:00"
+    },
+    {
+      "title": "Step 3: Sew the body",
+      "time": "04:06:00"
+    },
+    {
+      "title": "Step 4: Embroider face & finish",
+      "time": "12:23:00"
+    }
+  ]
+},
+{
+  "name": "Baby Head Protector",
+  "level": "Beginner",
+  "time": "1 hour",
+  "finishedSize": "6x12 in",
+  "techPack": [
+    {
+      "title": "Fabric info",
+      "description": "Round head cushion: Soft plush fabric, 10 × 10 inch, 2 pieces; Back cushion: Gingham cotton fabric, 10 × 12 inch, 2 pieces"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Straight stitching"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Baby%20Head%20Protector.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Baby%20Head%20Protector/master.m3u8",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need fabric for the back cushion and soft plush fabric for the head ring.\nYou’ll also need fiberfill, webbing straps, adjustable buckles, pins, scissors, and fabric chalk.\nCut 2 head ring pieces and 2 back cushion pieces according to the pattern."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the head ring",
+      "content": "Place the 2 head ring pieces right sides together and align the edges.\nSew along both the inner and outer circles, and remember to backstitch at both ends.\nCarefully cut out the inner circle and clip small notches along the seam allowances without cutting the stitches.\nTurn the ring right side out through the opening.\nStuff the ring evenly with fiberfill until it is firm and well-shaped.\nHand-sew the opening closed.",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Clip the notches close to the stitching but do not cut through the stitches, or the ring seam will open when it is turned and stuffed."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Sew the back cushion",
+      "content": "Pin the straps securely onto the back cushion panel.\nSew the straps securely in place, stitching back and forth several times for extra strength.\nPlace the remaining back cushion piece on top, right sides together, with the straps sandwiched between the layers.\nPin the layers together, leaving a small opening at the bottom for turning.\nSew around the edges and remember to backstitch at the beginning and end of the seam.\nClip the corners carefully to reduce bulk and make crisp corners.\nTurn the cushion right side out through the opening.\nStuff the ring evenly with fiberfill.\nFold the raw edges of the opening inward and hand-sew it closed using a ladder stitch.\nHand-sew the cushion to create the decorative quilted pattern.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Sew back and forth several times over each strap, as in the step, so the straps stay securely attached and do not pull loose."
+      }
+    },
+    {
+      "number": 4,
+      "title": "Step 4: Assemble",
+      "content": "Securely stitch the plush head ring onto the top of the back cushion.\nAnd that’s it! Your adorable baby head and back protector is finished and ready to use!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:06:00"
+    },
+    {
+      "title": "Step 2: Sew the head ring",
+      "time": "00:15:00"
+    },
+    {
+      "title": "Step 3: Sew the back cushion",
+      "time": "03:50:00"
+    },
+    {
+      "title": "Step 4: Assemble",
+      "time": "11:48:00"
+    }
+  ]
+},
+{
+  "name": "Fabric Wallet",
+  "level": "Beginner",
+  "time": "1 hour",
+  "finishedSize": "6x12 in",
+  "techPack": [
+    {
+      "title": "Fabric info",
+      "description": "Main fabric, 2 pieces for each of the 3 pattern pieces.\nLining fabric, 2 pieces for each of the 3 pattern pieces.\nSeam allowance: 3/8 inch (~1 cm)."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Main fabric, 2 pieces for each of the 3 pattern pieces.\nLining fabric, 2 pieces for each of the 3 pattern pieces.\nSnap buttons.\nSewing thread.\nPins.\nScissors.\nPaper pattern pieces."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Iron, Snap button fastener tool, Fabric scissors, Pins"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Cutting, Pinning, Straight stitching, Backstitching, Clipping corners, Turning, Pressing, Topstitching, Folding, Marking, Snap button installation"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%205/Fabric%20Wallet.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%205/Fabric%20Wallet.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Fabric%20Wallet/master.m3u8",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Cut - Prepare",
+      "content": "You will need main fabric, lining fabric, a snap button fastener tool, snap buttons, sewing thread, pins, scissors, and paper pattern pieces.\nCut 2 pieces of main fabric and 2 pieces of lining for each of the 3 pattern pieces with a 3/8 inch (~1 cm) seam allowance."
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the wallet base & pockets",
+      "content": "Place the main base piece and lining right sides together and pin them securely.\nSew along the marked line, leaving a small opening at the bottom for turning. Remember to backstitch at both ends.\nClip the corners carefully to reduce bulk and make crisp corners.\nTurn the wallet right side out carefully through the opening.\nPress thoroughly with an iron to make all the edges crisp and flat.\nTopstitch along the edge to secure.\nRepeat the same sewing and turning process for the card pocket panels."
+    },
+    {
+      "number": 3,
+      "title": "Step 3: Assemble",
+      "content": "Place the finished card pocket panels onto the main wallet base in the correct position.\nTopstitch along both sides close to the edge to secure them firmly.\nFold the bottom section upward as shown.\nTopstitch along both sides again to secure the folded layers in place.\nMark the precise positions for the snap button on the flap and the wallet body.\nInstall the snap button securely using the fastener tool.\nAnd that’s it! Your adorable fabric wallet is finished and ready to use!"
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Cut - Prepare",
+      "time": "00:21:00"
+    },
+    {
+      "title": "Step 2: Sew the wallet base & pockets",
+      "time": "00:41:00"
+    },
+    {
+      "title": "Step 3: Assemble",
+      "time": "04:21:00"
+    }
+  ]
 }
+
+
+
+
+
 
 
 
@@ -52700,105 +53072,78 @@
           ]
         },
         {
-          "name": "Festive Felt Props",
-          "level": "Beginner",
-          "time": "25 minutes",
-          "finishedSize": "Various sizes depending on prop design",
-          "techPack": [
-            {
-              "title": "Main Fabric",
-              "description": "Felt: red, white, brown, green"
-            },
-            {
-              "title": "Materials Needed",
-              "description": "Felt: red, white, brown, green.\nSequins: red and silver.\nIron-on interfacing.\nWooden skewers or craft sticks.\nFabric glue.\nEmbroidery thread.\nTissue paper.\nAir-erasable fabric pen.\nScissors.\n1/4 inch seam allowance used throughout unless otherwise stated."
-            },
-            {
-              "title": "Techniques Required",
-              "description": "Felt Craft, Embroidery, Applique, Hand Sewing"
-            }
-          ],
-          "showCustomSize": false,
-          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.pdf",
-          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.png",
-          "video": "",
-          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/master.m3u8",
-          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/thumb.webp",
-          "steps": [
-            {
-              "number": 1,
-              "title": "Prepare the Templates",
-              "content": "Download and print the templates. Cut out all pattern pieces for the Santa hat, beard, reindeer antlers, Rudolph nose and speech bubble.",
-              "tip": {
-                "type": "warning",
-                "text": "Ensure templates are printed at 100% scale for accurate sizing."
-              }
-            },
-            {
-              "number": 2,
-              "title": "Make the Santa Beard",
-              "content": "Cut the beard layers from white felt and interfacing. Layer the pieces together and stitch decorative swirls following the template markings.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Use matching thread to create a clean and professional finish."
-              }
-            },
-            {
-              "number": 3,
-              "title": "Create the Santa Hat",
-              "content": "Cut the hat shape from red felt and sew the side seam. Add the white brim and decorative holly leaves before attaching the wooden stick.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Attaching embellishments after assembly can be more difficult and less neat."
-              }
-            },
-            {
-              "number": 4,
-              "title": "Sew the Reindeer Antlers",
-              "content": "Cut two antler shapes from brown felt. Stitch together around the edges, leaving a small opening if additional stability is required.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Lightly stiffen the antlers with interfacing to help them keep their shape."
-              }
-            },
-            {
-              "number": 5,
-              "title": "Make Rudolph's Nose",
-              "content": "Cut circular pieces from red felt and red sequined fabric. Stitch around the edge and secure onto a wooden skewer.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that sequins are firmly attached to avoid shedding during use."
-              }
-            },
-            {
-              "number": 6,
-              "title": "Create the Speech Bubble",
-              "content": "Cut the speech bubble pieces from white felt and interfacing. Embroider or write a festive message before assembling.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Personalised messages make the props more memorable for party guests."
-              }
-            },
-            {
-              "number": 7,
-              "title": "Attach the Handles",
-              "content": "Secure each completed felt design to a wooden skewer using fabric glue and additional stitching where necessary.",
-              "tip": {
-                "type": "warning",
-                "text": "Allow glue to dry completely before handling the props."
-              }
-            },
-            {
-              "number": 8,
-              "title": "Finish and Display",
-              "content": "Trim any loose threads and check all embellishments. Arrange the props together ready for festive photographs and celebrations.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Skipping the final quality check may result in decorations loosening during use."
-              }
-            }
-          ]
-        },
+  "name": "Festive Felt Props",
+  "level": "Beginner",
+  "time": "25 minutes",
+  "finishedSize": "Various sizes depending on prop design",
+  "techPack": [
+    {
+      "title": "Main Fabric",
+      "description": "Felt: red, white, dark brown, light brown, green."
+    },
+    {
+      "title": "Materials Needed",
+      "description": "Felt sheets: red, white, dark brown, light brown, green, cut into 2 red hat pieces, 2 white brim strips, 2 white circle pom-poms, 1 green holly leaf, 3 red berry dots, 4 dark brown antler pieces (2 pairs) and 2 light brown headband base pieces according to the pattern.\nPaper pattern.\nHot glue gun.\nThread.\nScissors.\nPins.\nFiberfill stuffing.\n1/4 inch seam allowance used throughout unless otherwise stated."
+    },
+    {
+      "title": "Tool Needed",
+      "description": "Sewing machine, Fabric scissors, Thread snips, Measuring tape/ Ruler, Tailor’s chalk /Fabric marking pen, Sewing pins / Fabric clips, Hand sewing needle, Iron"
+    },
+    {
+      "title": "Techniques Required",
+      "description": "Felt Craft, Cutting, Pinning, Topstitching, Backstitching, Stuffing, Hot gluing"
+    }
+  ],
+  "showCustomSize": false,
+  "pdf": "https://may.sewie.cloud/PDF/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.pdf",
+  "preview": "https://may.sewie.cloud/Avatar/Phase%204/Home%20and%20Garden/Festive%20Felt%20Props.png",
+  "video": "https://may.sewie.cloud/Practice_Video_V3/Festive%20Felt%20Props/master.m3u8",
+  "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/master.m3u8",
+  "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Festive%20Felt%20Props/thumb.webp",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Step 1: Prepare the Templates",
+      "content": "You will need felt sheets in red, white, dark brown, light brown, and green, plus a paper pattern, hot glue gun, thread, scissors, pins and stuffing.\nCut 2 red hat pieces, 2 white brim strips, 2 white circle pom-poms, 1 green holly leaf, and 3 red berry dots according to the pattern for santa hat.\nCut 4 dark brown antler pieces (2 pairs) and 2 light brown headband base pieces for the reindeer antlers.",
+      "tip": {
+        "type": "warning",
+        "text": "Ensure templates are printed at 100% scale for accurate sizing."
+      }
+    },
+    {
+      "number": 2,
+      "title": "Step 2: Sew the santa hat",
+      "content": "Place the 2 red hat pieces together, pin, and topstitch along the sides, leaving a small opening at the bottom.\nRemember to backstitch at the start and end to secure the seams.\nStuff the hat lightly with fiberfill, then topstitch to close the opening.\nRepeat the same process for the white brim strips and the white circle pom-poms.\nSecure all pieces together with hot glue, then attach the green holly leaf and red berries onto the brim for a festive finish.",
+      "tip": {
+        "type": "pro_tip",
+        "text": "Use matching thread to create a clean and professional finish."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Step 3: sew the reindeer antlers",
+      "content": "Place the 2 headband base pieces together, pin, topstitch along the sides leaving a small opening, stuff lightly with fiberfill, and topstitch to close.\nPlace 2 matching dark brown antler pieces together, pin, and topstitch close to the edge all around.\nSecure the antlers onto the headband base with hot glue.\nAnd that’s it! Your festive props are ready!",
+      "tip": {
+        "type": "common_mistake",
+        "text": "Attaching embellishments after assembly can be more difficult and less neat."
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Step 1: Prepare the Templates",
+      "time": "00:14:00"
+    },
+    {
+      "title": "Step 2: Sew the santa hat",
+      "time": "00:30:00"
+    },
+    {
+      "title": "Step 3: sew the reindeer antlers",
+      "time": "05:02:00"
+    }
+  ]
+},
         {
           "name": "Fabric Advent Calendar",
           "level": "Beginner",
