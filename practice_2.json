@@ -4645,7 +4645,7 @@
               "description": "Pattern Cutting, Seam Allowance Marking, Overlocking, Strap Construction, Elastic Gathering, Straight Stitch Sewing, Side Seam Construction, Bias Binding Application, Edge Stitching, Narrow Hemming, Topstitching, Pressing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Tie-Strap%20Camisole%20Top.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Tie-Strap%20Camisole%20Top.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Tie-Strap%20Camisole%20Top%20Tiny/master.m3u8",
@@ -6072,7 +6072,7 @@
               "description": "Pattern Marking, Curved Stitching, Curve Clipping, Turning, Stuffing, Elastic Insertion, Topstitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Blossom%20Puff%20Scrunchie.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Blossom%20Puff%20Scrunchie.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Blossom%20Puff%20Scrunchie%20%20Tiny/master.m3u8",
@@ -6206,7 +6206,7 @@
               "description": "Pattern Tracing, Seam Finishing, Straight Stitching, Garment Assembly, Elastic Waistband Construction, Gathering, Lace Attachment"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Sweet%20Dreams%20Lounge%20Shorts.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Sweet%20Dreams%20Lounge%20Shorts.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Sweet%20Dreams%20Lounge%20Shorts%20Tiny/master.m3u8",
@@ -12488,6 +12488,256 @@
           ],
           "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Whimsical%20Fish%20Drawstring%20Bag/master.m3u8",
           "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Whimsical%20Fish%20Drawstring%20Bag/thumb.webp"
+        },
+        {
+          "name": "Wide-leg Trousers",
+          "level": "Beginner",
+          "time": "2 hours",
+          "finishedSize": "Waist: 30\" (76.2 cm) , Length: 14.5\" (36.8 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Main fabric, 2 front pant pieces, 2 back pant pieces and 1 long waistband strip cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Main fabric, 2 front pant pieces, 2 back pant pieces and 1 long waistband strip cut according to the pattern.\nElastic band.\nSewing thread.\nPins.\nScissors.\nFabric chalk.\nPaper pattern."
+            },
+            {
+              "title": "Tool Needed",
+              "description": "Iron, Fabric scissors, Pins, Fabric chalk"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting, Pleating, Pinning, Straight stitching, Backstitching, Pressing, Hemming, Folding, Waistband construction, Elastic threading, Box-stitching, Topstitching, Garment assembly"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Wide-leg%20Trousers.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Wide-leg%20Trousers.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Wide-leg%20Trousers%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Wide-leg%20Trousers/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Wide-leg%20Trousers/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need main fabric, elastic band, sewing thread, pins, scissors and fabric chalk.\nPrepare the paper pattern according to the dimensions as shown.\nCut 2 front pant pieces, 2 back pant pieces and 1 long waistband strip according to the pattern.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the fabric grain aligned before cutting to help the trousers hang evenly and maintain their shape after washing."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the base",
+              "content": "Fold the fabric along the marked pleat lines on one front piece.\nPin the pleats securely in place and stitch close to the edge to hold them.\nRepeat the process to form the pleats on the remaining front piece.\nPlace the two front pieces right sides together, aligning the curved crotch edges.\nSew along the crotch curve, remember to backstitch at both ends to secure the seam.\nRepeat the same steps to sew the crotch seam for the two back pieces.\nPlace the assembled front and back panels right sides together.\nSew along the edge from the waist down to the hem.\nAlign the inner leg seams, making sure the center crotch seams match up precisely.\nSew continuously from the bottom hem of one leg, through the crotch, all the way to the other hem.\nOpen the seam and press all seams flat for a smooth finish.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Double-check that you are sewing matching rise seams together, as mixing front and back pieces can affect the fit."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the hems",
+              "content": "Fold the bottom edge of each leg inward according to the pattern, then press with an iron to create a sharp crease.\nStitch around each leg opening, keeping the stitches even and straight.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Do not stitch the hem without pressing the folded edge first, or the leg openings can end up uneven and crooked."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the waistband",
+              "content": "Fold the raw edge inward, then fold it over again to fit the elastic and press to create a centerline crease.\nAlign the waistband with the top edge of the trousers, right sides together, then sew along the waistline.\nFold the two short ends of the waistband, sew them closed and trim excess seam allowance.\nStitch securely along the edge to secure them.\nFold the waistband over to the wrong side of the trousers, turning the raw inner edge under to fit the elastic width.\nStitch close to the folded edge, leaving a small opening to insert the elastic.\nThread the elastic through the waistband casing, making sure it doesn't twist inside.\nOverlap the two ends of the elastic and sew a secure box-stitch to join them.\nTopstitch the opening closed.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check that the elastic lies flat without twisting inside the casing before you overlap the ends and sew the box-stitch, so the waistband stays even."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Sew the base",
+              "time": "00:34:00"
+            },
+            {
+              "title": "Step 3: Sew the hems",
+              "time": "07:40:00"
+            },
+            {
+              "title": "Step 4: Sew the waistband",
+              "time": "08:56:00"
+            }
+          ]
+        },
+        {
+          "name": "Plush Bat",
+          "level": "Beginner",
+          "time": "1 hour",
+          "finishedSize": "16.5 in",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Orange fabric, 2 bat body pieces and 4 ear pieces cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Orange fabric, 2 bat body pieces and 4 ear pieces cut according to the pattern.\nFabric for the eyes and inner ears.\nFiberfill stuffing.\nContrasting thread for the wing lines.\nSewing thread.\nRibbon for hanging.\nGlue.\nBat paper pattern."
+            },
+            {
+              "title": "Tool Needed",
+              "description": "Scissors, Pins, Hand sewing needle, Fabric marker or chalk"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Pattern preparation, Cutting, Marking, Pinning, Straight stitching, Curve sewing, Backstitching, Trimming, Clipping curves and corners, Turning, Stuffing, Gluing, Hand sewing, Toy assembly"
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Plush%20Bat.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Plush%20Bat.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Plush%20Bat/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Plush%20Bat/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Plush%20Bat/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need orange fabric, fiberfill stuffing, contrasting thread for wing lines, a ribbon for hanging, and fabric for the eyes and inner ears.\nPrepare the bat paper pattern according to the dimensions as shown.\nCut 2 bat body pieces and 4 ear pieces from your fabric, marking a small opening.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Label each pattern piece after cutting to avoid mixing up the ears and body components during assembly."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the bat",
+              "content": "Place two ear pieces right sides together and sew along the edges, leaving the bottom edge open.\nTrim the excess seam allowance, turn the ear right side out, and repeat for the other ear.\nPosition and sew the finished ears onto the wrong side of the bat body panel.\nPlace the two bat body pieces right sides together and pin all around the edges.\nSew along the edge to hold it firmly in place, leaving a small opening for turning, and backstitch at both ends.\nCarefully clip the curves and corners to reduce bulk.\nTurn the bat right side out through the bottom opening, gently pushing out the tips.\nFirmly stuff the bat with fiberfill stuffing.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Many beginners accidentally sew the opening closed, making it impossible to turn and stuff the bat later."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the detail",
+              "content": "Mark the lines to embroider the wing details, using contrasting thread for the wing lines.\nCut out the eyes and inner ears, then glue them onto the bat.\nHand-sew the ribbon securely onto the back of the face to create the hanging loop.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check the position of the eyes and inner ears before gluing them, so the bat face is symmetrical."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:17:00"
+            },
+            {
+              "title": "Step 2: Sew the bat",
+              "time": "00:58:00"
+            },
+            {
+              "title": "Step 3: Sew the detail",
+              "time": "06:53:00"
+            }
+          ]
+        },
+        {
+          "name": "Dolphin Plush",
+          "level": "Beginner",
+          "time": "1 hour",
+          "finishedSize": "3 x 9 in",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Blue and cream plush fabric, soft short-pile plush, minky or velboa: Side body, 7.5 × 5 in, 2 mirrored pieces; Belly, matching short-pile plush fabric, 8 × 2.4 in, 1 piece; Fin, 2.4 × 1.4 in, 3 pieces; Tail, 2 × 1.5 in, 1 piece."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Side body, soft short-pile plush, minky or velboa, 7.5 × 5 in, 2 mirrored pieces.\nBelly, matching short-pile plush fabric, 8 × 2.4 in, 1 piece.\nFin, 2.4 × 1.4 in, 3 pieces.\nTail, 2 × 1.5 in, 1 piece.\nBlue and cream plush fabric.\nFiberfill stuffing.\nSafety eyes.\nThread.\nPins or clips.\nScissors.\nFabric marker.\nPaper patterns.\n1 cm seam allowance used throughout."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting, Marking, Pinning, Sewing, Backstitching, Clipping curves, Trimming, Turning, Stuffing, Topstitching, Sandwiching, Hand sewing, Ladder stitching, Gluing, Toy making"
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Dolphin%20Plush.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Dolphin%20Plush.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Plush%20Dolphin/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Dolphin%20Plush/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Dolphin%20Plush/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need blue and cream plush fabric.\nYou’ll also need fiberfill stuffing, safety eyes, thread, pins or clips, scissors, a fabric marker, and paper patterns.\nCut 2 mirrored blue body pieces, 1 cream belly piece, mirrored blue and cream pieces for the 2 side fins and tail, and 2 mirrored blue pieces for the dorsal fin.\nAdd a 1 cm seam allowance to all pieces.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Card templates make it easier to trace accurate shapes onto fabric."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the fins",
+              "content": "Place a pair of fin pieces right sides together and sew around the edges, leaving the base open.\nClip the curves, and turn the fins right side out.\nLightly stuff the fins and topstitch the openings closed.\nRepeat for the remaining fins.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Forgetting seam allowances can make the finished dolphin noticeably smaller."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the main body",
+              "content": "Position the dorsal fin along the curved back edge and sew it in place.\nPlace the main body pieces right sides together, sandwiching the dorsal fin between them along the upper curve.\nSew from the head to the tail, securing both ends with backstitches.\nPosition the blue tail at the tail end of the body and sew it securely in place.\nPlace the cream tail piece right sides together with the belly piece and sew them together.\nTrim excess seam allowance, clip the curves and turn right side out.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Use sharp fabric scissors to keep curved edges smooth and accurate."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Assemble",
+              "content": "Position the side fins along the lower edges of the body and mark matching positions on both sides.\nSew the side fins securely to the body.\nAlign the cream belly panel with the body pieces, right sides together.\nMake sure the side fins are secured between the layers.\nSew along the edges, leaving an opening for turning and stuffing.\nBackstitch at the beginning and end of the seam to secure the stitches.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Pin curved sections generously to prevent shifting while sewing."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Stuff - Finish",
+              "content": "Turn the dolphin right side out through the belly opening.\nFirmly stuff the dolphin with fiberfill.\nHand-sew the opening closed with an invisible ladder stitch.\nGlue the eyes in place."
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:21:00"
+            },
+            {
+              "title": "Step 2: Sew the fins",
+              "time": "01:03:00"
+            },
+            {
+              "title": "Step 3: Sew the main body",
+              "time": "04:18:00"
+            },
+            {
+              "title": "Step 4: Assemble",
+              "time": "08:55:00"
+            },
+            {
+              "title": "Step 5: Stuff - Finish",
+              "time": "13:10:00"
+            }
+          ]
         }
       ]
     },
@@ -37506,30 +37756,32 @@
           "name": "Dolphin Plush",
           "level": "Beginner",
           "time": "1 hour",
-          "finishedSize": "Approx. 7.9\" (20 cm) long",
+          "finishedSize": "3 x 9 in",
           "techPack": [
             {
               "title": "Main Fabric",
-              "description": "Patterned fat quarters and plain cotton fabric"
+              "description": "Blue and cream plush fabric, soft short-pile plush, minky or velboa: Side body, 7.5 × 5 in, 2 mirrored pieces; Belly, matching short-pile plush fabric, 8 × 2.4 in, 1 piece; Fin, 2.4 × 1.4 in, 3 pieces; Tail, 2 × 1.5 in, 1 piece."
             },
             {
               "title": "Materials Needed",
-              "description": "Patterned fat quarters.\nPlain cotton fabric.\nFibre filling.\nButtons for eyes.\n0.20\" (0.5 cm) seam allowance used throughout unless otherwise stated."
+              "description": "Side body, soft short-pile plush, minky or velboa, 7.5 × 5 in, 2 mirrored pieces.\nBelly, matching short-pile plush fabric, 8 × 2.4 in, 1 piece.\nFin, 2.4 × 1.4 in, 3 pieces.\nTail, 2 × 1.5 in, 1 piece.\nBlue and cream plush fabric.\nFiberfill stuffing.\nSafety eyes.\nThread.\nPins or clips.\nScissors.\nFabric marker.\nPaper patterns.\n1 cm seam allowance used throughout."
             },
             {
               "title": "Techniques Required",
-              "description": "Toy Making, Machine Sewing, Hand Sewing, Stuffing, Topstitching"
+              "description": "Cutting, Marking, Pinning, Sewing, Backstitching, Clipping curves, Trimming, Turning, Stuffing, Topstitching, Sandwiching, Hand sewing, Ladder stitching, Gluing, Toy making"
             }
           ],
           "showCustomSize": false,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Toy%202/Dolphin%20Plush.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Toy%202/Dolphin%20Plush.png",
-          "video": "",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Plush%20Dolphin/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Dolphin%20Plush/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Dolphin%20Plush/thumb.webp",
           "steps": [
             {
               "number": 1,
-              "title": "Prepare the Templates",
-              "content": "Download, print and cut out all template pieces. Trace the shapes onto thin card to create durable pattern templates for repeated use.",
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need blue and cream plush fabric.\nYou’ll also need fiberfill stuffing, safety eyes, thread, pins or clips, scissors, a fabric marker, and paper patterns.\nCut 2 mirrored blue body pieces, 1 cream belly piece, mirrored blue and cream pieces for the 2 side fins and tail, and 2 mirrored blue pieces for the dorsal fin.\nAdd a 1 cm seam allowance to all pieces.",
               "tip": {
                 "type": "pro_tip",
                 "text": "Card templates make it easier to trace accurate shapes onto fabric."
@@ -37537,8 +37789,8 @@
             },
             {
               "number": 2,
-              "title": "Transfer the Pattern",
-              "content": "Place the templates onto the reverse side of the chosen fabrics and trace around them carefully. Add a 0.20\" (0.5 cm) seam allowance around all pieces.",
+              "title": "Step 2: Sew the fins",
+              "content": "Place a pair of fin pieces right sides together and sew around the edges, leaving the base open.\nClip the curves, and turn the fins right side out.\nLightly stuff the fins and topstitch the openings closed.\nRepeat for the remaining fins.",
               "tip": {
                 "type": "common_mistake",
                 "text": "Forgetting seam allowances can make the finished dolphin noticeably smaller."
@@ -37546,8 +37798,8 @@
             },
             {
               "number": 3,
-              "title": "Cut the Fabric Pieces",
-              "content": "Cut one gusset, one tail and two fin pieces from the lighter fabric. Cut two body pieces and two tail-fin pieces from the darker patterned fabric.",
+              "title": "Step 3: Sew the main body",
+              "content": "Position the dorsal fin along the curved back edge and sew it in place.\nPlace the main body pieces right sides together, sandwiching the dorsal fin between them along the upper curve.\nSew from the head to the tail, securing both ends with backstitches.\nPosition the blue tail at the tail end of the body and sew it securely in place.\nPlace the cream tail piece right sides together with the belly piece and sew them together.\nTrim excess seam allowance, clip the curves and turn right side out.",
               "tip": {
                 "type": "pro_tip",
                 "text": "Use sharp fabric scissors to keep curved edges smooth and accurate."
@@ -37555,8 +37807,8 @@
             },
             {
               "number": 4,
-              "title": "Layer the Tail and Fin Pieces",
-              "content": "Match the dark and light tail-fin pieces right sides together and place quilt wadding or stabilizing layer between them if desired.",
+              "title": "Step 4: Assemble",
+              "content": "Position the side fins along the lower edges of the body and mark matching positions on both sides.\nSew the side fins securely to the body.\nAlign the cream belly panel with the body pieces, right sides together.\nMake sure the side fins are secured between the layers.\nSew along the edges, leaving an opening for turning and stuffing.\nBackstitch at the beginning and end of the seam to secure the stitches.",
               "tip": {
                 "type": "pro_tip",
                 "text": "Pin curved sections generously to prevent shifting while sewing."
@@ -37564,129 +37816,30 @@
             },
             {
               "number": 5,
-              "title": "Sew the Tail Fins",
-              "content": "Stitch around the tail-fin shapes, leaving the turning edge open. Trim excess fabric from the curves before turning.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Not trimming curved seam allowances can create bulky, uneven edges."
-              }
+              "title": "Step 5: Stuff - Finish",
+              "content": "Turn the dolphin right side out through the belly opening.\nFirmly stuff the dolphin with fiberfill.\nHand-sew the opening closed with an invisible ladder stitch.\nGlue the eyes in place."
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:21:00"
             },
             {
-              "number": 6,
-              "title": "Turn and Topstitch the Tail",
-              "content": "Turn the tail-fin pieces right side out and press flat. Topstitch around the edges to create a neat finished appearance.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A slightly longer stitch length gives decorative topstitching a cleaner look."
-              }
+              "title": "Step 2: Sew the fins",
+              "time": "01:03:00"
             },
             {
-              "number": 7,
-              "title": "Attach the Side Fins",
-              "content": "Position the side fins on the body pieces using the template markings. Secure them temporarily with tacking stitches.",
-              "tip": {
-                "type": "warning",
-                "text": "Check that both fins mirror each other before stitching permanently."
-              }
+              "title": "Step 3: Sew the main body",
+              "time": "04:18:00"
             },
             {
-              "number": 8,
-              "title": "Prepare the Body",
-              "content": "Place the two body pieces right sides together and align all markings carefully before sewing.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Matching the nose and tail points accurately improves the final shape."
-              }
+              "title": "Step 4: Assemble",
+              "time": "08:55:00"
             },
             {
-              "number": 9,
-              "title": "Insert the Gusset",
-              "content": "Position the gusset between the body pieces and pin around the curved edges, easing the fabric gently where necessary.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Pulling the fabric while easing curves may distort the dolphin's shape."
-              }
-            },
-            {
-              "number": 10,
-              "title": "Sew the Dolphin Body",
-              "content": "Stitch around the entire body, securing the fins and gusset in place. Leave a gap for turning and stuffing.",
-              "tip": {
-                "type": "warning",
-                "text": "Do not sew the turning opening closed by mistake."
-              }
-            },
-            {
-              "number": 11,
-              "title": "Clip the Curves",
-              "content": "Clip seam allowances around the nose, tail and curved sections to reduce bulk and improve shaping.",
-              "tip": {
-                "type": "warning",
-                "text": "Take care not to cut through the stitching line."
-              }
-            },
-            {
-              "number": 12,
-              "title": "Turn Right Side Out",
-              "content": "Carefully turn the dolphin through the opening and push out the nose and tail points using a blunt turning tool.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "A chopstick or point turner helps shape narrow areas without damaging the fabric."
-              }
-            },
-            {
-              "number": 13,
-              "title": "Shape and Press",
-              "content": "Gently smooth all seams with your fingers and press lightly if the fabric allows.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Finger-pressing curved seams before ironing often gives better results."
-              }
-            },
-            {
-              "number": 14,
-              "title": "Stuff the Dolphin",
-              "content": "Fill the body firmly with fibre filling, paying particular attention to the nose and tail areas to achieve a smooth shape.",
-              "tip": {
-                "type": "common_mistake",
-                "text": "Large handfuls of stuffing can create lumps inside the toy."
-              }
-            },
-            {
-              "number": 15,
-              "title": "Close the Opening",
-              "content": "Fold the seam allowance of the opening inward and close it neatly with small oversew or ladder stitches.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Matching thread color helps make the closing stitches nearly invisible."
-              }
-            },
-            {
-              "number": 16,
-              "title": "Attach the Tail",
-              "content": "Position the completed tail section at the rear opening and secure it firmly with hand stitching.",
-              "tip": {
-                "type": "warning",
-                "text": "Reinforce the tail attachment because it is frequently handled."
-              }
-            },
-            {
-              "number": 17,
-              "title": "Add the Eyes",
-              "content": "Sew a small black button onto each side of the dolphin's head to create the eyes.",
-              "tip": {
-                "type": "warning",
-                "text": "Buttons may present a choking hazard for children under three years old."
-              }
-            },
-            {
-              "number": 18,
-              "title": "Final Inspection",
-              "content": "Check all seams, attachments and shaping. Add extra stuffing if needed and trim any loose threads before displaying or gifting the dolphin.",
-              "tip": {
-                "type": "pro_tip",
-                "text": "Give the dolphin a final squeeze and reshape the stuffing for a polished finish."
-              }
+              "title": "Step 5: Stuff - Finish",
+              "time": "13:10:00"
             }
           ]
         },
@@ -39637,6 +39790,79 @@
                 "type": "pro_tip",
                 "text": "Topstitch slowly around the bag opening for a neat professional finish."
               }
+            }
+          ]
+        },
+        {
+          "name": "Plush Bat",
+          "level": "Beginner",
+          "time": "1 hour",
+          "finishedSize": "16.5 in",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Orange fabric, 2 bat body pieces and 4 ear pieces cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Orange fabric, 2 bat body pieces and 4 ear pieces cut according to the pattern.\nFabric for the eyes and inner ears.\nFiberfill stuffing.\nContrasting thread for the wing lines.\nSewing thread.\nRibbon for hanging.\nGlue.\nBat paper pattern."
+            },
+            {
+              "title": "Tool Needed",
+              "description": "Scissors, Pins, Hand sewing needle, Fabric marker or chalk"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Pattern preparation, Cutting, Marking, Pinning, Straight stitching, Curve sewing, Backstitching, Trimming, Clipping curves and corners, Turning, Stuffing, Gluing, Hand sewing, Toy assembly"
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Plush%20Bat.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Plush%20Bat.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Plush%20Bat/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Plush%20Bat/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Plush%20Bat/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need orange fabric, fiberfill stuffing, contrasting thread for wing lines, a ribbon for hanging, and fabric for the eyes and inner ears.\nPrepare the bat paper pattern according to the dimensions as shown.\nCut 2 bat body pieces and 4 ear pieces from your fabric, marking a small opening.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Label each pattern piece after cutting to avoid mixing up the ears and body components during assembly."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the bat",
+              "content": "Place two ear pieces right sides together and sew along the edges, leaving the bottom edge open.\nTrim the excess seam allowance, turn the ear right side out, and repeat for the other ear.\nPosition and sew the finished ears onto the wrong side of the bat body panel.\nPlace the two bat body pieces right sides together and pin all around the edges.\nSew along the edge to hold it firmly in place, leaving a small opening for turning, and backstitch at both ends.\nCarefully clip the curves and corners to reduce bulk.\nTurn the bat right side out through the bottom opening, gently pushing out the tips.\nFirmly stuff the bat with fiberfill stuffing.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Many beginners accidentally sew the opening closed, making it impossible to turn and stuff the bat later."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the detail",
+              "content": "Mark the lines to embroider the wing details, using contrasting thread for the wing lines.\nCut out the eyes and inner ears, then glue them onto the bat.\nHand-sew the ribbon securely onto the back of the face to create the hanging loop.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check the position of the eyes and inner ears before gluing them, so the bat face is symmetrical."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:17:00"
+            },
+            {
+              "title": "Step 2: Sew the bat",
+              "time": "00:58:00"
+            },
+            {
+              "title": "Step 3: Sew the detail",
+              "time": "06:53:00"
             }
           ]
         }
@@ -42461,7 +42687,7 @@
               "description": "Pattern Tracing, Seam Finishing, Straight Stitching, Garment Assembly, Elastic Waistband Construction, Gathering, Lace Attachment"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Sweet%20Dreams%20Lounge%20Shorts.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Sweet%20Dreams%20Lounge%20Shorts.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Sweet%20Dreams%20Lounge%20Shorts%20Tiny/master.m3u8",
@@ -42607,7 +42833,7 @@
               "description": "Pattern Marking, Curved Stitching, Curve Clipping, Turning, Stuffing, Elastic Insertion, Topstitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Blossom%20Puff%20Scrunchie.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Blossom%20Puff%20Scrunchie.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Blossom%20Puff%20Scrunchie%20%20Tiny/master.m3u8",
@@ -42741,7 +42967,7 @@
               "description": "Pattern Cutting, Seam Allowance Marking, Overlocking, Strap Construction, Elastic Gathering, Straight Stitch Sewing, Side Seam Construction, Bias Binding Application, Edge Stitching, Narrow Hemming, Topstitching, Pressing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Beginner/Tie-Strap%20Camisole%20Top.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Begin/Tie-Strap%20Camisole%20Top.png",
           "video": "https://may.sewie.cloud/Practice_Video_New/Tie-Strap%20Camisole%20Top%20Tiny/master.m3u8",
@@ -42901,7 +43127,7 @@
               "description": "Dressmaking, Bias Binding, Gathering, Slipstitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Relaxed%20Batwing%20Dress.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Relaxed%20Batwing%20Dress.png",
           "video": "",
@@ -43008,7 +43234,7 @@
               "description": "Dressmaking, Pocket Construction, Elastic Waistband, Gathering"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Drawstring%20Pocket%20Culottes.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Drawstring%20Pocket%20Culottes.png",
           "video": "",
@@ -43124,7 +43350,7 @@
               "description": "Dressmaking, Sleeve Insertion, Understitching, Hemming, Facing Construction"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Soft%20Suede%20Open%20Jacket.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Soft%20Suede%20Open%20Jacket.png",
           "video": "",
@@ -43240,7 +43466,7 @@
               "description": "Dressmaking, Zip Insertion, Pocket Construction, Pleat Sewing, Topstitching, Buttonhole Sewing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Pleated%20Cord%20Trousers.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Pleated%20Cord%20Trousers.png",
           "video": "",
@@ -43383,7 +43609,7 @@
               "description": "Dressmaking, Collar Construction, Pocket Sewing, Buttonholes, Topstitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Button-Front%20Utility%20Playsuit.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Button-Front%20Utility%20Playsuit.png",
           "video": "",
@@ -43517,7 +43743,7 @@
               "description": "Dressmaking, Custom Fitting, Bias Binding, Waist Channel Construction, Hemming"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Flowing%20Drawstring%20Pants.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Flowing%20Drawstring%20Pants.png",
           "video": "",
@@ -43633,7 +43859,7 @@
               "description": "Dressmaking, Collar Construction, Sleeve Setting, Pocket Insertion, Edge Stitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Belted%20Lounge%20Robe.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Belted%20Lounge%20Robe.png",
           "video": "",
@@ -43731,7 +43957,7 @@
               "description": "Trouser Construction, Waistband Insertion, Side Seam Pockets, Buttonholes, Topstitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Button-Front%20Flare%20Pants.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Button-Front%20Flare%20Pants.png",
           "video": "",
@@ -43856,7 +44082,7 @@
               "description": "Garment Construction, Facing Application, Collar Insertion, Topstitching, Hemming"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Belted%20Long%20Vest.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Belted%20Long%20Vest.png",
           "video": "",
@@ -43963,7 +44189,7 @@
               "description": "Trouser Construction, In-Seam Pockets, Concealed Zip Insertion, Waistband Construction"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Zip-Back%20Tapered%20Pants.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Zip-Back%20Tapered%20Pants.png",
           "video": "",
@@ -44079,7 +44305,7 @@
               "description": "Garment Construction, Lining Insertion, Armhole Finishing, Slip Stitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Faux%20Fur%20Lined%20Vest.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Faux%20Fur%20Lined%20Vest.png",
           "video": "",
@@ -44195,7 +44421,7 @@
               "description": "Jacket Construction, Pocket Insertion, Piping Application, Sleeve Setting, Lining Installation, Understitching"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Piped%20Pocket%20Jacket.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Piped%20Pocket%20Jacket.png",
           "video": "",
@@ -44311,7 +44537,7 @@
               "description": "Facings, Buttonholes, Elastic Casing, In-Seam Pockets, Garment Construction"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Buttoned%20V-Neck%20Jumpsuit.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Buttoned%20V-Neck%20Jumpsuit.png",
           "video": "",
@@ -44400,7 +44626,7 @@
               "description": "Waterfall Front Construction, Sleeve Insertion, Understitching, Gathering, Hemming"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Draped%20Front%20Jacket.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Draped%20Front%20Jacket.png",
           "video": "",
@@ -44498,7 +44724,7 @@
               "description": "Garment Construction, Collar Attachment, Set-in Sleeves, Hood Construction, Stud Fastener Installation, Hem Finishing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Snap-On%20Hood%20Raincoat.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Snap-On%20Hood%20Raincoat.png",
           "video": "",
@@ -44587,7 +44813,7 @@
               "description": "Garment Construction, Collar Assembly, Bias Binding Application, Set-in Sleeves, Buttonholes, Button Sewing"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Angled%20Front%20Jacket.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Angled%20Front%20Jacket.png",
           "video": "",
@@ -44658,7 +44884,7 @@
               "description": "Zip Insertion, Pleat Construction, Waistband Sewing, Hemming"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Gathered%20Waist%20Pants.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Gathered%20Waist%20Pants.png",
           "video": "",
@@ -44756,7 +44982,7 @@
               "description": "Dart Sewing, Collar Construction, Set-in Sleeves, Interfacing Application, Buttonholes"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Classic%20Blazer%20Jacket.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Classic%20Blazer%20Jacket.png",
           "video": "",
@@ -44845,7 +45071,7 @@
               "description": "Sewing Knits, Neckband Construction, Edge Binding, Mitred Corners"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Cozy%20Throw-On%20Poncho.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Cozy%20Throw-On%20Poncho.png",
           "video": "",
@@ -44907,7 +45133,7 @@
               "description": "Pocket Construction, Sleeve Setting, Gathering, Ribbing Application, Zip Insertion, Jacket Lining"
             }
           ],
-          "showCustomSize": false,
+          "showCustomSize": true,
           "pdf": "https://may.sewie.cloud/PDF/Phase%204/Womens%20Clothing/Shiny%20Zip%20Bomber.pdf",
           "preview": "https://may.sewie.cloud/Avatar/Phase%204/Womens%20Clothing%20/Shiny%20Zip%20Bomber.png",
           "video": "",
@@ -44992,6 +45218,92 @@
                 "type": "warning",
                 "text": "Use a pressing cloth when ironing satin fabric to prevent shine marks or heat damage."
               }
+            }
+          ]
+        },
+        {
+          "name": "Wide-leg Trousers",
+          "level": "Beginner",
+          "time": "2 hours",
+          "finishedSize": "Waist: 30\" (76.2 cm) , Length: 14.5\" (36.8 cm)",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Main fabric, 2 front pant pieces, 2 back pant pieces and 1 long waistband strip cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Main fabric, 2 front pant pieces, 2 back pant pieces and 1 long waistband strip cut according to the pattern.\nElastic band.\nSewing thread.\nPins.\nScissors.\nFabric chalk.\nPaper pattern."
+            },
+            {
+              "title": "Tool Needed",
+              "description": "Iron, Fabric scissors, Pins, Fabric chalk"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting, Pleating, Pinning, Straight stitching, Backstitching, Pressing, Hemming, Folding, Waistband construction, Elastic threading, Box-stitching, Topstitching, Garment assembly"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Wide-leg%20Trousers.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Wide-leg%20Trousers.png",
+          "video": "https://may.sewie.cloud/Practice_Video_New/Wide-leg%20Trousers%20Tiny/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Wide-leg%20Trousers/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Wide-leg%20Trousers/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need main fabric, elastic band, sewing thread, pins, scissors and fabric chalk.\nPrepare the paper pattern according to the dimensions as shown.\nCut 2 front pant pieces, 2 back pant pieces and 1 long waistband strip according to the pattern.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Keep the fabric grain aligned before cutting to help the trousers hang evenly and maintain their shape after washing."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Sew the base",
+              "content": "Fold the fabric along the marked pleat lines on one front piece.\nPin the pleats securely in place and stitch close to the edge to hold them.\nRepeat the process to form the pleats on the remaining front piece.\nPlace the two front pieces right sides together, aligning the curved crotch edges.\nSew along the crotch curve, remember to backstitch at both ends to secure the seam.\nRepeat the same steps to sew the crotch seam for the two back pieces.\nPlace the assembled front and back panels right sides together.\nSew along the edge from the waist down to the hem.\nAlign the inner leg seams, making sure the center crotch seams match up precisely.\nSew continuously from the bottom hem of one leg, through the crotch, all the way to the other hem.\nOpen the seam and press all seams flat for a smooth finish.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Double-check that you are sewing matching rise seams together, as mixing front and back pieces can affect the fit."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the hems",
+              "content": "Fold the bottom edge of each leg inward according to the pattern, then press with an iron to create a sharp crease.\nStitch around each leg opening, keeping the stitches even and straight.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Do not stitch the hem without pressing the folded edge first, or the leg openings can end up uneven and crooked."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the waistband",
+              "content": "Fold the raw edge inward, then fold it over again to fit the elastic and press to create a centerline crease.\nAlign the waistband with the top edge of the trousers, right sides together, then sew along the waistline.\nFold the two short ends of the waistband, sew them closed and trim excess seam allowance.\nStitch securely along the edge to secure them.\nFold the waistband over to the wrong side of the trousers, turning the raw inner edge under to fit the elastic width.\nStitch close to the folded edge, leaving a small opening to insert the elastic.\nThread the elastic through the waistband casing, making sure it doesn't twist inside.\nOverlap the two ends of the elastic and sew a secure box-stitch to join them.\nTopstitch the opening closed.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check that the elastic lies flat without twisting inside the casing before you overlap the ends and sew the box-stitch, so the waistband stays even."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:16:00"
+            },
+            {
+              "title": "Step 2: Sew the base",
+              "time": "00:34:00"
+            },
+            {
+              "title": "Step 3: Sew the hems",
+              "time": "07:40:00"
+            },
+            {
+              "title": "Step 4: Sew the waistband",
+              "time": "08:56:00"
             }
           ]
         }
