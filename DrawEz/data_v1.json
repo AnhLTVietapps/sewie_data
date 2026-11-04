@@ -19,12 +19,7 @@
             "title": "Intro",
             "url": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Intro/master.m3u8",
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Intro/thumb.webp",
-            "timelines": [
-              {
-                "time": "",
-                "description": ""
-              }
-            ]
+            "timelines": []
           },
           {
             "title": "Outlining",
@@ -32,7 +27,15 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Sketch/thumb.webp",
             "timelines": [
               {
-                "time": "",
+                "time": "00:40:00",
+                "description": ""
+              },
+              {
+                "time": "01:09:00",
+                "description": ""
+              },
+              {
+                "time": "01:37:00",
                 "description": ""
               }
             ]
@@ -43,7 +46,7 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Shading/thumb.webp",
             "timelines": [
               {
-                "time": "",
+                "time": "00:26:00",
                 "description": ""
               }
             ]
@@ -54,7 +57,7 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Option%201/thumb.webp",
             "timelines": [
               {
-                "time": "",
+                "time": "00:47:00",
                 "description": ""
               }
             ]
@@ -65,7 +68,19 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Option%202/thumb.webp",
             "timelines": [
               {
-                "time": "",
+                "time": "00:06:00",
+                "description": ""
+              },
+              {
+                "time": "00:28:00",
+                "description": ""
+              },
+              {
+                "time": "00:36:00",
+                "description": ""
+              },
+              {
+                "time": "01:02:00",
                 "description": ""
               }
             ]
@@ -276,7 +291,40 @@
             "title": "Outlining",
             "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1_%20Outlining/master.m3u8",
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1_%20Outlining/thumb.webp",
-            "timelines": []
+            "timelines": [
+              {
+                "time": "00:43:00",
+                "description": ""
+              },
+              {
+                "time": "01:27:00",
+                "description": ""
+              },
+              {
+                "time": "02:02:00",
+                "description": ""
+              },
+              {
+                "time": "02:25:00",
+                "description": ""
+              },
+              {
+                "time": "02:49:00",
+                "description": ""
+              },
+              {
+                "time": "03:13:00",
+                "description": ""
+              },
+              {
+                "time": "04:08:00",
+                "description": ""
+              },
+              {
+                "time": "04:24:00",
+                "description": ""
+              }
+            ]
           },
           {
             "title": "Shading",
