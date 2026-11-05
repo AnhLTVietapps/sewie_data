@@ -12738,6 +12738,193 @@
               "time": "13:10:00"
             }
           ]
+        },
+        {
+          "name": "Heart Tote Bag",
+          "level": "Beginner",
+          "time": "1.5 hours",
+          "finishedSize": "13 × 12 in",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Woven or upcycled fabric"
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Medium-weight cream cotton canvas: 1 piece 32 * 24inch,Cream cotton lining: 1 piece 30 × 16 inch"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Pattern Cutting, Patchwork Piecing, Strap Construction, Straight Stitch Sewing, Curve Sewing, Understitching, Lining Construction, Bag Assembly, Turning, Topstitching, Edge Stitching, Clipping Curves, Pressing"
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Heart%20Tote%20Bag.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Heart%20Tote%20Bag.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Heart%20Tote%20Bag/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Tote%20Bag/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Tote%20Bag/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need canvas or sturdy cotton fabric, lining fabric and webbing straps cut to 40 inches (100 cm) or your desired shoulder length. \nYou’ll also need sewing thread, pins or clips, scissors and a fabric marker. \nPrepare the paper pattern according to the dimensions as shown. \nFor the outer bag, cut 2 heart-shaped body panels, 1 front pocket panel and 1 long side gusset strip measuring 2.5 × 12 inches (6 × 30 cm) from the main fabric. \nFor the inner lining, cut 2 lower body panels from the lining fabric, 2 curved upper panels from the main fabric, 1 long side gusset strip measuring 2.5 × 9 inches (6 × 23 cm) from the lining fabric and 2 main fabric strips for the side upper curve section.  \nAdd a 1 cm seam allowance to all fabric pieces, except for the pocket piece, which requires a 2 cm top edge seam allowance.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Label the outer and lining pieces after cutting to avoid mixing them during assembly."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Attach the pocket and straps",
+              "content": "Fold and press the edges of the pocket piece neatly. \nTopstitch along the upper edge to secure the seam. \nPosition the pocket on the front heart panel and topstitch along the edges to secure it in place.\nPosition the straps on the front heart panel, making sure both sides are evenly aligned.\nPin the straps in place and topstitch along the edges to secure them.\nRepeat with the back heart panel.\nTrim excess seam allowance",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press each fold before stitching to create a neat and evenly sized pocket."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the outer bag",
+              "content": "Mark the center point of the outer gusset strip and align it with the top-center point of the front heart panel, right sides together. \nPin the pieces together, carefully following the curved edges.\nSew along the pinned edge and remember to backstitch at both ends. \nNext, find the center point of the other side of the gusset strip, align it with the top-center of the back heart panel, and pin them right sides together. \nSew along the edge to complete the outer bag.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Misaligned center seams can make the heart shape appear uneven after assembly."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the lining",
+              "content": "Place the lining gusset around the edge of the lower lining panel, right sides together.\nPin along the edges, following the curves\nSew along the edge and remember to backstitch at both ends. \nAttach the other lower lining panel to the opposite side of the gusset in the same way.\nClip the curved seam allowances and turn the lining right side out.\nRepeat the same process for the curved upper heart panel. \n\n\n\n\nNext, align the curved upper heart panel with the top edge of the lower lining section, right sides together.\nPin and sew along the marked seam line to join the upper and lower sections.\nLeaving a small opening for turning. \nOpen the seam and press it flat."
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Assemble - Finish",
+              "content": "Insert the lining into the outer bag, aligning the seams and edges.\nPin the curved upper sections together, making sure the edges match evenly.\nSew along the top edge to join the lining and outer fabric.\nTurn the bag right side out through the opening.\nGently shape the heart curves and press the edges neatly.\nHand-sew the opening closed with an invisible ladder stitch.\nFinally, topstitch along the curved upper heart section to secure the layers and give the bag a neat finish.\nAnd that's it! Your adorable heart-shaped bag is complete!",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Sew slowly around the curved heart shape to maintain a smooth top edge."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:29:00"
+            },
+            {
+              "title": "Step 2: Attach the pocket and straps",
+              "time": "00:48:00"
+            },
+            {
+              "title": "Step 3: Sew the outer bag",
+              "time": "05:44:00"
+            },
+            {
+              "title": "Step 4: Sew the lining",
+              "time": "09:29:00"
+            },
+            {
+              "title": "Step 5: Sew the bag",
+              "time": "17:35:00"
+            }
+          ]
+        },
+        {
+          "name": "Ruffle Pants",
+          "level": "Beginner",
+          "time": "2 hours",
+          "finishedSize": "Sizes 8–20",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Soft, medium-weight cotton-viscose blend, main fabric: 2 front pant pieces, 2 back pant pieces, 2 side pocket pieces, 1 waistband strip and 2 bottom ruffle strips cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Soft, medium-weight cotton-viscose blend, 1 piece 55 × 59 inch.\nMain fabric, 2 front pant pieces, 2 back pant pieces and 2 side pocket pieces cut according to the pattern.\nWaistband strip, 3.2 × 43 inches (8 × 110 cm), 1 piece.\nBottom ruffle strips, 5 × 35.5 inches (13 × 90 cm), 2 pieces.\nYellow fabric for the pocket lining.\nLining fabric.\nElastic band.\nSewing thread.\nPins.\nScissors.\nFabric chalk.\nPaper pattern."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting, Folding, Hemming, Gathering, Pinning, Straight stitching, Backstitching, Topstitching, Turning, Trimming, Pocket construction, Pant assembly, Elastic threading"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Ruffle%20Pants.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Ruffle%20Pants.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Ruffle%20Pants/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Ruffle%20Pants/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Ruffle%20Pants/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need main fabric, lining fabric, elastic band, sewing thread, pins, scissors and fabric chalk. \nPrepare the paper pattern according to the dimensions as shown. \nCut 2 front pant pieces, 2 back pant pieces and 2 side pocket pieces according to the pattern. \nCut 1 long waistband strip measuring 3.2 × 43 inches (8 × 110 cm)\nCut 2 long fabric strips measuring 5 × 35.5 inches (13 × 90 cm) for the bottom ruffles"
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Make the bottom ruffles ",
+              "content": "Fold the long outer edge of each ruffle strip inward by 0.2 inches (~5 mm) twice \nSew along the folded edge to finish the hem. \nSew a long gathering stitches along the raw inner edge and leave long thread tails without backstitching. \nGently pull the bobbin threads to gather the fabric evenly. \nAdjust the gathers to match the width of each pant leg."
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Make and attach side pockets ",
+              "content": "Place a yellow fabric piece on top of the pocket piece, right sides together.\nTopstitch along the slanted edges to join the pieces. \nRepeat the same steps for the other pocket piece.\nPlace the pocket piece onto the front pant panel, right sides together\nSew along the marked line to secure the pocket to the front panel. \nTrim the seam allowance, then turn the pocket lining to the right side. \nTopstitch along the outer edge to secure the layers \nAlign the side edges of the pocket pieces to form the pocket pouch. \nPin and stitch to keep the layers securely in place. \nSew the remaining open edge of the pocket pouch closed to complete it. \nRepeat the same process for the other pocket.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "If the pocket layers shift during stitching, the pocket opening may appear uneven from the right side."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the pant legs",
+              "content": "Place the front and back pant panels right sides together\nSew along the outer side edge from the waist down to the hem. \n Next, align the gathered ruffle strip around the bottom edge of the pant leg, right sides together.\nSew along the edge to secure the ruffle in place firmly. \nPlace the two front pieces right sides together, aligning the curved crotch edges \nSew along the crotch curve, remember to backstitch at both ends to secure the seam. \nRepeat the same steps to sew the crotch seam for the two back pieces. \nAlign and sew along the inner leg",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check that all notches align before sewing to prevent twisting in the finished trouser legs."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Sew the waistband ",
+              "content": "Align the waistband with the top edge of the trousers, right sides together, then sew along the waistline.\nSew two short ends of the waistband and trim excess seam allowance. \nFold the waistband over to the wrong side of the trousers, turning the raw inner edge under to fit the elastic width. \nTopstitch close to the folded edge, leaving a small opening to insert the elastic.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Stretching the waistband while sewing can cause rippling around the waist."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Step 6: Insert the elastic",
+              "content": "Thread the elastic through the waistband casing, making sure it doesn't twist inside. \nOverlap the two ends of the elastic and sew a secure stitch to join them. \nTuck the joined elastic inside the waistband, then sew the opening closed. \nTopstitch two parallel lines around the waistband to secure the elastic"
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:20:00"
+            },
+            {
+              "title": "Step 2: Slake the bottom ruffles",
+              "time": "00:31:00"
+            },
+            {
+              "title": "Step 3: Make and attach side pockets",
+              "time": "01:59:00"
+            },
+            {
+              "title": "Step 4: Sew the pant legs",
+              "time": "05:31:00"
+            },
+            {
+              "title": "Step 5: Sew the waistband",
+              "time": "10:31:00"
+            },
+            {
+              "title": "Step 6: Insert the elastic",
+              "time": "12:51:00"
+            }
+          ]
         }
       ]
     },
@@ -23674,6 +23861,97 @@
             {
               "title": "Step 3: Sewing the pouch",
               "time": "04:21:00"
+            }
+          ]
+        },
+        {
+          "name": "Heart Tote Bag",
+          "level": "Beginner",
+          "time": "1.5 hours",
+          "finishedSize": "13 × 12 in",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Woven or upcycled fabric"
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Medium-weight cream cotton canvas: 1 piece 32 * 24inch,Cream cotton lining: 1 piece 30 × 16 inch"
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Pattern Cutting, Patchwork Piecing, Strap Construction, Straight Stitch Sewing, Curve Sewing, Understitching, Lining Construction, Bag Assembly, Turning, Topstitching, Edge Stitching, Clipping Curves, Pressing"
+            }
+          ],
+          "showCustomSize": false,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Heart%20Tote%20Bag.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Heart%20Tote%20Bag.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Heart%20Tote%20Bag/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Tote%20Bag/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Heart%20Tote%20Bag/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need canvas or sturdy cotton fabric, lining fabric and webbing straps cut to 40 inches (100 cm) or your desired shoulder length. \nYou’ll also need sewing thread, pins or clips, scissors and a fabric marker. \nPrepare the paper pattern according to the dimensions as shown. \nFor the outer bag, cut 2 heart-shaped body panels, 1 front pocket panel and 1 long side gusset strip measuring 2.5 × 12 inches (6 × 30 cm) from the main fabric. \nFor the inner lining, cut 2 lower body panels from the lining fabric, 2 curved upper panels from the main fabric, 1 long side gusset strip measuring 2.5 × 9 inches (6 × 23 cm) from the lining fabric and 2 main fabric strips for the side upper curve section.  \nAdd a 1 cm seam allowance to all fabric pieces, except for the pocket piece, which requires a 2 cm top edge seam allowance.",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Label the outer and lining pieces after cutting to avoid mixing them during assembly."
+              }
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Attach the pocket and straps",
+              "content": "Fold and press the edges of the pocket piece neatly. \nTopstitch along the upper edge to secure the seam. \nPosition the pocket on the front heart panel and topstitch along the edges to secure it in place.\nPosition the straps on the front heart panel, making sure both sides are evenly aligned.\nPin the straps in place and topstitch along the edges to secure them.\nRepeat with the back heart panel.\nTrim excess seam allowance",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Press each fold before stitching to create a neat and evenly sized pocket."
+              }
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Sew the outer bag",
+              "content": "Mark the center point of the outer gusset strip and align it with the top-center point of the front heart panel, right sides together. \nPin the pieces together, carefully following the curved edges.\nSew along the pinned edge and remember to backstitch at both ends. \nNext, find the center point of the other side of the gusset strip, align it with the top-center of the back heart panel, and pin them right sides together. \nSew along the edge to complete the outer bag.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Misaligned center seams can make the heart shape appear uneven after assembly."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the lining",
+              "content": "Place the lining gusset around the edge of the lower lining panel, right sides together.\nPin along the edges, following the curves\nSew along the edge and remember to backstitch at both ends. \nAttach the other lower lining panel to the opposite side of the gusset in the same way.\nClip the curved seam allowances and turn the lining right side out.\nRepeat the same process for the curved upper heart panel. \n\n\n\n\nNext, align the curved upper heart panel with the top edge of the lower lining section, right sides together.\nPin and sew along the marked seam line to join the upper and lower sections.\nLeaving a small opening for turning. \nOpen the seam and press it flat."
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Assemble - Finish",
+              "content": "Insert the lining into the outer bag, aligning the seams and edges.\nPin the curved upper sections together, making sure the edges match evenly.\nSew along the top edge to join the lining and outer fabric.\nTurn the bag right side out through the opening.\nGently shape the heart curves and press the edges neatly.\nHand-sew the opening closed with an invisible ladder stitch.\nFinally, topstitch along the curved upper heart section to secure the layers and give the bag a neat finish.\nAnd that's it! Your adorable heart-shaped bag is complete!",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Sew slowly around the curved heart shape to maintain a smooth top edge."
+              }
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:29:00"
+            },
+            {
+              "title": "Step 2: Attach the pocket and straps",
+              "time": "00:48:00"
+            },
+            {
+              "title": "Step 3: Sew the outer bag",
+              "time": "05:44:00"
+            },
+            {
+              "title": "Step 4: Sew the lining",
+              "time": "09:29:00"
+            },
+            {
+              "title": "Step 5: Sew the bag",
+              "time": "17:35:00"
             }
           ]
         }
@@ -45304,6 +45582,102 @@
             {
               "title": "Step 4: Sew the waistband",
               "time": "08:56:00"
+            }
+          ]
+        },
+        {
+          "name": "Ruffle Pants",
+          "level": "Beginner",
+          "time": "2 hours",
+          "finishedSize": "Sizes 8–20",
+          "techPack": [
+            {
+              "title": "Main Fabric",
+              "description": "Soft, medium-weight cotton-viscose blend, main fabric: 2 front pant pieces, 2 back pant pieces, 2 side pocket pieces, 1 waistband strip and 2 bottom ruffle strips cut according to the pattern."
+            },
+            {
+              "title": "Materials Needed",
+              "description": "Soft, medium-weight cotton-viscose blend, 1 piece 55 × 59 inch.\nMain fabric, 2 front pant pieces, 2 back pant pieces and 2 side pocket pieces cut according to the pattern.\nWaistband strip, 3.2 × 43 inches (8 × 110 cm), 1 piece.\nBottom ruffle strips, 5 × 35.5 inches (13 × 90 cm), 2 pieces.\nYellow fabric for the pocket lining.\nLining fabric.\nElastic band.\nSewing thread.\nPins.\nScissors.\nFabric chalk.\nPaper pattern."
+            },
+            {
+              "title": "Techniques Required",
+              "description": "Cutting, Folding, Hemming, Gathering, Pinning, Straight stitching, Backstitching, Topstitching, Turning, Trimming, Pocket construction, Pant assembly, Elastic threading"
+            }
+          ],
+          "showCustomSize": true,
+          "pdf": "https://may.sewie.cloud/PDF/Phase%205/Ruffle%20Pants.pdf",
+          "preview": "https://may.sewie.cloud/Avatar/Phase%205/Ruffle%20Pants.png",
+          "video": "https://may.sewie.cloud/Practice_Video_V3/Ruffle%20Pants/master.m3u8",
+          "videoPreview": "https://may.sewie.cloud/Video%20Preview/Beginner/Ruffle%20Pants/master.m3u8",
+          "videoPreviewImage": "https://may.sewie.cloud/Video%20Preview/Beginner/Ruffle%20Pants/thumb.webp",
+          "steps": [
+            {
+              "number": 1,
+              "title": "Step 1: Cut - Prepare",
+              "content": "You will need main fabric, lining fabric, elastic band, sewing thread, pins, scissors and fabric chalk. \nPrepare the paper pattern according to the dimensions as shown. \nCut 2 front pant pieces, 2 back pant pieces and 2 side pocket pieces according to the pattern. \nCut 1 long waistband strip measuring 3.2 × 43 inches (8 × 110 cm)\nCut 2 long fabric strips measuring 5 × 35.5 inches (13 × 90 cm) for the bottom ruffles"
+            },
+            {
+              "number": 2,
+              "title": "Step 2: Make the bottom ruffles ",
+              "content": "Fold the long outer edge of each ruffle strip inward by 0.2 inches (~5 mm) twice \nSew along the folded edge to finish the hem. \nSew a long gathering stitches along the raw inner edge and leave long thread tails without backstitching. \nGently pull the bobbin threads to gather the fabric evenly. \nAdjust the gathers to match the width of each pant leg."
+            },
+            {
+              "number": 3,
+              "title": "Step 3: Make and attach side pockets ",
+              "content": "Place a yellow fabric piece on top of the pocket piece, right sides together.\nTopstitch along the slanted edges to join the pieces. \nRepeat the same steps for the other pocket piece.\nPlace the pocket piece onto the front pant panel, right sides together\nSew along the marked line to secure the pocket to the front panel. \nTrim the seam allowance, then turn the pocket lining to the right side. \nTopstitch along the outer edge to secure the layers \nAlign the side edges of the pocket pieces to form the pocket pouch. \nPin and stitch to keep the layers securely in place. \nSew the remaining open edge of the pocket pouch closed to complete it. \nRepeat the same process for the other pocket.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "If the pocket layers shift during stitching, the pocket opening may appear uneven from the right side."
+              }
+            },
+            {
+              "number": 4,
+              "title": "Step 4: Sew the pant legs",
+              "content": "Place the front and back pant panels right sides together\nSew along the outer side edge from the waist down to the hem. \n Next, align the gathered ruffle strip around the bottom edge of the pant leg, right sides together.\nSew along the edge to secure the ruffle in place firmly. \nPlace the two front pieces right sides together, aligning the curved crotch edges \nSew along the crotch curve, remember to backstitch at both ends to secure the seam. \nRepeat the same steps to sew the crotch seam for the two back pieces. \nAlign and sew along the inner leg",
+              "tip": {
+                "type": "pro_tip",
+                "text": "Check that all notches align before sewing to prevent twisting in the finished trouser legs."
+              }
+            },
+            {
+              "number": 5,
+              "title": "Step 5: Sew the waistband ",
+              "content": "Align the waistband with the top edge of the trousers, right sides together, then sew along the waistline.\nSew two short ends of the waistband and trim excess seam allowance. \nFold the waistband over to the wrong side of the trousers, turning the raw inner edge under to fit the elastic width. \nTopstitch close to the folded edge, leaving a small opening to insert the elastic.",
+              "tip": {
+                "type": "common_mistake",
+                "text": "Stretching the waistband while sewing can cause rippling around the waist."
+              }
+            },
+            {
+              "number": 6,
+              "title": "Step 6: Insert the elastic",
+              "content": "Thread the elastic through the waistband casing, making sure it doesn't twist inside. \nOverlap the two ends of the elastic and sew a secure stitch to join them. \nTuck the joined elastic inside the waistband, then sew the opening closed. \nTopstitch two parallel lines around the waistband to secure the elastic"
+            }
+          ],
+          "timelines": [
+            {
+              "title": "Step 1: Cut - Prepare",
+              "time": "00:20:00"
+            },
+            {
+              "title": "Step 2: Slake the bottom ruffles",
+              "time": "00:31:00"
+            },
+            {
+              "title": "Step 3: Make and attach side pockets",
+              "time": "01:59:00"
+            },
+            {
+              "title": "Step 4: Sew the pant legs",
+              "time": "05:31:00"
+            },
+            {
+              "title": "Step 5: Sew the waistband",
+              "time": "10:31:00"
+            },
+            {
+              "title": "Step 6: Insert the elastic",
+              "time": "12:51:00"
             }
           ]
         }
