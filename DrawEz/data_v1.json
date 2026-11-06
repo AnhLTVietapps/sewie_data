@@ -404,7 +404,7 @@
       {
         "id": 6,
         "name": "Tulip",
-        "level": "",
+        "level": "Easy",
         "image": "https://drawez.sewie.cloud/Images/Plant/Tulip.jpg",
         "options": [],
         "videos": [
@@ -440,7 +440,7 @@
       {
         "id": 7,
         "name": "Cactus",
-        "level": "",
+        "level": "Easy",
         "image": "https://drawez.sewie.cloud/Images/Plant/Cactus.jpg",
         "options": [],
         "videos": [
@@ -494,7 +494,7 @@
       {
         "id": 8,
         "name": "Mushroom",
-        "level": "",
+        "level": "Easy",
         "image": "https://drawez.sewie.cloud/Images/Plant/Mushroom.jpg",
         "options": [],
         "videos": [
@@ -552,7 +552,7 @@
       {
         "id": 9,
         "name": "Maple Leaf",
-        "level": "",
+        "level": "Medium",
         "image": "https://drawez.sewie.cloud/Images/Plant/Maple%20Leaf.jpg",
         "options": [],
         "videos": [
@@ -589,7 +589,7 @@
       {
         "id": 10,
         "name": "Four-Leaf Clover",
-        "level": "",
+        "level": "Medium",
         "image": "https://drawez.sewie.cloud/Images/Plant/Four-Leaf%20Clover.jpg",
         "options": [],
         "videos": [
@@ -639,44 +639,258 @@
     "image": "https://drawez.sewie.cloud/Images/Fruit/Fruit.png",
     "projects": [
       {
-        "id": 11,
-        "name": "Lemon",
-        "level": "",
-        "image": "",
-        "options": [],
-        "videos": []
-      },
-      {
-        "id": 12,
-        "name": "Strawberry",
-        "level": "",
-        "image": "",
-        "options": [],
-        "videos": []
-      },
-      {
         "id": 13,
         "name": "Cherry",
-        "level": "",
-        "image": "",
+        "level": "Easy",
+        "image": "https://drawez.sewie.cloud/Images/Fruit/Cherry.png",
         "options": [],
-        "videos": []
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:17:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:48:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Cherry/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:20:00",
+                "description": ""
+              },
+              {
+                "time": "00:40:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 14,
         "name": "Pumpkin",
-        "level": "",
-        "image": "",
+        "level": "Easy",
+        "image": "https://drawez.sewie.cloud/Images/Fruit/Pumpkin.png",
         "options": [],
-        "videos": []
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:12:00",
+                "description": ""
+              },
+              {
+                "time": "00:41:00",
+                "description": ""
+              },
+              {
+                "time": "00:45:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "01:44:00",
+                "description": ""
+              },
+              {
+                "time": "02:46:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Pumpkin/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:26:00",
+                "description": ""
+              },
+              {
+                "time": "00:41:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 15,
         "name": "Banana",
-        "level": "",
-        "image": "",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Fruit/Banana.png",
         "options": [],
-        "videos": []
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Banana/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Banana/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:29:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Banana/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Banana/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:10:00",
+                "description": ""
+              },
+              {
+                "time": "00:32:00",
+                "description": ""
+              },
+              {
+                "time": "01:11:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Banana/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Banana/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:21:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Apple",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Fruit/Apple.png",
+        "options": [],
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Apple/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Apple/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:33:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Apple/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Apple/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:46:00",
+                "description": ""
+              },
+              {
+                "time": "03:31:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Apple/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Apple/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:58:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Blueberry",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Fruit/Blueberry.png",
+        "options": [],
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:42:00",
+                "description": ""
+              },
+              {
+                "time": "00:57:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "01:19:00",
+                "description": ""
+              },
+              {
+                "time": "03:52:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Fruit/Blueberry/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:18:00",
+                "description": ""
+              },
+              {
+                "time": "01:01:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -686,17 +900,9 @@
     "image": "https://drawez.sewie.cloud/Images/Foods/Food.png",
     "projects": [
       {
-        "id": 16,
-        "name": "Pizza",
-        "level": "",
-        "image": "",
-        "options": [],
-        "videos": []
-      },
-      {
         "id": 17,
         "name": "Rice Ball",
-        "level": "",
+        "level": "Easy",
         "image": "https://drawez.sewie.cloud/Images/Foods/Rice%20Ball.jpg",
         "options": [],
         "videos": [
@@ -748,12 +954,211 @@
         ]
       },
       {
-        "id": 18,
-        "name": "Steak",
-        "level": "",
-        "image": "",
+        "id": 22,
+        "name": "Cake",
+        "level": "Easy",
+        "image": "https://drawez.sewie.cloud/Images/Foods/Cake.png",
         "options": [],
-        "videos": []
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Cake/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Cake/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:18:00",
+                "description": ""
+              },
+              {
+                "time": "00:40:00",
+                "description": ""
+              },
+              {
+                "time": "00:59:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Cake/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Cake/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:39:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Cake/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Cake/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:17:00",
+                "description": ""
+              },
+              {
+                "time": "01:10:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Fried chicken",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Foods/Fired%20Chicken.png",
+        "options": [],
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:20:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:25:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Fried%20chicken/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:33:00",
+                "description": ""
+              },
+              {
+                "time": "01:04:00",
+                "description": ""
+              },
+              {
+                "time": "02:30:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Ice Cream",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Foods/Ice%20Cream.png",
+        "options": [],
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:24:00",
+                "description": ""
+              },
+              {
+                "time": "00:39:00",
+                "description": ""
+              },
+              {
+                "time": "01:00:00",
+                "description": ""
+              },
+              {
+                "time": "01:54:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:39:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Ice%20Cream/3.%20Pro%20tips/thumb.webp",
+            "timelines": []
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Sashimi",
+        "level": "Medium",
+        "image": "https://drawez.sewie.cloud/Images/Foods/Sashimi.png",
+        "options": [],
+        "videos": [
+          {
+            "title": "Outlining",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/1.%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/1.%20Outlining/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:40:00",
+                "description": ""
+              },
+              {
+                "time": "01:05:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Shading",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/2.%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/2.%20Shading/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:31:00",
+                "description": ""
+              },
+              {
+                "time": "02:05:00",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/3.%20Pro%20tips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Foods/Sashimi/3.%20Pro%20tips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:58:00",
+                "description": ""
+              },
+              {
+                "time": "02:21:00",
+                "description": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
