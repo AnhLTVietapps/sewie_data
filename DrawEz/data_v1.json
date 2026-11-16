@@ -65,7 +65,7 @@
           {
             "title": "Option 2",
             "url": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Option%202/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Option%202/thumb.webp",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Turtle/Turtle_Drawing_Option%201/thumb.webp",
             "timelines": [
               {
                 "time": "00:33:00",
@@ -153,6 +153,12 @@
         "options": [],
         "videos": [
           {
+            "title": "Intro",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/1%20_%20INTRO/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/1%20_%20INTRO/thumb.webp",
+            "timelines": []
+          },
+          {
             "title": "Outlining",
             "url": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/Video%20Butterfly%20Sketch/master.m3u8",
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/Video%20Butterfly%20Sketch/thumb.webp",
@@ -219,63 +225,65 @@
         "options": [],
         "videos": [
           {
+            "title": "Intro",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/1%20_%20INTRO/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/1%20_%20INTRO/thumb.webp",
+            "timelines": []
+          },
+          {
             "title": "Outlining",
-            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Sketch/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Sketch/thumb.webp",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/2%20_%20Outlining%20/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/2%20_%20Outlining%20/thumb.webp",
             "timelines": [
               {
                 "time": "00:13:00",
                 "description": ""
               },
               {
-                "time": "00:18:00",
+                "time": "00:35:00",
                 "description": ""
               },
               {
-                "time": "00:23:00",
+                "time": "01:05:00",
                 "description": ""
               },
               {
-                "time": "00:28:00",
+                "time": "01:22:00",
                 "description": ""
               },
               {
-                "time": "00:41:00",
+                "time": "01:59:00",
                 "description": ""
               },
               {
-                "time": "00:47:00",
+                "time": "02:17:00",
                 "description": ""
               },
               {
-                "time": "01:03:00",
-                "description": ""
-              },
-              {
-                "time": "01:29:00",
+                "time": "02:42:00",
                 "description": ""
               }
             ]
           },
           {
             "title": "Shading",
-            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Shading/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Shading/thumb.webp",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/3%20_%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/3%20_%20Shading/thumb.webp",
             "timelines": [
               {
-                "time": "00:28:00",
+                "time": "00:58:00",
                 "description": ""
               },
               {
-                "time": "01:14:00",
+                "time": "02:11:00",
                 "description": ""
               }
             ]
           },
           {
             "title": "Pro Tips",
-            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Protips/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/Video%20Duck%20Protips/thumb.webp",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Duck/4%20_%20Protips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Duck/4%20_%20Protips/thumb.webp",
             "timelines": []
           }
         ]
