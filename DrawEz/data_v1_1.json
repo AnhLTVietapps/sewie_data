@@ -170,19 +170,31 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/2%20_%20Outlining/thumb.webp",
             "timelines": [
               {
-                "time": "00:10:00",
+                "time": "00:00:22",
                 "description": ""
               },
               {
-                "time": "00:35:00",
+                "time": "00:00:51",
                 "description": ""
               },
               {
-                "time": "01:10:00",
+                "time": "00:01:08",
                 "description": ""
               },
               {
-                "time": "01:21:00",
+                "time": "00:01:28",
+                "description": ""
+              },
+              {
+                "time": "00:02:16",
+                "description": ""
+              },
+              {
+                "time": "00:02:28",
+                "description": ""
+              },
+              {
+                "time": "00:02:37",
                 "description": ""
               }
             ]
@@ -193,15 +205,15 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/3%20_%20Shading/thumb.webp",
             "timelines": [
               {
-                "time": "00:11:00",
+                "time": "00:00:32",
                 "description": ""
               },
               {
-                "time": "02:00:00",
+                "time": "00:01:16",
                 "description": ""
               },
               {
-                "time": "02:40:00",
+                "time": "00:01:51",
                 "description": ""
               }
             ]
@@ -212,11 +224,7 @@
             "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Butterfly/4%20_%20Protips/thumb.webp",
             "timelines": [
               {
-                "time": "00:39:00",
-                "description": ""
-              },
-              {
-                "time": "01:24:00",
+                "time": "00:01:39",
                 "description": ""
               }
             ]
