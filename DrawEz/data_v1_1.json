@@ -314,55 +314,100 @@
         "options": [],
         "videos": [
           {
+            "title": "Intro",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1%20_%20INTRO/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1%20_%20INTRO/thumb.webp",
+            "timelines": []
+          },
+          {
             "title": "Outlining",
-            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1_%20Outlining/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/1_%20Outlining/thumb.webp",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/2%20_%20Outlining/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/2%20_%20Outlining/thumb.webp",
             "timelines": [
               {
-                "time": "00:43:00",
+                "time": "00:00:54",
                 "description": ""
               },
               {
-                "time": "01:27:00",
+                "time": "00:01:17",
                 "description": ""
               },
               {
-                "time": "02:02:00",
+                "time": "00:01:36",
                 "description": ""
               },
               {
-                "time": "02:25:00",
+                "time": "00:02:22",
                 "description": ""
               },
               {
-                "time": "02:49:00",
+                "time": "00:02:49",
                 "description": ""
               },
               {
-                "time": "03:13:00",
+                "time": "00:03:10",
                 "description": ""
               },
               {
-                "time": "04:08:00",
+                "time": "00:04:08",
                 "description": ""
               },
               {
-                "time": "04:24:00",
+                "time": "00:04:29",
+                "description": ""
+              },
+              {
+                "time": "00:05:22",
+                "description": ""
+              },
+              {
+                "time": "00:05:47",
                 "description": ""
               }
             ]
           },
           {
             "title": "Shading",
-            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/Video%20Ca%CC%81nh%20Cu%CC%A3t%20Shading/master.m3u8",
-            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/Video%20Ca%CC%81nh%20Cu%CC%A3t%20Shading/thumb.webp",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/3%20_%20Shading/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/3%20_%20Shading/thumb.webp",
             "timelines": [
               {
-                "time": "01:09:00",
+                "time": "00:01:01",
                 "description": ""
               },
               {
-                "time": "04:44:00",
+                "time": "00:02:00",
+                "description": ""
+              },
+              {
+                "time": "00:02:15",
+                "description": ""
+              },
+              {
+                "time": "00:02:50",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "title": "Pro Tips",
+            "url": "https://drawez.sewie.cloud/Videos/Animals/Penguin/4%20_%20Protips/master.m3u8",
+            "thumbnail": "https://drawez.sewie.cloud/Videos/Animals/Penguin/4%20_%20Protips/thumb.webp",
+            "timelines": [
+              {
+                "time": "00:00:19",
+                "description": ""
+              },
+              {
+                "time": "00:00:41",
+                "description": ""
+              },
+              {
+                "time": "00:00:58",
+                "description": ""
+              },
+              {
+                "time": "00:01:32",
                 "description": ""
               }
             ]
